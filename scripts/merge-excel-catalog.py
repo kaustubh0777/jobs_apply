@@ -189,9 +189,15 @@ for row in excel_rows:
             if field in match and match.get(field) is not None:
                 company_entry[field] = match.get(field)
 
+    # Career URL from Excel always wins — set source to generic
+    # (This was the bug: if match had source=None, careersUrl from Excel was lost)
     if row.get('careersUrl'):
         company_entry['source'] = 'generic'
         company_entry['careersUrl'] = row['careersUrl']
+        # Clear ATS-specific fields that conflict with generic source
+        company_entry.pop('workdayTenant', None)
+        company_entry.pop('workdaySubdomain', None)
+        company_entry.pop('icimsId', None)
 
     override = official_source_overrides.get(excel_name.strip().lower())
     if override:

@@ -119,6 +119,31 @@ const KNOWN_WORKDAY = {
   'jpmorgan chase & co. india': ['jpmc', 'jpmcc_External'],
 }
 
+// ─── Known iCIMS tenants ──────────────────────────────────────────────────────
+// iCIMS is widely used by Indian IT services and banking companies.
+// Tenant IDs are numeric — these are confirmed mappings.
+const KNOWN_ICIMS = {
+  'infosys': '16489',
+  'infosys bpm': '16489',
+  'wipro technologies': '7794',
+  'wipro': '7794',
+  'hcl technologies': '18267',
+  'hcl tech': '18267',
+  'cognizant': '8086',
+  'cognizant technology solutions': '8086',
+  'mphasis': '21248',
+  'l\u0026t technology services': '14887',
+  'ltts': '14887',
+  'mindtree': '14887',
+  'hexaware technologies': '14524',
+  'hexaware': '14524',
+  'niit technologies': '15753',
+  'cyient': '19248',
+  'mastech digital': '18462',
+  'kforce': '11999',
+  'zensar technologies': '16049',
+}
+
 // ─── Text helpers ─────────────────────────────────────────────────────────────
 
 const htmlToText = (html = '') =>
@@ -181,6 +206,17 @@ const generateSlugVariants = (name) => {
   // Variant 6: acronym (e.g. "IBM" from "International Business Machines")
   const acronym = lower.split(/[\s._\-&,/()]+/).filter(w => w.length > 2).map(w => w[0]).join('')
   if (acronym.length >= 2 && acronym.length <= 6 && !variants.has(acronym)) variants.add(acronym)
+
+  // Variant 7: strip Indian-specific suffixes (pvt, ltd, india, tech)
+  const indiaStripped = lower
+    .replace(/\b(pvt|ltd|limited|india|tech|technologies|software|systems|solutions|services|group|global|digital|consulting|it|infotech|infoystems|bpo|bpm)\b\.?/g, '')
+    .replace(/[^a-z0-9]+/g, '')
+    .trim()
+  if (indiaStripped.length >= 3 && !variants.has(indiaStripped)) variants.add(indiaStripped)
+
+  // Variant 8: camelCase-style (e.g. "tataConsultancy" from "Tata Consultancy")
+  const camelWords = lower.split(/[\s._\-&,/()]+/).filter(w => w.length > 1).map((w, i) => i === 0 ? w : w.charAt(0).toUpperCase() + w.slice(1)).join('')
+  if (camelWords.length >= 3 && !variants.has(camelWords)) variants.add(camelWords)
 
   return [...variants].filter(s => s.length >= 2)
 }
@@ -630,6 +666,58 @@ const fetchAshby = async (company) => {
   }
 }
 
+const fetchICIMS = async (company) => {
+  // iCIMS uses numeric tenant IDs. API: /icims/data/jobs/search
+  const tenantId = company.icimsId || company.boardSlugGuess
+  const url = `https://careers-${tenantId}.icims.com/jobs/search?ss=1&searchCategory=&in_iframe=1&pr=0&iis=Job+Board&mobile=false&width=auto&outputtype=JSON`
+  try {
+    const response = await fetchWithTimeout(url, {
+      headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
+    }, fetchTimeoutMs)
+    if (!response.ok) throw new Error(`iCIMS ${response.status}`)
+    const payload = await response.json()
+    const jobs = payload.searchResults || payload.jobs || []
+    return jobs
+      .filter(job => isSdeRole({ title: job.jobtitle || job.title || '' }))
+      .map(job => {
+        const title = job.jobtitle || job.title || 'Software Engineer'
+        const location = job.joblocation || job.location || 'India'
+        const jobId = job.id || job.jobId || String(Math.random())
+        const applyUrl = `https://careers-${tenantId}.icims.com/jobs/${jobId}/job`
+        const description = job.joblongdescription || job.jobdescription || ''
+        const exp = experienceFromText(title, description)
+        const sal = salaryFromText(description)
+        return {
+          id: `icims-${tenantId}-${jobId}`,
+          role: title,
+          company: company.name,
+          companyType: company.type || 'Service',
+          location,
+          country: countryFromLocation(location),
+          countryGroup: isIndiaLocation(location) ? 'India' : 'Global',
+          salaryMin: sal?.min ?? null,
+          salaryMax: sal?.max ?? null,
+          salaryCurrency: sal?.currency ?? 'INR',
+          experienceMin: exp.min,
+          experienceMax: exp.max,
+          experienceLabel: exp.label,
+          experienceSource: exp.source,
+          postedAt: job.postdatefrom || job.postedDate || new Date().toISOString(),
+          source: 'iCIMS career portal',
+          directApplyUrl: applyUrl,
+          department: job.jobcategory || 'Engineering',
+          summary: String(description).replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim().slice(0, 280),
+        }
+      })
+      .filter(job => {
+        const ts = Date.parse(job.postedAt)
+        return !Number.isFinite(ts) || ts >= cutoff
+      })
+  } catch (error) {
+    throw new Error(`${company.name} iCIMS: ${error.message}`)
+  }
+}
+
 const fetchSmartRecruiters = async (company) => {
   try {
     const url = `https://api.smartrecruiters.com/v1/companies/${company.board}/postings`
@@ -755,6 +843,20 @@ const probeSmartRecruiters = async (slug) => {
   }
 }
 
+const probeICIMS = async (tenantId) => {
+  try {
+    const url = `https://careers-${tenantId}.icims.com/jobs/search?ss=1&in_iframe=1&outputtype=JSON`
+    const response = await fetchWithTimeout(url, {
+      headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
+    }, probeTimeoutMs)
+    if (!response.ok) return null
+    const payload = await response.json()
+    return (payload.searchResults || payload.jobs || []).length > 0 ? tenantId : null
+  } catch {
+    return null
+  }
+}
+
 const probeWorkday = async (subdomain, tenant) => {
   const tenantSuffixes = [tenant, `${tenant}_External`, `${tenant}_External_Career`, `${tenant}_Career`, `${tenant}_External_Careers`, `${tenant}_Careers`]
   for (const dc of workdayDatacenters) {
@@ -804,6 +906,14 @@ const discoverCompanyBoard = async (company) => {
   const cheapResult = gh || lever || ashby || sr
   if (cheapResult) return cheapResult
 
+  // Check known iCIMS tenant map before brute-force probing
+  const nameKey = company.name.toLowerCase().trim()
+  const knownICIMSTenant = KNOWN_ICIMS[nameKey]
+  if (knownICIMSTenant) {
+    const found = await probeICIMS(knownICIMSTenant)
+    if (found) return { source: 'icims', board: found, icimsId: found }
+  }
+
   if (discoverWorkdayEnabled) {
     for (const slug of variants) {
       const found = await probeWorkday(slug, slug)
@@ -849,8 +959,11 @@ const allCatalogCompanies = catalogData.companies || []
 
 const normalizeCompanyName = (name) => String(name || '').toLowerCase().trim()
 const appliedWorkdayCompanies = []
+const appliedICIMSCompanies = []
 for (const company of allCatalogCompanies) {
   const nameKey = normalizeCompanyName(company.name)
+
+  // Apply known Workday mappings
   const known = KNOWN_WORKDAY[nameKey]
   if (known && (!company.source || company.source === 'workday') && !company.careersUrl && !company.officialCareerUrl) {
     const [subdomain, tenant] = known
@@ -860,6 +973,19 @@ for (const company of allCatalogCompanies) {
     company.workdayTenant = tenant
     appliedWorkdayCompanies.push(company.name)
   }
+
+  // Apply known iCIMS mappings
+  const knownICIMS = KNOWN_ICIMS[nameKey]
+  if (knownICIMS && (!company.source || company.source === 'icims')) {
+    company.source = 'icims'
+    company.boardSlugGuess = knownICIMS
+    company.icimsId = knownICIMS
+    appliedICIMSCompanies.push(company.name)
+  }
+}
+
+if (appliedICIMSCompanies.length > 0) {
+  console.log(`Applied known iCIMS mappings for ${appliedICIMSCompanies.length} companies.`)
 }
 
 if (appliedWorkdayCompanies.length > 0) {
@@ -879,10 +1005,11 @@ if (appliedWorkdayCompanies.length > 0) {
 // Greenhouse / Lever / Ashby / SmartRecruiters / Workday so the app reflects
 // each company's *actual* portal instead of silently skipping them.
 
-const knownSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft', 'generic']
+// knownSources redefined below after iCIMS additions
 const retryAfterMs = 14 * 24 * 60 * 60 * 1000 // re-probe failed companies every 14 days
 const discoveryBatchSize = Number(process.env.DISCOVERY_BATCH_SIZE || 250) // companies probed per run
 
+const knownSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft', 'generic', 'icims']
 const undiscovered = allCatalogCompanies.filter(c => !knownSources.includes(c.source))
 const discoveryCandidates = undiscovered
   .filter(c => !c.discoveryAttemptedAt || (Date.now() - Date.parse(c.discoveryAttemptedAt)) > retryAfterMs)
@@ -936,14 +1063,16 @@ const preConfiguredLever = allCatalogCompanies.filter(c => c.source === 'lever' 
 const preConfiguredAshby = allCatalogCompanies.filter(c => c.source === 'ashby' && c.boardSlugGuess)
 const preConfiguredSmartRecruiters = allCatalogCompanies.filter(c => c.source === 'smartrecruiters' && c.boardSlugGuess)
 const preConfiguredWorkday = allCatalogCompanies.filter(c => c.source === 'workday' && c.boardSlugGuess && c.workdayTenant)
+const preConfiguredICIMS = allCatalogCompanies.filter(c => c.source === 'icims' && (c.icimsId || c.boardSlugGuess))
 const microsoftCompany = allCatalogCompanies.find(c => c.source === 'microsoft')
 
-const skippedCompanies = allCatalogCompanies.filter(c => !['greenhouse','lever','ashby','smartrecruiters','workday','microsoft','generic'].includes(c.source))
+const allKnownSources = ['greenhouse','lever','ashby','smartrecruiters','workday','microsoft','generic','icims']
+const skippedCompanies = allCatalogCompanies.filter(c => !allKnownSources.includes(c.source))
 const genericCompanies = allCatalogCompanies.filter(c => c.source === 'generic' && (c.careersUrl || c.officialCareerUrl)).length
 
 console.log(`\nCatalog: ${allCatalogCompanies.length} total companies`)
-console.log(`Configured: ${preConfiguredGH.length} Greenhouse, ${preConfiguredLever.length} Lever, ${preConfiguredAshby.length} Ashby, ${preConfiguredSmartRecruiters.length} SmartRecruiters, ${preConfiguredWorkday.length} Workday, ${microsoftCompany ? 4 : 0} Microsoft pages, ${genericCompanies} official career pages`)
-console.log(`Still unconfigured: ${skippedCompanies.length} companies (${skippedCompanies.filter(c => c.discoveryFailed).length} probed with no portal found, ${skippedCompanies.filter(c => !c.discoveryAttemptedAt).length} not yet probed — run the script again to keep working through the batch).`)
+console.log(`Configured: ${preConfiguredGH.length} GH, ${preConfiguredLever.length} Lever, ${preConfiguredAshby.length} Ashby, ${preConfiguredSmartRecruiters.length} SR, ${preConfiguredWorkday.length} Workday, ${preConfiguredICIMS.length} iCIMS, ${microsoftCompany ? 4 : 0} Microsoft, ${genericCompanies} official`)
+console.log(`Still unconfigured: ${skippedCompanies.length} companies (${skippedCompanies.filter(c => c.discoveryFailed).length} failed probe, ${skippedCompanies.filter(c => !c.discoveryAttemptedAt).length} never probed).`)
 
 // Build final list of sources to fetch from
 const allGH = preConfiguredGH.map(c => ({ board: c.boardSlugGuess, name: c.name, type: c.type }))
@@ -951,15 +1080,14 @@ const allLever = preConfiguredLever.map(c => ({ board: c.boardSlugGuess, name: c
 const allAshby = preConfiguredAshby.map(c => ({ board: c.boardSlugGuess, name: c.name, type: c.type }))
 const allSmartRecruiters = preConfiguredSmartRecruiters.map(c => ({ board: c.boardSlugGuess, name: c.name, type: c.type }))
 const allWorkday = preConfiguredWorkday.map(c => ({
-  board: c.boardSlugGuess,
-  name: c.name,
-  type: c.type,
+  board: c.boardSlugGuess, name: c.name, type: c.type,
   workdaySubdomain: c.workdaySubdomain || c.boardSlugGuess,
   workdayTenant: c.workdayTenant,
 }))
+const allICIMS = preConfiguredICIMS.map(c => ({ board: c.icimsId || c.boardSlugGuess, icimsId: c.icimsId || c.boardSlugGuess, name: c.name, type: c.type }))
 const activeMicrosoftPages = microsoftCompany ? microsoftPages : []
 
-console.log(`\nFetching jobs from ${allGH.length} Greenhouse, ${allLever.length} Lever, ${allAshby.length} Ashby, ${allSmartRecruiters.length} SmartRecruiters, ${allWorkday.length} Workday, ${activeMicrosoftPages.length} Microsoft pages...`)
+console.log(`\nFetching jobs from ${allGH.length} GH + ${allLever.length} Lever + ${allAshby.length} Ashby + ${allSmartRecruiters.length} SR + ${allWorkday.length} WD + ${allICIMS.length} iCIMS + ${activeMicrosoftPages.length} MS...`)
 
 // Fetch all jobs
 const fetchTasks = [
@@ -968,6 +1096,7 @@ const fetchTasks = [
   ...allAshby.map(c => () => fetchAshby(c)),
   ...allSmartRecruiters.map(c => () => fetchSmartRecruiters(c)),
   ...allWorkday.map(c => () => fetchWorkday(c)),
+  ...allICIMS.map(c => () => fetchICIMS(c)),
   ...activeMicrosoftPages.map(page => () => fetchMicrosoftPage(page)),
 ]
 
@@ -1013,7 +1142,7 @@ await writeFile('src/data/jobs.json', outputText)
 await mkdir('public/data', { recursive: true })
 await writeFile('public/data/jobs.json', outputText)
 console.log(`\n✅ Wrote ${jobs.length} fresh SDE jobs to src/data/jobs.json`)
-console.log(`   Sources: ${allGH.length} GH + ${allLever.length} Lever + ${allAshby.length} AB + ${allSmartRecruiters.length} SR + ${allWorkday.length} WD + ${activeMicrosoftPages.length} MS = ${fetchTasks.length} total`)
+console.log(`   Sources: ${allGH.length} GH + ${allLever.length} Lever + ${allAshby.length} AB + ${allSmartRecruiters.length} SR + ${allWorkday.length} WD + ${allICIMS.length} iCIMS + ${activeMicrosoftPages.length} MS = ${fetchTasks.length} total`)
 console.log(`   Successful sources: ${successfulSources}`)
 if (failures.length) {
   console.warn(`   Skipped ${failures.length} sources (expected for companies with no job board)`)

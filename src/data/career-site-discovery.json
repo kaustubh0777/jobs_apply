@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-06-29T19:29:41.494Z",
-  "batchSize": 30,
-  "successfulCount": 9,
-  "failedCount": 8,
+  "generatedAt": "2026-06-29T22:05:03.692Z",
+  "batchSize": 10,
+  "successfulCount": 4,
+  "failedCount": 6,
   "results": [
+    {
+      "company": "Dongfeng India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
+        "title": "NCS|Gov Job Vacancies- Links to Recruitment Portals of various Ministries",
+        "discoveredAt": "2026-06-29T22:04:49.280Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Doosan India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.bobcat.com/na/en/company/careers",
+        "title": "Careers & Job Openings - Bobcat Company",
+        "discoveredAt": "2026-06-29T22:04:48.661Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Drift India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://shop.driftgames.life/pages/careers",
+        "title": "Careers - Drift Games",
+        "discoveredAt": "2026-06-29T22:04:48.685Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Droom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://droom.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T22:04:53.041Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Darwinbox",
       "found": {
@@ -497,13 +541,11 @@
     }
   ],
   "failures": [
-    "Datamatics: company discovery timeout",
-    "DBFS (IT): company discovery timeout",
-    "DealShare: company discovery timeout",
-    "Desktop Metal: company discovery timeout",
-    "Deutsche Bank: company discovery timeout",
-    "Digio: company discovery timeout",
-    "District (by Zomato): company discovery timeout",
-    "DocsApp: company discovery timeout"
+    "DraftKings: company discovery timeout",
+    "DRDO (IT): company discovery timeout",
+    "DRDO (Software Engineering): company discovery timeout",
+    "Dream11: company discovery timeout",
+    "Drivezy (IT): company discovery timeout",
+    "DS India (IT): company discovery timeout"
   ]
 }

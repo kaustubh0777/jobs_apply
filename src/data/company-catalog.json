@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:31:34.618Z",
+  "generatedAt": "2026-06-29T22:05:43.124Z",
   "companyCatalogSize": 1649,
   "companies": [
     {
@@ -3075,9 +3075,9 @@
       "careersUrl": "https://corover.ai/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.668Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:23.559Z",
-      "webDiscoveryFailed": false,
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Country Delight",
@@ -3129,9 +3129,9 @@
       "careersUrl": "https://coverfox.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.672Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:24.896Z",
-      "webDiscoveryFailed": false,
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Crayon Data",
@@ -3195,9 +3195,9 @@
       "careersUrl": "https://crowdstrike.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.684Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:25.872Z",
-      "webDiscoveryFailed": false,
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Crowe India",
@@ -3431,12 +3431,12 @@
       "boardSlugGuess": "darwinboxcom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://darwinbox.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.732Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.492Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://darwinbox.com/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Darwinbox HR Tech",
@@ -3476,12 +3476,12 @@
       "boardSlugGuess": "datarobotcom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://www.datarobot.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.590Z",
       "discoveryFailed": false,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.213Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://www.datarobot.com/careers/",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "DBFS (IT)",
@@ -3509,12 +3509,12 @@
       "boardSlugGuess": "zingnextzinghrcom",
       "type": "Service",
       "source": "generic",
+      "careersUrl": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.781Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.445Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "DealShare",
@@ -3542,36 +3542,36 @@
       "boardSlugGuess": "agrevolutionin",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.784Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.878Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://agrevolution.in/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "DeHaat (IT)",
       "boardSlugGuess": "agrevolutionin",
       "type": "Service",
       "source": "generic",
+      "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.787Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.063Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://agrevolution.in/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Delhivery",
       "boardSlugGuess": "delhiverycom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://delhivery.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:33.993Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.111Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://delhivery.com/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Delhivery Supply Chain",
@@ -3642,12 +3642,12 @@
       "boardSlugGuess": "dezervin",
       "type": "Service",
       "source": "generic",
+      "careersUrl": "https://www.dezerv.in/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.325Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.512Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://www.dezerv.in/careers/",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Dhan (IT)",
@@ -3703,12 +3703,12 @@
       "boardSlugGuess": "digitaloceancom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://digitalocean.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.653Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:32.385Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://digitalocean.com/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Digitrak India (IT)",
@@ -3805,21 +3805,23 @@
       "boardSlugGuess": "dolbycom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://dolby.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:34.021Z",
       "discoveryFailed": true,
+      "genericAttemptedAt": "2026-06-29T19:31:34.609Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:38.049Z",
-      "webDiscoveryFailed": false,
-      "careersUrl": "https://dolby.com/careers",
-      "genericAttemptedAt": "2026-06-29T19:31:34.609Z"
+      "webDiscoveryFailed": false
     },
     {
       "name": "Dongfeng India (IT)",
-      "boardSlugGuess": "dongfengindiait",
+      "boardSlugGuess": "ncsgovin",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.946Z",
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "discoveryFailed": false,
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.280Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx"
     },
     {
       "name": "DoorDash",
@@ -3829,12 +3831,14 @@
     },
     {
       "name": "Doosan India (IT)",
-      "boardSlugGuess": "doosanindiait",
+      "boardSlugGuess": "bobcatcom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.882Z",
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "discoveryFailed": false,
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:48.663Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.bobcat.com/na/en/company/careers"
     },
     {
       "name": "DraftKings",
@@ -3843,7 +3847,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:34.019Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.702Z"
     },
     {
       "name": "DRDO (IT)",
@@ -3852,7 +3857,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:34.022Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.693Z"
     },
     {
       "name": "DRDO (Software Engineering)",
@@ -3861,7 +3867,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.470Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.693Z"
     },
     {
       "name": "Dream11",
@@ -3870,16 +3877,19 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.466Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.693Z"
     },
     {
       "name": "Drift India",
-      "boardSlugGuess": "driftindia",
+      "boardSlugGuess": "shopdriftgameslife",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.606Z",
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "discoveryFailed": false,
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:48.685Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://shop.driftgames.life/pages/careers"
     },
     {
       "name": "Drivezy (IT)",
@@ -3888,16 +3898,19 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.474Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.697Z"
     },
     {
       "name": "Droom",
-      "boardSlugGuess": "droom",
+      "boardSlugGuess": "droomin",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.968Z",
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "discoveryFailed": false,
+      "webDiscoveryAttemptedAt": "2026-06-29T22:04:53.041Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://droom.in/career"
     },
     {
       "name": "Dropbox",
@@ -3918,7 +3931,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.684Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-06-29T22:05:03.686Z"
     },
     {
       "name": "DTDC Express",
@@ -8303,12 +8317,13 @@
     },
     {
       "name": "Mindtree",
-      "boardSlugGuess": "mindtree",
+      "boardSlugGuess": "14887",
       "type": "Service",
-      "source": null,
+      "source": "icims",
       "discoveryAttemptedAt": "2026-06-28T21:09:56.444Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "icimsId": "14887"
     },
     {
       "name": "Mindtree (LTIMindtree)",
@@ -8391,7 +8406,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:40.868Z"
     },
     {
       "name": "Monarch Networth (IT)",
@@ -8399,7 +8415,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.050Z"
     },
     {
       "name": "Monday.com India",
@@ -8407,7 +8424,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.343Z"
     },
     {
       "name": "MoneyTap",
@@ -8415,7 +8433,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:40.969Z"
     },
     {
       "name": "MongoDB",
@@ -8425,11 +8444,12 @@
     },
     {
       "name": "Moody's Analytics India",
-      "boardSlugGuess": "moodysanalyticsindia",
+      "boardSlugGuess": "mai",
       "type": "Product",
-      "source": null,
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "source": "ashby",
+      "discoveryFailed": false,
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.506Z"
     },
     {
       "name": "Moody's Corporation India",
@@ -8437,7 +8457,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.008Z"
     },
     {
       "name": "More Retail (IT)",
@@ -8445,7 +8466,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:43.124Z"
     },
     {
       "name": "Morgan India (IT)",
@@ -8453,7 +8475,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.000Z"
     },
     {
       "name": "Morgan Stanley",
@@ -8461,7 +8484,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.224Z"
     },
     {
       "name": "Morgan Stanley Advantage Services India",
@@ -8469,7 +8493,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:43.117Z"
     },
     {
       "name": "Motilal Oswal (IT)",
@@ -8477,7 +8502,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.112Z"
     },
     {
       "name": "Motilal Oswal Digital",
@@ -8485,7 +8511,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.056Z"
     },
     {
       "name": "Motilal Oswal Securities (IT)",
@@ -8513,7 +8540,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.346Z"
     },
     {
       "name": "MPL",
@@ -8521,7 +8549,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.031Z"
     },
     {
       "name": "MPL (Mobile Premier League)",
@@ -8529,7 +8558,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.231Z"
     },
     {
       "name": "MSCI India",
@@ -8537,7 +8567,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.352Z"
     },
     {
       "name": "MTNL (IT)",
@@ -8545,7 +8576,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.360Z"
     },
     {
       "name": "Mu Sigma",
@@ -8553,7 +8585,8 @@
       "type": "Product",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.099Z"
     },
     {
       "name": "Mudrex",
@@ -8561,7 +8594,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.102Z"
     },
     {
       "name": "Muthoot Finance (IT)",
@@ -8569,7 +8603,8 @@
       "type": "Service",
       "source": null,
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "discoveryAttemptedAt": "2026-06-29T22:05:41.148Z"
     },
     {
       "name": "Muthoot Fincorp Tech",
