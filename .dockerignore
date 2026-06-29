@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+.DS_Store
+tmp
+*.local
+*.env
+.agents
+.planning
+README.md
+*.png
+*.xlsx
+deploy-gcp.sh

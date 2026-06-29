@@ -1,0 +1,509 @@
+{
+  "generatedAt": "2026-06-29T19:29:41.494Z",
+  "batchSize": 30,
+  "successfulCount": 9,
+  "failedCount": 8,
+  "results": [
+    {
+      "company": "Darwinbox",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://darwinbox.com/careers",
+        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
+        "discoveredAt": "2026-06-29T19:29:29.492Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "DataRobot",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.datarobot.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:29:29.213Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DCB Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:29:29.445Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-06-29T19:29:29.878Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-06-29T19:29:30.063Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Delhivery",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://delhivery.com/careers",
+        "title": "Build Your Career with Delhivery – Join India's Leading Logistics Innovator",
+        "discoveredAt": "2026-06-29T19:29:30.111Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Dezerv",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.dezerv.in/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:29:30.512Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DigitalOcean",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://digitalocean.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:29:32.385Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Dolby",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dolby.com/careers",
+        "title": "Careers and Internships at Dolby - Dolby",
+        "discoveredAt": "2026-06-29T19:29:38.049Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "CoRover.ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://corover.ai/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:28:23.558Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Coverfox",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://coverfox.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:28:24.896Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "CrowdStrike",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://crowdstrike.com/careers",
+        "title": "Careers | CrowdStrike",
+        "discoveredAt": "2026-06-29T19:28:25.872Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "City Union Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cityunionbank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:24:12.375Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cleartrip",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cleartrip.com/jobs",
+        "title": "Cleartrip | Careers",
+        "discoveredAt": "2026-06-29T19:24:13.279Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Cleartrip (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cleartrip.com/jobs",
+        "title": "Cleartrip | Careers",
+        "discoveredAt": "2026-06-29T19:24:13.340Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Clevertap",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://clevertap.com/careers/",
+        "title": "Careers Let's work together",
+        "discoveredAt": "2026-06-29T19:24:12.064Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cloudera",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cloudera.com/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:24:11.884Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "CMS IT Services",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.cmsitservices.com/work-with-us/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:24:12.704Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Coding Ninjas",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&utm_medium=internal&utm_campaign=homepage_new_courses&angular_version=18",
+        "title": "Advanced Certification in Software Development with GenAI and DSA",
+        "discoveredAt": "2026-06-29T19:24:12.834Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Coforge",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://coforge.com/careers",
+        "title": "Coforge - Career Opportunities | Grow & Move Ahead",
+        "discoveredAt": "2026-06-29T19:24:15.004Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Cohesity",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.cohesity.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:24:14.827Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "BharatAgri",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://bharatagri.com/career",
+        "title": "Careers at BharatAgri – Build AgriTech That Empowers Farmers",
+        "discoveredAt": "2026-06-29T19:17:35.846Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "BharatPe",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://bharatpe.com/career/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:17:34.113Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "AgroStar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://agrostar.com/info/Jobs.html?ses=ogcEDJlYf3VQCePr9b6DOGrJn8pbgaAL-02bGNfXPDPCyXukh_S890ufSiMJy1n8me9s278RBat--45J_AiczNs642gFhj99TbnBfL1pOL2oH7uLtH7ctuNYKPk21JVVPCM9mJqlsq65P03cPOqUk7FBkvWh2OhboKOg7GoGhxpa4IBlZlblL9dvJwXH1PLYsVhlf4sOmcY3MoUN8TKTmq_majiN1kEX19196poUkxcxKaYsa6rG75qxXHLoAIhDIQ51xPi6XMbaEhYw5a8MPJlkXp9ybd0ti1Ti7LubWFXKLXZ9TsSM88jax7GZJ80NFzpDQbRxwU&category=Jobs&keyword=Jobs",
+        "title": "Jobs",
+        "discoveredAt": "2026-06-29T19:11:31.774Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "AgroStar (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://agrostar.com/info/Jobs.html?ses=ogcTNRa2qpoSTO6yVPO3ygpIMEvVqZMSOPFBPz6ZHYUFJLXGp-DARRFzh-UwS-tEJ7LmiQ7-sdtMMiAf1fswb17tx2CihlYsoVGCryxj-HUkkoqrblNWoqtGsyubWE1Cw9ikW_P9n-557GXSMLwDte-Pb8GFktw_g1dc1lQ436q4K6qPu18YffwKFt6UuiEo0zSb0hhg1wHIUTmLEKgre9rjiub-L1KmTwSUf7bJ4TaTgx237_7_1PeRsDaWgv3lwh-UGo66BkOsu5_AvhS_eDQ6CXhlpIU6quWXvN1ff4fhmBFkS7zLaAQuZnxlXte6lVtCZlKS2M&category=Jobs&keyword=Jobs",
+        "title": "Jobs",
+        "discoveredAt": "2026-06-29T19:11:31.747Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Airtel (IT Services)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://airtel.in/careers",
+        "title": "Airtel Careers",
+        "discoveredAt": "2026-06-29T19:11:33.582Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Airtel Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://airteldigital.com/careers",
+        "title": "airteldigital.com",
+        "discoveredAt": "2026-06-29T19:11:33.337Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Akamai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://akamai.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:33.257Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "AKS IT Services",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://aksitservices.co.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:38.158Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Altigreen (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://altigreen.darwinbox.in/ms/candidate/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:38.571Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Amagi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.amagi.com/careers",
+        "title": "Careers Thrive in a culture of innovation and growth",
+        "discoveredAt": "2026-06-29T19:11:40.236Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Amazon Fresh (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazonfresh.com/careers",
+        "title": "Amazon Fresh Groceries",
+        "discoveredAt": "2026-06-29T19:11:44.061Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "AMD",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amd.com/en/corporate/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:40.379Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "American Express",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.americanexpress.com/en-us/careers/?inav=en_in_footer_company_information_careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:41.590Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Anand Rathi (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://anandrathi.com/career",
+        "title": "Career",
+        "discoveredAt": "2026-06-29T19:11:41.945Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ansys",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.ansys.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-29T19:11:44.267Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-06-28T21:05:36.529Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-06-28T21:05:36.338Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-06-28T21:05:35.742Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ABB India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://abbindia.com/careers",
+        "title": "Redirecting...",
+        "discoveredAt": "2026-06-28T21:05:37.930Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-06-28T21:05:36.785Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-06-28T20:47:42.721Z"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-06-28T20:47:42.717Z"
+      }
+    },
+    {
+      "company": "24[7].ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.247.ai/careers/",
+        "title": "Careers at [24]7.ai - Locations, Open Positions & Opportunities",
+        "discoveredAt": "2026-06-28T20:47:42.720Z"
+      }
+    },
+    {
+      "company": "3i Infotech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.3i-infotech.com/careers/",
+        "title": "Careers | 3i Infotech",
+        "discoveredAt": "2026-06-28T20:47:42.719Z"
+      }
+    }
+  ],
+  "failures": [
+    "Datamatics: company discovery timeout",
+    "DBFS (IT): company discovery timeout",
+    "DealShare: company discovery timeout",
+    "Desktop Metal: company discovery timeout",
+    "Deutsche Bank: company discovery timeout",
+    "Digio: company discovery timeout",
+    "District (by Zomato): company discovery timeout",
+    "DocsApp: company discovery timeout"
+  ]
+}

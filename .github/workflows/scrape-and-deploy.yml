@@ -1,0 +1,99 @@
+name: Scrape Jobs and Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub Actions tab
+
+# Set permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
+jobs:
+  scrape-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history so git commit pushes work cleanly
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Backup Current Jobs Data
+        run: |
+          if [ -f src/data/jobs.json ]; then
+            cp src/data/jobs.json before-jobs.json
+          else
+            echo '{"jobs":[]}' > before-jobs.json
+          fi
+
+      - name: Run Scraper Cycle
+        env:
+          RUN_ONCE: '1'
+          SKIP_CATALOG_MERGE: '1' # Excel catalog is static in repo
+          DISCOVERY_EVERY_CYCLE: '0' # Disable heavy web discovery to keep action fast
+          GENERIC_USE_BROWSER: '0' # Disable playwright browser dependency
+          GENERIC_BATCH_SIZE: '30' # Scrape direct APIs in batches
+        run: npm run auto:update:once
+
+      - name: Send Telegram Notifications
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -f before-jobs.json ] && [ -f src/data/jobs.json ]; then
+            node scripts/send-telegram-alerts.mjs before-jobs.json src/data/jobs.json
+          else
+            echo "Skipping notification: missing jobs.json data files."
+          fi
+
+      - name: Commit and Push Updated Scraper Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if jobs or catalogs have changed
+          if [ -n "$(git status --porcelain)" ]; then
+            git add src/data/ public/data/ || true
+            git commit -m "chore: auto-update jobs database [skip ci]"
+            git push origin HEAD:${{ github.ref }}
+            echo "Successfully pushed updated job files to repository."
+          else
+            echo "No updates to job data files."
+          fi
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

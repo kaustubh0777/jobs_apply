@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    { "id": "1", "role": "Software Engineer", "company": "Apple" },
+    {
+      "id": "2",
+      "role": "Backend Engineer",
+      "company": "Google",
+      "location": "Bangalore",
+      "experienceLabel": "2+ years",
+      "directApplyUrl": "https://google.com"
+    }
+  ]
+}
