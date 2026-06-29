@@ -83,7 +83,9 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add src/data/ public/data/ || true
             git commit -m "chore: auto-update jobs database [skip ci]"
-            git push origin HEAD:${{ github.ref }}
+            # Pull remote changes and rebase to prevent non-fast-forward errors
+            git pull --rebase origin main
+            git push origin HEAD:refs/heads/main
             echo "Pushed updated job files."
           else
             echo "No data changes this cycle."
