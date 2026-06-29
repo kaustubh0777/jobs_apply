@@ -61,12 +61,14 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          if [ -f before-jobs.json ] && [ -f src/data/jobs.json ]; then
-            node scripts/send-telegram-alerts.mjs before-jobs.json src/data/jobs.json
-          else
-            echo "Skipping notification: missing jobs.json data files."
+          # Ensure before-jobs.json exists (first run fallback)
+          if [ ! -f before-jobs.json ]; then
+            echo '{"jobs":[]}' > before-jobs.json
           fi
+          node scripts/send-telegram-alerts.mjs before-jobs.json src/data/jobs.json
 
       - name: Commit and Push Updated Scraper Data
         run: |
