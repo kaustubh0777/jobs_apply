@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Telegram bot offset (managed via GitHub Actions cache)
+tmp/

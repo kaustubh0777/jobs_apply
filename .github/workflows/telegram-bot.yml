@@ -1,0 +1,50 @@
+name: Telegram Bot (Interactive)
+
+on:
+  schedule:
+    # Run every 5 minutes — polls for messages and responds
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    # Can also be triggered manually for testing
+
+permissions:
+  contents: read
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Restore Bot Offset Cache
+        uses: actions/cache@v4
+        with:
+          path: tmp/telegram-offset.json
+          key: telegram-bot-offset-${{ github.run_id }}
+          restore-keys: |
+            telegram-bot-offset-
+
+      - name: Run Interactive Bot (55s polling session)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/telegram-bot.mjs
+
+      - name: Save Bot Offset Cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: tmp/telegram-offset.json
+          key: telegram-bot-offset-${{ github.run_id }}
