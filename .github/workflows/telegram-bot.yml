@@ -5,7 +5,6 @@ on:
     # Run every 5 minutes — polls for messages and responds
     - cron: '*/5 * * * *'
   workflow_dispatch:
-    # Can also be triggered manually for testing
 
 permissions:
   contents: read
@@ -28,20 +27,21 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      # Use a stable cache key so offset persists across ALL runs
       - name: Restore Bot Offset Cache
-        uses: actions/cache@v4
+        id: cache-restore
+        uses: actions/cache/restore@v4
         with:
           path: tmp/telegram-offset.json
-          key: telegram-bot-offset-${{ github.run_id }}
-          restore-keys: |
-            telegram-bot-offset-
+          key: telegram-bot-offset-stable
 
-      - name: Run Interactive Bot (55s polling session)
+      - name: Clear Webhook & Run Interactive Bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: node scripts/telegram-bot.mjs
 
+      # Always overwrite with latest offset after each run
       - name: Save Bot Offset Cache
         uses: actions/cache/save@v4
         if: always()
