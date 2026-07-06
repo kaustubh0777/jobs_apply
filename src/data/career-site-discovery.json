@@ -1,9 +1,174 @@
 {
-  "generatedAt": "2026-07-06T20:04:07.538Z",
+  "generatedAt": "2026-07-06T21:51:24.492Z",
   "batchSize": 120,
-  "successfulCount": 28,
-  "failedCount": 92,
+  "successfulCount": 15,
+  "failedCount": 105,
   "results": [
+    {
+      "company": "Fincare Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.simplyhired.co.in/browse-jobs/companies/Fincare%20Small%20Finance%20Bank",
+        "title": "Fincare Small Finance Bank employment and reviews | SimplyHired",
+        "discoveredAt": "2026-07-06T21:50:10.220Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Fino Payments Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.fino.bank.in/company/careers",
+        "title": "Careers at Fino Payments Bank",
+        "discoveredAt": "2026-07-06T21:50:09.949Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "HROne",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://joy.hrone.cloud/career-portal?appId=U7bjIdFSmZoubZM5AUQ2BhG1jyjDBzePTV0JUmlbP614gGhYt9hZ2xfAfhkraI2X4YKwFpunOL0a_tH02ZVxeZ5gQBs_Q80MzHE5GGAW3Q2m1CGdLUbvtjZDDP6Bg1_C&dc=joy&rqt=UVozgs-AUV1ILPLBxDlf7A&cc=K8fAAC6n2xQvjcQO9J0lRw",
+        "title": "HRMS Software & Payroll SaaS Application For Enterprises | HROne",
+        "discoveredAt": "2026-07-06T21:50:29.419Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Hugging Face",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://huggingface.com/careers",
+        "title": "Hugging Face - Current Openings",
+        "discoveredAt": "2026-07-06T21:50:30.179Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Icertis",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://icertis.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T21:50:32.065Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ICICI Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+        "title": "Career opportunities",
+        "discoveredAt": "2026-07-06T21:50:33.209Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ICICI Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://icicisecurities.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T21:50:36.271Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "IDBI Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://idbibank.com/idbi-bank-careers.aspx",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T21:50:37.573Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "IDfy",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://idfy.turbohire.co/careerpage/e73676a8-bc5a-4b43-b9c6-d3fc7a60b572",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T21:50:36.249Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "IIFL Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://iiflsecurities.com/careers",
+        "title": "Open Demat Account Online: Start Investing with our Premium Services | IIFL Capital Services",
+        "discoveredAt": "2026-07-06T21:50:40.517Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Indian Overseas Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://indianoverseasbank.com/careers",
+        "title": "Loading...",
+        "discoveredAt": "2026-07-06T21:50:48.486Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Intuit",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://intuit.com/jobs",
+        "title": "Explore Career and Job Opportunities | Intuit Careers",
+        "discoveredAt": "2026-07-06T21:51:05.616Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Inventure Growth (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://inventuregrowth.com/career",
+        "title": "Career - Inventure Growth",
+        "discoveredAt": "2026-07-06T21:51:05.577Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "ISRO (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://isro.in/careers",
+        "title": "isro.in",
+        "discoveredAt": "2026-07-06T21:51:06.354Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "ISRO (Software Engineering)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://isro.in/careers",
+        "title": "isro.in",
+        "discoveredAt": "2026-07-06T21:51:06.015Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Exotel",
       "found": {
@@ -905,54 +1070,54 @@
   ],
   "failures": [
     "Expedia: search returned anti-bot page",
-    "Faasos (Rebel Foods): company discovery timeout",
-    "Fasal: company discovery timeout",
-    "Fasal (IT): company discovery timeout",
-    "Fibe (EarlySalary): company discovery timeout",
     "Fidelity National Information Services India: search returned anti-bot page",
-    "Fincare Small Finance Bank (IT): search returned anti-bot page",
-    "Fino Payments Bank (IT): search returned anti-bot page",
     "Finvasia (IT): search returned anti-bot page",
-    "FireEye: company discovery timeout",
-    "Firstsource: company discovery timeout",
-    "FlexiLoans: company discovery timeout",
-    "Flipkart Quick (IT): company discovery timeout",
     "Force Motors India (IT): search returned anti-bot page",
-    "Fraazo (IT): search returned anti-bot page",
-    "Fractal: company discovery timeout",
-    "Fractal AI: company discovery timeout",
-    "Fractal Analytics: company discovery timeout",
-    "Freshmenu: company discovery timeout",
-    "FreshToHome: company discovery timeout",
-    "FreshToHome (IT): company discovery timeout",
-    "FSS (Financial Software & Systems): company discovery timeout",
-    "Fujitsu Consulting India: company discovery timeout",
-    "Fyers (IT): company discovery timeout",
-    "Fyle: company discovery timeout",
-    "Gaana (Times Internet): company discovery timeout",
-    "GAC India (IT): company discovery timeout",
-    "GAIL (IT): company discovery timeout",
-    "Games24x7: company discovery timeout",
-    "Garena India: company discovery timeout",
-    "Gati Limited: company discovery timeout",
-    "Gaz India (IT): company discovery timeout",
-    "GE Aviation India: company discovery timeout",
-    "GE Digital India: company discovery timeout",
-    "Geely India (IT): company discovery timeout",
-    "Genpact: company discovery timeout",
-    "Geojit Financial Services (IT): company discovery timeout",
-    "Ginetta India (IT): company discovery timeout",
-    "Giottus Crypto: company discovery timeout",
-    "Gitpod: company discovery timeout",
-    "Gleaner India (IT): company discovery timeout",
-    "GlobalBees: company discovery timeout",
+    "Fraazo (IT): company discovery timeout",
     "GlobalFoundries India: search returned anti-bot page",
-    "GlobalLogic: company discovery timeout",
-    "GlobalLogic (Hitachi): company discovery timeout",
     "Globant India: search returned anti-bot page",
     "Go Digit General Insurance: search returned anti-bot page",
-    "Goibibo: company discovery timeout",
-    "Goibibo (IT): company discovery timeout",
-    "Golaz India (IT): search returned anti-bot page"
+    "Golaz India (IT): search returned anti-bot page",
+    "Goldman Sachs Engineering India: search returned anti-bot page",
+    "Grazitti Interactive: company discovery timeout",
+    "Great Wall Motor India (IT): company discovery timeout",
+    "Haval India (IT): company discovery timeout",
+    "HCL-Foxconn Semiconductor: company discovery timeout",
+    "HDFC Life Insurance Tech: company discovery timeout",
+    "HDFC Securities Tech: company discovery timeout",
+    "Healthkart Nutrabox: company discovery timeout",
+    "HelloWorld (IT): company discovery timeout",
+    "Hexaware Global Services: company discovery timeout",
+    "Hidden Brains InfoTech: company discovery timeout",
+    "Hike Messenger: company discovery timeout",
+    "Hilton Technology India: company discovery timeout",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "Hitachi India (IT): company discovery timeout",
+    "This operation was aborted",
+    "Home First Finance (IT): company discovery timeout",
+    "Honasa Consumer (Mamaearth): company discovery timeout",
+    "Honeywell Aerospace India: company discovery timeout",
+    "Housejoy: company discovery timeout",
+    "Housejoy (IT): company discovery timeout",
+    "Housing.com (IT): company discovery timeout",
+    "HPCL (IT): company discovery timeout",
+    "HROne Cloud: company discovery timeout",
+    "HSBC Global Technology India: search returned anti-bot page",
+    "HSBC India: search returned anti-bot page",
+    "Huawei Technologies India: search returned anti-bot page",
+    "Hurix Digital: search returned anti-bot page",
+    "Hyatt (IT): company discovery timeout",
+    "HyperVerge: company discovery timeout",
+    "Hyundai Ce India (IT): search returned anti-bot page",
+    "Hyundai India (IT): search returned anti-bot page",
+    "IBM Consulting India: search returned anti-bot page",
+    "ICE Data Services India: company discovery timeout",
+    "ICICI Lombard Tech: search returned anti-bot page",
+    "ICICI Prudential Tech: search returned anti-bot page",
+    "IDBI Capital (IT): company discovery timeout",
+    "IDFC FIRST Bank (IT): company discovery timeout",
+    "IDFC FIRST Bank Tech: company discovery timeout"
   ]
 }
