@@ -2,7 +2,8 @@ import { spawn } from 'node:child_process'
 import { mkdir, open, readFile, unlink, writeFile } from 'node:fs/promises'
 
 const updateIntervalMs = Number(process.env.JOB_UPDATE_INTERVAL_MS || 30 * 60 * 1000)
-const discoveryBatchSize = String(process.env.WEB_DISCOVERY_BATCH_SIZE || 100)
+const webDiscoveryBatchSize = String(process.env.WEB_DISCOVERY_BATCH_SIZE || 100)
+const atsDiscoveryBatchSize = String(process.env.DISCOVERY_BATCH_SIZE || 250)
 const discoveryConcurrency = String(process.env.WEB_DISCOVERY_CONCURRENCY || 12)
 const discoveryTimeoutMs = String(process.env.WEB_DISCOVERY_TIMEOUT_MS || 2500)
 const discoveryCompanyTimeoutMs = String(process.env.WEB_DISCOVERY_COMPANY_TIMEOUT_MS || 9000)
@@ -106,7 +107,7 @@ const runCycle = async () => {
 
     if (discoveryBatchEveryCycle) {
       await runCommand('Discover career sites', 'node', ['scripts/discover-career-sites.mjs'], {
-        WEB_DISCOVERY_BATCH_SIZE: discoveryBatchSize,
+        WEB_DISCOVERY_BATCH_SIZE: webDiscoveryBatchSize,
         WEB_DISCOVERY_CONCURRENCY: discoveryConcurrency,
         WEB_DISCOVERY_TIMEOUT_MS: discoveryTimeoutMs,
         WEB_DISCOVERY_COMPANY_TIMEOUT_MS: discoveryCompanyTimeoutMs,
@@ -117,7 +118,7 @@ const runCycle = async () => {
     }
 
     await runCommand('Fetch ATS jobs', 'node', ['scripts/fetch-jobs.mjs'], {
-      DISCOVERY_BATCH_SIZE: '0',
+      DISCOVERY_BATCH_SIZE: atsDiscoveryBatchSize,
     })
     await runCommand('Fetch official career-site jobs', 'node', ['scripts/fetch-generic.mjs'], {
       GENERIC_BATCH_SIZE: genericBatchSize,
@@ -180,7 +181,9 @@ try {
 await writeStatus({
   state: 'starting',
   intervalMinutes: Math.round(updateIntervalMs / 60000),
-  discoveryBatchSize: Number(discoveryBatchSize),
+  discoveryBatchSize: Number(atsDiscoveryBatchSize),
+  atsDiscoveryBatchSize: Number(atsDiscoveryBatchSize),
+  webDiscoveryBatchSize: Number(webDiscoveryBatchSize),
   discoveryEnabled: discoveryBatchEveryCycle,
 })
 

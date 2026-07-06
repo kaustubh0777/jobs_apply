@@ -258,6 +258,20 @@ const boardSlugFromUrl = (url, source, companyName) => {
   return parsed.hostname.replace(/^www\./, '').replace(/[^a-z0-9]+/gi, '')
 }
 
+const workdayDetailsFromUrl = (url) => {
+  const parsed = new URL(url)
+  const subdomain = parsed.hostname.split('.')[0]
+  const parts = parsed.pathname.split('/').filter(Boolean)
+  const tenant = parts.find(part => {
+    const lower = part.toLowerCase()
+    return !/^[a-z]{2}(?:-[a-z]{2})?$/.test(lower) && !['job', 'jobs', 'job-details', 'recruiting'].includes(lower)
+  })
+  return {
+    subdomain,
+    tenant: tenant || subdomain,
+  }
+}
+
 const discoverCompany = async (company) => {
   const deadline = Date.now() + companyTimeoutMs
   const direct = await discoverByDomainCrawl(company, deadline)
@@ -320,7 +334,7 @@ try {
   // First run.
 }
 
-const knownSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft', 'generic']
+const knownSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft', 'generic', 'icims']
 const candidates = companies
   .filter(company => !knownSources.includes(company.source) || company.discoveryFailed || company.source === null)
   .filter(company => forceDiscovery || !company.webDiscoveryAttemptedAt || Date.now() - Date.parse(company.webDiscoveryAttemptedAt) > retryAfterMs)
@@ -348,7 +362,8 @@ const results = await runLimited(candidates, concurrency, async (company) => {
   company.webDiscoveryAttemptedAt = new Date().toISOString()
   if (found) {
     company.source = found.source
-    company.boardSlugGuess = boardSlugFromUrl(found.url, found.source, company.name)
+    const workdayDetails = found.source === 'workday' ? workdayDetailsFromUrl(found.url) : null
+    company.boardSlugGuess = workdayDetails?.subdomain || boardSlugFromUrl(found.url, found.source, company.name)
     company.discoveryFailed = false
     company.webDiscoveryFailed = false
     if (found.source === 'generic') {
@@ -363,7 +378,8 @@ const results = await runLimited(candidates, concurrency, async (company) => {
       delete company.workdaySubdomain
     } else {
       company.careersUrl = found.url
-      company.workdaySubdomain = new URL(found.url).hostname.split('.')[0]
+      company.workdaySubdomain = workdayDetails.subdomain
+      company.workdayTenant = workdayDetails.tenant
     }
   } else {
     company.webDiscoveryFailed = true

@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-06-29T22:05:03.692Z",
-  "batchSize": 10,
-  "successfulCount": 4,
-  "failedCount": 6,
+  "generatedAt": "2026-07-06T19:56:25.442Z",
+  "batchSize": 40,
+  "successfulCount": 5,
+  "failedCount": 35,
   "results": [
+    {
+      "company": "Apple",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://apple.com/careers/us/",
+        "title": "Career Opportunities",
+        "discoveredAt": "2026-07-06T19:55:58.182Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Dynatrace",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dynatrace.com/careers",
+        "title": "Home | Dynatrace Careers",
+        "discoveredAt": "2026-07-06T19:55:58.433Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "EarlySalary (Fibe)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://earlysalary.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T19:55:58.222Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "EaseMyTrip",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.easemytrip.com/career.html",
+        "title": "CURRENT OPENINGS New",
+        "discoveredAt": "2026-07-06T19:55:58.444Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "EaseMyTrip (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.easemytrip.com/career.html",
+        "title": "CURRENT OPENINGS New",
+        "discoveredAt": "2026-07-06T19:55:58.438Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Dongfeng India (IT)",
       "found": {
@@ -541,11 +596,40 @@
     }
   ],
   "failures": [
-    "DraftKings: company discovery timeout",
-    "DRDO (IT): company discovery timeout",
-    "DRDO (Software Engineering): company discovery timeout",
-    "Dream11: company discovery timeout",
-    "Drivezy (IT): company discovery timeout",
-    "DS India (IT): company discovery timeout"
+    "Dunzo: company discovery timeout",
+    "Dunzo (IT): company discovery timeout",
+    "Dunzo Daily: company discovery timeout",
+    "EatFit: company discovery timeout",
+    "eBay: company discovery timeout",
+    "ECGC (IT): company discovery timeout",
+    "eClerx Services: company discovery timeout",
+    "Ecom Express Logistics: company discovery timeout",
+    "Edelweiss (IT): company discovery timeout",
+    "Edelweiss Securities (IT): company discovery timeout",
+    "Edelweiss Technology: company discovery timeout",
+    "Eicher India (IT): company discovery timeout",
+    "eInfochips (Arrow): company discovery timeout",
+    "ElasticRun: company discovery timeout",
+    "Electronic Arts India: company discovery timeout",
+    "Embitel Technologies: company discovery timeout",
+    "eMudhra: company discovery timeout",
+    "Encora India: company discovery timeout",
+    "Endurance International Group India: company discovery timeout",
+    "Equinix: company discovery timeout",
+    "Equitas Small Finance Bank (IT): company discovery timeout",
+    "Ergos (IT): company discovery timeout",
+    "Ericsson Global Services India: company discovery timeout",
+    "Ericsson India: company discovery timeout",
+    "Ericsson India (IT Services): company discovery timeout",
+    "Eruditus: company discovery timeout",
+    "ESAF Small Finance Bank (IT): company discovery timeout",
+    "Escorts India (IT): company discovery timeout",
+    "Etalon India (IT): company discovery timeout",
+    "Euler Motors (IT): company discovery timeout",
+    "Eurotrac India (IT): company discovery timeout",
+    "Eventbrite: company discovery timeout",
+    "Everest Fleet (IT): company discovery timeout",
+    "EXIM Bank (IT): company discovery timeout",
+    "EXL Service: company discovery timeout"
   ]
 }

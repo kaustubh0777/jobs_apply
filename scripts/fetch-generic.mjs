@@ -640,7 +640,7 @@ try {
 }
 
 const allCompanies = catalogData.companies || []
-const atsSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft']
+const atsSources = ['greenhouse', 'lever', 'ashby', 'smartrecruiters', 'workday', 'microsoft', 'icims']
 
 const confirmedGenericCandidates = allCompanies
   .filter(c => !atsSources.includes(c.source))

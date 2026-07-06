@@ -18,6 +18,7 @@ source_fields_to_preserve = [
     'workdaySubdomain',
     'careersUrl',
     'officialCareerUrl',
+    'icimsId',
     'discoveryAttemptedAt',
     'discoveryFailed',
     'genericAttemptedAt',

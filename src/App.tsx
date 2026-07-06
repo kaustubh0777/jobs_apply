@@ -827,8 +827,11 @@ function App() {
 
     const updatedCompanies = companies.map((c) => {
       if (c.name.toLowerCase() === companyName.toLowerCase()) {
-        const { careersUrl, officialCareerUrl, workdaySubdomain, ...rest } = c
-        return { ...rest, source: null, boardSlugGuess: c.name.toLowerCase().replace(/[^a-z0-9]+/g, '') }
+        const resetCompany = { ...c, source: null, boardSlugGuess: c.name.toLowerCase().replace(/[^a-z0-9]+/g, '') }
+        delete resetCompany.careersUrl
+        delete resetCompany.officialCareerUrl
+        delete resetCompany.workdaySubdomain
+        return resetCompany
       }
       return c
     })
