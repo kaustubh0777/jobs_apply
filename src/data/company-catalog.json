@@ -577,7 +577,7 @@
       "boardSlugGuess": "amazon",
       "type": "Product",
       "source": "generic",
-      "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent",
+      "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent",
       "discoveryFailed": false,
       "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
@@ -598,7 +598,7 @@
       "boardSlugGuess": "amazon",
       "type": "Service",
       "source": "generic",
-      "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent",
+      "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent",
       "discoveryAttemptedAt": "2026-06-21T22:08:24.610Z",
       "discoveryFailed": false,
       "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
@@ -8166,7 +8166,7 @@
       "boardSlugGuess": "meta",
       "type": "Product",
       "source": "generic",
-      "careersUrl": "https://www.metacareers.com/jobsearch/?q=software%20engineer&location=India",
+      "careersUrl": "https://www.metacareers.com/jobsearch/?q=software%20developer&location=India",
       "discoveryFailed": true,
       "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
@@ -12368,7 +12368,7 @@
       "boardSlugGuess": "uber",
       "type": "Product",
       "source": "generic",
-      "careersUrl": "https://www.uber.com/in/en/careers/list/?query=software%20engineer&location=IND",
+      "careersUrl": "https://www.uber.com/in/en/careers/list/?query=software%20developer&location=IND",
       "discoveryFailed": true,
       "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },

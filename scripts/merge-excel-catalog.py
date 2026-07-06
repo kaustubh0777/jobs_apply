@@ -54,17 +54,17 @@ official_source_overrides = {
     'amazon': {
         'source': 'generic',
         'boardSlugGuess': 'amazon',
-        'careersUrl': 'https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent',
+        'careersUrl': 'https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent',
     },
     'amazon india (it services)': {
         'source': 'generic',
         'boardSlugGuess': 'amazon',
-        'careersUrl': 'https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent',
+        'careersUrl': 'https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent',
     },
     'apple': {
         'source': 'generic',
         'boardSlugGuess': 'apple',
-        'careersUrl': 'https://jobs.apple.com/en-in/search?search=software%20engineer&location=india-INDC',
+        'careersUrl': 'https://jobs.apple.com/en-in/search?search=software%20developer&location=india-INDC',
     },
     'flipkart': {
         'source': 'generic',
@@ -74,22 +74,22 @@ official_source_overrides = {
     'meta': {
         'source': 'generic',
         'boardSlugGuess': 'meta',
-        'careersUrl': 'https://www.metacareers.com/jobsearch/?q=software%20engineer&location=India',
+        'careersUrl': 'https://www.metacareers.com/jobsearch/?q=software%20developer&location=India',
     },
     'meta india': {
         'source': 'generic',
         'boardSlugGuess': 'meta',
-        'careersUrl': 'https://www.metacareers.com/jobsearch/?q=software%20engineer&location=India',
+        'careersUrl': 'https://www.metacareers.com/jobsearch/?q=software%20developer&location=India',
     },
     'uber': {
         'source': 'generic',
         'boardSlugGuess': 'uber',
-        'careersUrl': 'https://www.uber.com/in/en/careers/list/?query=software%20engineer&location=IND',
+        'careersUrl': 'https://www.uber.com/in/en/careers/list/?query=software%20developer&location=IND',
     },
     'uber india': {
         'source': 'generic',
         'boardSlugGuess': 'uber',
-        'careersUrl': 'https://www.uber.com/in/en/careers/list/?query=software%20engineer&location=IND',
+        'careersUrl': 'https://www.uber.com/in/en/careers/list/?query=software%20developer&location=IND',
     },
 }
 

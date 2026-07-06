@@ -21,6 +21,7 @@
 // entries for companies it actually confirmed data for.
 
 import { mkdir, writeFile, readFile } from 'node:fs/promises'
+import { matchesSdeRole, sdeSearchQueries } from './sde-role-keywords.mjs'
 
 const ninetyDaysMs = 90 * 24 * 60 * 60 * 1000
 const cutoff = Date.now() - ninetyDaysMs
@@ -32,25 +33,7 @@ const retryAfterMs = 14 * 24 * 60 * 60 * 1000
 const batchSize = Number(process.env.GENERIC_BATCH_SIZE || 100)
 const useBrowserFallback = process.env.GENERIC_USE_BROWSER !== '0' // on by default, set to '0' to disable
 
-const sdeTitleTerms = [
-  'software engineer', 'software engine', 'software developer', 'software dev', 'application developer', 'frontend', 'front end',
-  'backend', 'back end', 'full stack', 'fullstack', 'platform engineer', 'systems engineer',
-  'architect', 'infrastructure engineer', 'mobile engineer', 'android engineer', 'ios engineer',
-  'machine learning engineer', 'data engineer', 'devops engineer', 'site reliability engineer',
-  'sre', 'member of technical staff', 'mts', 'technical staff',
-]
-const excludedTitleTerms = [
-  'copy of', 'account executive', 'sales development', 'sales engineer', 'sales manager',
-  'recruiter', 'recruiting', 'support engineer', 'customer support', 'solution area', 'people ops',
-  'hr ', 'human resources', 'director', 'vp of', 'vice president', 'product manager',
-  'program manager', 'project manager', 'business analyst', 'finance', 'legal', 'marketing',
-  'customer success', 'office manager', 'executive assistant',
-]
-const isSdeRole = (title = '') => {
-  const t = title.toLowerCase()
-  if (excludedTitleTerms.some(term => t.includes(term))) return false
-  return sdeTitleTerms.some(term => t.includes(term))
-}
+const isSdeRole = (title = '', department = '') => matchesSdeRole(title, department)
 
 const isIndiaLocation = (location = '') =>
   /india|bengaluru|bangalore|hyderabad|pune|mumbai|gurugram|gurgaon|noida|delhi|new delhi|chennai|ahmedabad|kolkata|calcutta|jaipur|lucknow|kochi|cochin|bhubaneswar|trivandrum|thiruvananthapuram|nagpur|indore|coimbatore|vadodara|surat|mangalore|vizag|visakhapatnam|chandigarh|mohali/i.test(location)
@@ -357,13 +340,20 @@ const parseAmazonOfficialJobs = (payload, pageUrl) => {
 }
 
 const fetchAmazonOfficialJobs = async (pageUrl) => {
-  const url = pageUrl.includes('search.json')
-    ? pageUrl
-    : 'https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent'
-  const response = await fetchWithTimeout(url, {}, fetchTimeoutMs)
-  if (!response.ok) return []
-  const payload = await response.json()
-  return parseAmazonOfficialJobs(payload, url)
+  const urls = [
+    pageUrl.includes('search.json') ? pageUrl : null,
+    ...sdeSearchQueries.map(query =>
+      `https://www.amazon.jobs/en/search.json?base_query=${encodeURIComponent(query).replace(/%20/g, '+')}&country=IND&result_limit=50&sort=recent`
+    ),
+  ].filter(Boolean)
+  const jobsById = new Map()
+  for (const url of [...new Set(urls)]) {
+    const response = await fetchWithTimeout(url, {}, fetchTimeoutMs)
+    if (!response.ok) continue
+    const payload = await response.json()
+    parseAmazonOfficialJobs(payload, url).forEach(job => jobsById.set(job.id || job.url, job))
+  }
+  return [...jobsById.values()]
 }
 
 const parseAppleOfficialJobs = (html, pageUrl) => {
@@ -723,15 +713,15 @@ for (const { company, found } of confirmed) {
   delete company._reachableCareersUrl
 
   const sdeJobs = (found.jsonLdJobs || [])
-    .filter(j => isSdeRole(j.title || ''))
+    .filter(j => isSdeRole(j.title || '', j.hiringOrganization?.name || ''))
     .map(j => normalizeGenericJob(j, company, found.careersUrl))
     .filter(j => !Number.isFinite(Date.parse(j.postedAt)) || Date.parse(j.postedAt) >= cutoff)
   const googleSdeJobs = (found.googleJobs || [])
-    .filter(j => isSdeRole(j.title || ''))
+    .filter(j => isSdeRole(j.title || '', j.department || ''))
     .map(j => normalizeGoogleCareersJob(j, company))
     .filter(j => !Number.isFinite(Date.parse(j.postedAt)) || Date.parse(j.postedAt) >= cutoff)
   const officialSdeJobs = (found.officialJobs || [])
-    .filter(j => isSdeRole(j.title || ''))
+    .filter(j => isSdeRole(j.title || '', j.department || ''))
     .map(j => normalizeOfficialCareerJob(j, company))
     .filter(j => !Number.isFinite(Date.parse(j.postedAt)) || Date.parse(j.postedAt) >= cutoff)
   newJobs.push(...sdeJobs, ...googleSdeJobs, ...officialSdeJobs)

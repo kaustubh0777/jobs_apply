@@ -1,4 +1,5 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises'
+import { matchesSdeRole, sdeSearchQueries } from './sde-role-keywords.mjs'
 
 const ninetyDaysMs = 90 * 24 * 60 * 60 * 1000
 // Shorter timeout for discovery probes, longer for actual fetches
@@ -7,33 +8,6 @@ const fetchTimeoutMs = 8000
 // Concurrency for parallel probes and fetches
 const discoveryConcurrency = 60
 const fetchConcurrency = 40
-
-const sdeTitleTerms = [
-  'software engineer',
-  'software developer',
-  'application developer',
-  'frontend',
-  'front end',
-  'backend',
-  'back end',
-  'full stack',
-  'fullstack',
-  'platform engineer',
-  'systems engineer',
-  'architect',
-  'infrastructure engineer',
-  'mobile engineer',
-  'android engineer',
-  'ios engineer',
-  'machine learning engineer',
-  'data engineer',
-  'devops engineer',
-  'site reliability engineer',
-  'sre',
-  'member of technical staff',
-  'mts',
-  'technical staff',
-]
 
 const microsoftPages = [
   'https://careers.microsoft.com/professionals/us/en/l-india',
@@ -235,46 +209,10 @@ const fetchWithTimeout = async (url, options = {}, timeoutMs = fetchTimeoutMs) =
 
 // ─── SDE role filters ─────────────────────────────────────────────────────────
 
-const excludedTitleTerms = [
-  'copy of',
-  'account executive',
-  'sales development',
-  'sales engineer',
-  'sales manager',
-  'recruiter',
-  'recruiting',
-  'support engineer',
-  'customer support',
-  'solution area',
-  'people ops',
-  'hr ',
-  'human resources',
-  'director',
-  'vp of',
-  'vice president',
-  'product manager',
-  'program manager',
-  'project manager',
-  'business analyst',
-  'finance',
-  'legal',
-  'marketing',
-  'customer success',
-  'office manager',
-  'executive assistant',
-]
-
 const isSdeRole = (job) => {
-  const title = (job.title || job.text || '').toLowerCase()
-  const department = (job.departments?.map(d => d.name).join(' ') || job.categories?.team || job.categories?.department || '').toLowerCase()
-  if (excludedTitleTerms.some(t => title.includes(t))) return false
-  return (
-    sdeTitleTerms.some(t => title.includes(t)) ||
-    department.includes('engineering') ||
-    department.includes('software') ||
-    department.includes('technology') ||
-    department.includes('product development')
-  )
+  const title = job.title || job.text || ''
+  const department = job.departments?.map(d => d.name).join(' ') || job.categories?.team || job.categories?.department || ''
+  return matchesSdeRole(title, department)
 }
 
 // ─── Domain helpers ───────────────────────────────────────────────────────────
@@ -756,23 +694,31 @@ const fetchWorkday = async (company) => {
   for (const dc of workdayDatacenters) {
     try {
       const url = `https://${company.workdaySubdomain}.${dc}.myworkdayjobs.com/wday/cxs/${company.workdaySubdomain}/${company.workdayTenant}/jobs`
-      const response = await fetchWithTimeout(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          appliedFacets: {},
-          limit: 20,
-          offset: 0,
-          searchText: 'software engineer',
-        }),
-      }, fetchTimeoutMs)
-      if (!response.ok) continue
-      const payload = await response.json()
-      const postings = (payload.jobPostings || [])
-        .filter(job => isSdeRole({ title: job.title }))
-        .map(job => normalizeWorkdayJob(job, company))
-        .filter(job => Number.isFinite(Date.parse(job.postedAt)) && Date.parse(job.postedAt) >= cutoff)
-      if (postings.length >= 0) return postings // success on this DC
+      const jobsById = new Map()
+      let sawWorkingDatacenter = false
+
+      for (const searchText of sdeSearchQueries) {
+        const response = await fetchWithTimeout(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            appliedFacets: {},
+            limit: 50,
+            offset: 0,
+            searchText,
+          }),
+        }, fetchTimeoutMs)
+        if (!response.ok) continue
+        sawWorkingDatacenter = true
+        const payload = await response.json()
+        ;(payload.jobPostings || [])
+          .filter(job => isSdeRole({ title: job.title }))
+          .map(job => normalizeWorkdayJob(job, company))
+          .filter(job => Number.isFinite(Date.parse(job.postedAt)) && Date.parse(job.postedAt) >= cutoff)
+          .forEach(job => jobsById.set(job.id, job))
+      }
+
+      if (sawWorkingDatacenter) return [...jobsById.values()]
     } catch {
       // try next datacenter
     }
