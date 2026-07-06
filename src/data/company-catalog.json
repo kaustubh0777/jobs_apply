@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:56:25.440Z",
+  "generatedAt": "2026-07-06T20:14:58.072Z",
   "companyCatalogSize": 1649,
   "companies": [
     {
@@ -10,7 +10,7 @@
       "careersUrl": "https://1mg.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:06:41.239Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:36.529Z",
       "webDiscoveryFailed": false
     },
@@ -22,7 +22,7 @@
       "careersUrl": "https://1mg.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:07:56.877Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:36.338Z",
       "webDiscoveryFailed": false
     },
@@ -34,7 +34,7 @@
       "careersUrl": "https://www.247.ai/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:07:32.005Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:44.377Z",
       "webDiscoveryFailed": false
     },
@@ -46,7 +46,7 @@
       "careersUrl": "https://www.3i-infotech.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:07:13.524Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:44.379Z",
       "webDiscoveryFailed": false
     },
@@ -69,7 +69,7 @@
       "careersUrl": "https://5paisa.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:36.215Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:35.743Z",
       "webDiscoveryFailed": false
     },
@@ -77,10 +77,9 @@
       "name": "5paisa Capital",
       "boardSlugGuess": "5paisacapital",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:43.222Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.454Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:35.415Z",
       "webDiscoveryFailed": true
     },
@@ -88,10 +87,9 @@
       "name": "99acres (IT)",
       "boardSlugGuess": "99acresit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:26.607Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.457Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:44.380Z",
       "webDiscoveryFailed": true
     },
@@ -99,10 +97,9 @@
       "name": "99acres.com",
       "boardSlugGuess": "99acrescom",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:43.383Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.457Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:36.335Z",
       "webDiscoveryFailed": true
     },
@@ -110,10 +107,9 @@
       "name": "Aavas Financiers (IT)",
       "boardSlugGuess": "aavasfinanciersit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:10.081Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.459Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:37.207Z",
       "webDiscoveryFailed": true
     },
@@ -121,10 +117,9 @@
       "name": "Abarth India (IT)",
       "boardSlugGuess": "abarthindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:06.893Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.461Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:36.361Z",
       "webDiscoveryFailed": true
     },
@@ -136,7 +131,7 @@
       "careersUrl": "https://abbindia.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:49.885Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:37.930Z",
       "webDiscoveryFailed": false
     },
@@ -172,7 +167,7 @@
       "careersUrl": "https://acko.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:06:49.292Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:36.785Z",
       "webDiscoveryFailed": false
     },
@@ -180,10 +175,9 @@
       "name": "Acqueon",
       "boardSlugGuess": "acqueon",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:50.251Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.462Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:45.531Z",
       "webDiscoveryFailed": true
     },
@@ -191,10 +185,9 @@
       "name": "Active.Ai",
       "boardSlugGuess": "activeai",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:30.239Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.463Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:45.788Z",
       "webDiscoveryFailed": true
     },
@@ -202,10 +195,9 @@
       "name": "Addverb Technologies",
       "boardSlugGuess": "addverbtechnologies",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:49.810Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.816Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:46.208Z",
       "webDiscoveryFailed": true
     },
@@ -219,10 +211,9 @@
       "name": "Aditya Birla Capital Tech",
       "boardSlugGuess": "adityabirlacapitaltech",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:05.156Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.816Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:46.933Z",
       "webDiscoveryFailed": true
     },
@@ -230,10 +221,9 @@
       "name": "Aditya Birla Fashion (IT)",
       "boardSlugGuess": "adityabirlafashionit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:05.270Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.820Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:53.380Z",
       "webDiscoveryFailed": true
     },
@@ -241,10 +231,9 @@
       "name": "Aditya Birla Money (IT)",
       "boardSlugGuess": "adityabirlamoneyit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:03.551Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.819Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:53.380Z",
       "webDiscoveryFailed": true
     },
@@ -252,10 +241,9 @@
       "name": "Adobe",
       "boardSlugGuess": "adobeindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:41.592Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.464Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-28T21:05:53.380Z",
       "webDiscoveryFailed": true
     },
@@ -263,10 +251,9 @@
       "name": "Adobe Systems India Engineering",
       "boardSlugGuess": "adobesystemsindiaengineering",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:14.680Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.829Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:32.475Z",
       "webDiscoveryFailed": true
     },
@@ -274,10 +261,9 @@
       "name": "Affine Analytics",
       "boardSlugGuess": "affineanalytics",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:45.016Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:18.190Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:39.192Z"
     },
     {
@@ -290,10 +276,9 @@
       "name": "Agco India (IT)",
       "boardSlugGuess": "agcoindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:50.029Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.817Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:32.623Z",
       "webDiscoveryFailed": true
     },
@@ -307,10 +292,9 @@
       "name": "Agritrac India (IT)",
       "boardSlugGuess": "agritracindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:05.954Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.834Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:32.476Z",
       "webDiscoveryFailed": true
     },
@@ -322,7 +306,7 @@
       "careersUrl": "https://agrostar.com/info/Jobs.html?ses=ogcEDJlYf3VQCePr9b6DOGrJn8pbgaAL-02bGNfXPDPCyXukh_S890ufSiMJy1n8me9s278RBat--45J_AiczNs642gFhj99TbnBfL1pOL2oH7uLtH7ctuNYKPk21JVVPCM9mJqlsq65P03cPOqUk7FBkvWh2OhboKOg7GoGhxpa4IBlZlblL9dvJwXH1PLYsVhlf4sOmcY3MoUN8TKTmq_majiN1kEX19196poUkxcxKaYsa6rG75qxXHLoAIhDIQ51xPi6XMbaEhYw5a8MPJlkXp9ybd0ti1Ti7LubWFXKLXZ9TsSM88jax7GZJ80NFzpDQbRxwU&category=Jobs&keyword=Jobs",
       "discoveryAttemptedAt": "2026-06-21T22:06:50.197Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:31.774Z",
       "webDiscoveryFailed": false
     },
@@ -334,7 +318,7 @@
       "careersUrl": "https://agrostar.com/info/Jobs.html?ses=ogcTNRa2qpoSTO6yVPO3ygpIMEvVqZMSOPFBPz6ZHYUFJLXGp-DARRFzh-UwS-tEJ7LmiQ7-sdtMMiAf1fswb17tx2CihlYsoVGCryxj-HUkkoqrblNWoqtGsyubWE1Cw9ikW_P9n-557GXSMLwDte-Pb8GFktw_g1dc1lQ436q4K6qPu18YffwKFt6UuiEo0zSb0hhg1wHIUTmLEKgre9rjiub-L1KmTwSUf7bJ4TaTgx237_7_1PeRsDaWgv3lwh-UGo66BkOsu5_AvhS_eDQ6CXhlpIU6quWXvN1ff4fhmBFkS7zLaAQuZnxlXte6lVtCZlKS2M&category=Jobs&keyword=Jobs",
       "discoveryAttemptedAt": "2026-06-21T22:07:26.259Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:31.748Z",
       "webDiscoveryFailed": false
     },
@@ -342,10 +326,9 @@
       "name": "Aibono",
       "boardSlugGuess": "aibono",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:43.003Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.833Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:36.975Z",
       "webDiscoveryFailed": true
     },
@@ -353,10 +336,9 @@
       "name": "Aindra Systems",
       "boardSlugGuess": "aindrasystems",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:48.128Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.839Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:32.537Z",
       "webDiscoveryFailed": true
     },
@@ -376,10 +358,9 @@
       "name": "Airbus",
       "boardSlugGuess": "airbusindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:41.076Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.837Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:39.196Z"
     },
     {
@@ -396,7 +377,7 @@
       "careersUrl": "https://airtel.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:52.064Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:33.582Z",
       "webDiscoveryFailed": false
     },
@@ -408,7 +389,7 @@
       "careersUrl": "https://airteldigital.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:40.760Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:33.337Z",
       "webDiscoveryFailed": false
     },
@@ -416,30 +397,27 @@
       "name": "Airtel Money (IT)",
       "boardSlugGuess": "airtelmoneyit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:02.892Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.840Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:39.197Z"
     },
     {
       "name": "Airtel Payments Bank (IT)",
       "boardSlugGuess": "airtelpaymentsbankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:03.212Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.843Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:40.750Z"
     },
     {
       "name": "Airtel X Labs",
       "boardSlugGuess": "airtelxlabs",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:17.594Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.833Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:37.933Z",
       "webDiscoveryFailed": true
     },
@@ -447,10 +425,9 @@
       "name": "Ajio",
       "boardSlugGuess": "ajio",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:49.962Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.832Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:41.477Z"
     },
     {
@@ -461,7 +438,7 @@
       "careersUrl": "https://akamai.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:43.124Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:33.257Z",
       "webDiscoveryFailed": false
     },
@@ -469,10 +446,9 @@
       "name": "Akrivia HCM",
       "boardSlugGuess": "akriviahcm",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:49.154Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.844Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:40.080Z",
       "webDiscoveryFailed": true
     },
@@ -484,7 +460,7 @@
       "careersUrl": "https://aksitservices.co.in/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:05.375Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:38.158Z",
       "webDiscoveryFailed": false
     },
@@ -492,10 +468,9 @@
       "name": "Alfa Romeo India (IT)",
       "boardSlugGuess": "alfaromeoindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:57.243Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.845Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:33.610Z",
       "webDiscoveryFailed": true
     },
@@ -503,10 +478,9 @@
       "name": "Algoworks Solutions",
       "boardSlugGuess": "algoworkssolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:44.017Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.847Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:33.734Z",
       "webDiscoveryFailed": true
     },
@@ -514,30 +488,27 @@
       "name": "Alibaba",
       "boardSlugGuess": "alibaba",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:41.949Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.846Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:42.584Z"
     },
     {
       "name": "Alice Blue (IT)",
       "boardSlugGuess": "aliceblueit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:02.981Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.842Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:42.611Z"
     },
     {
       "name": "Allsec Technologies",
       "boardSlugGuess": "allsectechnologies",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:44.754Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.972Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:38.144Z",
       "webDiscoveryFailed": true
     },
@@ -545,10 +516,9 @@
       "name": "Alpine India (IT)",
       "boardSlugGuess": "alpineindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:05.912Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.972Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:45.976Z"
     },
     {
@@ -559,7 +529,7 @@
       "careersUrl": "https://altigreen.darwinbox.in/ms/candidate/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:21.188Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:38.571Z",
       "webDiscoveryFailed": false
     },
@@ -567,10 +537,9 @@
       "name": "Altran India (Capgemini Engineering)",
       "boardSlugGuess": "altranindiacapgeminiengineering",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:56.037Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.967Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:39.137Z",
       "webDiscoveryFailed": true
     },
@@ -586,10 +555,9 @@
       "name": "Amadeus Labs",
       "boardSlugGuess": "amadeuslabs",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:40.594Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.968Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:47.159Z"
     },
     {
@@ -600,7 +568,7 @@
       "careersUrl": "https://www.amagi.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:42.736Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:40.236Z",
       "webDiscoveryFailed": false
     },
@@ -611,7 +579,7 @@
       "source": "generic",
       "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Amazon Fresh (IT)",
@@ -621,7 +589,7 @@
       "careersUrl": "https://amazonfresh.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:08:08.321Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:44.061Z",
       "webDiscoveryFailed": false
     },
@@ -633,26 +601,24 @@
       "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=software+engineer&country=IND&result_limit=50&sort=recent",
       "discoveryAttemptedAt": "2026-06-21T22:08:24.610Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Amazon Pay (IT)",
       "boardSlugGuess": "amazonpayit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:10.171Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.969Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:48.196Z"
     },
     {
       "name": "Ambit Capital (IT)",
       "boardSlugGuess": "ambitcapitalit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:01.435Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.970Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:48.198Z"
     },
     {
@@ -663,7 +629,7 @@
       "careersUrl": "https://amd.com/en/corporate/careers.html",
       "discoveryAttemptedAt": "2026-06-21T22:06:41.084Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:40.379Z",
       "webDiscoveryFailed": false
     },
@@ -675,7 +641,7 @@
       "careersUrl": "https://www.americanexpress.com/en-us/careers/?inav=en_in_footer_company_information_careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:43.205Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:41.591Z",
       "webDiscoveryFailed": false
     },
@@ -683,30 +649,27 @@
       "name": "Amesite",
       "boardSlugGuess": "amesite",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:50.192Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:15.971Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:49.238Z"
     },
     {
       "name": "Ampere (IT)",
       "boardSlugGuess": "ampereit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:27.885Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.020Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:49.381Z"
     },
     {
       "name": "Analog Devices",
       "boardSlugGuess": "analogdevicesindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:39.026Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.022Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:49.753Z"
     },
     {
@@ -717,7 +680,7 @@
       "careersUrl": "https://anandrathi.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:07.815Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:41.945Z",
       "webDiscoveryFailed": false
     },
@@ -725,10 +688,9 @@
       "name": "Ancestry",
       "boardSlugGuess": "ancestry",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:06:50.256Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.022Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:50.592Z"
     },
     {
@@ -757,7 +719,7 @@
       "careersUrl": "https://www.ansys.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:50.397Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:44.267Z",
       "webDiscoveryFailed": false
     },
@@ -765,20 +727,18 @@
       "name": "Apache (open source via Indian eng centers)",
       "boardSlugGuess": "apacheopensourceviaindianengcenters",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:04.172Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.024Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:51.588Z"
     },
     {
       "name": "Apna",
       "boardSlugGuess": "apna",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:03.800Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.024Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:51.612Z"
     },
     {
@@ -797,21 +757,21 @@
       "name": "AppDynamics",
       "boardSlugGuess": "appdynamics",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:03.655Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.023Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:53.063Z"
     },
     {
       "name": "Apple",
-      "boardSlugGuess": "applecom",
+      "boardSlugGuess": "apple",
       "type": "Product",
       "source": "generic",
-      "careersUrl": "https://apple.com/careers/us/",
+      "careersUrl": "https://jobs.apple.com/en-in/search?search=software%20engineer&location=india-INDC",
       "discoveryFailed": false,
       "webDiscoveryAttemptedAt": "2026-07-06T19:55:58.183Z",
-      "webDiscoveryFailed": false
+      "webDiscoveryFailed": false,
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Applied Materials",
@@ -831,40 +791,36 @@
       "name": "Aptus Value Housing Finance (IT)",
       "boardSlugGuess": "aptusvaluehousingfinanceit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:17.416Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.026Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:53.270Z"
     },
     {
       "name": "Arcesium",
       "boardSlugGuess": "arcesium",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:03.339Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.025Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:54.978Z"
     },
     {
       "name": "Ariel India (IT)",
       "boardSlugGuess": "arielindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:09.427Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.027Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:56.163Z"
     },
     {
       "name": "Arihant Capital (IT)",
       "boardSlugGuess": "arihantcapitalit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:11.520Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.028Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:57.198Z"
     },
     {
@@ -877,40 +833,36 @@
       "name": "ARM Holdings India",
       "boardSlugGuess": "armholdingsindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:32.815Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.029Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:57.200Z"
     },
     {
       "name": "Arrival India (IT)",
       "boardSlugGuess": "arrivalindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:22.354Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.034Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:58.240Z"
     },
     {
       "name": "Arrow Electronics India",
       "boardSlugGuess": "arrowelectronicsindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:31.174Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.083Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:58.384Z"
     },
     {
       "name": "Arya.ai",
       "boardSlugGuess": "aryaai",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:48.836Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.164Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:58.755Z"
     },
     {
@@ -923,20 +875,18 @@
       "name": "Ashika Stock Broking (IT)",
       "boardSlugGuess": "ashikastockbrokingit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:28.518Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.186Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:11:59.596Z"
     },
     {
       "name": "Aspire Systems",
       "boardSlugGuess": "aspiresystems",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:03.004Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.112Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:00.590Z"
     },
     {
@@ -951,50 +901,45 @@
       "name": "AstraZeneca India",
       "boardSlugGuess": "astrazenecaindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:05.867Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.141Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:00.614Z"
     },
     {
       "name": "AT&T Global Network Services India",
       "boardSlugGuess": "attglobalnetworkservicesindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:19.930Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:18.541Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:02.067Z"
     },
     {
       "name": "Athenahealth",
       "boardSlugGuess": "athenahealth",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:21.190Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.142Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:02.272Z"
     },
     {
       "name": "Ather Energy",
       "boardSlugGuess": "atherenergy",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:17.799Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.143Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:03.981Z"
     },
     {
       "name": "Ather Energy (IT)",
       "boardSlugGuess": "atherenergyit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:32.323Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.185Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:05.166Z"
     },
     {
@@ -1021,10 +966,9 @@
       "name": "Atos India",
       "boardSlugGuess": "atosindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:19.359Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.909Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:06.200Z"
     },
     {
@@ -1037,160 +981,144 @@
       "name": "AU Small Finance Bank (IT)",
       "boardSlugGuess": "ausmallfinancebankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:30.102Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.520Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:06.201Z"
     },
     {
       "name": "Aubergine Solutions",
       "boardSlugGuess": "auberginesolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:34.629Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.196Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:07.243Z"
     },
     {
       "name": "Audi India (IT)",
       "boardSlugGuess": "audiindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:50.949Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.198Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:07.388Z"
     },
     {
       "name": "Aurionpro Solutions",
       "boardSlugGuess": "aurionprosolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:34.249Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:20.038Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:07.758Z"
     },
     {
       "name": "Auth0",
       "boardSlugGuess": "auth0",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:43.185Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.202Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:08.598Z"
     },
     {
       "name": "Autodesk India",
       "boardSlugGuess": "autodeskindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:37.263Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.217Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:09.593Z"
     },
     {
       "name": "Autodesk India R&D",
       "boardSlugGuess": "autodeskindiard",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:51.448Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.333Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:09.616Z"
     },
     {
       "name": "Automatic Data Processing",
       "boardSlugGuess": "automaticdataprocessing",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:01.977Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.329Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:11.070Z"
     },
     {
       "name": "Automation Anywhere",
       "boardSlugGuess": "automationanywhere",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:53.004Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.322Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:11.274Z"
     },
     {
       "name": "Avaamo",
       "boardSlugGuess": "avaamo",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:56.096Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.214Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:12.983Z"
     },
     {
       "name": "Avail Finance",
       "boardSlugGuess": "availfinance",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:56.000Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.217Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:14.169Z"
     },
     {
       "name": "Avalara",
       "boardSlugGuess": "avalara",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:07:57.834Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.350Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:15.203Z"
     },
     {
       "name": "Avaya",
       "boardSlugGuess": "avaya",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:00.179Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.342Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:15.204Z"
     },
     {
       "name": "Avendus Capital (IT)",
       "boardSlugGuess": "avenduscapitalit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:13.739Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.501Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:16.244Z"
     },
     {
       "name": "Avnet India",
       "boardSlugGuess": "avnetindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:03.629Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.694Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:16.391Z"
     },
     {
       "name": "Axis Bank (IT)",
       "boardSlugGuess": "axisbankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:10.614Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.464Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:16.760Z"
     },
     {
@@ -1203,100 +1131,90 @@
       "name": "Axis Securities (IT)",
       "boardSlugGuess": "axissecuritiesit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:10.501Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.233Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:17.600Z"
     },
     {
       "name": "BAC India (IT)",
       "boardSlugGuess": "bacindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:15.122Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.904Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:18.594Z"
     },
     {
       "name": "Bahwan CyberTek",
       "boardSlugGuess": "bahwancybertek",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:54.257Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.469Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:18.618Z"
     },
     {
       "name": "BAIC India (IT)",
       "boardSlugGuess": "baicindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:17.319Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.515Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:20.073Z"
     },
     {
       "name": "Bain & Company India",
       "boardSlugGuess": "baincompanyindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:22.898Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.486Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:18:47.238Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:20.276Z"
     },
     {
       "name": "Bajaj Allianz Tech",
       "boardSlugGuess": "bajajallianztech",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:15.150Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.220Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.183Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:21.985Z"
     },
     {
       "name": "Bajaj Auto (IT)",
       "boardSlugGuess": "bajajautoit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:12.042Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.511Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:23.173Z"
     },
     {
       "name": "Bajaj Auto Tech",
       "boardSlugGuess": "bajajautotech",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:15.122Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.522Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:24.205Z"
     },
     {
       "name": "Bajaj Finance (IT)",
       "boardSlugGuess": "bajajfinanceit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:14.156Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.702Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:24.206Z"
     },
     {
       "name": "Bajaj Finance Digital",
       "boardSlugGuess": "bajajfinancedigital",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:18.427Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.516Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:25.247Z"
     },
     {
@@ -1311,40 +1229,36 @@
       "name": "Bajaj Markets",
       "boardSlugGuess": "bajajmarkets",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:03.819Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.509Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:25.394Z"
     },
     {
       "name": "Bajaj Securities (IT)",
       "boardSlugGuess": "bajajsecuritiesit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:21.817Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.826Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:25.762Z"
     },
     {
       "name": "Baker Tilly India",
       "boardSlugGuess": "bakertillyindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:24.591Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.503Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:26.602Z"
     },
     {
       "name": "Bandhan Bank (IT)",
       "boardSlugGuess": "bandhanbankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:26.623Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.514Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:27.597Z"
     },
     {
@@ -1359,90 +1273,81 @@
       "name": "Bank of America Continuum Solutions",
       "boardSlugGuess": "bankofamericacontinuumsolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:40.754Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.585Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:27.619Z"
     },
     {
       "name": "Bank of America India",
       "boardSlugGuess": "bankofamericatechindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:25.264Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.544Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:29.076Z"
     },
     {
       "name": "Bank of Baroda (IT)",
       "boardSlugGuess": "bankofbarodait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:26.016Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.906Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:29.278Z"
     },
     {
       "name": "Bank of Maharashtra (IT)",
       "boardSlugGuess": "bankofmaharashtrait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:28.215Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.566Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:30.988Z"
     },
     {
       "name": "BankBazaar",
       "boardSlugGuess": "bankbazaar",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:20.768Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.420Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:32.175Z"
     },
     {
       "name": "BARC (IT)",
       "boardSlugGuess": "barcit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:04.946Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.559Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:33.207Z"
     },
     {
       "name": "Barclays",
       "boardSlugGuess": "barclaystechindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:18.310Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.428Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:33.207Z"
     },
     {
       "name": "Barclays Global Service Centre India",
       "boardSlugGuess": "barclaysglobalservicecentreindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:51.709Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.915Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:34.250Z"
     },
     {
       "name": "Bayer India",
       "boardSlugGuess": "bayerindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:15.122Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.631Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:34.396Z"
     },
     {
@@ -1455,70 +1360,63 @@
       "name": "BDO India",
       "boardSlugGuess": "bdoindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:14.356Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.616Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:34.765Z"
     },
     {
       "name": "Beehive HRMS",
       "boardSlugGuess": "beehivehrms",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:19.252Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.621Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:35.604Z"
     },
     {
       "name": "Beeline Broking (IT)",
       "boardSlugGuess": "beelinebrokingit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:33.060Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.910Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:12:36.598Z"
     },
     {
       "name": "BEL (IT)",
       "boardSlugGuess": "belit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:00.460Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.611Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:41.997Z"
     },
     {
       "name": "Belaz India (IT)",
       "boardSlugGuess": "belazindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:31.549Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:20.035Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.001Z"
     },
     {
       "name": "Bentley India (IT)",
       "boardSlugGuess": "bentleyindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:32.269Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.632Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.003Z"
     },
     {
       "name": "Best Buy India",
       "boardSlugGuess": "bestbuyindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:39.044Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.610Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.003Z"
     },
     {
@@ -1535,7 +1433,7 @@
       "careersUrl": "https://bharatagri.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:26.968Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:35.847Z",
       "webDiscoveryFailed": false
     },
@@ -1547,7 +1445,7 @@
       "careersUrl": "https://bharatpe.com/career/",
       "discoveryAttemptedAt": "2026-06-21T22:08:26.973Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:34.114Z",
       "webDiscoveryFailed": false
     },
@@ -1555,80 +1453,72 @@
       "name": "Bharti Airtel Tech",
       "boardSlugGuess": "bhartiairteltech",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:35.681Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.644Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.006Z"
     },
     {
       "name": "Big Bazaar (IT)",
       "boardSlugGuess": "bigbazaarit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:33.932Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.725Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.007Z"
     },
     {
       "name": "BigBasket",
       "boardSlugGuess": "bigbasket",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:30.015Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.700Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.008Z"
     },
     {
       "name": "BigBasket (IT)",
       "boardSlugGuess": "bigbasketit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:07.126Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.637Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.009Z"
     },
     {
       "name": "Bigbasket Daily",
       "boardSlugGuess": "bigbasketdaily",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:25.196Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.653Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.009Z"
     },
     {
       "name": "BigHaat (IT)",
       "boardSlugGuess": "bighaatit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:17.671Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.621Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:42.010Z"
     },
     {
       "name": "Bijak (IT)",
       "boardSlugGuess": "bijakit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:15.626Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.588Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:43.116Z"
     },
     {
       "name": "BikeWale",
       "boardSlugGuess": "bikewale",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:36.945Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.564Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:44.848Z"
     },
     {
@@ -1641,10 +1531,9 @@
       "name": "Billdesk",
       "boardSlugGuess": "billdesk",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:36.421Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.592Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.001Z"
     },
     {
@@ -1663,10 +1552,9 @@
       "name": "BitBNS",
       "boardSlugGuess": "bitbns",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:36.319Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.600Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.003Z"
     },
     {
@@ -1679,50 +1567,45 @@
       "name": "Blackbuck",
       "boardSlugGuess": "blackbuck",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:38.341Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.585Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.003Z"
     },
     {
       "name": "BlackBuck (Zinka Logistics)",
       "boardSlugGuess": "blackbuckzinkalogistics",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:44.566Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.610Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.006Z"
     },
     {
       "name": "BlackRock",
       "boardSlugGuess": "blackrock",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:41.043Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.721Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.007Z"
     },
     {
       "name": "Blinkit",
       "boardSlugGuess": "blinkit",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:44.363Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.611Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.008Z"
     },
     {
       "name": "Blinkit (IT)",
       "boardSlugGuess": "blinkitit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:23.517Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.628Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.009Z"
     },
     {
@@ -1735,20 +1618,18 @@
       "name": "Bloomberg",
       "boardSlugGuess": "bloombergindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:45.634Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.631Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.010Z"
     },
     {
       "name": "Bloomberg L.P. India",
       "boardSlugGuess": "bloomberglpindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:56.364Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.915Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.012Z"
     },
     {
@@ -1773,60 +1654,54 @@
       "name": "BlueJeans",
       "boardSlugGuess": "bluejeans",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:49.580Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.365Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:51.012Z"
     },
     {
       "name": "BluSmart (IT)",
       "boardSlugGuess": "blusmartit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:22.862Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.742Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:52.118Z"
     },
     {
       "name": "BMC Software",
       "boardSlugGuess": "bmcsoftware",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:46.778Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.749Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:17:53.850Z"
     },
     {
       "name": "BMW India (IT)",
       "boardSlugGuess": "bmwindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:56.711Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.754Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.004Z"
     },
     {
       "name": "BNP Paribas India",
       "boardSlugGuess": "bnpparibasindiasolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:58.867Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.767Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.005Z"
     },
     {
       "name": "BNY Mellon India",
       "boardSlugGuess": "bnymellonindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:00.499Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.879Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.006Z"
     },
     {
@@ -1839,80 +1714,72 @@
       "name": "Bobcat India (IT)",
       "boardSlugGuess": "bobcatindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:57.273Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.841Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.008Z"
     },
     {
       "name": "Boeing",
       "boardSlugGuess": "boeing",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:51.634Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.857Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.009Z"
     },
     {
       "name": "Boeing India Engineering Center",
       "boardSlugGuess": "boeingindiaengineeringcenter",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:54.537Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.878Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.010Z"
     },
     {
       "name": "Bogdan India (IT)",
       "boardSlugGuess": "bogdanindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:00.232Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:21.487Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.011Z"
     },
     {
       "name": "Booking Holdings India",
       "boardSlugGuess": "bookingholdingsindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:24.996Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.925Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.011Z"
     },
     {
       "name": "Booking.com India",
       "boardSlugGuess": "bookingcomindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:04.226Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.931Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.011Z"
     },
     {
       "name": "BookMyShow",
       "boardSlugGuess": "bookmyshow",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:08:56.147Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.927Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:00.013Z"
     },
     {
       "name": "Bosch Global Software Technologies",
       "boardSlugGuess": "boschglobalsoftwaretechnologies",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:17.269Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:20.257Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:01.121Z"
     },
     {
@@ -1925,20 +1792,18 @@
       "name": "Boston Consulting Group (BCG) India",
       "boardSlugGuess": "bostonconsultinggroupbcgindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:37.442Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.937Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:02.853Z"
     },
     {
       "name": "Bot.Mp",
       "boardSlugGuess": "botmp",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:44.762Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.936Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.005Z"
     },
     {
@@ -1969,10 +1834,9 @@
       "name": "Bowler India (IT)",
       "boardSlugGuess": "bowlerindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:23.245Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.362Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.007Z"
     },
     {
@@ -1985,110 +1849,99 @@
       "name": "Box8",
       "boardSlugGuess": "box8",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:10.798Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.926Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.007Z"
     },
     {
       "name": "BPCL (IT)",
       "boardSlugGuess": "bpclit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:53.032Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.941Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.009Z"
     },
     {
       "name": "Brainvire Infotech",
       "boardSlugGuess": "brainvireinfotech",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:01.705Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.947Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.010Z"
     },
     {
       "name": "Brilliance India (IT)",
       "boardSlugGuess": "brillianceindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:24.004Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.963Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.012Z"
     },
     {
       "name": "Brillio",
       "boardSlugGuess": "brillio",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:19.371Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.961Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.013Z"
     },
     {
       "name": "Bristol India (IT)",
       "boardSlugGuess": "bristolindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:26.138Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.987Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.013Z"
     },
     {
       "name": "Broadcom",
       "boardSlugGuess": "broadcomindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:19.833Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.098Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.014Z"
     },
     {
       "name": "BrowserStack",
       "boardSlugGuess": "browserstack",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:21.913Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:16.974Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:09.014Z"
     },
     {
       "name": "BSNL (IT)",
       "boardSlugGuess": "bsnlit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:56.262Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.075Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:10.125Z"
     },
     {
       "name": "BSNL Technology Division",
       "boardSlugGuess": "bsnltechnologydivision",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:47.400Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.077Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:11.856Z"
     },
     {
       "name": "Bugatti India (IT)",
       "boardSlugGuess": "bugattiindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:24.517Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.020Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.008Z"
     },
     {
@@ -2101,10 +1954,9 @@
       "name": "BYJU'S",
       "boardSlugGuess": "byjus",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:44.513Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.366Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.009Z"
     },
     {
@@ -2119,80 +1971,72 @@
       "name": "Cadence",
       "boardSlugGuess": "cadenceindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:28.131Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.021Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.010Z"
     },
     {
       "name": "Cadence Design Systems India",
       "boardSlugGuess": "cadencedesignsystemsindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:48.238Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.023Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.011Z"
     },
     {
       "name": "CallHealth",
       "boardSlugGuess": "callhealth",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:29.055Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.013Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.011Z"
     },
     {
       "name": "Calsoft",
       "boardSlugGuess": "calsoft",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:30.408Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.032Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.014Z"
     },
     {
       "name": "Can Fin Homes (IT)",
       "boardSlugGuess": "canfinhomesit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:38.685Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.035Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.014Z"
     },
     {
       "name": "Canara Bank (IT)",
       "boardSlugGuess": "canarabankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:37.807Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.202Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.015Z"
     },
     {
       "name": "Canoo",
       "boardSlugGuess": "canoo",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:29.286Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.030Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.015Z"
     },
     {
       "name": "Canoo India (IT)",
       "boardSlugGuess": "canooindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:40.411Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.046Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:18.017Z"
     },
     {
@@ -2219,20 +2063,18 @@
       "name": "Capillary",
       "boardSlugGuess": "capillarytechnologies",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:31.789Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.040Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:19.127Z"
     },
     {
       "name": "Capita India",
       "boardSlugGuess": "capitaindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:19.963Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.079Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:20.860Z"
     },
     {
@@ -2265,20 +2107,18 @@
       "name": "Captain India (IT)",
       "boardSlugGuess": "captainindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:38.934Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.081Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.011Z"
     },
     {
       "name": "CarDekho",
       "boardSlugGuess": "cardekho",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:36.620Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.064Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.012Z"
     },
     {
@@ -2293,10 +2133,9 @@
       "name": "CarTrade Tech",
       "boardSlugGuess": "cartradetech",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:31.944Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.102Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.012Z"
     },
     {
@@ -2309,110 +2148,99 @@
       "name": "Case India (IT)",
       "boardSlugGuess": "caseindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:38.820Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.105Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.014Z"
     },
     {
       "name": "CASHe",
       "boardSlugGuess": "cashe",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:35.825Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.098Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.014Z"
     },
     {
       "name": "Cashfree",
       "boardSlugGuess": "cashfree",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:36.569Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.126Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.015Z"
     },
     {
       "name": "Cashfree Payments",
       "boardSlugGuess": "cashfreepayments",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:28.364Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.127Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.015Z"
     },
     {
       "name": "Caterham India (IT)",
       "boardSlugGuess": "caterhamindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:39.388Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.174Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.015Z"
     },
     {
       "name": "Caterpillar India",
       "boardSlugGuess": "caterpillarindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:21.881Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:21.749Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.016Z"
     },
     {
       "name": "Caterpillar India (IT)",
       "boardSlugGuess": "caterpillarindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:39.036Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.181Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:27.017Z"
     },
     {
       "name": "Catholic Syrian Bank (IT)",
       "boardSlugGuess": "catholicsyrianbankit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:42.452Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.182Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:28.130Z"
     },
     {
       "name": "CCAvenue",
       "boardSlugGuess": "ccavenue",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:38.802Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.223Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:29.862Z"
     },
     {
       "name": "CDAC",
       "boardSlugGuess": "cdac",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:38.262Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.238Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.013Z"
     },
     {
       "name": "Central Bank of India (IT)",
       "boardSlugGuess": "centralbankofindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:45.965Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.567Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.014Z"
     },
     {
@@ -2433,70 +2261,63 @@
       "name": "CGI Group India",
       "boardSlugGuess": "cgigroupindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:45.892Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.317Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.015Z"
     },
     {
       "name": "CGI Information Systems India",
       "boardSlugGuess": "cgiinformationsystemsindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:59.878Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.325Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.015Z"
     },
     {
       "name": "Chainalysis",
       "boardSlugGuess": "chainalysis",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:42.983Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.332Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.016Z"
     },
     {
       "name": "Challenger India (IT)",
       "boardSlugGuess": "challengerindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:45.633Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.321Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.016Z"
     },
     {
       "name": "Chalo (IT)",
       "boardSlugGuess": "chaloit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:16.895Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.348Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.017Z"
     },
     {
       "name": "Changan India (IT)",
       "boardSlugGuess": "changanindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:42.420Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.324Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.018Z"
     },
     {
       "name": "Chargebee",
       "boardSlugGuess": "chargebee",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:44.260Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.325Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.018Z"
     },
     {
@@ -2509,30 +2330,27 @@
       "name": "Charter Communications India",
       "boardSlugGuess": "chartercommunicationsindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:50.145Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.351Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:36.019Z"
     },
     {
       "name": "Check Point",
       "boardSlugGuess": "checkpoint",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:28.062Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.357Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:37.132Z"
     },
     {
       "name": "Chery India (IT)",
       "boardSlugGuess": "cheryindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:45.976Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.343Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:38.865Z"
     },
     {
@@ -2545,90 +2363,81 @@
       "name": "Chingari",
       "boardSlugGuess": "chingari",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:51.438Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.333Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.016Z"
     },
     {
       "name": "Choice International (IT)",
       "boardSlugGuess": "choiceinternationalit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:00.351Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.341Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.017Z"
     },
     {
       "name": "Cholamandalam Finance (IT)",
       "boardSlugGuess": "cholamandalamfinanceit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:52.429Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.360Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.018Z"
     },
     {
       "name": "Ciena India",
       "boardSlugGuess": "cienaindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:38.479Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.352Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.018Z"
     },
     {
       "name": "CIGNEX Datamatics",
       "boardSlugGuess": "cignexdatamatics",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:43.379Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.359Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
       "name": "Cigniti Technologies",
       "boardSlugGuess": "cignititechnologies",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:38.891Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.369Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
       "name": "Circle",
       "boardSlugGuess": "circle",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:53.567Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.356Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
       "name": "Cisco",
       "boardSlugGuess": "ciscoindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:52.244Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.360Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
       "name": "Citadel",
       "boardSlugGuess": "citadel",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:56.741Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.373Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
@@ -2643,50 +2452,45 @@
       "name": "Citibank India",
       "boardSlugGuess": "citibankindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:39.295Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.397Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:45.020Z"
     },
     {
       "name": "Citicorp Services India",
       "boardSlugGuess": "citicorpservicesindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:09.094Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.418Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:46.134Z"
     },
     {
       "name": "CitiusTech",
       "boardSlugGuess": "citiustech",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:09:58.245Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.420Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:47.867Z"
     },
     {
       "name": "Citrix",
       "boardSlugGuess": "citrixindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:01.287Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.412Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:54.019Z"
     },
     {
       "name": "Citroen India (IT)",
       "boardSlugGuess": "citroenindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:00.390Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.437Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:18:54.019Z"
     },
     {
@@ -2697,7 +2501,7 @@
       "careersUrl": "https://cityunionbank.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:11:00.197Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:12.375Z",
       "webDiscoveryFailed": false
     },
@@ -2705,30 +2509,27 @@
       "name": "Cityflo (IT)",
       "boardSlugGuess": "cityfloit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:33.255Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.448Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:18.577Z"
     },
     {
       "name": "CityMall",
       "boardSlugGuess": "citymall",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:02.090Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.429Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:18.580Z"
     },
     {
       "name": "Claas India (IT)",
       "boardSlugGuess": "claasindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:00.747Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.445Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:11.796Z",
       "webDiscoveryFailed": true
     },
@@ -2742,10 +2543,9 @@
       "name": "Classplus",
       "boardSlugGuess": "classplus",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:05.789Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.446Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:18.582Z"
     },
     {
@@ -2756,7 +2556,7 @@
       "careersUrl": "https://cleartrip.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:10:11.394Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:13.279Z",
       "webDiscoveryFailed": false
     },
@@ -2768,7 +2568,7 @@
       "careersUrl": "https://cleartrip.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:10:38.729Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:13.340Z",
       "webDiscoveryFailed": false
     },
@@ -2780,7 +2580,7 @@
       "careersUrl": "https://clevertap.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:10:11.706Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:12.064Z",
       "webDiscoveryFailed": false
     },
@@ -2788,10 +2588,9 @@
       "name": "ClickPost",
       "boardSlugGuess": "clickpost",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:10:12.296Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.448Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:18.583Z"
     },
     {
@@ -2810,7 +2609,7 @@
       "careersUrl": "https://cloudera.com/careers.html",
       "discoveryAttemptedAt": "2026-06-21T22:10:10.901Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:11.884Z",
       "webDiscoveryFailed": false
     },
@@ -2828,7 +2627,7 @@
       "careersUrl": "https://www.cmsitservices.com/work-with-us/",
       "discoveryAttemptedAt": "2026-06-21T22:11:09.630Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:12.704Z",
       "webDiscoveryFailed": false
     },
@@ -2836,10 +2635,9 @@
       "name": "Coal India (IT)",
       "boardSlugGuess": "coalindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:12.024Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.571Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:15.051Z",
       "webDiscoveryFailed": true
     },
@@ -2847,10 +2645,9 @@
       "name": "Coca-Cola India",
       "boardSlugGuess": "cocacolaindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:11:11.995Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.474Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:12.705Z",
       "webDiscoveryFailed": true
     },
@@ -2876,7 +2673,7 @@
       "careersUrl": "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&utm_medium=internal&utm_campaign=homepage_new_courses&angular_version=18",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.637Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:12.834Z",
       "webDiscoveryFailed": false
     },
@@ -2888,7 +2685,7 @@
       "careersUrl": "https://coforge.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.639Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:15.004Z",
       "webDiscoveryFailed": false
     },
@@ -2902,10 +2699,9 @@
       "name": "Cogno AI",
       "boardSlugGuess": "cognoai",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.640Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.572Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:19.707Z"
     },
     {
@@ -2916,7 +2712,7 @@
       "careersUrl": "https://www.cohesity.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.640Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:14.827Z",
       "webDiscoveryFailed": false
     },
@@ -2930,80 +2726,72 @@
       "name": "CoinDCX",
       "boardSlugGuess": "coindcx",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.642Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.490Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:20.280Z"
     },
     {
       "name": "CoinSwitch Kuber",
       "boardSlugGuess": "coinswitchkuber",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.643Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.498Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:20.341Z"
     },
     {
       "name": "Colive (IT)",
       "boardSlugGuess": "coliveit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.644Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.503Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:21.829Z"
     },
     {
       "name": "Colive Spaces",
       "boardSlugGuess": "colivespaces",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.645Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.509Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:22.007Z"
     },
     {
       "name": "Collins Aerospace India",
       "boardSlugGuess": "collinsaerospaceindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.652Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:20.274Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:22.053Z"
     },
     {
       "name": "Comcast India",
       "boardSlugGuess": "comcastindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.652Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.521Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:25.580Z"
     },
     {
       "name": "CommonFloor",
       "boardSlugGuess": "commonfloor",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.652Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.522Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:25.580Z"
     },
     {
       "name": "CommonFloor (IT)",
       "boardSlugGuess": "commonfloorit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.653Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.536Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:25.588Z"
     },
     {
@@ -3016,39 +2804,36 @@
       "name": "Concentrix India",
       "boardSlugGuess": "concentrix",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.660Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.599Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:25.596Z"
     },
     {
       "name": "Conduent India",
       "boardSlugGuess": "conduentindia",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.660Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.585Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:26.708Z"
     },
     {
       "name": "ConfirmTkt (IT)",
       "boardSlugGuess": "confirmtktit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.661Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.640Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:27.280Z"
     },
     {
       "name": "Confluent",
       "boardSlugGuess": "confluent",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.661Z",
-      "discoveryFailed": true,
+      "source": "ashby",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.605Z",
+      "discoveryFailed": false,
       "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:27.342Z"
     },
@@ -3060,11 +2845,11 @@
     },
     {
       "name": "Continental India",
-      "boardSlugGuess": "continentalindia",
+      "boardSlugGuess": "continental",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.661Z",
-      "discoveryFailed": true,
+      "source": "smartrecruiters",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.690Z",
+      "discoveryFailed": false,
       "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:24:28.831Z"
     },
@@ -3076,7 +2861,7 @@
       "careersUrl": "https://corover.ai/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.668Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:23.559Z",
       "webDiscoveryFailed": false
     },
@@ -3084,20 +2869,18 @@
       "name": "Country Delight",
       "boardSlugGuess": "countrydelight",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.670Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.626Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:30.236Z"
     },
     {
       "name": "Country Delight (IT)",
       "boardSlugGuess": "countrydelightit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.670Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:18.606Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:30.234Z"
     },
     {
@@ -3110,10 +2893,9 @@
       "name": "Course5 Intelligence",
       "boardSlugGuess": "course5intelligence",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.670Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.649Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:30.232Z"
     },
     {
@@ -3130,7 +2912,7 @@
       "careersUrl": "https://coverfox.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.672Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:24.896Z",
       "webDiscoveryFailed": false
     },
@@ -3150,10 +2932,9 @@
       "name": "Credit Suisse India",
       "boardSlugGuess": "creditsuisseindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.680Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.719Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:25.312Z",
       "webDiscoveryFailed": true
     },
@@ -3161,10 +2942,9 @@
       "name": "Crofarm (IT)",
       "boardSlugGuess": "crofarmit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.681Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.723Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:26.252Z",
       "webDiscoveryFailed": true
     },
@@ -3172,20 +2952,18 @@
       "name": "Croma Digital",
       "boardSlugGuess": "cromadigital",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.682Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.737Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:30.067Z"
     },
     {
       "name": "Cropin",
       "boardSlugGuess": "cropin",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.683Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.734Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:30.069Z"
     },
     {
@@ -3196,7 +2974,7 @@
       "careersUrl": "https://crowdstrike.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.684Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:25.872Z",
       "webDiscoveryFailed": false
     },
@@ -3204,10 +2982,9 @@
       "name": "Crowe India",
       "boardSlugGuess": "croweindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.685Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.735Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:25.313Z",
       "webDiscoveryFailed": true
     },
@@ -3221,20 +2998,18 @@
       "name": "CtrlS Datacenters",
       "boardSlugGuess": "ctrlsdatacenters",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.686Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.734Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:31.897Z"
     },
     {
       "name": "Cuelogic Technologies",
       "boardSlugGuess": "cuelogictechnologies",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.687Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.742Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:27.734Z",
       "webDiscoveryFailed": true
     },
@@ -3242,80 +3017,72 @@
       "name": "Cuemath",
       "boardSlugGuess": "cuemath",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.688Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.734Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:32.600Z"
     },
     {
       "name": "Cummins India (IT)",
       "boardSlugGuess": "cumminsindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.688Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.785Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:32.873Z"
     },
     {
       "name": "Cupra India (IT)",
       "boardSlugGuess": "cupraindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.710Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.785Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:33.253Z"
     },
     {
       "name": "Cure.fit",
       "boardSlugGuess": "curefit",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.710Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:34.735Z"
     },
     {
       "name": "Cure.fit (Cult.fit)",
       "boardSlugGuess": "curefitcultfit",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.711Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:22.352Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:37.068Z"
     },
     {
       "name": "CureFit Healthcare",
       "boardSlugGuess": "curefithealthcare",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.712Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.786Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:37.070Z"
     },
     {
       "name": "Curefoods",
       "boardSlugGuess": "curefoods",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.712Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:37.232Z"
     },
     {
       "name": "Cyfuture",
       "boardSlugGuess": "cyfuture",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.713Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.754Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:37.237Z"
     },
     {
@@ -3330,100 +3097,90 @@
       "name": "Cyient DLM",
       "boardSlugGuess": "cyientdlm",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.715Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.788Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:37.237Z"
     },
     {
       "name": "D-Mart (IT)",
       "boardSlugGuess": "dmartit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.717Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.785Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:38.898Z"
     },
     {
       "name": "D. E. Shaw",
       "boardSlugGuess": "deshaw",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.719Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.785Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:39.601Z"
     },
     {
       "name": "Dacia India (IT)",
       "boardSlugGuess": "daciaindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.721Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.786Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:39.876Z"
     },
     {
       "name": "Daf India (IT)",
       "boardSlugGuess": "dafindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.723Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.786Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:40.255Z"
     },
     {
       "name": "Daffodil Software Pvt Ltd",
       "boardSlugGuess": "daffodilsoftware",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.726Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.791Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:41.736Z"
     },
     {
       "name": "Dailyhunt",
       "boardSlugGuess": "dailyhunt",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.727Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:44.069Z"
     },
     {
       "name": "Daimler India",
       "boardSlugGuess": "daimlerindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.609Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.804Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:44.070Z"
     },
     {
       "name": "Daimler India (IT)",
       "boardSlugGuess": "daimlerindiait",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.728Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.819Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:28:44.234Z"
     },
     {
       "name": "Damco Solutions",
       "boardSlugGuess": "damcosolutions",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.730Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.826Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:32.047Z",
       "webDiscoveryFailed": true
     },
@@ -3435,7 +3192,7 @@
       "careersUrl": "https://darwinbox.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.732Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.492Z",
       "webDiscoveryFailed": false
     },
@@ -3443,10 +3200,9 @@
       "name": "Darwinbox HR Tech",
       "boardSlugGuess": "darwinboxhrtech",
       "type": "Product",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.733Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.824Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:28.966Z",
       "webDiscoveryFailed": true
     },
@@ -3466,10 +3222,9 @@
       "name": "Datamatics",
       "boardSlugGuess": "datamatics",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.637Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.827Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:35.942Z"
     },
     {
@@ -3480,7 +3235,7 @@
       "careersUrl": "https://www.datarobot.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.590Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.213Z",
       "webDiscoveryFailed": false
     },
@@ -3488,20 +3243,18 @@
       "name": "DBFS (IT)",
       "boardSlugGuess": "dbfsit",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.777Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.842Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:35.943Z"
     },
     {
       "name": "DBS Bank India",
       "boardSlugGuess": "dbsbankindia",
       "type": "Service",
-      "source": null,
-      "discoveryAttemptedAt": "2026-06-21T22:14:32.779Z",
+      "discoveryAttemptedAt": "2026-07-06T20:04:17.865Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:34.120Z",
       "webDiscoveryFailed": true
     },
@@ -3513,7 +3266,7 @@
       "careersUrl": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.781Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.445Z",
       "webDiscoveryFailed": false
     },
@@ -3521,20 +3274,18 @@
       "name": "DealShare",
       "boardSlugGuess": "dealshare",
       "type": "Product",
-      "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:32.781Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:36.101Z"
     },
     {
       "name": "Decentro",
       "boardSlugGuess": "decentro",
       "type": "Product",
-      "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:32.783Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:34.491Z",
       "webDiscoveryFailed": true
     },
@@ -3546,7 +3297,7 @@
       "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.878Z",
       "webDiscoveryFailed": false
     },
@@ -3558,7 +3309,7 @@
       "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.787Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.063Z",
       "webDiscoveryFailed": false
     },
@@ -3570,7 +3321,7 @@
       "careersUrl": "https://delhivery.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:33.993Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.111Z",
       "webDiscoveryFailed": false
     },
@@ -3646,7 +3397,7 @@
       "careersUrl": "https://www.dezerv.in/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.325Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:30.512Z",
       "webDiscoveryFailed": false
     },
@@ -3707,7 +3458,7 @@
       "careersUrl": "https://digitalocean.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.653Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:32.385Z",
       "webDiscoveryFailed": false
     },
@@ -3809,7 +3560,7 @@
       "careersUrl": "https://dolby.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:34.021Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:38.049Z",
       "webDiscoveryFailed": false
     },
@@ -3821,7 +3572,7 @@
       "careersUrl": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.946Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T22:04:49.280Z",
       "webDiscoveryFailed": false
     },
@@ -3839,7 +3590,7 @@
       "careersUrl": "https://www.bobcat.com/na/en/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.882Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T22:04:48.663Z",
       "webDiscoveryFailed": false
     },
@@ -3891,7 +3642,7 @@
       "careersUrl": "https://shop.driftgames.life/pages/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.606Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T22:04:48.685Z",
       "webDiscoveryFailed": false
     },
@@ -3913,7 +3664,7 @@
       "careersUrl": "https://droom.in/career",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.968Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z",
       "webDiscoveryAttemptedAt": "2026-06-29T22:04:53.041Z",
       "webDiscoveryFailed": false
     },
@@ -3997,44 +3748,48 @@
       "boardSlugGuess": "dynatracecom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://dynatrace.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.988Z",
-      "discoveryFailed": false,
+      "discoveryFailed": true,
       "webDiscoveryAttemptedAt": "2026-07-06T19:55:58.433Z",
       "webDiscoveryFailed": false,
-      "careersUrl": "https://dynatrace.com/careers"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "EarlySalary (Fibe)",
       "boardSlugGuess": "earlysalarycom",
       "type": "Product",
       "source": "generic",
+      "careersUrl": "https://earlysalary.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.695Z",
-      "discoveryFailed": false,
+      "discoveryFailed": true,
       "webDiscoveryAttemptedAt": "2026-07-06T19:55:58.222Z",
       "webDiscoveryFailed": false,
-      "careersUrl": "https://earlysalary.com/careers/"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "EaseMyTrip",
       "boardSlugGuess": "easemytripcom",
       "type": "Service",
       "source": "generic",
+      "careersUrl": "https://www.easemytrip.com/career.html",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.711Z",
-      "discoveryFailed": false,
+      "discoveryFailed": true,
       "webDiscoveryAttemptedAt": "2026-07-06T19:55:58.444Z",
       "webDiscoveryFailed": false,
-      "careersUrl": "https://www.easemytrip.com/career.html"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "EaseMyTrip (IT)",
       "boardSlugGuess": "easemytripcom",
       "type": "Service",
       "source": "generic",
+      "careersUrl": "https://www.easemytrip.com/career.html",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.713Z",
-      "discoveryFailed": false,
+      "discoveryFailed": true,
       "webDiscoveryAttemptedAt": "2026-07-06T19:55:58.438Z",
       "webDiscoveryFailed": false,
-      "careersUrl": "https://www.easemytrip.com/career.html"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "EatFit",
@@ -4408,12 +4163,15 @@
     },
     {
       "name": "Exotel",
-      "boardSlugGuess": "exotel",
+      "boardSlugGuess": "exotelcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.287Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:04.283Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://exotel.com/about-us/careers/",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Expedia",
@@ -4440,12 +4198,15 @@
     },
     {
       "name": "F5",
-      "boardSlugGuess": "f5networksindia",
+      "boardSlugGuess": "f5com",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.401Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:02.605Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.f5.com/company/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Faasos (Rebel Foods)",
@@ -4454,34 +4215,44 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.469Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:11.029Z"
     },
     {
       "name": "FabHotels",
-      "boardSlugGuess": "fabhotels",
+      "boardSlugGuess": "fabhotelscom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.551Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:04.692Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://fabhotels.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "FabHotels (IT)",
-      "boardSlugGuess": "fabhotelsit",
+      "boardSlugGuess": "fabhotelscom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.117Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:04.719Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://fabhotels.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "FactoHR",
-      "boardSlugGuess": "factohr",
+      "boardSlugGuess": "factohrcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.630Z",
-      "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "discoveryFailed": false,
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:03.771Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://factohr.com/career/",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "FactSet",
@@ -4503,12 +4274,15 @@
     },
     {
       "name": "FarEye",
-      "boardSlugGuess": "fareye",
+      "boardSlugGuess": "fareyecom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.345Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:02.214Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://fareye.com/about/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Farmtrac India (IT)",
@@ -4523,7 +4297,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:37.473Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:11.034Z"
     },
     {
       "name": "Fasal (IT)",
@@ -4532,7 +4307,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.334Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:11.034Z"
     },
     {
       "name": "Fastly",
@@ -4548,21 +4324,27 @@
     },
     {
       "name": "Federal Bank (IT)",
-      "boardSlugGuess": "federalbankit",
+      "boardSlugGuess": "federalbankcoin",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.387Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:04.593Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://federalbank.co.in/education-and-career-loans",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Federal Bank Tech",
-      "boardSlugGuess": "federalbanktech",
+      "boardSlugGuess": "federalbankin",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.354Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:05.324Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.federal.bank.in/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Fendt India (IT)",
@@ -4580,10 +4362,13 @@
       "name": "Fi Money",
       "boardSlugGuess": "fimoney",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.353Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:05.432Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://fi.money/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Fiat India (IT)",
@@ -4598,7 +4383,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.410Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.187Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.187Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:11.606Z"
     },
     {
       "name": "Fidelity India",
@@ -4673,16 +4459,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.411Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:14.219Z"
     },
     {
       "name": "FirstCry",
-      "boardSlugGuess": "firstcry",
+      "boardSlugGuess": "firstcrycom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.395Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:06.337Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.firstcry.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Firstsource",
@@ -4691,7 +4481,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.333Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:14.434Z"
     },
     {
       "name": "FIS Global India",
@@ -4730,7 +4521,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.346Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:14.624Z"
     },
     {
       "name": "Flexport",
@@ -4745,7 +4537,7 @@
       "source": "generic",
       "careersUrl": "https://www.flipkartcareers.com/jobslist",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Flipkart Pay (IT)",
@@ -4760,7 +4552,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.355Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:15.189Z"
     },
     {
       "name": "Force Motors India (IT)",
@@ -4799,7 +4592,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.508Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:15.890Z"
     },
     {
       "name": "Fractal AI",
@@ -4808,7 +4602,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.516Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:17.443Z"
     },
     {
       "name": "Fractal Analytics",
@@ -4817,7 +4612,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.639Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:17.767Z"
     },
     {
       "name": "FreeCharge (IT)",
@@ -4840,7 +4636,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.625Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:18.287Z"
     },
     {
       "name": "FreshToHome",
@@ -4849,7 +4646,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.381Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:20.029Z"
     },
     {
       "name": "FreshToHome (IT)",
@@ -4858,7 +4656,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.521Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:20.035Z"
     },
     {
       "name": "Freshworks",
@@ -4873,7 +4672,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.988Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:20.034Z"
     },
     {
       "name": "Fujitsu Consulting India",
@@ -4882,7 +4682,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.019Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:20.606Z"
     },
     {
       "name": "Fujitsu India",
@@ -4909,7 +4710,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.398Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:23.220Z"
     },
     {
       "name": "Fyle",
@@ -4918,7 +4720,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.398Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:23.435Z"
     },
     {
       "name": "Gaana (Times Internet)",
@@ -4927,7 +4730,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.656Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:23.624Z"
     },
     {
       "name": "GAC India (IT)",
@@ -4936,7 +4740,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.795Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:24.190Z"
     },
     {
       "name": "GAIL (IT)",
@@ -4945,7 +4750,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.232Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:24.891Z"
     },
     {
       "name": "Gameloft India",
@@ -4962,7 +4768,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.831Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:26.443Z"
     },
     {
       "name": "Gap Inc India",
@@ -4979,7 +4786,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.405Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:26.769Z"
     },
     {
       "name": "Gati Limited",
@@ -4988,7 +4796,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.406Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:27.288Z"
     },
     {
       "name": "Gaz India (IT)",
@@ -4997,7 +4806,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.946Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:29.030Z"
     },
     {
       "name": "GE Aviation India",
@@ -5006,7 +4816,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.669Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:29.034Z"
     },
     {
       "name": "GE Digital India",
@@ -5015,7 +4826,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.221Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:29.035Z"
     },
     {
       "name": "Geely India (IT)",
@@ -5024,7 +4836,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:38.826Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:29.606Z"
     },
     {
       "name": "General Motors Technical Centre India",
@@ -5039,7 +4852,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.232Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:32.221Z"
     },
     {
       "name": "Geojit Financial Services (IT)",
@@ -5048,7 +4862,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.470Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:32.441Z"
     },
     {
       "name": "Ginetta India (IT)",
@@ -5057,7 +4872,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:42.753Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:32.656Z"
     },
     {
       "name": "Ginkgo Bioworks",
@@ -5072,16 +4888,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.084Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:33.234Z"
     },
     {
       "name": "GitHub",
-      "boardSlugGuess": "github",
+      "boardSlugGuess": "githubcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:41.065Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:32.332Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://github.com/career",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "GitLab",
@@ -5096,7 +4916,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.068Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:35.520Z"
     },
     {
       "name": "Glance (InMobi)",
@@ -5111,7 +4932,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:42.298Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:35.769Z"
     },
     {
       "name": "GlobalBees",
@@ -5120,7 +4942,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.150Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:36.311Z"
     },
     {
       "name": "GlobalFoundries India",
@@ -5138,7 +4961,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.156Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:38.035Z"
     },
     {
       "name": "GlobalLogic (Hitachi)",
@@ -5147,7 +4971,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:43.098Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:38.036Z"
     },
     {
       "name": "Globant India",
@@ -5162,10 +4987,13 @@
       "name": "Gnani.ai",
       "boardSlugGuess": "gnaniai",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.862Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:32.662Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://gnani.ai/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Go Digit General Insurance",
@@ -5189,7 +5017,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:39.872Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:41.703Z"
     },
     {
       "name": "Goibibo (IT)",
@@ -5198,16 +5027,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:39.873Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:41.699Z"
     },
     {
       "name": "Gojek",
-      "boardSlugGuess": "gojek",
+      "boardSlugGuess": "gojekio",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.874Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:34.555Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.gojek.io/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Golaz India (IT)",
@@ -5220,12 +5053,15 @@
     },
     {
       "name": "Goldman Sachs",
-      "boardSlugGuess": "goldmansachsservicesindia",
+      "boardSlugGuess": "goldmansachscom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:41.962Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:34.832Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://goldmansachs.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Goldman Sachs Engineering India",
@@ -5251,7 +5087,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.265Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:45.019Z"
     },
     {
       "name": "Google",
@@ -5260,7 +5097,7 @@
       "source": "generic",
       "careersUrl": "https://www.google.com/about/careers/applications/jobs/results/",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Google India (IT Services)",
@@ -5269,7 +5106,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.461Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:44.770Z"
     },
     {
       "name": "Google Pay (IT)",
@@ -5278,7 +5116,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:43.372Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:45.742Z"
     },
     {
       "name": "Grab",
@@ -5288,12 +5127,15 @@
     },
     {
       "name": "Grafana",
-      "boardSlugGuess": "grafana",
+      "boardSlugGuess": "grafanacom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.957Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:37.690Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://grafana.com/careers/",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Gramener",
@@ -5302,16 +5144,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.451Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:46.471Z"
     },
     {
       "name": "Grammarly",
-      "boardSlugGuess": "grammarly",
+      "boardSlugGuess": "grammarlycom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.423Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:37.905Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.grammarly.com/career-guides",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Gramophone (IT)",
@@ -5328,7 +5174,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.236Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:46.691Z"
     },
     {
       "name": "Grazitti Interactive",
@@ -5341,12 +5188,15 @@
     },
     {
       "name": "Great Learning",
-      "boardSlugGuess": "greatlearning",
+      "boardSlugGuess": "mygreatlearningcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.037Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:40.079Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.mygreatlearning.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Great Wall Motor India (IT)",
@@ -5359,21 +5209,27 @@
     },
     {
       "name": "GreyOrange Robotics",
-      "boardSlugGuess": "greyorangerobotics",
+      "boardSlugGuess": "greyorangecom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.882Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:39.226Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://www.greyorange.com/company/careers/",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "GreytHR",
-      "boardSlugGuess": "greythr",
+      "boardSlugGuess": "greytipgreythrcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.264Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:40.815Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://greytip.greythr.com/hire/jobs/",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Gridbots Technologies",
@@ -5382,7 +5238,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.302Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:49.079Z"
     },
     {
       "name": "Grofers (Blinkit)",
@@ -5391,7 +5248,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.297Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:49.321Z"
     },
     {
       "name": "Groupon",
@@ -5424,7 +5282,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.297Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:49.815Z"
     },
     {
       "name": "Guidewire",
@@ -5433,7 +5292,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.297Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:50.185Z"
     },
     {
       "name": "Guiness Securities (IT)",
@@ -5442,7 +5302,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.612Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:50.227Z"
     },
     {
       "name": "Gumpert India (IT)",
@@ -5451,7 +5312,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.602Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:50.701Z"
     },
     {
       "name": "Gupshup",
@@ -5460,7 +5322,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.613Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:50.703Z"
     },
     {
       "name": "HackerRank",
@@ -5475,7 +5338,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.613Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:53.770Z"
     },
     {
       "name": "Happiest Minds",
@@ -5484,7 +5348,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.623Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:54.020Z"
     },
     {
       "name": "Haptik",
@@ -5493,7 +5358,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.632Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:54.742Z"
     },
     {
       "name": "Harness",
@@ -5502,7 +5368,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.634Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:55.472Z"
     },
     {
       "name": "HashiCorp",
@@ -5511,16 +5378,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.635Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:55.719Z"
     },
     {
       "name": "Hasura",
-      "boardSlugGuess": "hasura",
+      "boardSlugGuess": "hasuraio",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.660Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:56.503Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://hasura.io/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Haval India (IT)",
@@ -5550,21 +5421,27 @@
     },
     {
       "name": "HCLTech",
-      "boardSlugGuess": "hcltech",
+      "boardSlugGuess": "hcltechcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.658Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:55.243Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://hcltech.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "HDFC (IT)",
-      "boardSlugGuess": "hdfcit",
+      "boardSlugGuess": "hdfccom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.874Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:53.954Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://hdfc.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "HDFC Bank (IT)",
@@ -5573,7 +5450,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.878Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:59.701Z"
     },
     {
       "name": "HDFC Bank Technology",
@@ -5614,25 +5492,32 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.897Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:04:03.005Z"
     },
     {
       "name": "HealthifyMe",
-      "boardSlugGuess": "healthifyme",
+      "boardSlugGuess": "healthifymecom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.669Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:57.022Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://healthifyme.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "HealthKart",
-      "boardSlugGuess": "healthkart",
+      "boardSlugGuess": "healthkartcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.662Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:55.241Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://healthkart.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Healthkart Nutrabox",
@@ -5659,16 +5544,20 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:40.681Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:04:04.473Z"
     },
     {
       "name": "Hero MotoCorp (IT)",
-      "boardSlugGuess": "heromotocorpit",
+      "boardSlugGuess": "jobsheromotocorpcom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.868Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:58.056Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://jobs.heromotocorp.com/viewalljobs",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Hevo Data",
@@ -5695,12 +5584,15 @@
     },
     {
       "name": "HFCL",
-      "boardSlugGuess": "hfcl",
+      "boardSlugGuess": "hfclcom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.750Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:03:57.504Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://hfcl.com/company/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Hidden Brains InfoTech",
@@ -5739,7 +5631,8 @@
       "source": null,
       "discoveryAttemptedAt": "2026-06-21T22:14:41.825Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "genericAttemptedAt": "2026-06-21T22:22:27.188Z",
+      "webDiscoveryAttemptedAt": "2026-07-06T20:04:07.524Z"
     },
     {
       "name": "Hilton Technology India",
@@ -5823,21 +5716,27 @@
     },
     {
       "name": "Honda India (IT)",
-      "boardSlugGuess": "hondaindiait",
+      "boardSlugGuess": "hondaindiacom",
       "type": "Service",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.446Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:04:02.460Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://hondaindia.com/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Honeywell",
-      "boardSlugGuess": "honeywelltechnologysolutions",
+      "boardSlugGuess": "honeywellcom",
       "type": "Product",
-      "source": null,
+      "source": "generic",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.449Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-06-21T22:22:27.188Z"
+      "webDiscoveryAttemptedAt": "2026-07-06T20:04:01.495Z",
+      "webDiscoveryFailed": false,
+      "careersUrl": "https://honeywell.com/us/en/careers",
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Honeywell Aerospace India",
@@ -8269,7 +8168,7 @@
       "source": "generic",
       "careersUrl": "https://www.metacareers.com/jobsearch/?q=software%20engineer&location=India",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "mfine",
@@ -12471,7 +12370,7 @@
       "source": "generic",
       "careersUrl": "https://www.uber.com/in/en/careers/list/?query=software%20engineer&location=IND",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-07-06T19:50:07.331Z"
+      "genericAttemptedAt": "2026-07-06T20:14:58.064Z"
     },
     {
       "name": "Uber (IT)",
