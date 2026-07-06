@@ -1,9 +1,152 @@
 {
-  "generatedAt": "2026-07-06T21:51:24.492Z",
+  "generatedAt": "2026-07-06T23:34:38.359Z",
   "batchSize": 120,
-  "successfulCount": 15,
-  "failedCount": 105,
+  "successfulCount": 13,
+  "failedCount": 106,
   "results": [
+    {
+      "company": "Fidelity National Information Services India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.fidelity.com/in/jobs/",
+        "title": "Search Jobs - Find the right match for your skills and location ...",
+        "discoveredAt": "2026-07-06T23:33:21.787Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Force Motors India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.careers.ford.com/India-jobs",
+        "title": "Search our Job Opportunities at Ford Motor Company",
+        "discoveredAt": "2026-07-06T23:33:21.735Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "GlobalFoundries India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://gf.com/careers/",
+        "title": "Careers | GlobalFoundries",
+        "discoveredAt": "2026-07-06T23:33:21.738Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Golaz India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
+        "title": "National Career Service | Ministry of Labour & Employment",
+        "discoveredAt": "2026-07-06T23:33:21.742Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Goldman Sachs Engineering India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.goldmansachs.com/worldwide/india/careers/",
+        "title": "Careers in India - Goldman Sachs",
+        "discoveredAt": "2026-07-06T23:33:21.751Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Josh (DailyHunt)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://josh.ai/jobs/",
+        "title": "Jobs",
+        "discoveredAt": "2026-07-06T23:33:24.860Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Jupiter",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://jupiter.com/careers",
+        "title": "About Jupiter | 40+ Years of Video Wall Innovation",
+        "discoveredAt": "2026-07-06T23:33:24.673Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Juspay",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://juspay.in/careers",
+        "title": "Careers Join a team of engineers, artists, musicians, and designers, building payments infrastructure for the global economy.",
+        "discoveredAt": "2026-07-06T23:33:22.991Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Kaleyra",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://kaleyra.com/careers",
+        "title": "Career Portal",
+        "discoveredAt": "2026-07-06T23:33:25.814Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Karnataka Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://karnatakabank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-06T23:33:28.091Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "KhetiGaadi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://khetigaadi.com/career/en",
+        "title": "We Are Hiring",
+        "discoveredAt": "2026-07-06T23:33:34.955Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Lam Research",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://lamresearch.com/careers",
+        "title": "Careers Overview | Lam Research",
+        "discoveredAt": "2026-07-06T23:33:55.788Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Lexus India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://lexusindia.in/careers.html",
+        "title": "Administrator",
+        "discoveredAt": "2026-07-06T23:34:08.519Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Fincare Small Finance Bank (IT)",
       "found": {
@@ -1070,54 +1213,54 @@
   ],
   "failures": [
     "Expedia: search returned anti-bot page",
-    "Fidelity National Information Services India: search returned anti-bot page",
     "Finvasia (IT): search returned anti-bot page",
-    "Force Motors India (IT): search returned anti-bot page",
-    "Fraazo (IT): company discovery timeout",
-    "GlobalFoundries India: search returned anti-bot page",
-    "Globant India: search returned anti-bot page",
     "Go Digit General Insurance: search returned anti-bot page",
-    "Golaz India (IT): search returned anti-bot page",
-    "Goldman Sachs Engineering India: search returned anti-bot page",
-    "Grazitti Interactive: company discovery timeout",
-    "Great Wall Motor India (IT): company discovery timeout",
-    "Haval India (IT): company discovery timeout",
-    "HCL-Foxconn Semiconductor: company discovery timeout",
-    "HDFC Life Insurance Tech: company discovery timeout",
-    "HDFC Securities Tech: company discovery timeout",
-    "Healthkart Nutrabox: company discovery timeout",
-    "HelloWorld (IT): company discovery timeout",
-    "Hexaware Global Services: company discovery timeout",
-    "Hidden Brains InfoTech: company discovery timeout",
-    "Hike Messenger: company discovery timeout",
-    "Hilton Technology India: company discovery timeout",
-    "This operation was aborted",
-    "This operation was aborted",
-    "This operation was aborted",
-    "Hitachi India (IT): company discovery timeout",
-    "This operation was aborted",
-    "Home First Finance (IT): company discovery timeout",
-    "Honasa Consumer (Mamaearth): company discovery timeout",
-    "Honeywell Aerospace India: company discovery timeout",
-    "Housejoy: company discovery timeout",
-    "Housejoy (IT): company discovery timeout",
-    "Housing.com (IT): company discovery timeout",
-    "HPCL (IT): company discovery timeout",
-    "HROne Cloud: company discovery timeout",
     "HSBC Global Technology India: search returned anti-bot page",
     "HSBC India: search returned anti-bot page",
     "Huawei Technologies India: search returned anti-bot page",
     "Hurix Digital: search returned anti-bot page",
-    "Hyatt (IT): company discovery timeout",
-    "HyperVerge: company discovery timeout",
     "Hyundai Ce India (IT): search returned anti-bot page",
     "Hyundai India (IT): search returned anti-bot page",
     "IBM Consulting India: search returned anti-bot page",
-    "ICE Data Services India: company discovery timeout",
     "ICICI Lombard Tech: search returned anti-bot page",
     "ICICI Prudential Tech: search returned anti-bot page",
-    "IDBI Capital (IT): company discovery timeout",
-    "IDFC FIRST Bank (IT): company discovery timeout",
-    "IDFC FIRST Bank Tech: company discovery timeout"
+    "Juniper Networks: search returned anti-bot page",
+    "Jupiter Money: search returned anti-bot page",
+    "Justdial Limited: search returned anti-bot page",
+    "Kamaz India (IT): company discovery timeout",
+    "Kamz India (IT): company discovery timeout",
+    "Karix Mobile: company discovery timeout",
+    "Karma India (IT): company discovery timeout",
+    "Kartar India (IT): company discovery timeout",
+    "Karur Vysya Bank (IT): company discovery timeout",
+    "This operation was aborted",
+    "This operation was aborted",
+    "Keka HR: company discovery timeout",
+    "This operation was aborted",
+    "Kellton Tech: company discovery timeout",
+    "Kenworth India (IT): company discovery timeout",
+    "Khatabook: company discovery timeout",
+    "Kia India (IT): company discovery timeout",
+    "Kioxia India: company discovery timeout",
+    "Kirovets India (IT): company discovery timeout",
+    "Kissflow: company discovery timeout",
+    "KLA: company discovery timeout",
+    "Knowlarity: company discovery timeout",
+    "Kobelco India (IT): company discovery timeout",
+    "Koenigsegg India (IT): company discovery timeout",
+    "Komatsu India (IT): company discovery timeout",
+    "Konstant Infosolutions: company discovery timeout",
+    "Kotak Mahindra Bank (IT): company discovery timeout",
+    "Kotak Securities (IT): company discovery timeout",
+    "Kotak Securities Tech: company discovery timeout",
+    "KPIT Technologies: company discovery timeout",
+    "KrAZ India (IT): company discovery timeout",
+    "KreditBee: company discovery timeout",
+    "Krutrim (Ola): company discovery timeout",
+    "Kubota India (IT): company discovery timeout",
+    "L&T Finance (IT): company discovery timeout",
+    "L&T Infotech (Merged): company discovery timeout",
+    "L&T Securities (IT): company discovery timeout",
+    "Lacework: company discovery timeout"
   ]
 }
