@@ -1,9 +1,350 @@
 {
-  "generatedAt": "2026-07-07T12:41:44.799Z",
+  "generatedAt": "2026-07-07T16:44:02.939Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 116,
+  "successfulCount": 31,
+  "failedCount": 88,
   "results": [
+    {
+      "company": "Square Yards (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.squareyards.com/career",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:42:55.195Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Standard Chartered GBS India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/",
+        "title": "Careers in GBS India | Standard Chartered",
+        "discoveredAt": "2026-07-07T16:43:01.023Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Standard Chartered India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-india/",
+        "title": "Banking careers in India | Standard Chartered",
+        "discoveredAt": "2026-07-07T16:43:01.025Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Stanza Living",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://stanzaliving.com/careers",
+        "title": "PG Near Careers Department, Mall Road, Dehradun with Free Food,Wifi & More | Boys/Girls PG Starting with 8k in Careers Department, Mall Road, Dehradun",
+        "discoveredAt": "2026-07-07T16:42:57.382Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Stanza Living (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://stanzaliving.com/careers",
+        "title": "PG Near Careers Department, Mall Road, Dehradun with Free Food,Wifi & More | Boys/Girls PG Starting with 8k in Careers Department, Mall Road, Dehradun",
+        "discoveredAt": "2026-07-07T16:42:56.868Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "State Street India",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/eQuest",
+        "title": "Search for Jobs - myworkdayjobs.com",
+        "discoveredAt": "2026-07-07T16:43:01.021Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "StayAbode (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.microsoft.com/en-us/insidetrack/careers",
+        "title": "Microsoft careers",
+        "discoveredAt": "2026-07-07T16:43:00.937Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Stellapps",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.stellapps.com/career/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:42:57.824Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Stratbeans",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://stratbeans.com/job-career/",
+        "title": "Career",
+        "discoveredAt": "2026-07-07T16:42:58.963Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Subex",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.subex.com/careers/",
+        "title": "CAREERS",
+        "discoveredAt": "2026-07-07T16:42:58.767Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "SwiftSku",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://swiftsku.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:02.010Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Talkdesk",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://talkdesk.com/careers",
+        "title": "Jobs at Talkdesk",
+        "discoveredAt": "2026-07-07T16:43:03.371Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Target",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://target.com/careers",
+        "title": "Jobs at Target",
+        "discoveredAt": "2026-07-07T16:43:05.986Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "TaskUs India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.taskus.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:07.058Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Capital (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatacapital.com/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:08.752Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tatadigital.in/work-with-us#opportunities",
+        "title": "Opportunities",
+        "discoveredAt": "2026-07-07T16:43:15.391Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Electronics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelectronics.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:10.843Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TATA Elxsi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelxsi.com/careers",
+        "title": "Explore what’s possible",
+        "discoveredAt": "2026-07-07T16:43:11.677Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Motors (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tatamotors.com/careers",
+        "title": "Careers &#8211; Tata Motors",
+        "discoveredAt": "2026-07-07T16:43:14.545Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Tata Teleservices",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tatateleservices.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:13.055Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TatvaSoft",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatvasoft.com/career",
+        "title": "Career",
+        "discoveredAt": "2026-07-07T16:43:12.508Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TCI Express",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tciexpress.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:13.775Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Teachmint",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://teachmint.keka.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:13.500Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tejas Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tejasnetworks.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:15.441Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tenable",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tenable.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:15.202Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Testbook",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://testbook.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:18.198Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ThoughtSpot",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://thoughtspot.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:20.672Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Uniphore",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.uniphore.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:48.654Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Unity",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://unity.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T16:43:48.897Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "UpGrad",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.upgrad.com/op-jindal-career-acceleration-program/",
+        "title": "MBA (with Career Acceleration Program by upGrad)",
+        "discoveredAt": "2026-07-07T16:43:50.945Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vedantu",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.vedantu.com/careers",
+        "title": "Careers Check out the roles we&#x27;re currently hiring for",
+        "discoveredAt": "2026-07-07T16:43:56.491Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Rakuten",
       "found": {
@@ -1465,55 +1806,55 @@
     }
   ],
   "failures": [
-    "Maz India (IT): company discovery timeout",
-    "McLaren India (IT): company discovery timeout",
-    "Mercedes-Benz India (IT): company discovery timeout",
-    "Merck India: company discovery timeout",
-    "Niki.ai: company discovery timeout",
-    "Nikola India (IT): company discovery timeout",
-    "Nio India (IT): company discovery timeout",
-    "Niramai Health: company discovery timeout",
-    "Radical India (IT): company discovery timeout",
-    "Radisson (IT): company discovery timeout",
-    "RailTel: company discovery timeout",
-    "Ramco Systems: company discovery timeout",
-    "Rapid7: company discovery timeout",
-    "Rapido: company discovery timeout",
-    "Rapido (IT): company discovery timeout",
-    "Razorpay: company discovery timeout",
-    "Razorpay Payroll: company discovery timeout",
-    "RazorpayX: company discovery timeout",
-    "RBI (IT): company discovery timeout",
-    "RBL Bank (IT): company discovery timeout",
-    "RBL Bank Tech: company discovery timeout",
-    "Rebel Foods: company discovery timeout",
-    "Red Hat: company discovery timeout",
-    "RedBus: company discovery timeout",
-    "RedBus (IT): company discovery timeout",
-    "RedDoorz India: company discovery timeout",
-    "Redington India: company discovery timeout",
-    "Refinitiv India: company discovery timeout",
-    "Refrens: company discovery timeout",
-    "Reliance Communications Tech: company discovery timeout",
-    "Reliance Fresh (IT): company discovery timeout",
-    "Reliance Jio: company discovery timeout",
-    "Reliance Jio (IT Services): company discovery timeout",
-    "Reliance Retail (IT): company discovery timeout",
-    "Reliance Securities (IT): company discovery timeout",
-    "Religare Enterprises (IT): company discovery timeout",
-    "Renault India (IT): company discovery timeout",
-    "RenewBuy: company discovery timeout",
-    "Revolt Motors (IT): company discovery timeout",
-    "Revolut: company discovery timeout",
-    "Revv (IT): company discovery timeout",
-    "Rimac India (IT): company discovery timeout",
-    "Rivian: company discovery timeout",
-    "Rivian India (IT): company discovery timeout",
-    "Rivigo: company discovery timeout",
-    "Robosoft Technologies: company discovery timeout",
-    "Roche India: company discovery timeout",
-    "Rolls-Royce India (IT): company discovery timeout",
-    "Roposo: company discovery timeout",
-    "Rostselmash India (IT): company discovery timeout"
+    "Stack Overflow: company discovery timeout",
+    "Star Bazaar (IT): company discovery timeout",
+    "Starlink: company discovery timeout",
+    "State Bank of India (IT): search returned anti-bot page",
+    "STPI: company discovery timeout",
+    "Sundaram Finance (IT): company discovery timeout",
+    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
+    "Synchrony International Services India: search returned anti-bot page",
+    "Synoptek: search returned anti-bot page",
+    "Systematix Shares (IT): company discovery timeout",
+    "Tableau: search returned anti-bot page",
+    "Tafe India (IT): search returned anti-bot page",
+    "Taj Hotels (IT): search returned anti-bot page",
+    "Tamilnad Mercantile Bank (IT): search returned anti-bot page",
+    "Tank India (IT): search returned anti-bot page",
+    "Tanla Platforms: company discovery timeout",
+    "Tata 1mg: company discovery timeout",
+    "Tata AIA Life Tech: search returned anti-bot page",
+    "Tata Capital Digital: search returned anti-bot page",
+    "Tata CLiQ: company discovery timeout",
+    "Tata Communications: company discovery timeout",
+    "Tata Consultancy Engineering: search returned anti-bot page",
+    "Tata Consultancy Services (TCS): search returned anti-bot page",
+    "Tata Neu: company discovery timeout",
+    "Tata Neu (IT): company discovery timeout",
+    "Tata Securities (IT): search returned anti-bot page",
+    "Team Lease Digital: search returned anti-bot page",
+    "Tech Data India: company discovery timeout",
+    "Teleperformance India: company discovery timeout",
+    "Temenos India: search returned anti-bot page",
+    "Tencent: company discovery timeout",
+    "Tendercuts (IT): company discovery timeout",
+    "Teradata: company discovery timeout",
+    "Terex India (IT): company discovery timeout",
+    "Tesla: company discovery timeout",
+    "Tesla India (IT): company discovery timeout",
+    "Texas Instruments: company discovery timeout",
+    "THDC (IT): company discovery timeout",
+    "Thyrocare: company discovery timeout",
+    "TicketNew: company discovery timeout",
+    "Tietoevry India: company discovery timeout",
+    "Times Internet: company discovery timeout",
+    "Toffee Insurance: company discovery timeout",
+    "Toppr: company discovery timeout",
+    "Tork Motors (IT): company discovery timeout",
+    "Tower Research: company discovery timeout",
+    "Tower Semiconductor India: company discovery timeout",
+    "Toyota India (IT): company discovery timeout",
+    "Toyota Kirloskar Technology Center: company discovery timeout",
+    "Tractor Junction: company discovery timeout"
   ]
 }
