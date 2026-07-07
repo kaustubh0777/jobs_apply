@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-07-07T04:20:30.027Z",
+  "generatedAt": "2026-07-07T10:04:33.129Z",
   "batchSize": 120,
-  "successfulCount": 13,
-  "failedCount": 107,
+  "successfulCount": 6,
+  "failedCount": 114,
   "results": [
+    {
+      "company": "Max Life Insurance Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.axismaxlife.com/careers",
+        "title": "Axis Max Life Insurance Jobs and Careers | Explore Opportunities",
+        "discoveredAt": "2026-07-07T10:03:11.595Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Maybach India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.miebach.com/in/en/careers/opportunities",
+        "title": "Miebach | Careers | Opportunities",
+        "discoveredAt": "2026-07-07T10:03:11.605Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Mercedes-Benz R&D India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.mercedes-benz.co.in/passengercars/brand/career.html",
+        "title": "Careers - Mercedes Benz India",
+        "discoveredAt": "2026-07-07T10:03:11.623Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Ninjacart",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T10:03:06.562Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ninjacart (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T10:03:06.557Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Niramai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://niramai.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T10:03:08.515Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Majesco",
       "found": {
@@ -1355,55 +1421,55 @@
     }
   ],
   "failures": [
-    "Expedia: company discovery timeout",
-    "Finvasia (IT): company discovery timeout",
-    "Go Digit General Insurance: company discovery timeout",
-    "HSBC Global Technology India: company discovery timeout",
-    "HSBC India: company discovery timeout",
-    "Huawei Technologies India: company discovery timeout",
-    "Hurix Digital: company discovery timeout",
-    "Hyundai Ce India (IT): company discovery timeout",
-    "Hyundai India (IT): company discovery timeout",
-    "IBM Consulting India: company discovery timeout",
-    "ICICI Lombard Tech: company discovery timeout",
-    "ICICI Prudential Tech: company discovery timeout",
-    "Juniper Networks: company discovery timeout",
-    "Jupiter Money: company discovery timeout",
-    "Justdial Limited: company discovery timeout",
-    "Li Auto India (IT): company discovery timeout",
-    "Liaz India (IT): company discovery timeout",
-    "LIC Housing Finance (IT): company discovery timeout",
-    "LIC Technology Division: company discovery timeout",
-    "Lifan India (IT): company discovery timeout",
-    "Lister India (IT): company discovery timeout",
-    "MakeMyTrip: company discovery timeout",
-    "MakeMyTrip (IT): company discovery timeout",
-    "Man India (IT): company discovery timeout",
-    "Manappuram Finance (IT): company discovery timeout",
-    "This operation was aborted",
-    "Marriott International India: company discovery timeout",
-    "This operation was aborted",
-    "This operation was aborted",
-    "Maserati India (IT): company discovery timeout",
-    "Massey Ferguson India (IT): company discovery timeout",
-    "This operation was aborted",
-    "Mastek: company discovery timeout",
-    "Mastercard: company discovery timeout",
-    "Mastercard Labs India: company discovery timeout",
-    "MathWorks: company discovery timeout",
-    "Max Life Insurance Tech: search returned anti-bot page",
-    "Maybach India (IT): search returned anti-bot page",
     "Maz India (IT): search returned anti-bot page",
     "McLaren India (IT): search returned anti-bot page",
-    "Meatigo (IT): company discovery timeout",
-    "Medlife: search returned anti-bot page",
-    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
+    "Medlife: company discovery timeout",
     "Mercedes-Benz India (IT): search returned anti-bot page",
-    "Mercedes-Benz R&D India: search returned anti-bot page",
     "Merck India: search returned anti-bot page",
-    "Meru (IT): company discovery timeout",
-    "This operation was aborted",
-    "mfine: company discovery timeout",
-    "Mfine Health: company discovery timeout"
+    "Niki.ai: search returned anti-bot page",
+    "Nikola India (IT): search returned anti-bot page",
+    "Nio India (IT): search returned anti-bot page",
+    "Niramai Health: search returned anti-bot page",
+    "Niro: company discovery timeout",
+    "Nissan India (IT): company discovery timeout",
+    "NiYO Solutions: company discovery timeout",
+    "Nokia: company discovery timeout",
+    "Nokia India (IT Services): company discovery timeout",
+    "Nokia Solutions and Networks India: company discovery timeout",
+    "Nomura India: company discovery timeout",
+    "Noom: company discovery timeout",
+    "North East Small Finance Bank (IT): company discovery timeout",
+    "Northern Trust India: company discovery timeout",
+    "Novartis India: company discovery timeout",
+    "NPCIL (IT): company discovery timeout",
+    "NSDL Payments Bank (IT): company discovery timeout",
+    "NTPC (IT): company discovery timeout",
+    "NTT DATA Business Solutions India: company discovery timeout",
+    "NTT Data India: company discovery timeout",
+    "Nuance: company discovery timeout",
+    "Nutanix: company discovery timeout",
+    "Nuvepro: company discovery timeout",
+    "Nvidia: company discovery timeout",
+    "NVIDIA Graphics India: company discovery timeout",
+    "NXP Semiconductors India: company discovery timeout",
+    "NxtGen Datacenter: company discovery timeout",
+    "NxtWave: company discovery timeout",
+    "Nykaa: company discovery timeout",
+    "Nykaa Fashion: company discovery timeout",
+    "OkCredit: company discovery timeout",
+    "Okinawa (IT): company discovery timeout",
+    "Ola: company discovery timeout",
+    "Ola (IT): company discovery timeout",
+    "Ola Dash (IT): company discovery timeout",
+    "Ola Electric: company discovery timeout",
+    "Ola Electric (IT): company discovery timeout",
+    "Ola Money (IT): company discovery timeout",
+    "OneCard: company discovery timeout",
+    "ONGC (IT): company discovery timeout",
+    "Onward Technologies: company discovery timeout",
+    "Opel India (IT): company discovery timeout",
+    "Open: company discovery timeout",
+    "Open Financial Technologies: company discovery timeout",
+    "Oracle Financial Services Software: company discovery timeout"
   ]
 }
