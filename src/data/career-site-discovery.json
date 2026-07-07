@@ -1,9 +1,86 @@
 {
-  "generatedAt": "2026-07-07T20:19:12.165Z",
+  "generatedAt": "2026-07-07T23:16:53.196Z",
   "batchSize": 120,
-  "successfulCount": 11,
-  "failedCount": 109,
+  "successfulCount": 7,
+  "failedCount": 10,
   "results": [
+    {
+      "company": "Temenos India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.temenos.com/about-us/careers/",
+        "title": "Careers | Working at Temenos",
+        "discoveredAt": "2026-07-07T23:16:43.670Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Unisys India Pvt Ltd",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.unisys.com/careers/",
+        "title": "Careers | Unisys",
+        "discoveredAt": "2026-07-07T23:16:44.144Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://builtin.com/company/hyperpure-zomato/jobs",
+        "title": "Hyperpure by Zomato Jobs + Careers | Built In",
+        "discoveredAt": "2026-07-07T23:16:44.003Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zoom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoom.com/careers",
+        "title": "Careers | Zoom",
+        "discoveredAt": "2026-07-07T23:16:39.511Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zoomcar (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoomcar.co.in/careers",
+        "title": "zoomcar.co.in",
+        "discoveredAt": "2026-07-07T23:16:41.164Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zotye India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.zohocorp.com/jobs/Careers",
+        "title": "Zoho Corp Careers",
+        "discoveredAt": "2026-07-07T23:16:44.039Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zynga",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zynga.com/jobs/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T23:16:44.261Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Synoptek",
       "found": {
@@ -1927,55 +2004,15 @@
     }
   ],
   "failures": [
-    "State Bank of India (IT): company discovery timeout",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
-    "Synchrony International Services India: company discovery timeout",
-    "Tafe India (IT): company discovery timeout",
-    "Taj Hotels (IT): company discovery timeout",
-    "Tamilnad Mercantile Bank (IT): company discovery timeout",
-    "Tank India (IT): company discovery timeout",
-    "Tata AIA Life Tech: company discovery timeout",
-    "Tata Capital Digital: company discovery timeout",
-    "Tata Consultancy Engineering: company discovery timeout",
-    "Tata Consultancy Services (TCS): company discovery timeout",
     "Tata Securities (IT): search returned anti-bot page",
-    "Team Lease Digital: company discovery timeout",
-    "Temenos India: search returned anti-bot page",
-    "Uber: company discovery timeout",
     "Ujjivan Small Finance Bank (IT): search returned anti-bot page",
-    "Ultima India (IT): company discovery timeout",
-    "Unisys India Pvt Ltd: search returned anti-bot page",
-    "Unity Small Finance Bank (IT): company discovery timeout",
-    "Ural India (IT): company discovery timeout",
-    "UST Global: company discovery timeout",
-    "Vauxhall India (IT): company discovery timeout",
-    "Vedanta-Foxconn JV: company discovery timeout",
-    "Verint India: company discovery timeout",
-    "Verizon India: company discovery timeout",
-    "Verloop.io: company discovery timeout",
-    "Vetsutra: company discovery timeout",
-    "Vicarious: company discovery timeout",
-    "VinFast India (IT): company discovery timeout",
-    "Virtusa Consulting Services: company discovery timeout",
-    "Virtusa India: company discovery timeout",
-    "VLS Finance (IT): company discovery timeout",
-    "VMware: company discovery timeout",
-    "Vodafone Idea (IT Services): company discovery timeout",
-    "Vodafone Idea Tech: company discovery timeout",
-    "Volkswagen India (IT): company discovery timeout",
-    "Volvo Ce India (IT): company discovery timeout",
-    "Volvo Group India: company discovery timeout",
-    "Volvo India (IT): company discovery timeout",
-    "Voot: company discovery timeout",
-    "VRL Logistics: company discovery timeout",
-    "Vst Tillers India (IT): company discovery timeout",
-    "Vue.ai: company discovery timeout",
-    "Vyapar: company discovery timeout",
-    "Vymo: company discovery timeout",
-    "Wadhwani AI: company discovery timeout",
-    "Wag!: company discovery timeout",
-    "Walmart Labs: company discovery timeout",
-    "WayCool (IT): company discovery timeout",
-    "WayCool Foods: company discovery timeout"
+    "Zoho People: search returned anti-bot page",
+    "Zomato Pay (IT): search returned anti-bot page",
+    "Zoomlion India (IT): company discovery timeout",
+    "ZTE Telecom India: search returned anti-bot page",
+    "Zudio (IT): company discovery timeout",
+    "Zypp Electric: company discovery timeout",
+    "Zypp Electric (IT): company discovery timeout"
   ]
 }
