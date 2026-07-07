@@ -1,9 +1,130 @@
 {
-  "generatedAt": "2026-07-07T16:44:02.939Z",
+  "generatedAt": "2026-07-07T20:19:12.165Z",
   "batchSize": 120,
-  "successfulCount": 31,
-  "failedCount": 88,
+  "successfulCount": 11,
+  "failedCount": 109,
   "results": [
+    {
+      "company": "Synoptek",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.synoptek.com/jobs",
+        "title": "Synoptek LLC Careers",
+        "discoveredAt": "2026-07-07T20:17:49.077Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tableau",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tableau.com/about/careers/sales",
+        "title": "Sales at Tableau",
+        "discoveredAt": "2026-07-07T20:17:49.931Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Veri5Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://veri5digital.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:17:59.720Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Veritas",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.cohesity.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:17:59.877Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vetic",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vetic.in/careers",
+        "title": "Vetic Careers | Veterinarian Jobs Across India | Apply Now",
+        "discoveredAt": "2026-07-07T20:18:02.477Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Vimeo",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vimeo.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:18:00.630Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zendesk",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zendesk.com/jobs",
+        "title": "Careers at Zendesk | Zendesk job opportunities",
+        "discoveredAt": "2026-07-07T20:19:02.430Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "ZestMoney",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zestmoney.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:19:02.309Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zluri",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zluri.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:19:02.793Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zoho",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoho.com/careers",
+        "title": "Zoho Corporation | Careers",
+        "discoveredAt": "2026-07-07T20:19:03.540Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zolo Stays",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zolostays.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-07T20:19:04.392Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Square Yards (IT)",
       "found": {
@@ -1806,55 +1927,55 @@
     }
   ],
   "failures": [
-    "Stack Overflow: company discovery timeout",
-    "Star Bazaar (IT): company discovery timeout",
-    "Starlink: company discovery timeout",
-    "State Bank of India (IT): search returned anti-bot page",
-    "STPI: company discovery timeout",
-    "Sundaram Finance (IT): company discovery timeout",
+    "State Bank of India (IT): company discovery timeout",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
-    "Synchrony International Services India: search returned anti-bot page",
-    "Synoptek: search returned anti-bot page",
-    "Systematix Shares (IT): company discovery timeout",
-    "Tableau: search returned anti-bot page",
-    "Tafe India (IT): search returned anti-bot page",
-    "Taj Hotels (IT): search returned anti-bot page",
-    "Tamilnad Mercantile Bank (IT): search returned anti-bot page",
-    "Tank India (IT): search returned anti-bot page",
-    "Tanla Platforms: company discovery timeout",
-    "Tata 1mg: company discovery timeout",
-    "Tata AIA Life Tech: search returned anti-bot page",
-    "Tata Capital Digital: search returned anti-bot page",
-    "Tata CLiQ: company discovery timeout",
-    "Tata Communications: company discovery timeout",
-    "Tata Consultancy Engineering: search returned anti-bot page",
-    "Tata Consultancy Services (TCS): search returned anti-bot page",
-    "Tata Neu: company discovery timeout",
-    "Tata Neu (IT): company discovery timeout",
+    "Synchrony International Services India: company discovery timeout",
+    "Tafe India (IT): company discovery timeout",
+    "Taj Hotels (IT): company discovery timeout",
+    "Tamilnad Mercantile Bank (IT): company discovery timeout",
+    "Tank India (IT): company discovery timeout",
+    "Tata AIA Life Tech: company discovery timeout",
+    "Tata Capital Digital: company discovery timeout",
+    "Tata Consultancy Engineering: company discovery timeout",
+    "Tata Consultancy Services (TCS): company discovery timeout",
     "Tata Securities (IT): search returned anti-bot page",
-    "Team Lease Digital: search returned anti-bot page",
-    "Tech Data India: company discovery timeout",
-    "Teleperformance India: company discovery timeout",
+    "Team Lease Digital: company discovery timeout",
     "Temenos India: search returned anti-bot page",
-    "Tencent: company discovery timeout",
-    "Tendercuts (IT): company discovery timeout",
-    "Teradata: company discovery timeout",
-    "Terex India (IT): company discovery timeout",
-    "Tesla: company discovery timeout",
-    "Tesla India (IT): company discovery timeout",
-    "Texas Instruments: company discovery timeout",
-    "THDC (IT): company discovery timeout",
-    "Thyrocare: company discovery timeout",
-    "TicketNew: company discovery timeout",
-    "Tietoevry India: company discovery timeout",
-    "Times Internet: company discovery timeout",
-    "Toffee Insurance: company discovery timeout",
-    "Toppr: company discovery timeout",
-    "Tork Motors (IT): company discovery timeout",
-    "Tower Research: company discovery timeout",
-    "Tower Semiconductor India: company discovery timeout",
-    "Toyota India (IT): company discovery timeout",
-    "Toyota Kirloskar Technology Center: company discovery timeout",
-    "Tractor Junction: company discovery timeout"
+    "Uber: company discovery timeout",
+    "Ujjivan Small Finance Bank (IT): search returned anti-bot page",
+    "Ultima India (IT): company discovery timeout",
+    "Unisys India Pvt Ltd: search returned anti-bot page",
+    "Unity Small Finance Bank (IT): company discovery timeout",
+    "Ural India (IT): company discovery timeout",
+    "UST Global: company discovery timeout",
+    "Vauxhall India (IT): company discovery timeout",
+    "Vedanta-Foxconn JV: company discovery timeout",
+    "Verint India: company discovery timeout",
+    "Verizon India: company discovery timeout",
+    "Verloop.io: company discovery timeout",
+    "Vetsutra: company discovery timeout",
+    "Vicarious: company discovery timeout",
+    "VinFast India (IT): company discovery timeout",
+    "Virtusa Consulting Services: company discovery timeout",
+    "Virtusa India: company discovery timeout",
+    "VLS Finance (IT): company discovery timeout",
+    "VMware: company discovery timeout",
+    "Vodafone Idea (IT Services): company discovery timeout",
+    "Vodafone Idea Tech: company discovery timeout",
+    "Volkswagen India (IT): company discovery timeout",
+    "Volvo Ce India (IT): company discovery timeout",
+    "Volvo Group India: company discovery timeout",
+    "Volvo India (IT): company discovery timeout",
+    "Voot: company discovery timeout",
+    "VRL Logistics: company discovery timeout",
+    "Vst Tillers India (IT): company discovery timeout",
+    "Vue.ai: company discovery timeout",
+    "Vyapar: company discovery timeout",
+    "Vymo: company discovery timeout",
+    "Wadhwani AI: company discovery timeout",
+    "Wag!: company discovery timeout",
+    "Walmart Labs: company discovery timeout",
+    "WayCool (IT): company discovery timeout",
+    "WayCool Foods: company discovery timeout"
   ]
 }
