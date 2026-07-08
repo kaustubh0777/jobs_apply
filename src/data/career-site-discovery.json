@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-08T03:48:40.353Z",
+  "generatedAt": "2026-07-08T06:40:43.301Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 3,
+  "successfulCount": 2,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Tata Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tata.com/careers/jobs/joblisting",
+        "title": "Current Openings | Tata group",
+        "discoveredAt": "2026-07-08T06:40:43.297Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ZTE Telecom India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.jobaaj.com/company/zte-telecom-india-pvt-ltd-careers",
+        "title": "ZTE Telecom India Pvt Ltd Careers and Employment | Jobaaj",
+        "discoveredAt": "2026-07-08T06:40:42.881Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Suryoday Small Finance Bank (IT)",
       "found": {
@@ -2037,8 +2059,6 @@
     }
   ],
   "failures": [
-    "Tata Securities (IT): search returned anti-bot page",
-    "Zoho People: search returned anti-bot page",
-    "ZTE Telecom India: search returned anti-bot page"
+    "Zoho People: search returned anti-bot page"
   ]
 }
