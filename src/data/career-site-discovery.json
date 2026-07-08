@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-07-08T06:40:43.301Z",
+  "generatedAt": "2026-07-08T10:32:00.649Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Zoho People",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zoho.com/careers/",
+        "title": "US Careers at Zoho Corporation",
+        "discoveredAt": "2026-07-08T10:32:00.644Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Tata Securities (IT)",
       "found": {
@@ -2058,7 +2069,5 @@
       }
     }
   ],
-  "failures": [
-    "Zoho People: search returned anti-bot page"
-  ]
+  "failures": []
 }
