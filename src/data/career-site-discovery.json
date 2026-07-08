@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-07-07T23:16:53.196Z",
+  "generatedAt": "2026-07-08T03:48:40.353Z",
   "batchSize": 120,
-  "successfulCount": 7,
-  "failedCount": 10,
+  "successfulCount": 3,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "Suryoday Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://suryoday.bank.in/careers/",
+        "title": "Careers at Suryoday Small Finance Bank. Join Our Family",
+        "discoveredAt": "2026-07-08T03:48:40.349Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Ujjivan Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.ujjivansfb.bank.in/careers-home",
+        "title": "Ujjivan SFB Careers | Banking Career Opportunities in India",
+        "discoveredAt": "2026-07-08T03:48:40.285Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zomato Pay (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
+        "title": "Careers at Zomato",
+        "discoveredAt": "2026-07-08T03:48:40.349Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Temenos India",
       "found": {
@@ -2004,15 +2037,8 @@
     }
   ],
   "failures": [
-    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Tata Securities (IT): search returned anti-bot page",
-    "Ujjivan Small Finance Bank (IT): search returned anti-bot page",
     "Zoho People: search returned anti-bot page",
-    "Zomato Pay (IT): search returned anti-bot page",
-    "Zoomlion India (IT): company discovery timeout",
-    "ZTE Telecom India: search returned anti-bot page",
-    "Zudio (IT): company discovery timeout",
-    "Zypp Electric: company discovery timeout",
-    "Zypp Electric (IT): company discovery timeout"
+    "ZTE Telecom India: search returned anti-bot page"
   ]
 }
