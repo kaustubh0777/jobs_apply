@@ -3,13 +3,13 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-07-11T11:32:46.395Z",
+  "updatedAt": "2026-07-11T14:04:42.623Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-07-11T11:27:02.183Z",
+  "cycleStartedAt": "2026-07-11T13:57:43.954Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-07-11T11:32:46.389Z",
-  "lastCycleStartedAt": "2026-07-11T11:27:02.183Z",
+  "lastSuccessfulCycleAt": "2026-07-11T14:04:42.622Z",
+  "lastCycleStartedAt": "2026-07-11T13:57:43.954Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
   "configuredCompanies": 619,
@@ -38,7 +38,7 @@
     "Flipkart Careers official site": 8,
     "Company career site (structured data)": 11
   },
-  "jobsGeneratedAt": "2026-07-11T11:32:46.284Z",
+  "jobsGeneratedAt": "2026-07-11T14:04:42.485Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }

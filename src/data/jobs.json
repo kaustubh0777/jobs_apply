@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T11:32:46.284Z",
+  "generatedAt": "2026-07-11T14:04:42.485Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -26033,27 +26033,6 @@
       "summary": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that"
     },
     {
-      "id": "greenhouse-dropbox-8031442",
-      "role": "Infrastructure Software Engineer, Release Systems",
-      "company": "Dropbox",
-      "companyType": "Product",
-      "location": "Remote - Mexico",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-06-30T12:00:06-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://jobs.dropbox.com/listing/8031442?gh_jid=8031442",
-      "department": "Engineering Productivity & Efficiency (Sub Team)",
-      "summary": "Role Description As an Infrastructure Engineer on the Release Systems team, your role will be crucial in shaping and building the systems that enable Dropbox product teams to efficiently build, release, and deliver applications to customers. From streamlining deployment workflows"
-    },
-    {
       "id": "greenhouse-dropbox-8031441",
       "role": "Infrastructure Software Engineer, Release Systems",
       "company": "Dropbox",
@@ -26073,6 +26052,27 @@
       "directApplyUrl": "https://jobs.dropbox.com/listing/8031441?gh_jid=8031441",
       "department": "Engineering Productivity & Efficiency (Sub Team)",
       "summary": "Please contact your recruiter to request the job description."
+    },
+    {
+      "id": "greenhouse-dropbox-8031442",
+      "role": "Infrastructure Software Engineer, Release Systems",
+      "company": "Dropbox",
+      "companyType": "Product",
+      "location": "Remote - Mexico",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "0+ yrs est.",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-06-30T12:00:06-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://jobs.dropbox.com/listing/8031442?gh_jid=8031442",
+      "department": "Engineering Productivity & Efficiency (Sub Team)",
+      "summary": "Role Description As an Infrastructure Engineer on the Release Systems team, your role will be crucial in shaping and building the systems that enable Dropbox product teams to efficiently build, release, and deliver applications to customers. From streamlining deployment workflows"
     },
     {
       "id": "greenhouse-datadog-8038652",
