@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:16:04.440Z",
+  "generatedAt": "2026-07-11T23:19:42.356Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
