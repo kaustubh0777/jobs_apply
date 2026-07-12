@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T14:04:52.297Z",
+  "generatedAt": "2026-07-12T15:25:03.483Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -56,6 +56,27 @@
   ],
   "jobs": [
     {
+      "id": "greenhouse-netskope-8059158",
+      "role": "Staff / Sr. Staff, Backend Engineer - Configuration & Telemetry",
+      "company": "Netskope",
+      "companyType": "Product",
+      "location": "Bengaluru, Karnataka, India",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "experienceLabel": "10+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-07-12T11:02:12-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8059158",
+      "department": "Engineering",
+      "summary": "About Netskope Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Nets"
+    },
+    {
       "id": "official-amazonjobs-10471835",
       "role": "Software Dev Engineer II, XB Compliance",
       "company": "Amazon",
@@ -75,6 +96,27 @@
       "directApplyUrl": "https://www.amazon.jobs/en/jobs/10471835/software-dev-engineer-ii-xb-compliance",
       "department": "Software Development",
       "summary": "Are you excited to redefine international trade at Amazon? Want to build systems that enable seamless cross-border shopping for millions of customers across 200+ destinations?Join Amazon Exports and Expansion Are you excited to redefine international trade at Amazon? Want to buil"
+    },
+    {
+      "id": "microsoft-1970393556926076-2026-07-12",
+      "role": "Cloud Solution Architect - AI Biz Solutions",
+      "company": "Microsoft India",
+      "companyType": "Product",
+      "location": "India, Karnataka, Bangalore +1 more",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "experienceLabel": "10+ yrs est.",
+      "experienceSource": "Estimated from seniority",
+      "postedAt": "2026-07-12T00:00:00+05:30",
+      "source": "Microsoft career portal",
+      "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926076?hl=en",
+      "department": "Software Engineering",
+      "summary": "Overview Proactively acts as the voice of the customer/partner and internal communities leveraging relevant insights from feedback tools and systems. Identifies and/or translates customer/partner problems into industry solutions. Drives self and guides other team members to focus"
     },
     {
       "id": "ashby-cerebras-e4224669-79e2-429e-9b80-988273fb8ee7",
@@ -1986,27 +2028,6 @@
       "directApplyUrl": "https://jobs.apple.com/en-in/details/200670839-0321/database-infrastructure-and-reliability-engineer-apple-services-engineering?team=SFTWR",
       "department": "Software and Services",
       "summary": "People at Apple don't just build products - they craft experiences that have revolutionized entire industries. The diversity of our people and ideas inspires innovation in everything we do. At Apple, new ideas quickly become great products, services, and customer experiences. Bri"
-    },
-    {
-      "id": "microsoft-1970393556925493-2026-07-07",
-      "role": "Software Engineer",
-      "company": "Microsoft India",
-      "companyType": "Product",
-      "location": "India, Karnataka, Bangalore",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-07-07T00:00:00+05:30",
-      "source": "Microsoft career portal",
-      "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556925493?hl=en",
-      "department": "Software Engineering",
-      "summary": "Overview Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Microsoft’s Azu"
     },
     {
       "id": "google-careers-127345747094840006-staff-software-engineer-cloud-migration",
@@ -77943,27 +77964,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7809178",
       "department": "613 Platform Operations",
       "summary": "About the Team DoorDash Digital Ordering is DoorDash’s first software-as-a-service business unit – offering a suite of services across online ordering, branded mobile apps, loyalty solutions, and more that enable merchants (restaurants, grocers, retailers, etc.) to reach customer"
-    },
-    {
-      "id": "greenhouse-datadog-7807783",
-      "role": "Services Architect 3 - Denver",
-      "company": "Datadog",
-      "companyType": "Product",
-      "location": "Denver, Colorado, USA",
-      "country": "United States",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-04-13T10:49:08-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783",
-      "department": "Technical Post Sales",
-      "summary": "Datadog’s Implementation Services team helps customers implement and deploy Datadog quickly. Our team of architects leads the discovery, design, build, and launch of the Datadog platform to help customers accelerate time to value and get the most out of their investment. As a mem"
     },
     {
       "id": "official-flipkartcareers-9seniormanager2",
