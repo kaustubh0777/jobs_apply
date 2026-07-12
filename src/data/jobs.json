@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T04:07:55.628Z",
+  "generatedAt": "2026-07-12T06:54:24.095Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -78027,27 +78027,6 @@
       "directApplyUrl": "https://jobs.ashbyhq.com/sentry/ee90f315-6ff3-4e63-a11d-1dcfa2a863b4",
       "department": "Engineering ",
       "summary": "ABOUT SENTRY\n\nSoftware runs the world and the pace is faster than ever. Sentry helps developers fix errors and performance issues before users notice, so teams can spend less time firefighting and more time building.\n\nTrusted by 200,000+ organizations, Sentry is today’s applicati"
-    },
-    {
-      "id": "greenhouse-samsara-7767914",
-      "role": "Sr. Image Quality Hardware Engineer",
-      "company": "Samsara",
-      "companyType": "Product",
-      "location": "Remote - Taiwan",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 6,
-      "experienceMax": null,
-      "experienceLabel": "6+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-04-13T00:38:05-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://www.samsara.com/company/careers/roles/7767914?gh_jid=7767914",
-      "department": "Hardware Engineering",
-      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we"
     },
     {
       "id": "official-flipkartcareers-9seniormanager2",
