@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T15:25:03.483Z",
+  "generatedAt": "2026-07-12T17:34:05.641Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -55,6 +55,27 @@
     "Mindtree iCIMS: iCIMS 404"
   ],
   "jobs": [
+    {
+      "id": "greenhouse-netskope-8059161",
+      "role": "Staff / Sr. Staff, Endpoint Client Engineer (C++)",
+      "company": "Netskope",
+      "companyType": "Product",
+      "location": "Bengaluru, Karnataka, India",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "experienceLabel": "10+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-07-12T11:23:46-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8059161",
+      "department": "Engineering",
+      "summary": "About Netskope Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Nets"
+    },
     {
       "id": "greenhouse-netskope-8059158",
       "role": "Staff / Sr. Staff, Backend Engineer - Configuration & Telemetry",
@@ -222,27 +243,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8613165002",
       "department": "Data Engineering",
       "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and m"
-    },
-    {
-      "id": "greenhouse-postman-7799606003",
-      "role": "Software Engineer (Fullstack, frontend-heavy), Integrations",
-      "company": "Postman",
-      "companyType": "Product",
-      "location": "Bengaluru, Karnataka, India",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 2,
-      "experienceMax": 4,
-      "experienceLabel": "2-4 yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-07-10T01:55:56-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://job-boards.greenhouse.io/postman/jobs/7799606003",
-      "department": "Platform Engineering",
-      "summary": "Who Are We? Postman is the world’s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and professionals across the globe build the API-first world by simplifying each step of th"
     },
     {
       "id": "smartrecruiters-renesaselectronics-744000137045399",
@@ -12906,6 +12906,27 @@
       "directApplyUrl": "https://www.flipkartcareers.com/jobslist",
       "department": "Engineering",
       "summary": "Flipkart Careers official jobs listing."
+    },
+    {
+      "id": "greenhouse-databricks-8593713002",
+      "role": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "company": "Databricks",
+      "companyType": "Product",
+      "location": "Remote - United Kingdom",
+      "country": "United Kingdom",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "0+ yrs est.",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-07-12T11:25:20-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+      "department": "Professional Services Operations",
+      "summary": "AI Engineer - FDE (Forward Deployed Engineer) Req ID: CSQ427R191 Recruiter: Dina Hussain Location: United Kingdom - Remote (must be based in the UK for this role) Mission The AI Forward Deployed Engineering (AI FDE) team is a highly specialized customer-facing AI team at Databric"
     },
     {
       "id": "smartrecruiters-aristanetworks-744000137304229",
