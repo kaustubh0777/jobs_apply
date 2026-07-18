@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T15:19:49.874Z",
+  "generatedAt": "2026-07-18T17:19:35.067Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -16,7 +16,6 @@
   "failures": [
     "Binance India GH 404",
     "Loop Health GH 404",
-    "This operation was aborted",
     "Accenture Workday: no working datacenter found",
     "Bajaj Finserv Tech Workday: no working datacenter found",
     "Citi India Tech Workday: no working datacenter found",
@@ -32960,7 +32959,7 @@
       "postedAt": "2026-06-30T04:47:43-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8030414",
-      "department": "Solutions Consulting Scaled Services",
+      "department": "Solutions Consulting, Specialists",
       "summary": "We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers. MongoDB Pre-Sales Solution Architects are responsible for guiding our cu"
     },
     {
