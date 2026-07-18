@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T19:37:34.404Z",
+  "generatedAt": "2026-07-18T21:10:18.646Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -14,7 +14,6 @@
     "stillUnconfiguredAfterGeneric": 1021
   },
   "failures": [
-    "This operation was aborted",
     "Binance India GH 404",
     "Loop Health GH 404",
     "Accenture Workday: no working datacenter found",
@@ -13245,27 +13244,6 @@
       "summary": "About Zscaler Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an AI-forward enterprise , we are constantly pushing the envelope, leveraging the world’s largest security data lake to power our cloud-native "
     },
     {
-      "id": "greenhouse-worldquant-4673040006",
-      "role": "Data Engineer",
-      "company": "WorldQuant",
-      "companyType": "Product",
-      "location": "New Delhi",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "experienceLabel": "3+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-04-19T16:29:43-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://job-boards.greenhouse.io/worldquant/jobs/4673040006",
-      "department": "Research Division",
-      "summary": "WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market ineffic"
-    },
-    {
       "id": "official-flipkartcareers-0managerbusinessdevel",
       "role": "Manager - Business Devel...",
       "company": "Flipkart",
@@ -13411,6 +13389,48 @@
       "directApplyUrl": "https://www.flipkartcareers.com/jobslist",
       "department": "Engineering",
       "summary": "Flipkart Careers official jobs listing."
+    },
+    {
+      "id": "smartrecruiters-sutherland-744000138462749",
+      "role": "Full stack developer - AWS Cloud (1-2 years of experience)",
+      "company": "Sutherland Global Services",
+      "companyType": "Service",
+      "location": "Bogotá, Bogota, Colombia",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 1,
+      "experienceMax": 2,
+      "experienceLabel": "1-2 yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-07-18T20:42:14.303Z",
+      "source": "SmartRecruiters career portal",
+      "directApplyUrl": "https://jobs.smartrecruiters.com/sutherland/744000138462749",
+      "department": "Engineering",
+      "summary": "At Sutherland - NiCE, we don't limit our challenges. We challenge our limits. Always. We're seeking a highly skilled Senior Full Stack Engineer to design, build, and operate end-to-end web applications and the cloud infrastructure that powers them. The ideal candidate is comforta"
+    },
+    {
+      "id": "smartrecruiters-sutherland-744000138462639",
+      "role": "Full stack developer - AWS Cloud 3+ years of experience",
+      "company": "Sutherland Global Services",
+      "companyType": "Service",
+      "location": "Bogotá, Bogota, Colombia",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "experienceLabel": "3+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-07-18T20:27:58.124Z",
+      "source": "SmartRecruiters career portal",
+      "directApplyUrl": "https://jobs.smartrecruiters.com/sutherland/744000138462639",
+      "department": "Engineering",
+      "summary": "At Sutherland - NiCE, we don't limit our challenges. We challenge our limits. Always. We're seeking a highly skilled Senior Full Stack Engineer to design, build, and operate end-to-end web applications and the cloud infrastructure that powers them. The ideal candidate is comforta"
     },
     {
       "id": "smartrecruiters-continental-744000138448009",
