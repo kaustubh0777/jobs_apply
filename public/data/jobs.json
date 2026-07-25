@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:13:03.489Z",
+  "generatedAt": "2026-07-25T23:17:55.193Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -7,15 +7,17 @@
     "unconfiguredRemaining": 1019,
     "discoveryProbedThisRun": 0,
     "totalSourcesAttempted": 442,
-    "successfulSources": 173,
+    "successfulSources": 172,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 6,
+    "genericSourcesConfirmed": 7,
     "genericCandidatesProbedThisRun": 191,
     "stillUnconfiguredAfterGeneric": 1019
   },
   "failures": [
     "Cognizant GH 404",
     "Loop Health GH 404",
+    "This operation was aborted",
+    "This operation was aborted",
     "This operation was aborted",
     "Accenture Workday: no working datacenter found",
     "Bajaj Finserv Tech Workday: no working datacenter found",
@@ -3251,8 +3253,8 @@
     {
       "id": "lever-paytm-03f256bd-ba54-4fd3-84c0-cea409d4b989",
       "role": "Backend  - Engineering Manager",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Bengaluru, Karnataka",
       "country": "India",
       "countryGroup": "India",
@@ -9425,8 +9427,8 @@
     {
       "id": "lever-paytm-2ae1f365-46d1-46da-acac-a0e9e892dee6",
       "role": "Senior Software Engineer- Backend(Gold)",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Noida, Uttar Pradesh",
       "country": "India",
       "countryGroup": "India",
@@ -11378,8 +11380,8 @@
     {
       "id": "lever-paytm-e497bfd9-bce5-4b50-aad9-e9687022e1fd",
       "role": "MySQL - Senior Lead Database Engineer",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Noida, Uttar Pradesh",
       "country": "India",
       "countryGroup": "India",
@@ -11693,8 +11695,8 @@
     {
       "id": "lever-paytm-1575e8b9-ce53-4929-a714-9503a2c13667",
       "role": "Senior DevOps Engineer",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Noida, Uttar Pradesh",
       "country": "India",
       "countryGroup": "India",
@@ -11714,8 +11716,8 @@
     {
       "id": "lever-paytm-ae9e8931-3614-4239-8c18-82ca6770c885",
       "role": "Lead DevOps Engineer",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Noida, Uttar Pradesh",
       "country": "India",
       "countryGroup": "India",
@@ -43487,8 +43489,8 @@
     {
       "id": "lever-paytm-3e497903-1076-45f2-87f6-bf451644327a",
       "role": "Senior AI Engineer",
-      "company": "Paytm Payments Bank (IT)",
-      "companyType": "Service",
+      "company": "Paytm",
+      "companyType": "Product",
       "location": "Toronto, Canada",
       "country": "Canada",
       "countryGroup": "Global",
