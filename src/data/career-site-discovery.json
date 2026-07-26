@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-26T10:14:06.450Z",
+  "generatedAt": "2026-07-26T11:39:19.944Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 2,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Amazon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazon.com/careers",
+        "title": "Amazon Careers: Impact the Future, Today",
+        "discoveredAt": "2026-07-26T11:39:14.937Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Amazon India (IT Services)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://aws.amazon.com/careers/",
+        "title": "Cloud computing jobs - Working at AWS | AWS Careers",
+        "discoveredAt": "2026-07-26T11:39:19.940Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Zoho People",
       "found": {
