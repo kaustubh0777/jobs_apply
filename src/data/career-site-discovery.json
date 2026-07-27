@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T07:55:43.483Z",
+  "generatedAt": "2026-07-27T11:43:37.335Z",
   "batchSize": 120,
   "successfulCount": 0,
-  "failedCount": 1,
+  "failedCount": 0,
   "results": [
     {
       "company": "Amazon",
@@ -2091,7 +2091,5 @@
       }
     }
   ],
-  "failures": [
-    "Flipkart: company discovery timeout"
-  ]
+  "failures": []
 }
