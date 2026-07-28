@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T21:34:27.021Z",
+  "generatedAt": "2026-07-28T23:17:48.638Z",
   "batchSize": 120,
-  "successfulCount": 5,
-  "failedCount": 15,
+  "successfulCount": 0,
+  "failedCount": 11,
   "results": [
     {
       "company": "1mg",
@@ -2147,20 +2147,16 @@
     }
   ],
   "failures": [
-    "24[7].ai: company discovery timeout",
-    "3i Infotech: search returned anti-bot page",
-    "5ire: company discovery timeout",
-    "5paisa Capital: search returned anti-bot page",
-    "99acres (IT): company discovery timeout",
-    "99acres.com: search returned anti-bot page",
-    "Aavas Financiers (IT): search returned anti-bot page",
-    "Abarth India (IT): search returned anti-bot page",
-    "ABB India: search returned anti-bot page",
-    "Active.Ai: search returned anti-bot page",
-    "Addverb Technologies: search returned anti-bot page",
-    "Aditya Birla Capital Tech: search returned anti-bot page",
+    "3i Infotech: company discovery timeout",
+    "This operation was aborted",
+    "99acres.com: company discovery timeout",
+    "Aavas Financiers (IT): company discovery timeout",
+    "Abarth India (IT): company discovery timeout",
+    "ABB India: company discovery timeout",
+    "Active.Ai: company discovery timeout",
+    "Addverb Technologies: company discovery timeout",
+    "This operation was aborted",
     "Aditya Birla Fashion (IT): search returned anti-bot page",
-    "Aditya Birla Money (IT): search returned anti-bot page",
-    "Adobe: company discovery timeout"
+    "Aditya Birla Money (IT): company discovery timeout"
   ]
 }
