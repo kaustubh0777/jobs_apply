@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-07-28T19:55:19.024Z",
+  "generatedAt": "2026-07-28T21:34:27.021Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 5,
+  "failedCount": 15,
   "results": [
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-07-28T21:34:13.307Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-07-28T21:34:13.960Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-28T21:34:11.565Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-28T21:34:12.503Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acqueon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acqueon.com/about/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-28T21:34:13.123Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Amazon",
       "found": {
@@ -2091,5 +2146,21 @@
       }
     }
   ],
-  "failures": []
+  "failures": [
+    "24[7].ai: company discovery timeout",
+    "3i Infotech: search returned anti-bot page",
+    "5ire: company discovery timeout",
+    "5paisa Capital: search returned anti-bot page",
+    "99acres (IT): company discovery timeout",
+    "99acres.com: search returned anti-bot page",
+    "Aavas Financiers (IT): search returned anti-bot page",
+    "Abarth India (IT): search returned anti-bot page",
+    "ABB India: search returned anti-bot page",
+    "Active.Ai: search returned anti-bot page",
+    "Addverb Technologies: search returned anti-bot page",
+    "Aditya Birla Capital Tech: search returned anti-bot page",
+    "Aditya Birla Fashion (IT): search returned anti-bot page",
+    "Aditya Birla Money (IT): search returned anti-bot page",
+    "Adobe: company discovery timeout"
+  ]
 }
