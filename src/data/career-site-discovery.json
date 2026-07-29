@@ -1,9 +1,196 @@
 {
-  "generatedAt": "2026-07-29T19:48:32.879Z",
+  "generatedAt": "2026-07-29T21:15:59.379Z",
   "batchSize": 120,
-  "successfulCount": 27,
-  "failedCount": 92,
+  "successfulCount": 17,
+  "failedCount": 103,
   "results": [
+    {
+      "company": "Agritrac India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agricareers.in/jobs/",
+        "title": "Jobs - agricareers.in",
+        "discoveredAt": "2026-07-29T21:14:43.771Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Akrivia HCM",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://akriviahealth.com/careers/",
+        "title": "Careers - Akrivia Health",
+        "discoveredAt": "2026-07-29T21:14:43.762Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Algoworks Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.algoworks.com/careers/",
+        "title": "Algoworks Careers | Join and Build a Career with Global Impacts",
+        "discoveredAt": "2026-07-29T21:14:43.796Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "BMW India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bmw.in/en/topics/Fascination-BMW/careers.html",
+        "title": "Career",
+        "discoveredAt": "2026-07-29T21:14:46.568Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Broadcom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://broadcom.com/jobs",
+        "title": "Careers | Broadcom",
+        "discoveredAt": "2026-07-29T21:15:09.397Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Calsoft",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.calsoft.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T21:15:12.099Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Can Fin Homes (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://canfinhomes.com/career",
+        "title": "Careers at Can Fin Homes: Join Our Dynamic Team",
+        "discoveredAt": "2026-07-29T21:15:14.809Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Canara Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://canarabank.com/career",
+        "title": "Careers at Canara Bank | Jobs & Opportunities",
+        "discoveredAt": "2026-07-29T21:15:16.188Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Cashfree",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cashfree.com/careers/",
+        "title": "Careers Hiring",
+        "discoveredAt": "2026-07-29T21:15:17.186Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Chalo (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://chalo.com/jobs",
+        "title": "Jobs",
+        "discoveredAt": "2026-07-29T21:15:29.178Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Chargebee",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://chargebee.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T21:15:28.397Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Check Point",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.checkpoint.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T21:15:28.659Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Choice International (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.choiceinternational.in/study-abroad-services/free-career-counseling/",
+        "title": "Free Career Counseling",
+        "discoveredAt": "2026-07-29T21:15:32.896Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "CitiusTech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.citiustech.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T21:15:35.444Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Citrix",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://citrix.com/careers",
+        "title": "Careers Home - Cloud Software Group",
+        "discoveredAt": "2026-07-29T21:15:36.847Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "City Union Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cityunionbank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T21:15:37.771Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Clevertap",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://clevertap.com/careers/",
+        "title": "Careers Let's work together",
+        "discoveredAt": "2026-07-29T21:15:39.894Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Affine Analytics",
       "found": {
@@ -2456,54 +2643,54 @@
   ],
   "failures": [
     "Adobe Systems India Engineering: search returned anti-bot page",
-    "Agco India (IT): company discovery timeout",
-    "Agritrac India (IT): search returned anti-bot page",
-    "Aibono: company discovery timeout",
-    "Airbus: company discovery timeout",
-    "Airtel (IT Services): company discovery timeout",
-    "Airtel Money (IT): company discovery timeout",
-    "Airtel Payments Bank (IT): company discovery timeout",
-    "Airtel X Labs: search returned anti-bot page",
-    "Ajio: company discovery timeout",
-    "Akamai: company discovery timeout",
-    "Akrivia HCM: search returned anti-bot page",
-    "AKS IT Services: company discovery timeout",
+    "Airtel X Labs: company discovery timeout",
     "Alfa Romeo India (IT): search returned anti-bot page",
-    "Algoworks Solutions: search returned anti-bot page",
-    "Alibaba: company discovery timeout",
-    "Alice Blue (IT): company discovery timeout",
-    "Allsec Technologies: company discovery timeout",
-    "Alpine India (IT): company discovery timeout",
     "Altran India (Capgemini Engineering): search returned anti-bot page",
-    "Amadeus Labs: company discovery timeout",
-    "Ambit Capital (IT): company discovery timeout",
-    "Amesite: company discovery timeout",
-    "Ampere (IT): company discovery timeout",
-    "Analog Devices: company discovery timeout",
-    "Ancestry: company discovery timeout",
-    "Ansys: company discovery timeout",
-    "Apache (open source via Indian eng centers): company discovery timeout",
-    "Apna: company discovery timeout",
-    "Aptus Value Housing Finance (IT): company discovery timeout",
-    "Ariel India (IT): company discovery timeout",
-    "ARM Holdings India: company discovery timeout",
-    "Arrival India (IT): company discovery timeout",
-    "Arrow Electronics India: company discovery timeout",
-    "Arya.ai: company discovery timeout",
-    "Ashika Stock Broking (IT): company discovery timeout",
-    "Aspire Systems: company discovery timeout",
-    "AstraZeneca India: company discovery timeout",
-    "AT&T Global Network Services India: company discovery timeout",
-    "Athenahealth: company discovery timeout",
-    "Ather Energy: company discovery timeout",
-    "Ather Energy (IT): company discovery timeout",
-    "Atos India: company discovery timeout",
-    "AU Small Finance Bank (IT): company discovery timeout",
-    "Aubergine Solutions: company discovery timeout",
-    "Audi India (IT): company discovery timeout",
-    "Aurionpro Solutions: company discovery timeout",
-    "Autodesk India: company discovery timeout",
-    "Autodesk India R&D: company discovery timeout",
-    "Automatic Data Processing: company discovery timeout"
+    "Avnet India: search returned anti-bot page",
+    "BAIC India (IT): search returned anti-bot page",
+    "Bain & Company India: search returned anti-bot page",
+    "Bajaj Allianz Tech: search returned anti-bot page",
+    "Bajaj Auto Tech: company discovery timeout",
+    "Bajaj Finance Digital: company discovery timeout",
+    "This operation was aborted",
+    "Baker Tilly India: company discovery timeout",
+    "Bank of America Continuum Solutions: company discovery timeout",
+    "Blinkit (IT): company discovery timeout",
+    "Bloomberg: company discovery timeout",
+    "Bloomberg L.P. India: company discovery timeout",
+    "BlueJeans: company discovery timeout",
+    "BluSmart (IT): company discovery timeout",
+    "BMC Software: company discovery timeout",
+    "BNP Paribas India: company discovery timeout",
+    "BNY Mellon India: company discovery timeout",
+    "Bobcat India (IT): company discovery timeout",
+    "Boeing: company discovery timeout",
+    "Boeing India Engineering Center: company discovery timeout",
+    "Bogdan India (IT): company discovery timeout",
+    "Booking Holdings India: company discovery timeout",
+    "Booking.com India: company discovery timeout",
+    "BookMyShow: company discovery timeout",
+    "Bosch Global Software Technologies: company discovery timeout",
+    "Boston Consulting Group (BCG) India: company discovery timeout",
+    "Bot.Mp: company discovery timeout",
+    "Bowler India (IT): company discovery timeout",
+    "Box8: company discovery timeout",
+    "BPCL (IT): company discovery timeout",
+    "Brainvire Infotech: company discovery timeout",
+    "Brilliance India (IT): company discovery timeout",
+    "Brillio: company discovery timeout",
+    "Bristol India (IT): company discovery timeout",
+    "BrowserStack: company discovery timeout",
+    "BSNL (IT): company discovery timeout",
+    "BSNL Technology Division: company discovery timeout",
+    "Bugatti India (IT): company discovery timeout",
+    "BYJU'S: company discovery timeout",
+    "Cadence: company discovery timeout",
+    "Cadence Design Systems India: search returned anti-bot page",
+    "CallHealth: company discovery timeout",
+    "Canoo: company discovery timeout",
+    "Canoo India (IT): search returned anti-bot page",
+    "Capillary: company discovery timeout",
+    "Capita India: company discovery timeout"
   ]
 }
