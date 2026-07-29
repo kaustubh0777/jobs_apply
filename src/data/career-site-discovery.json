@@ -1,9 +1,119 @@
 {
-  "generatedAt": "2026-07-29T21:15:59.379Z",
+  "generatedAt": "2026-07-29T23:17:44.555Z",
   "batchSize": 120,
-  "successfulCount": 17,
-  "failedCount": 103,
+  "successfulCount": 10,
+  "failedCount": 79,
   "results": [
+    {
+      "company": "Adobe Systems India Engineering",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://adobe.hire.trakstar.com/jobs",
+        "title": "Jobs at Adobe Systems India Pvt Ltd",
+        "discoveredAt": "2026-07-29T23:16:45.360Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Avnet India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.avnet.com/americas/about-avnet/careers/",
+        "title": "Careers at Avnet - Join Us in Shaping the Future",
+        "discoveredAt": "2026-07-29T23:16:45.305Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Cadence Design Systems India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.cadence.com/en_US/home/company/life-at-cadence/careers.html",
+        "title": "Careers - Cadence Design Systems",
+        "discoveredAt": "2026-07-29T23:16:45.358Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "CASHe",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://demos.colourcraftstudio.co.in/cashe/careers/",
+        "title": "Careers - CASHe - ColourCraft Studio",
+        "discoveredAt": "2026-07-29T23:16:45.080Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "DeHaat (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-07-29T23:17:25.209Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Delhivery",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://delhivery.com/careers",
+        "title": "Build Your Career with Delhivery – Join India's Leading Logistics Innovator",
+        "discoveredAt": "2026-07-29T23:17:23.549Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "DigitalOcean",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://digitalocean.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T23:17:23.895Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Dolby",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dolby.com/careers",
+        "title": "Careers and Internships at Dolby - Dolby",
+        "discoveredAt": "2026-07-29T23:17:34.173Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Drift India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://kashiproperty.in/careers",
+        "title": "Careers HIRING",
+        "discoveredAt": "2026-07-29T23:17:35.552Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Droom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://droom.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-07-29T23:17:36.916Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Agritrac India (IT)",
       "found": {
@@ -2642,55 +2752,55 @@
     }
   ],
   "failures": [
-    "Adobe Systems India Engineering: search returned anti-bot page",
-    "Airtel X Labs: company discovery timeout",
-    "Alfa Romeo India (IT): search returned anti-bot page",
+    "Alfa Romeo India (IT): company discovery timeout",
     "Altran India (Capgemini Engineering): search returned anti-bot page",
-    "Avnet India: search returned anti-bot page",
     "BAIC India (IT): search returned anti-bot page",
     "Bain & Company India: search returned anti-bot page",
     "Bajaj Allianz Tech: search returned anti-bot page",
-    "Bajaj Auto Tech: company discovery timeout",
-    "Bajaj Finance Digital: company discovery timeout",
-    "This operation was aborted",
-    "Baker Tilly India: company discovery timeout",
-    "Bank of America Continuum Solutions: company discovery timeout",
-    "Blinkit (IT): company discovery timeout",
-    "Bloomberg: company discovery timeout",
-    "Bloomberg L.P. India: company discovery timeout",
-    "BlueJeans: company discovery timeout",
-    "BluSmart (IT): company discovery timeout",
-    "BMC Software: company discovery timeout",
-    "BNP Paribas India: company discovery timeout",
-    "BNY Mellon India: company discovery timeout",
-    "Bobcat India (IT): company discovery timeout",
-    "Boeing: company discovery timeout",
-    "Boeing India Engineering Center: company discovery timeout",
-    "Bogdan India (IT): company discovery timeout",
-    "Booking Holdings India: company discovery timeout",
-    "Booking.com India: company discovery timeout",
-    "BookMyShow: company discovery timeout",
-    "Bosch Global Software Technologies: company discovery timeout",
-    "Boston Consulting Group (BCG) India: company discovery timeout",
-    "Bot.Mp: company discovery timeout",
-    "Bowler India (IT): company discovery timeout",
-    "Box8: company discovery timeout",
-    "BPCL (IT): company discovery timeout",
-    "Brainvire Infotech: company discovery timeout",
-    "Brilliance India (IT): company discovery timeout",
-    "Brillio: company discovery timeout",
-    "Bristol India (IT): company discovery timeout",
-    "BrowserStack: company discovery timeout",
-    "BSNL (IT): company discovery timeout",
-    "BSNL Technology Division: company discovery timeout",
-    "Bugatti India (IT): company discovery timeout",
-    "BYJU'S: company discovery timeout",
-    "Cadence: company discovery timeout",
-    "Cadence Design Systems India: search returned anti-bot page",
-    "CallHealth: company discovery timeout",
-    "Canoo: company discovery timeout",
     "Canoo India (IT): search returned anti-bot page",
-    "Capillary: company discovery timeout",
-    "Capita India: company discovery timeout"
+    "Changan India (IT): search returned anti-bot page",
+    "Charter Communications India: search returned anti-bot page",
+    "Chery India (IT): company discovery timeout",
+    "Ciena India: company discovery timeout",
+    "CIGNEX Datamatics: company discovery timeout",
+    "Cigniti Technologies: company discovery timeout",
+    "Citicorp Services India: company discovery timeout",
+    "Concentrix India: company discovery timeout",
+    "Conduent India: company discovery timeout",
+    "ConfirmTkt (IT): company discovery timeout",
+    "CoRover.ai: company discovery timeout",
+    "Country Delight: company discovery timeout",
+    "Country Delight (IT): company discovery timeout",
+    "Course5 Intelligence: company discovery timeout",
+    "Coverfox: company discovery timeout",
+    "Credit Suisse India: company discovery timeout",
+    "Crofarm (IT): company discovery timeout",
+    "Croma Digital: company discovery timeout",
+    "Cropin: company discovery timeout",
+    "CrowdStrike: company discovery timeout",
+    "Crowe India: company discovery timeout",
+    "CtrlS Datacenters: company discovery timeout",
+    "Cuelogic Technologies: company discovery timeout",
+    "Cuemath: company discovery timeout",
+    "Cummins India (IT): company discovery timeout",
+    "Cupra India (IT): company discovery timeout",
+    "Cure.fit: company discovery timeout",
+    "Cure.fit (Cult.fit): company discovery timeout",
+    "CureFit Healthcare: company discovery timeout",
+    "Curefoods: company discovery timeout",
+    "Cyfuture: company discovery timeout",
+    "Cyient DLM: company discovery timeout",
+    "D-Mart (IT): company discovery timeout",
+    "D. E. Shaw: company discovery timeout",
+    "Dacia India (IT): company discovery timeout",
+    "Daf India (IT): company discovery timeout",
+    "Daffodil Software Pvt Ltd: company discovery timeout",
+    "Dailyhunt: company discovery timeout",
+    "Daimler India: company discovery timeout",
+    "Daimler India (IT): company discovery timeout",
+    "Damco Solutions: company discovery timeout",
+    "Darwinbox: company discovery timeout",
+    "Darwinbox HR Tech: company discovery timeout",
+    "Datamatics: company discovery timeout"
   ]
 }
