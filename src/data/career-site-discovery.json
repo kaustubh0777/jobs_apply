@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-07-28T23:17:48.638Z",
+  "generatedAt": "2026-07-29T03:44:47.840Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 11,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Aditya Birla Fashion (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ablbl.in/careers/",
+        "title": "Careers - ABLBL",
+        "discoveredAt": "2026-07-29T03:44:47.836Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "1mg",
       "found": {
@@ -2146,17 +2157,5 @@
       }
     }
   ],
-  "failures": [
-    "3i Infotech: company discovery timeout",
-    "This operation was aborted",
-    "99acres.com: company discovery timeout",
-    "Aavas Financiers (IT): company discovery timeout",
-    "Abarth India (IT): company discovery timeout",
-    "ABB India: company discovery timeout",
-    "Active.Ai: company discovery timeout",
-    "Addverb Technologies: company discovery timeout",
-    "This operation was aborted",
-    "Aditya Birla Fashion (IT): search returned anti-bot page",
-    "Aditya Birla Money (IT): company discovery timeout"
-  ]
+  "failures": []
 }
