@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-07-29T23:17:44.555Z",
+  "generatedAt": "2026-07-30T03:33:30.238Z",
   "batchSize": 120,
-  "successfulCount": 10,
-  "failedCount": 79,
+  "successfulCount": 6,
+  "failedCount": 2,
   "results": [
+    {
+      "company": "Altran India (Capgemini Engineering)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.capgemini.com/in-en/careers/career-paths/careers-at-capgemini-engineering/",
+        "title": "Capgemini Engineering Careers & Jobs | Capgemini India",
+        "discoveredAt": "2026-07-30T03:33:30.177Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "BAIC India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://bankofindia.bank.in/career/recruitment-notice",
+        "title": "Recruitment Notice - BOI",
+        "discoveredAt": "2026-07-30T03:33:30.200Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bain & Company India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bain.com/careers",
+        "title": "Careers at Bain | Bain & Company",
+        "discoveredAt": "2026-07-30T03:33:30.151Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bajaj Allianz Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://webtracker.bajajallianz.com/careers/",
+        "title": "Insert title here - Bajaj Allianz",
+        "discoveredAt": "2026-07-30T03:33:30.174Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Canoo India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.recruit.net/company-canoo-jobs",
+        "title": "Canoo Jobs | Recruit.net",
+        "discoveredAt": "2026-07-30T03:33:30.180Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Charter Communications India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.spectrum.com/search-jobs",
+        "title": "Search Spectrum Jobs | Explore Careers by Location & Category",
+        "discoveredAt": "2026-07-30T03:33:30.233Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Adobe Systems India Engineering",
       "found": {
@@ -2752,55 +2818,7 @@
     }
   ],
   "failures": [
-    "Alfa Romeo India (IT): company discovery timeout",
-    "Altran India (Capgemini Engineering): search returned anti-bot page",
-    "BAIC India (IT): search returned anti-bot page",
-    "Bain & Company India: search returned anti-bot page",
-    "Bajaj Allianz Tech: search returned anti-bot page",
-    "Canoo India (IT): search returned anti-bot page",
     "Changan India (IT): search returned anti-bot page",
-    "Charter Communications India: search returned anti-bot page",
-    "Chery India (IT): company discovery timeout",
-    "Ciena India: company discovery timeout",
-    "CIGNEX Datamatics: company discovery timeout",
-    "Cigniti Technologies: company discovery timeout",
-    "Citicorp Services India: company discovery timeout",
-    "Concentrix India: company discovery timeout",
-    "Conduent India: company discovery timeout",
-    "ConfirmTkt (IT): company discovery timeout",
-    "CoRover.ai: company discovery timeout",
-    "Country Delight: company discovery timeout",
-    "Country Delight (IT): company discovery timeout",
-    "Course5 Intelligence: company discovery timeout",
-    "Coverfox: company discovery timeout",
-    "Credit Suisse India: company discovery timeout",
-    "Crofarm (IT): company discovery timeout",
-    "Croma Digital: company discovery timeout",
-    "Cropin: company discovery timeout",
-    "CrowdStrike: company discovery timeout",
-    "Crowe India: company discovery timeout",
-    "CtrlS Datacenters: company discovery timeout",
-    "Cuelogic Technologies: company discovery timeout",
-    "Cuemath: company discovery timeout",
-    "Cummins India (IT): company discovery timeout",
-    "Cupra India (IT): company discovery timeout",
-    "Cure.fit: company discovery timeout",
-    "Cure.fit (Cult.fit): company discovery timeout",
-    "CureFit Healthcare: company discovery timeout",
-    "Curefoods: company discovery timeout",
-    "Cyfuture: company discovery timeout",
-    "Cyient DLM: company discovery timeout",
-    "D-Mart (IT): company discovery timeout",
-    "D. E. Shaw: company discovery timeout",
-    "Dacia India (IT): company discovery timeout",
-    "Daf India (IT): company discovery timeout",
-    "Daffodil Software Pvt Ltd: company discovery timeout",
-    "Dailyhunt: company discovery timeout",
-    "Daimler India: company discovery timeout",
-    "Daimler India (IT): company discovery timeout",
-    "Damco Solutions: company discovery timeout",
-    "Darwinbox: company discovery timeout",
-    "Darwinbox HR Tech: company discovery timeout",
-    "Datamatics: company discovery timeout"
+    "Dezerv: search returned anti-bot page"
   ]
 }
