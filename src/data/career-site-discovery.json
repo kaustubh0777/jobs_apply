@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-30T03:33:30.238Z",
+  "generatedAt": "2026-07-30T06:44:29.039Z",
   "batchSize": 120,
-  "successfulCount": 6,
-  "failedCount": 2,
+  "successfulCount": 2,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Changan India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://changanhyderabad.com/careers/",
+        "title": "Careers - Changan Hyderabad Motors",
+        "discoveredAt": "2026-07-30T06:44:27.643Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Dezerv",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.dezerv.co/pages/dezerv-careers",
+        "title": "Dezerv Careers - Dezerv Digital",
+        "discoveredAt": "2026-07-30T06:44:29.035Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Altran India (Capgemini Engineering)",
       "found": {
@@ -2817,8 +2839,5 @@
       }
     }
   ],
-  "failures": [
-    "Changan India (IT): search returned anti-bot page",
-    "Dezerv: search returned anti-bot page"
-  ]
+  "failures": []
 }
