@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:20:37.421Z",
+  "generatedAt": "2026-08-01T19:39:16.427Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -13838,6 +13838,27 @@
       "summary": "Flipkart Careers official jobs listing."
     },
     {
+      "id": "smartrecruiters-grab-744000141078449",
+      "role": "Lead AI Analytics Engineer, Trust & Safety",
+      "company": "Grab",
+      "companyType": "Product",
+      "location": "Singapore, , Singapore",
+      "country": "Singapore",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "experienceLabel": "7+ yrs est.",
+      "experienceSource": "Estimated from seniority",
+      "postedAt": "2026-08-01T18:54:10.765Z",
+      "source": "SmartRecruiters career portal",
+      "directApplyUrl": "https://jobs.smartrecruiters.com/grab/744000141078449",
+      "department": "Engineering",
+      "summary": "About Grab and Our Workplace Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excelle"
+    },
+    {
       "id": "greenhouse-postman-7823417003",
       "role": "AI Engineer, Intern",
       "company": "Postman",
@@ -14655,27 +14676,6 @@
       "directApplyUrl": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066",
       "department": "Enterprise Applications",
       "summary": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perce"
-    },
-    {
-      "id": "smartrecruiters-grab-744000140986639",
-      "role": "Lead AI Analytics Engineer - CyberOrg Integrity",
-      "company": "Grab",
-      "companyType": "Product",
-      "location": "Singapore, , Singapore",
-      "country": "Singapore",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 7,
-      "experienceMax": null,
-      "experienceLabel": "7+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-07-31T19:34:06.635Z",
-      "source": "SmartRecruiters career portal",
-      "directApplyUrl": "https://jobs.smartrecruiters.com/grab/744000140986639",
-      "department": "Engineering",
-      "summary": "About Grab and Our Workplace Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excelle"
     },
     {
       "id": "greenhouse-relativity-8659984002",
