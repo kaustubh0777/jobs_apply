@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T19:39:16.427Z",
+  "generatedAt": "2026-08-01T21:14:02.356Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -2010,7 +2010,7 @@
       "experienceSource": "Not specified by portal",
       "postedAt": "2026-07-27T04:57:51-04:00",
       "source": "Company career site (structured data)",
-      "directApplyUrl": "https://arcesium.com/careers",
+      "directApplyUrl": "https://www.arcesium.com/careers",
       "department": "Engineering",
       "summary": ""
     },
@@ -9218,27 +9218,6 @@
       "summary": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive w"
     },
     {
-      "id": "greenhouse-waymo-8018436",
-      "role": "Software Engineer, Post-Silicon Testing ",
-      "company": "Waymo",
-      "companyType": "Product",
-      "location": "Bangalore, Karnataka, India",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-06-19T10:30:53-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8018436",
-      "department": "Compute (7LR)",
-      "summary": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobil"
-    },
-    {
       "id": "greenhouse-fastly-7774594",
       "role": "CSOC Engineer - Security Automation",
       "company": "Fastly",
@@ -13458,6 +13437,27 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/7548045",
       "department": "Glance AI - Tech",
       "summary": "InMobi Advertising is a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles"
+    },
+    {
+      "id": "greenhouse-postman-7724253003",
+      "role": "Senior Engineer Frontend, Monetization",
+      "company": "Postman",
+      "companyType": "Product",
+      "location": "Bengaluru, Karnataka, India",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "experienceLabel": "6+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-05-05T03:43:11-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://job-boards.greenhouse.io/postman/jobs/7724253003",
+      "department": "Platform Engineering",
+      "summary": "Who Are We? Postman is the world’s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and professionals across the globe build the API-first world by simplifying each step of th"
     },
     {
       "id": "greenhouse-zscaler-5087815007",
@@ -31788,7 +31788,7 @@
       "experienceSource": "Not specified by portal",
       "postedAt": "2026-07-17T14:55:30-04:00",
       "source": "Company career site (structured data)",
-      "directApplyUrl": "https://arcesium.com/careers",
+      "directApplyUrl": "https://www.arcesium.com/careers",
       "department": "Engineering",
       "summary": ""
     },
