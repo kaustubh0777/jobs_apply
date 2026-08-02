@@ -3,13 +3,13 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-08-02T06:50:12.839Z",
+  "updatedAt": "2026-08-02T10:13:42.697Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-08-02T06:47:51.320Z",
+  "cycleStartedAt": "2026-08-02T10:10:50.540Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-08-02T06:50:12.834Z",
-  "lastCycleStartedAt": "2026-08-02T06:47:51.320Z",
+  "lastSuccessfulCycleAt": "2026-08-02T10:13:42.692Z",
+  "lastCycleStartedAt": "2026-08-02T10:10:50.540Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
   "configuredCompanies": 675,
@@ -25,10 +25,10 @@
     "microsoft": 1,
     "icims": 1
   },
-  "jobCount": 3872,
+  "jobCount": 3871,
   "jobSourceCounts": {
     "Amazon Jobs official site": 191,
-    "Lever career portal": 186,
+    "Lever career portal": 185,
     "SmartRecruiters career portal": 223,
     "Ashby career portal": 358,
     "Microsoft career portal": 2,
@@ -38,7 +38,7 @@
     "Flipkart Careers official site": 8,
     "Google Careers official site": 13
   },
-  "jobsGeneratedAt": "2026-08-02T06:50:12.730Z",
+  "jobsGeneratedAt": "2026-08-02T10:13:42.598Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }
