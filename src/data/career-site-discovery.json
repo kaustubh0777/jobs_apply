@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-05T17:55:45.588Z",
+  "generatedAt": "2026-08-05T19:58:16.132Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 2,
+  "failedCount": 38,
   "results": [
+    {
+      "company": "Dynatrace",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dynatrace.com/careers",
+        "title": "Home | Dynatrace Careers",
+        "discoveredAt": "2026-08-05T19:57:40.776Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "EarlySalary (Fibe)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://earlysalary.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-05T19:57:40.852Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Changan India (IT)",
       "found": {
@@ -2839,5 +2861,44 @@
       }
     }
   ],
-  "failures": []
+  "failures": [
+    "DTDC Express: company discovery timeout",
+    "Dunzo: company discovery timeout",
+    "Dunzo (IT): company discovery timeout",
+    "Dunzo Daily: company discovery timeout",
+    "EaseMyTrip: company discovery timeout",
+    "EaseMyTrip (IT): company discovery timeout",
+    "EatFit: company discovery timeout",
+    "eBay: company discovery timeout",
+    "ECGC (IT): company discovery timeout",
+    "eClerx Services: company discovery timeout",
+    "Ecom Express Logistics: company discovery timeout",
+    "Edelweiss (IT): company discovery timeout",
+    "Edelweiss Securities (IT): company discovery timeout",
+    "Edelweiss Technology: company discovery timeout",
+    "Eicher India (IT): company discovery timeout",
+    "eInfochips (Arrow): company discovery timeout",
+    "ElasticRun: company discovery timeout",
+    "Electronic Arts India: company discovery timeout",
+    "Embitel Technologies: company discovery timeout",
+    "eMudhra: company discovery timeout",
+    "Encora India: company discovery timeout",
+    "Endurance International Group India: company discovery timeout",
+    "Equinix: company discovery timeout",
+    "Equitas Small Finance Bank (IT): company discovery timeout",
+    "Ergos (IT): company discovery timeout",
+    "Ericsson Global Services India: company discovery timeout",
+    "Ericsson India: company discovery timeout",
+    "Ericsson India (IT Services): company discovery timeout",
+    "Eruditus: company discovery timeout",
+    "ESAF Small Finance Bank (IT): company discovery timeout",
+    "Escorts India (IT): company discovery timeout",
+    "Etalon India (IT): company discovery timeout",
+    "Euler Motors (IT): company discovery timeout",
+    "Eurotrac India (IT): company discovery timeout",
+    "Eventbrite: company discovery timeout",
+    "Everest Fleet (IT): company discovery timeout",
+    "EXIM Bank (IT): company discovery timeout",
+    "EXL Service: company discovery timeout"
+  ]
 }
