@@ -1,9 +1,196 @@
 {
-  "generatedAt": "2026-08-06T10:58:19.929Z",
+  "generatedAt": "2026-08-06T14:39:20.105Z",
   "batchSize": 120,
-  "successfulCount": 14,
-  "failedCount": 106,
+  "successfulCount": 17,
+  "failedCount": 103,
   "results": [
+    {
+      "company": "Naggaro",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.nagarro.com/en/careers",
+        "title": "Careers | Nagarro",
+        "discoveredAt": "2026-08-06T14:38:07.096Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "NEC Corporation India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://in.nec.com/en_IN/career/jobs-at-NEC.html",
+        "title": "Top 10 Employee Friendly Companies in India, Best Indian IT ... - NEC",
+        "discoveredAt": "2026-08-06T14:38:07.430Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Pfizer India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://pfizerindia.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:16.118Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "PharmEasy",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://pharmeasy.in/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:16.917Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Pocketful",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.pocketful.in/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:27.543Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Policybazaar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.policybazaar.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:25.227Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Polygon",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.valnetinc.com/en/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:25.063Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Priceline",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://priceline.com/careers",
+        "title": "Homepage -",
+        "discoveredAt": "2026-08-06T14:38:26.096Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Pristyn Care",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.pristyncare.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:26.545Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Procore",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://procore.com/careers",
+        "title": "Build A Career with Impact At Procore",
+        "discoveredAt": "2026-08-06T14:38:28.480Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "PropTiger",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:28.877Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "PropTiger (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:38:29.701Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Publicis Sapient",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://publicissapient.com/careers",
+        "title": "Careers at Publicis Sapient",
+        "discoveredAt": "2026-08-06T14:38:31.263Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Retool",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://retool.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:39:02.182Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Revv (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://revv.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:39:03.182Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "RingCentral",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ringcentral.com/careers",
+        "title": "Join Our Team | RingCentral Careers",
+        "discoveredAt": "2026-08-06T14:39:04.687Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Rippling",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rippling.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T14:39:05.508Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Meta India",
       "found": {
@@ -3775,55 +3962,55 @@
     }
   ],
   "failures": [
-    "Finvasia (IT): company discovery timeout",
-    "HSBC India: company discovery timeout",
-    "Hurix Digital: company discovery timeout",
-    "Hyundai Ce India (IT): company discovery timeout",
-    "ICICI Lombard Tech: company discovery timeout",
-    "ICICI Prudential Tech: company discovery timeout",
-    "Jupiter Money: company discovery timeout",
-    "Justdial Limited: company discovery timeout",
-    "L&T Infotech (Merged): company discovery timeout",
-    "Lagonda India (IT): company discovery timeout",
-    "Lancia India (IT): company discovery timeout",
-    "Landini India (IT): company discovery timeout",
-    "Landwind India (IT): company discovery timeout",
-    "Larsen & Toubro Infotech: company discovery timeout",
-    "Li Auto India (IT): company discovery timeout",
-    "Liaz India (IT): company discovery timeout",
-    "LIC Housing Finance (IT): company discovery timeout",
-    "LIC Technology Division: company discovery timeout",
-    "Lifan India (IT): company discovery timeout",
-    "Lister India (IT): company discovery timeout",
-    "Man India (IT): company discovery timeout",
-    "Manappuram Finance (IT): company discovery timeout",
-    "Manappuram Finance Tech: company discovery timeout",
-    "Marriott International India: company discovery timeout",
-    "Marvell Technology India: company discovery timeout",
-    "Marwadi Shares (IT): company discovery timeout",
-    "Maserati India (IT): company discovery timeout",
-    "Massey Ferguson India (IT): company discovery timeout",
-    "Mastercard Labs India: company discovery timeout",
-    "MathWorks: company discovery timeout",
-    "Maveric Systems: company discovery timeout",
-    "Max Fashion (IT): company discovery timeout",
-    "Max Life Insurance Tech: company discovery timeout",
-    "Maybach India (IT): company discovery timeout",
-    "Medlife: company discovery timeout",
-    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
+    "Maz India (IT): search returned anti-bot page",
+    "McLaren India (IT): company discovery timeout",
+    "Mercedes-Benz India (IT): search returned anti-bot page",
     "Mercedes-Benz R&D India: search returned anti-bot page",
-    "Mfine Health: company discovery timeout",
-    "Microsoft India (IT Services): company discovery timeout",
-    "Milkbasket (IT): company discovery timeout",
-    "Mindbowser Technologies: company discovery timeout",
-    "MSCI India: company discovery timeout",
-    "Muthoot Finance (IT): company discovery timeout",
-    "Muthoot Fincorp Tech: company discovery timeout",
-    "Myntra Pay (IT): search returned anti-bot page",
-    "Naggaro: search returned anti-bot page",
-    "Nainital Bank (IT): search returned anti-bot page",
+    "Merck India: company discovery timeout",
+    "Myntra Pay (IT): company discovery timeout",
+    "Nainital Bank (IT): company discovery timeout",
     "NatWest Group India: search returned anti-bot page",
-    "Nazara Technologies: company discovery timeout",
-    "NEC Corporation India: search returned anti-bot page"
+    "Nefaz India (IT): search returned anti-bot page",
+    "NestAway Technologies: search returned anti-bot page",
+    "NetSol Technologies India: search returned anti-bot page",
+    "Niki.ai: search returned anti-bot page",
+    "Nikola India (IT): search returned anti-bot page",
+    "Nio India (IT): search returned anti-bot page",
+    "Niramai Health: search returned anti-bot page",
+    "NiYO Solutions: search returned anti-bot page",
+    "Nokia India (IT Services): search returned anti-bot page",
+    "Nokia Solutions and Networks India: search returned anti-bot page",
+    "Nomura India: search returned anti-bot page",
+    "Northern Trust India: search returned anti-bot page",
+    "Novartis India: search returned anti-bot page",
+    "NSDL Payments Bank (IT): company discovery timeout",
+    "NTT DATA Business Solutions India: search returned anti-bot page",
+    "NTT Data India: search returned anti-bot page",
+    "NVIDIA Graphics India: search returned anti-bot page",
+    "NXP Semiconductors India: search returned anti-bot page",
+    "NxtGen Datacenter: search returned anti-bot page",
+    "PFRDA (IT): company discovery timeout",
+    "Philips Innovation Campus India: search returned anti-bot page",
+    "Photon Interactive: company discovery timeout",
+    "PhysicsWallah: company discovery timeout",
+    "Piramal Capital (IT): search returned anti-bot page",
+    "Piramal Finance Tech: search returned anti-bot page",
+    "Plum Insurance: search returned anti-bot page",
+    "PNB Housing Finance (IT): company discovery timeout",
+    "Pocket HRMS: company discovery timeout",
+    "Polestar India (IT): company discovery timeout",
+    "Porsche India (IT): search returned anti-bot page",
+    "Postmates: search returned anti-bot page",
+    "PowerGrid (IT): company discovery timeout",
+    "Powertrac India (IT): company discovery timeout",
+    "Preet India (IT): search returned anti-bot page",
+    "Privitar: company discovery timeout",
+    "Procter & Gamble India: search returned anti-bot page",
+    "Proofpoint India: company discovery timeout",
+    "Protiviti India: company discovery timeout",
+    "Punjab & Sind Bank (IT): company discovery timeout",
+    "Punjab National Bank (IT): company discovery timeout",
+    "Purplle: company discovery timeout",
+    "Qualcomm India R&D: company discovery timeout"
   ]
 }
