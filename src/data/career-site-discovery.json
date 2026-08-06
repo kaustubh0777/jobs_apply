@@ -1,9 +1,163 @@
 {
-  "generatedAt": "2026-08-06T06:49:53.571Z",
+  "generatedAt": "2026-08-06T10:58:19.929Z",
   "batchSize": 120,
-  "successfulCount": 27,
-  "failedCount": 89,
+  "successfulCount": 14,
+  "failedCount": 106,
   "results": [
+    {
+      "company": "Meta India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.metacareers.com/jobsearch/",
+        "title": "Job Openings at Meta - Meta Careers",
+        "discoveredAt": "2026-08-06T10:57:28.183Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Mu Sigma",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.mu-sigma.com/career/",
+        "title": "Explore Exciting Career Opportunities | Join Mu Sigma",
+        "discoveredAt": "2026-08-06T10:57:28.855Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Ninjacart",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:31.551Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ninjacart (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:31.812Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Niramai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://niramai.com/careers",
+        "title": "Job Openings at NIRAMAI Health Analytix | Join Our Team",
+        "discoveredAt": "2026-08-06T10:57:34.829Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Nokia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nokia.com/careers/",
+        "title": "Nokia Corporation | Nokia",
+        "discoveredAt": "2026-08-06T10:57:32.760Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Noom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://noom.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:38.211Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "North East Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://northeastsmallfinancebank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:39.840Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "NTPC (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://careers-ntpc.icims.com/jobs/intro?hashed=-435594588&mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360",
+        "title": "Current Job Openings",
+        "discoveredAt": "2026-08-06T10:57:38.842Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nutanix",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nutanix.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:40.108Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nuvepro",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nuvepro.com/jobs",
+        "title": "Jobs - Nuvepro",
+        "discoveredAt": "2026-08-06T10:57:48.894Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Nvidia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:40.963Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ola Electric",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://olaelectric.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:49.977Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ola Electric (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://olaelectric.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-06T10:57:50.183Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Go Digit General Insurance",
       "found": {
@@ -3621,55 +3775,55 @@
     }
   ],
   "failures": [
-    "Expedia: company discovery timeout",
-    "Finvasia (IT): search returned anti-bot page",
-    "HSBC India: search returned anti-bot page",
-    "Hurix Digital: search returned anti-bot page",
-    "Hyundai Ce India (IT): search returned anti-bot page",
-    "ICICI Lombard Tech: search returned anti-bot page",
-    "ICICI Prudential Tech: search returned anti-bot page",
-    "Juniper Networks: company discovery timeout",
-    "Jupiter Money: search returned anti-bot page",
-    "Justdial Limited: search returned anti-bot page",
-    "L&T Infotech (Merged): search returned anti-bot page",
-    "Lagonda India (IT): search returned anti-bot page",
-    "Lancia India (IT): search returned anti-bot page",
-    "Landini India (IT): search returned anti-bot page",
-    "Landwind India (IT): search returned anti-bot page",
-    "Larsen & Toubro Infotech: search returned anti-bot page",
-    "Li Auto India (IT): search returned anti-bot page",
-    "Liaz India (IT): search returned anti-bot page",
-    "LIC Housing Finance (IT): search returned anti-bot page",
-    "LIC Technology Division: search returned anti-bot page",
-    "Lifan India (IT): search returned anti-bot page",
-    "Lister India (IT): search returned anti-bot page",
-    "MakeMyTrip: company discovery timeout",
-    "MakeMyTrip (IT): company discovery timeout",
-    "Man India (IT): search returned anti-bot page",
-    "Manappuram Finance (IT): search returned anti-bot page",
-    "Manappuram Finance Tech: search returned anti-bot page",
-    "Marriott International India: search returned anti-bot page",
-    "Marvell Technology India: search returned anti-bot page",
-    "Marwadi Shares (IT): search returned anti-bot page",
-    "Maserati India (IT): search returned anti-bot page",
-    "Massey Ferguson India (IT): search returned anti-bot page",
-    "Mastek: company discovery timeout",
-    "Mastercard Labs India: search returned anti-bot page",
-    "MathWorks: search returned anti-bot page",
-    "Maveric Systems: search returned anti-bot page",
-    "Max Fashion (IT): search returned anti-bot page",
-    "Meatigo (IT): company discovery timeout",
-    "Mentor Graphics (Siemens EDA) India: search returned anti-bot page",
-    "Meru (IT): company discovery timeout",
-    "Meta India: search returned anti-bot page",
-    "mfine: company discovery timeout",
-    "Mfine Health: search returned anti-bot page",
-    "MG Motor India (IT): company discovery timeout",
-    "Microsoft India (IT Services): search returned anti-bot page",
-    "Milkbasket (IT): search returned anti-bot page",
-    "Mindbowser Technologies: search returned anti-bot page",
-    "Mindtree: company discovery timeout",
-    "Mindtree (LTIMindtree): company discovery timeout",
-    "Mini India (IT): company discovery timeout"
+    "Finvasia (IT): company discovery timeout",
+    "HSBC India: company discovery timeout",
+    "Hurix Digital: company discovery timeout",
+    "Hyundai Ce India (IT): company discovery timeout",
+    "ICICI Lombard Tech: company discovery timeout",
+    "ICICI Prudential Tech: company discovery timeout",
+    "Jupiter Money: company discovery timeout",
+    "Justdial Limited: company discovery timeout",
+    "L&T Infotech (Merged): company discovery timeout",
+    "Lagonda India (IT): company discovery timeout",
+    "Lancia India (IT): company discovery timeout",
+    "Landini India (IT): company discovery timeout",
+    "Landwind India (IT): company discovery timeout",
+    "Larsen & Toubro Infotech: company discovery timeout",
+    "Li Auto India (IT): company discovery timeout",
+    "Liaz India (IT): company discovery timeout",
+    "LIC Housing Finance (IT): company discovery timeout",
+    "LIC Technology Division: company discovery timeout",
+    "Lifan India (IT): company discovery timeout",
+    "Lister India (IT): company discovery timeout",
+    "Man India (IT): company discovery timeout",
+    "Manappuram Finance (IT): company discovery timeout",
+    "Manappuram Finance Tech: company discovery timeout",
+    "Marriott International India: company discovery timeout",
+    "Marvell Technology India: company discovery timeout",
+    "Marwadi Shares (IT): company discovery timeout",
+    "Maserati India (IT): company discovery timeout",
+    "Massey Ferguson India (IT): company discovery timeout",
+    "Mastercard Labs India: company discovery timeout",
+    "MathWorks: company discovery timeout",
+    "Maveric Systems: company discovery timeout",
+    "Max Fashion (IT): company discovery timeout",
+    "Max Life Insurance Tech: company discovery timeout",
+    "Maybach India (IT): company discovery timeout",
+    "Medlife: company discovery timeout",
+    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
+    "Mercedes-Benz R&D India: search returned anti-bot page",
+    "Mfine Health: company discovery timeout",
+    "Microsoft India (IT Services): company discovery timeout",
+    "Milkbasket (IT): company discovery timeout",
+    "Mindbowser Technologies: company discovery timeout",
+    "MSCI India: company discovery timeout",
+    "Muthoot Finance (IT): company discovery timeout",
+    "Muthoot Fincorp Tech: company discovery timeout",
+    "Myntra Pay (IT): search returned anti-bot page",
+    "Naggaro: search returned anti-bot page",
+    "Nainital Bank (IT): search returned anti-bot page",
+    "NatWest Group India: search returned anti-bot page",
+    "Nazara Technologies: company discovery timeout",
+    "NEC Corporation India: search returned anti-bot page"
   ]
 }
