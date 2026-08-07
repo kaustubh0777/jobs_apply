@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-08-07T13:42:01.405Z",
+  "generatedAt": "2026-08-07T15:11:21.053Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Zomato Hyperpure",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
+        "title": "Careers at Zomato",
+        "discoveredAt": "2026-08-07T15:11:21.045Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Zimyo HRMS",
       "found": {
@@ -4775,7 +4786,5 @@
       }
     }
   ],
-  "failures": [
-    "Zomato Hyperpure: search returned anti-bot page"
-  ]
+  "failures": []
 }
