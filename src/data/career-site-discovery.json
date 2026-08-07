@@ -1,9 +1,240 @@
 {
-  "generatedAt": "2026-08-07T00:19:17.527Z",
+  "generatedAt": "2026-08-07T04:35:01.952Z",
   "batchSize": 120,
-  "successfulCount": 24,
-  "failedCount": 95,
+  "successfulCount": 21,
+  "failedCount": 99,
   "results": [
+    {
+      "company": "Synoptek",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://synoptek.com/about-us/careers/",
+        "title": "Careers - Synoptek",
+        "discoveredAt": "2026-08-07T04:33:52.648Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tableau",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Tableau",
+        "title": "Search for Jobs",
+        "discoveredAt": "2026-08-07T04:33:53.510Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Target",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://target.com/careers",
+        "title": "Jobs at Target",
+        "discoveredAt": "2026-08-07T04:33:56.267Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "TaskUs India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.taskus.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:33:55.449Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Capital (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatacapital.com/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:33:56.417Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Electronics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelectronics.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:01.380Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TATA Elxsi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelxsi.com/careers",
+        "title": "Explore what’s possible",
+        "discoveredAt": "2026-08-07T04:34:02.337Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Teleservices",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tatateleservices.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:01.857Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TatvaSoft",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatvasoft.com/career",
+        "title": "Career",
+        "discoveredAt": "2026-08-07T04:34:01.225Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TCI Express",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tciexpress.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:02.738Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Teachmint",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://teachmint.keka.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:02.327Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tejas Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tejasnetworks.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:04.798Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tenable",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tenable.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:04.201Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Testbook",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://testbook.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:06.214Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ThoughtSpot",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://thoughtspot.com/careers",
+        "title": "Join Our Team | ThoughtSpot",
+        "discoveredAt": "2026-08-07T04:34:12.548Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Uniphore",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://uniphore.com/careers",
+        "title": "Careers at Uniphore | Shape the Future of Enterprise AI",
+        "discoveredAt": "2026-08-07T04:34:40.615Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Unity",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://unity.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:40.705Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "UpGrad",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.upgrad.com/op-jindal-career-acceleration-program/",
+        "title": "MBA (with Career Acceleration Program by upGrad)",
+        "discoveredAt": "2026-08-07T04:34:41.346Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vedantu",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.vedantu.com/careers",
+        "title": "Careers Check out the roles we&#x27;re currently hiring for",
+        "discoveredAt": "2026-08-07T04:34:46.666Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Veri5Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://veri5digital.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:47.331Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Veritas",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.cohesity.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-07T04:34:47.482Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "S&P Global India",
       "found": {
@@ -4226,55 +4457,55 @@
     }
   ],
   "failures": [
-    "Maz India (IT): company discovery timeout",
-    "Mercedes-Benz India (IT): company discovery timeout",
-    "Mercedes-Benz R&D India: company discovery timeout",
-    "NatWest Group India: company discovery timeout",
-    "Nefaz India (IT): company discovery timeout",
-    "NestAway Technologies: company discovery timeout",
-    "NetSol Technologies India: company discovery timeout",
-    "Niki.ai: company discovery timeout",
-    "Nikola India (IT): company discovery timeout",
-    "Nio India (IT): company discovery timeout",
-    "Niramai Health: company discovery timeout",
-    "NiYO Solutions: company discovery timeout",
-    "This operation was aborted",
-    "Nokia Solutions and Networks India: company discovery timeout",
-    "This operation was aborted",
-    "Northern Trust India: company discovery timeout",
-    "Novartis India: company discovery timeout",
-    "NTT DATA Business Solutions India: company discovery timeout",
-    "NTT Data India: company discovery timeout",
-    "NVIDIA Graphics India: company discovery timeout",
-    "NXP Semiconductors India: company discovery timeout",
-    "NxtGen Datacenter: company discovery timeout",
-    "Philips Innovation Campus India: company discovery timeout",
-    "Piramal Capital (IT): company discovery timeout",
-    "This operation was aborted",
     "Plum Insurance: search returned anti-bot page",
-    "Porsche India (IT): company discovery timeout",
-    "This operation was aborted",
-    "Procter & Gamble India: company discovery timeout",
-    "Saavn: company discovery timeout",
-    "Safexpress: company discovery timeout",
-    "Sahaj Software: company discovery timeout",
     "Salesforce Tower India Engineering: search returned anti-bot page",
-    "Samco (IT): company discovery timeout",
     "Same Deutz-Fahr India (IT): search returned anti-bot page",
-    "Samsung R&D Institute India: search returned anti-bot page",
-    "Savaari (IT): company discovery timeout",
-    "SBI Life Insurance Tech: search returned anti-bot page",
-    "SEBI (IT): company discovery timeout",
-    "Senseforth.ai: search returned anti-bot page",
-    "Setu (Pine Labs): company discovery timeout",
-    "Sharekhan (IT): company discovery timeout",
-    "Sheru (IT): company discovery timeout",
-    "Shiprocket: company discovery timeout",
-    "Shoppers Stop (IT): company discovery timeout",
-    "Shriram Finance (IT): company discovery timeout",
-    "Shuttl (IT): company discovery timeout",
-    "SIDBI (IT): company discovery timeout",
-    "Siemens (IT Services): company discovery timeout",
-    "Signzy: company discovery timeout"
+    "This operation was aborted",
+    "This operation was aborted",
+    "Senseforth.ai: company discovery timeout",
+    "State Street Syntel Services India: search returned anti-bot page",
+    "StayAbode (IT): company discovery timeout",
+    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
+    "Synchrony International Services India: search returned anti-bot page",
+    "Tafe India (IT): search returned anti-bot page",
+    "Taj Hotels (IT): search returned anti-bot page",
+    "Tamilnad Mercantile Bank (IT): search returned anti-bot page",
+    "Tank India (IT): search returned anti-bot page",
+    "Tata 1mg: company discovery timeout",
+    "Tata AIA Life Tech: search returned anti-bot page",
+    "Tata Capital Digital: search returned anti-bot page",
+    "Tata CLiQ: search returned anti-bot page",
+    "Tata Communications: company discovery timeout",
+    "Tata Consultancy Engineering: search returned anti-bot page",
+    "Tata Consultancy Services (TCS): search returned anti-bot page",
+    "Tata Digital: company discovery timeout",
+    "Tata Motors (IT): company discovery timeout",
+    "Tata Neu: company discovery timeout",
+    "Tata Neu (IT): company discovery timeout",
+    "Team Lease Digital: search returned anti-bot page",
+    "Tech Data India: search returned anti-bot page",
+    "Teleperformance India: company discovery timeout",
+    "Temenos India: search returned anti-bot page",
+    "Tencent: company discovery timeout",
+    "Tendercuts (IT): company discovery timeout",
+    "Teradata: company discovery timeout",
+    "Terex India (IT): company discovery timeout",
+    "Tesla: company discovery timeout",
+    "Tesla India (IT): company discovery timeout",
+    "Texas Instruments: company discovery timeout",
+    "THDC (IT): company discovery timeout",
+    "Thyrocare: company discovery timeout",
+    "TicketNew: company discovery timeout",
+    "Tietoevry India: company discovery timeout",
+    "Times Internet: company discovery timeout",
+    "Toffee Insurance: company discovery timeout",
+    "Toppr: company discovery timeout",
+    "Tork Motors (IT): company discovery timeout",
+    "Tower Research: company discovery timeout",
+    "Tower Semiconductor India: company discovery timeout",
+    "Toyota India (IT): company discovery timeout",
+    "Toyota Kirloskar Technology Center: company discovery timeout",
+    "Tractor Junction: company discovery timeout",
+    "Tradebulls Securities (IT): company discovery timeout"
   ]
 }
