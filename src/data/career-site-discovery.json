@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-08-07T09:17:53.439Z",
+  "generatedAt": "2026-08-07T11:10:12.828Z",
   "batchSize": 120,
-  "successfulCount": 5,
-  "failedCount": 18,
+  "successfulCount": 3,
+  "failedCount": 16,
   "results": [
+    {
+      "company": "ZF Group India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.zf.com/india/en/careers/careers.html",
+        "title": "Join ZF India: Careers in Technology and Innovation | ZF India Jobs - ZF",
+        "discoveredAt": "2026-08-07T11:10:11.964Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zoho People",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zoho.com/careers/",
+        "title": "US Careers at Zoho Corporation",
+        "discoveredAt": "2026-08-07T11:10:11.969Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zomato Pay (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
+        "title": "Careers at Zomato",
+        "discoveredAt": "2026-08-07T11:10:11.948Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Tafe India (IT)",
       "found": {
@@ -4710,22 +4743,20 @@
     }
   ],
   "failures": [
-    "Plum Insurance: search returned anti-bot page",
-    "Taj Hotels (IT): search returned anti-bot page",
-    "Tata AIA Life Tech: search returned anti-bot page",
-    "Tata Consultancy Services (TCS): search returned anti-bot page",
-    "Tata Securities (IT): search returned anti-bot page",
-    "Team Lease Digital: search returned anti-bot page",
-    "Ujjivan Small Finance Bank (IT): search returned anti-bot page",
-    "Ultima India (IT): search returned anti-bot page",
-    "Unisys India Pvt Ltd: search returned anti-bot page",
-    "Unity Small Finance Bank (IT): search returned anti-bot page",
-    "Ural India (IT): search returned anti-bot page",
-    "Utkarsh Small Finance Bank (IT): search returned anti-bot page",
-    "ZF Group India: search returned anti-bot page",
+    "Plum Insurance: company discovery timeout",
+    "Taj Hotels (IT): company discovery timeout",
+    "Tata AIA Life Tech: company discovery timeout",
+    "Tata Consultancy Services (TCS): company discovery timeout",
+    "Tata Securities (IT): company discovery timeout",
+    "Team Lease Digital: company discovery timeout",
+    "Ujjivan Small Finance Bank (IT): company discovery timeout",
+    "Ultima India (IT): company discovery timeout",
+    "Unisys India Pvt Ltd: company discovery timeout",
+    "Unity Small Finance Bank (IT): company discovery timeout",
+    "Ural India (IT): company discovery timeout",
+    "Utkarsh Small Finance Bank (IT): company discovery timeout",
     "Zimyo HRMS: search returned anti-bot page",
     "Zomato Hyperpure: search returned anti-bot page",
-    "Zomato Pay (IT): search returned anti-bot page",
     "Zotye India (IT): search returned anti-bot page",
     "ZTE Telecom India: search returned anti-bot page"
   ]
