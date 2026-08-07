@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-08-07T07:46:35.359Z",
+  "generatedAt": "2026-08-07T09:17:53.439Z",
   "batchSize": 120,
-  "successfulCount": 18,
-  "failedCount": 102,
+  "successfulCount": 5,
+  "failedCount": 18,
   "results": [
+    {
+      "company": "Tafe India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tafe.com/corporate/tafe-career",
+        "title": "TAFE Careers - Join India&#x27;s Leading Tractor Manufacturer",
+        "discoveredAt": "2026-08-07T09:17:45.405Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tamilnad Mercantile Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ib.tmbonline.bank.in/tmb_careers/",
+        "title": "TMB Careers - ib.tmbonline.bank.in",
+        "discoveredAt": "2026-08-07T09:17:45.408Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tata Capital Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.tatacapital.com/careers.html",
+        "title": "Careers - Life at Tata Capital | Tata Capital",
+        "discoveredAt": "2026-08-07T09:17:45.433Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tata Consultancy Engineering",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.tcs.com/careers",
+        "title": "TCS Careers: Find Active Job Vacancy and Build Your Future",
+        "discoveredAt": "2026-08-07T09:17:45.418Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Temenos India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.temenos.com/about-us/careers/",
+        "title": "Careers | Working at Temenos",
+        "discoveredAt": "2026-08-07T09:17:45.457Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Salesforce Tower India Engineering",
       "found": {
@@ -4656,54 +4711,22 @@
   ],
   "failures": [
     "Plum Insurance: search returned anti-bot page",
-    "State Street Syntel Services India: search returned anti-bot page",
-    "Tafe India (IT): search returned anti-bot page",
     "Taj Hotels (IT): search returned anti-bot page",
-    "Tamilnad Mercantile Bank (IT): search returned anti-bot page",
     "Tata AIA Life Tech: search returned anti-bot page",
-    "Tata Capital Digital: search returned anti-bot page",
-    "Tata CLiQ: company discovery timeout",
-    "Tata Consultancy Engineering: search returned anti-bot page",
     "Tata Consultancy Services (TCS): search returned anti-bot page",
     "Tata Securities (IT): search returned anti-bot page",
     "Team Lease Digital: search returned anti-bot page",
-    "Tech Data India: company discovery timeout",
-    "Temenos India: search returned anti-bot page",
     "Ujjivan Small Finance Bank (IT): search returned anti-bot page",
     "Ultima India (IT): search returned anti-bot page",
     "Unisys India Pvt Ltd: search returned anti-bot page",
     "Unity Small Finance Bank (IT): search returned anti-bot page",
     "Ural India (IT): search returned anti-bot page",
-    "UST Global: company discovery timeout",
     "Utkarsh Small Finance Bank (IT): search returned anti-bot page",
-    "Valtra India (IT): company discovery timeout",
-    "Vardhaman Capital (IT): company discovery timeout",
-    "VMware: company discovery timeout",
-    "Vodafone Idea Tech: company discovery timeout",
-    "Volkswagen India (IT): company discovery timeout",
-    "Volvo Ce India (IT): company discovery timeout",
-    "Volvo Group India: company discovery timeout",
-    "Volvo India (IT): company discovery timeout",
-    "Voot: company discovery timeout",
-    "VRL Logistics: company discovery timeout",
-    "Vst Tillers India (IT): company discovery timeout",
-    "Vue.ai: company discovery timeout",
-    "Vyapar: company discovery timeout",
-    "Vymo: company discovery timeout",
-    "Wadhwani AI: company discovery timeout",
-    "Wag!: company discovery timeout",
-    "Walmart Labs: company discovery timeout",
-    "WayCool (IT): company discovery timeout",
-    "WayCool Foods: company discovery timeout",
-    "WazirX: company discovery timeout",
-    "WebEngage: company discovery timeout",
-    "Wells Fargo: company discovery timeout",
-    "West Monroe India: company discovery timeout",
-    "Western Star India (IT): company discovery timeout",
-    "Westside (IT): company discovery timeout",
-    "Wey India (IT): company discovery timeout",
-    "Whirlpool India: company discovery timeout",
-    "WhiteHat Jr: company discovery timeout",
-    "Williams-Sonoma India: company discovery timeout"
+    "ZF Group India: search returned anti-bot page",
+    "Zimyo HRMS: search returned anti-bot page",
+    "Zomato Hyperpure: search returned anti-bot page",
+    "Zomato Pay (IT): search returned anti-bot page",
+    "Zotye India (IT): search returned anti-bot page",
+    "ZTE Telecom India: search returned anti-bot page"
   ]
 }
