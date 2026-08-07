@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-08-07T11:10:12.828Z",
+  "generatedAt": "2026-08-07T13:42:01.405Z",
   "batchSize": 120,
   "successfulCount": 3,
-  "failedCount": 16,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Zimyo HRMS",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zimyo.com/about/career/",
+        "title": "Career at Zimyo - Join Our Team and Build Your Future - Zimyo HRMS",
+        "discoveredAt": "2026-08-07T13:41:59.996Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zotye India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.zones.com/search/jobs/in/country/india",
+        "title": "India Careers - Zones",
+        "discoveredAt": "2026-08-07T13:41:59.984Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ZTE Telecom India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zte.com.cn/global/about/sustainability/social/ESG-supporting-employee-development-career-development.html",
+        "title": "Career Development - ZTE",
+        "discoveredAt": "2026-08-07T13:42:00.074Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "ZF Group India",
       "found": {
@@ -4743,21 +4776,6 @@
     }
   ],
   "failures": [
-    "Plum Insurance: company discovery timeout",
-    "Taj Hotels (IT): company discovery timeout",
-    "Tata AIA Life Tech: company discovery timeout",
-    "Tata Consultancy Services (TCS): company discovery timeout",
-    "Tata Securities (IT): company discovery timeout",
-    "Team Lease Digital: company discovery timeout",
-    "Ujjivan Small Finance Bank (IT): company discovery timeout",
-    "Ultima India (IT): company discovery timeout",
-    "Unisys India Pvt Ltd: company discovery timeout",
-    "Unity Small Finance Bank (IT): company discovery timeout",
-    "Ural India (IT): company discovery timeout",
-    "Utkarsh Small Finance Bank (IT): company discovery timeout",
-    "Zimyo HRMS: search returned anti-bot page",
-    "Zomato Hyperpure: search returned anti-bot page",
-    "Zotye India (IT): search returned anti-bot page",
-    "ZTE Telecom India: search returned anti-bot page"
+    "Zomato Hyperpure: search returned anti-bot page"
   ]
 }
