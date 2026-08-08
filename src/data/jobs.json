@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:58:15.235Z",
+  "generatedAt": "2026-08-08T19:04:54.041Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -37587,7 +37587,7 @@
       "experienceSource": "Not specified by portal",
       "postedAt": "2026-07-17T14:55:30-04:00",
       "source": "Company career site (structured data)",
-      "directApplyUrl": "https://www.arcesium.com/careers",
+      "directApplyUrl": "https://arcesium.com/careers",
       "department": "Engineering",
       "summary": ""
     },
@@ -81480,27 +81480,6 @@
       "directApplyUrl": "https://jobs.lever.co/bazaarvoice/14a41111-3bc9-43d9-8891-86971f00b15a",
       "department": "Engineering - General",
       "summary": "At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable brands to connect with consumers and col"
-    },
-    {
-      "id": "ashby-openai-9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f",
-      "role": "Software Engineer, Productivity - Inference Runtime",
-      "company": "OpenAI",
-      "companyType": "Product",
-      "location": "San Francisco",
-      "country": "United States",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-05-10T17:33:59.627+00:00",
-      "source": "Ashby career portal",
-      "directApplyUrl": "https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f",
-      "department": "Scaling",
-      "summary": "ABOUT THE TEAM\n\nWe’re hiring a Developer Productivity engineer to support OpenAI’s Inference Runtime teams. These teams own the systems responsible for serving models reliably, efficiently, and safely across Codex, ChatGPT, API, and internal research workloads. We’re hiring a Dev"
     },
     {
       "id": "official-flipkartcareers-9seniormanager2",
