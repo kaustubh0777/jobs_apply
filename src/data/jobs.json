@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:53:24.158Z",
+  "generatedAt": "2026-08-08T22:52:27.313Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -7,9 +7,9 @@
     "unconfiguredRemaining": 886,
     "discoveryProbedThisRun": 0,
     "totalSourcesAttempted": 446,
-    "successfulSources": 169,
+    "successfulSources": 168,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 10,
+    "genericSourcesConfirmed": 11,
     "genericCandidatesProbedThisRun": 320,
     "stillUnconfiguredAfterGeneric": 886
   },
@@ -61,7 +61,8 @@
     "Wipro Workday: no working datacenter found",
     "Zensar Technologies Workday: no working datacenter found",
     "Zomato Workday: no working datacenter found",
-    "Mindtree iCIMS: iCIMS 404"
+    "Mindtree iCIMS: iCIMS 404",
+    "fetch failed"
   ],
   "jobs": [
     {
@@ -651,27 +652,6 @@
       "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556957878?hl=en",
       "department": "Software Engineering",
       "summary": "Overview Microsoft is delivering AI for all with Microsoft 365 Copilot, your new AI assistant. You will work directly with enterprise customers to help them unlock the value of AI across their organization, along with the entire Microsoft 365 platform. In the International Custom"
-    },
-    {
-      "id": "microsoft-1970393556957527-2026-08-07",
-      "role": "Principal Engineer Architect",
-      "company": "Microsoft India",
-      "companyType": "Product",
-      "location": "India, Telangana, Hyderabad",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "experienceLabel": "8+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-08-07T00:00:00+05:30",
-      "source": "Microsoft career portal",
-      "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556957527?hl=en",
-      "department": "Software Engineering",
-      "summary": "Overview Windows is the best OS experience on the planet. Windows helps more than a billion people around the world to Do Great Things, and we are looking for Principal Engineer Architect to drive critical growth bets across multiple Windows customers and segments. The Windows Ex"
     },
     {
       "id": "microsoft-1970393556957067-2026-08-07",
