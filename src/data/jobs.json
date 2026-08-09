@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T05:27:56.824Z",
+  "generatedAt": "2026-08-09T07:21:40.475Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -9,7 +9,7 @@
     "totalSourcesAttempted": 446,
     "successfulSources": 168,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 10,
+    "genericSourcesConfirmed": 11,
     "genericCandidatesProbedThisRun": 320,
     "stillUnconfiguredAfterGeneric": 886
   },

@@ -3,13 +3,13 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-08-09T05:27:56.937Z",
+  "updatedAt": "2026-08-09T07:21:40.601Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-08-09T05:25:32.765Z",
+  "cycleStartedAt": "2026-08-09T07:18:58.187Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-08-09T05:27:56.936Z",
-  "lastCycleStartedAt": "2026-08-09T05:25:32.765Z",
+  "lastSuccessfulCycleAt": "2026-08-09T07:21:40.597Z",
+  "lastCycleStartedAt": "2026-08-09T07:18:58.187Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
   "configuredCompanies": 763,
@@ -38,7 +38,7 @@
     "Google Careers official site": 14,
     "Company career site (structured data)": 15
   },
-  "jobsGeneratedAt": "2026-08-09T05:27:56.824Z",
+  "jobsGeneratedAt": "2026-08-09T07:21:40.475Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }
