@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:52:27.313Z",
+  "generatedAt": "2026-08-09T02:34:04.762Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -9,7 +9,7 @@
     "totalSourcesAttempted": 446,
     "successfulSources": 168,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 11,
+    "genericSourcesConfirmed": 10,
     "genericCandidatesProbedThisRun": 320,
     "stillUnconfiguredAfterGeneric": 886
   },
@@ -61,8 +61,7 @@
     "Wipro Workday: no working datacenter found",
     "Zensar Technologies Workday: no working datacenter found",
     "Zomato Workday: no working datacenter found",
-    "Mindtree iCIMS: iCIMS 404",
-    "fetch failed"
+    "Mindtree iCIMS: iCIMS 404"
   ],
   "jobs": [
     {
@@ -652,6 +651,27 @@
       "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556957878?hl=en",
       "department": "Software Engineering",
       "summary": "Overview Microsoft is delivering AI for all with Microsoft 365 Copilot, your new AI assistant. You will work directly with enterprise customers to help them unlock the value of AI across their organization, along with the entire Microsoft 365 platform. In the International Custom"
+    },
+    {
+      "id": "microsoft-1970393556957527-2026-08-07",
+      "role": "Principal Engineer Architect",
+      "company": "Microsoft India",
+      "companyType": "Product",
+      "location": "India, Telangana, Hyderabad",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "experienceLabel": "8+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-08-07T00:00:00+05:30",
+      "source": "Microsoft career portal",
+      "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556957527?hl=en",
+      "department": "Software Engineering",
+      "summary": "Overview Windows is the best OS experience on the planet. Windows helps more than a billion people around the world to Do Great Things, and we are looking for Principal Engineer Architect to drive critical growth bets across multiple Windows customers and segments. The Windows Ex"
     },
     {
       "id": "microsoft-1970393556957067-2026-08-07",
@@ -22030,6 +22050,27 @@
       "directApplyUrl": "https://jobs.smartrecruiters.com/grab/744000141078449",
       "department": "Engineering",
       "summary": "About Grab and Our Workplace Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excelle"
+    },
+    {
+      "id": "greenhouse-postman-7823417003",
+      "role": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
+      "company": "Postman",
+      "companyType": "Product",
+      "location": "Berkeley, California, United States; San Francisco, California, United States",
+      "country": "United States",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": 2,
+      "experienceLabel": "0-2 yrs est.",
+      "experienceSource": "Estimated from seniority",
+      "postedAt": "2026-08-01T10:52:20-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+      "department": "AI",
+      "summary": "Who Are We? Postman is the world’s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and professionals across the globe build the API-first world by simplifying each step of th"
     },
     {
       "id": "greenhouse-spacex-8665783002",
@@ -45193,27 +45234,6 @@
       "directApplyUrl": "https://www.bill.com/job?6104113004&gh_jid=6104113004",
       "department": "Engineering ",
       "summary": "Innovate with purpose At BILL, we believe in empowering the businesses that drive our economy. By replacing outdated financial processes with innovative tools, we help businesses—from startups to established brands—make smarter decisions and gain control of their operations. And "
-    },
-    {
-      "id": "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
-      "role": "Data Center Research & Development Engineer, Mechanical - Industrial Compute",
-      "company": "OpenAI",
-      "companyType": "Product",
-      "location": "San Francisco",
-      "country": "United States",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-07-09T11:09:38.213+00:00",
-      "source": "Ashby career portal",
-      "directApplyUrl": "https://jobs.ashbyhq.com/openai/f705c8d4-aa17-469f-80bf-23923a167ed2",
-      "department": "Scaling",
-      "summary": "About the Team:\n\nOpenAI, in close collaboration with our capital partners, is embarking on a journey to build the world’s most advanced AI infrastructure ecosystem. The Data Center Engineering team is at the core of this mission. This team sets the infrastructure strategy, develo"
     },
     {
       "id": "greenhouse-samsara-8042387",
@@ -81439,27 +81459,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/agoda/jobs/7912440",
       "department": "Information Technology",
       "summary": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: "
-    },
-    {
-      "id": "lever-bazaarvoice-14a41111-3bc9-43d9-8891-86971f00b15a",
-      "role": "Technical Services Engineer (C&C)",
-      "company": "Bazaarvoice",
-      "companyType": "Product",
-      "location": "Belfast",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-05-11T01:42:24.045Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/bazaarvoice/14a41111-3bc9-43d9-8891-86971f00b15a",
-      "department": "Engineering - General",
-      "summary": "At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable brands to connect with consumers and col"
     },
     {
       "id": "official-flipkartcareers-9seniormanager2",
