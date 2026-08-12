@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-08-12T02:47:35.069Z",
+  "generatedAt": "2026-08-12T05:48:25.243Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Apple",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://apple.com/careers/us/",
+        "title": "Career Opportunities",
+        "discoveredAt": "2026-08-12T05:48:25.238Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Zomato Hyperpure",
       "found": {
