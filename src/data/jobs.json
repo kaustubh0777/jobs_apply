@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:55:01.932Z",
+  "generatedAt": "2026-08-16T07:05:08.696Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -19971,7 +19971,7 @@
       "postedAt": "2026-08-11T12:07:03-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "http://www.squarespace.com/about/careers?gh_jid=8079468",
-      "department": "Engineering",
+      "department": "Domains & Applications",
       "summary": "Squarespace Payments is dedicated to simplifying the financial side of commerce, enabling merchants to securely and reliably collect payments from their customers with minimal effort. Our team's mission is to build and maintain systems that allow merchants to focus on what matter"
     },
     {
@@ -36645,7 +36645,7 @@
       "postedAt": "2026-07-27T10:32:57-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "http://www.squarespace.com/about/careers?gh_jid=8019365",
-      "department": "Domains & Applications",
+      "department": "Engineering",
       "summary": "Squarespace is looking for a frontend-focused engineer who enjoys owning features end-to-end. While your expertise is building exceptional user experiences, you're comfortable working across the stack to deliver secure, scalable identity solutions. You will join the Identity &amp"
     },
     {
@@ -55106,6 +55106,27 @@
       "directApplyUrl": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
       "department": "Delta",
       "summary": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missin"
+    },
+    {
+      "id": "greenhouse-squarespace-8013780",
+      "role": "Head of Domains & Email",
+      "company": "Squarespace India",
+      "companyType": "Product",
+      "location": "New York City",
+      "country": "United States",
+      "countryGroup": "Global",
+      "salaryMin": 291,
+      "salaryMax": 353,
+      "salaryCurrency": "INR",
+      "experienceMin": 15,
+      "experienceMax": null,
+      "experienceLabel": "15+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-07-01T14:31:03-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "http://www.squarespace.com/about/careers?gh_jid=8013780",
+      "department": "Engineering",
+      "summary": "Squarespace has helped entrepreneurs build our digital presence for over two decades. As one of the world's largest domain providers, we are a trusted partner in one of the most consequential decisions any new business makes: choosing how they show up online. The Head of Domains "
     },
     {
       "id": "greenhouse-spacex-8614967002",
@@ -80495,27 +80516,6 @@
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8558344002?gh_jid=8558344002",
       "department": "Starlink Production Bastrop - SMT",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
-    },
-    {
-      "id": "greenhouse-squarespace-7943846",
-      "role": "Engineering Manager - PASS",
-      "company": "Squarespace India",
-      "companyType": "Product",
-      "location": "Dublin",
-      "country": "Ireland",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "experienceLabel": "3+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-05-20T10:36:06-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "http://www.squarespace.com/about/careers?gh_jid=7943846",
-      "department": "Engineering",
-      "summary": "Squarespace is seeking an Engineering Manager to lead our Purchase, Access &amp; Subscription Success (PASS) team. The group is responsible for the buyer-facing purchase and subscription experience, including the multi-product cart, secure checkout flows, subscription and billing"
     },
     {
       "id": "greenhouse-pinterest-7896332",
