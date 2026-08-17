@@ -3,13 +3,13 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-08-17T19:03:13.179Z",
+  "updatedAt": "2026-08-17T20:49:22.008Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-08-17T19:00:17.985Z",
+  "cycleStartedAt": "2026-08-17T20:46:30.598Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-08-17T19:03:13.174Z",
-  "lastCycleStartedAt": "2026-08-17T19:00:17.985Z",
+  "lastSuccessfulCycleAt": "2026-08-17T20:49:22.003Z",
+  "lastCycleStartedAt": "2026-08-17T20:46:30.598Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
   "configuredCompanies": 764,
@@ -25,12 +25,12 @@
     "microsoft": 1,
     "icims": 1
   },
-  "jobCount": 3810,
+  "jobCount": 3818,
   "jobSourceCounts": {
-    "Greenhouse career portal": 2813,
-    "Lever career portal": 198,
+    "Greenhouse career portal": 2821,
+    "Lever career portal": 199,
     "Apple Jobs official site": 12,
-    "SmartRecruiters career portal": 212,
+    "SmartRecruiters career portal": 211,
     "Amazon Jobs official site": 185,
     "Microsoft career portal": 2,
     "Ashby career portal": 353,
@@ -38,7 +38,7 @@
     "Google Careers official site": 13,
     "Company career site (structured data)": 14
   },
-  "jobsGeneratedAt": "2026-08-17T19:03:13.072Z",
+  "jobsGeneratedAt": "2026-08-17T20:49:21.911Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }
