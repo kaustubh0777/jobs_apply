@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:53:24.958Z",
+  "generatedAt": "2026-08-22T10:46:00.126Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -9,7 +9,7 @@
     "totalSourcesAttempted": 448,
     "successfulSources": 172,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 11,
+    "genericSourcesConfirmed": 10,
     "genericCandidatesProbedThisRun": 320,
     "stillUnconfiguredAfterGeneric": 884
   },
@@ -2039,27 +2039,6 @@
       "directApplyUrl": "https://www.amazon.jobs/en/jobs/10503776/software-engineer-selection-monitoring-selection-monitoring",
       "department": "Software Development",
       "summary": "Amazon's Selection Monitoring team is responsible for building and operating large-scale data processing systems that power catalog intelligence across Amazon. Our systems process billions of products Amazon's Selection Monitoring team is responsible for building and operating la"
-    },
-    {
-      "id": "official-amazonjobs-10503260",
-      "role": "Software Dev Engineer II, UTR Tech, UTR Tech",
-      "company": "Amazon",
-      "companyType": "Product",
-      "location": "Gurugram, Haryana, IND",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "Not specified by official site",
-      "experienceSource": "Not specified by official site",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "source": "Amazon Jobs official site",
-      "directApplyUrl": "https://www.amazon.jobs/en/jobs/10503260/software-dev-engineer-ii-utr-tech-utr-tech",
-      "department": "Software Development",
-      "summary": "Amazon’s global fulfilment network enables any merchant in any of the geography ship items that you order on Amazon, to any place on earth. Amazon Logistics’ (AMZL) delivery stations (DS) receive packages Amazon’s global fulfilment network enables any merchant in any of the geogr"
     },
     {
       "id": "official-amazonjobs-10503778",
