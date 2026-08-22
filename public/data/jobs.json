@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:05:16.175Z",
+  "generatedAt": "2026-08-22T08:53:24.958Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -9,7 +9,7 @@
     "totalSourcesAttempted": 448,
     "successfulSources": 172,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 10,
+    "genericSourcesConfirmed": 11,
     "genericCandidatesProbedThisRun": 320,
     "stillUnconfiguredAfterGeneric": 884
   },
@@ -27,7 +27,6 @@
     "Angel One Technology LV 404",
     "Atlassian LV 404",
     "Atlassian Bengaluru LV 404",
-    "This operation was aborted",
     "Netflix LV 404",
     "Circle Ashby: Circle AB 404",
     "Accenture Workday: no working datacenter found",
@@ -63,7 +62,8 @@
     "Tableau Workday: no working datacenter found",
     "Tank India (IT) Workday: no working datacenter found",
     "TCS Workday: no working datacenter found",
-    "TCS (Tata Consultancy Services) Workday: no working datacenter found"
+    "TCS (Tata Consultancy Services) Workday: no working datacenter found",
+    "Tech Mahindra Workday: no working datacenter found"
   ],
   "jobs": [
     {
