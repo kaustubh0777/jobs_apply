@@ -3,13 +3,13 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-08-22T22:44:29.901Z",
+  "updatedAt": "2026-08-23T02:04:32.149Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-08-22T22:41:42.512Z",
+  "cycleStartedAt": "2026-08-23T02:01:43.240Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-08-22T22:44:29.896Z",
-  "lastCycleStartedAt": "2026-08-22T22:41:42.512Z",
+  "lastSuccessfulCycleAt": "2026-08-23T02:04:32.145Z",
+  "lastCycleStartedAt": "2026-08-23T02:01:43.240Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
   "configuredCompanies": 765,
@@ -25,9 +25,9 @@
     "microsoft": 1,
     "icims": 1
   },
-  "jobCount": 3879,
+  "jobCount": 3888,
   "jobSourceCounts": {
-    "Greenhouse career portal": 2877,
+    "Greenhouse career portal": 2886,
     "SmartRecruiters career portal": 203,
     "Lever career portal": 208,
     "Ashby career portal": 357,
@@ -38,7 +38,7 @@
     "Flipkart Careers official site": 8,
     "Company career site (structured data)": 15
   },
-  "jobsGeneratedAt": "2026-08-22T22:44:29.796Z",
+  "jobsGeneratedAt": "2026-08-23T02:04:32.039Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }
