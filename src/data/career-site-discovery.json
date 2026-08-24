@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-08-24T13:16:29.745Z",
+  "generatedAt": "2026-08-24T15:03:13.441Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "FactoHR",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://factohr.com/career/",
+        "title": "Career",
+        "discoveredAt": "2026-08-24T15:03:13.437Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Google",
       "found": {
