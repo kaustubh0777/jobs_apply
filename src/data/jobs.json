@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-24T02:02:54.689Z",
+  "generatedAt": "2026-08-24T03:21:49.786Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
     "configuredWithPortal": 765,
     "unconfiguredRemaining": 884,
-    "discoveryProbedThisRun": 0,
+    "discoveryProbedThisRun": 183,
     "totalSourcesAttempted": 448,
     "successfulSources": 172,
     "cutoffDays": 90,
@@ -28,6 +28,7 @@
     "Atlassian LV 404",
     "Atlassian Bengaluru LV 404",
     "Netflix LV 404",
+    "This operation was aborted",
     "Circle Ashby: Circle AB 404",
     "Accenture Workday: no working datacenter found",
     "Bajaj Finserv Tech Workday: no working datacenter found",
@@ -62,8 +63,7 @@
     "Tableau Workday: no working datacenter found",
     "Tank India (IT) Workday: no working datacenter found",
     "TCS Workday: no working datacenter found",
-    "TCS (Tata Consultancy Services) Workday: no working datacenter found",
-    "Tech Mahindra Workday: no working datacenter found"
+    "TCS (Tata Consultancy Services) Workday: no working datacenter found"
   ],
   "jobs": [
     {
@@ -19535,7 +19535,7 @@
     },
     {
       "id": "lever-extremenetworks-6c732de0-9ffa-4222-8567-0101b93f060f",
-      "role": "Senior Manager, QA Engineering – Cloud Networking",
+      "role": "Senior Manager of QA Engineering – Cloud Networking",
       "company": "Extreme Networks India",
       "companyType": "Product",
       "location": "San Jose, California, United States",
@@ -25158,27 +25158,6 @@
       "postedAt": "2026-08-13T06:33:35.793Z",
       "source": "SmartRecruiters career portal",
       "directApplyUrl": "https://jobs.smartrecruiters.com/grab/744000143235030",
-      "department": "Engineering",
-      "summary": "About Grab and Our Workplace Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excelle"
-    },
-    {
-      "id": "smartrecruiters-grab-744000143235309",
-      "role": "Senior Software Engineer, Customer Data Platform",
-      "company": "Grab",
-      "companyType": "Product",
-      "location": "HCMC, , Vietnam",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-08-13T06:15:13.307Z",
-      "source": "SmartRecruiters career portal",
-      "directApplyUrl": "https://jobs.smartrecruiters.com/grab/744000143235309",
       "department": "Engineering",
       "summary": "About Grab and Our Workplace Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excelle"
     },
@@ -51515,6 +51494,27 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
       "department": "Engineering",
       "summary": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to r"
+    },
+    {
+      "id": "greenhouse-agoda-8064006",
+      "role": "(GSD) People Tech Functional Support Specialist (Bangkok-based, relocation provided)",
+      "company": "Agoda",
+      "companyType": "Product",
+      "location": "Bangkok, Thailand",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "0+ yrs est.",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-07-16T03:58:39-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://job-boards.greenhouse.io/agoda/jobs/8064006",
+      "department": "Information Technology",
+      "summary": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: "
     },
     {
       "id": "ashby-cerebras-07120606-8ddb-43bd-8e79-453573c84760",
@@ -81211,27 +81211,6 @@
       "summary": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobil"
     },
     {
-      "id": "greenhouse-datadog-7959966",
-      "role": "Senior Software Engineer - REDAPL Graph Engine",
-      "company": "Datadog",
-      "companyType": "Product",
-      "location": "France, Remote; Germany, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote; United Kingdom, Remote",
-      "country": "United Kingdom",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-05-27T06:42:01-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://careers.datadoghq.com/detail/7959966/?gh_jid=7959966",
-      "department": "Dev Eng",
-      "summary": "Please note that the job is only available from the locations outlined. We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources a"
-    },
-    {
       "id": "greenhouse-datadog-7959967",
       "role": "Senior Software Engineer - REDAPL Graph Engine",
       "company": "Datadog",
@@ -81251,6 +81230,27 @@
       "directApplyUrl": "https://careers.datadoghq.com/detail/7959967/?gh_jid=7959967",
       "department": "Dev Eng",
       "summary": "We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources and relationships. The platform enables products where customers can unde"
+    },
+    {
+      "id": "greenhouse-datadog-7959966",
+      "role": "Senior Software Engineer - REDAPL Graph Engine",
+      "company": "Datadog",
+      "companyType": "Product",
+      "location": "France, Remote; Germany, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote; United Kingdom, Remote",
+      "country": "United Kingdom",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "experienceLabel": "5+ yrs est.",
+      "experienceSource": "Estimated from seniority",
+      "postedAt": "2026-05-27T06:42:01-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://careers.datadoghq.com/detail/7959966/?gh_jid=7959966",
+      "department": "Dev Eng",
+      "summary": "Please note that the job is only available from the locations outlined. We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main platform for tracking our customers' infrastructure resources a"
     },
     {
       "id": "greenhouse-datadog-7959962",
