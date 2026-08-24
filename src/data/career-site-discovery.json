@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-08-24T07:31:23.140Z",
+  "generatedAt": "2026-08-24T09:07:11.107Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Google",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://google.com/careers",
+        "title": "Search for your career at Google.",
+        "discoveredAt": "2026-08-24T09:07:11.102Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Apple",
       "found": {
