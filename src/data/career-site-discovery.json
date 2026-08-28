@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T06:10:21.509Z",
+  "generatedAt": "2026-08-28T18:47:20.188Z",
   "batchSize": 120,
-  "successfulCount": 6,
-  "failedCount": 14,
+  "successfulCount": 0,
+  "failedCount": 0,
   "results": [
     {
       "company": "1mg",
@@ -4885,20 +4885,5 @@
       }
     }
   ],
-  "failures": [
-    "24[7].ai: company discovery timeout",
-    "3i Infotech: company discovery timeout",
-    "5ire: company discovery timeout",
-    "5paisa Capital: company discovery timeout",
-    "99acres (IT): company discovery timeout",
-    "99acres.com: company discovery timeout",
-    "Aavas Financiers (IT): company discovery timeout",
-    "Abarth India (IT): company discovery timeout",
-    "ABB India: company discovery timeout",
-    "Acqueon: company discovery timeout",
-    "Active.Ai: company discovery timeout",
-    "Addverb Technologies: company discovery timeout",
-    "Aditya Birla Money (IT): company discovery timeout",
-    "Adobe: company discovery timeout"
-  ]
+  "failures": []
 }
