@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-08-27T20:34:16.485Z",
+  "generatedAt": "2026-08-28T06:10:21.509Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 6,
+  "failedCount": 14,
   "results": [
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-08-28T06:10:06.166Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-08-28T06:10:05.256Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-28T06:10:03.534Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-08-28T06:10:04.917Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Aditya Birla Capital Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adityabirlacapital.com/careers/jobs",
+        "title": "Search Jobs at Aditya Birla Capital",
+        "discoveredAt": "2026-08-28T06:10:16.697Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aditya Birla Fashion (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.abfrl.com/careers/",
+        "title": "Careers - ABFRL",
+        "discoveredAt": "2026-08-28T06:10:16.860Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "FactoHR",
       "found": {
@@ -4819,5 +4885,20 @@
       }
     }
   ],
-  "failures": []
+  "failures": [
+    "24[7].ai: company discovery timeout",
+    "3i Infotech: company discovery timeout",
+    "5ire: company discovery timeout",
+    "5paisa Capital: company discovery timeout",
+    "99acres (IT): company discovery timeout",
+    "99acres.com: company discovery timeout",
+    "Aavas Financiers (IT): company discovery timeout",
+    "Abarth India (IT): company discovery timeout",
+    "ABB India: company discovery timeout",
+    "Acqueon: company discovery timeout",
+    "Active.Ai: company discovery timeout",
+    "Addverb Technologies: company discovery timeout",
+    "Aditya Birla Money (IT): company discovery timeout",
+    "Adobe: company discovery timeout"
+  ]
 }
