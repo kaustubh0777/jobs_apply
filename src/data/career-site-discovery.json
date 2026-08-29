@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-08-29T16:46:56.948Z",
+  "generatedAt": "2026-08-29T20:58:33.654Z",
   "batchSize": 120,
-  "successfulCount": 16,
-  "failedCount": 57,
+  "successfulCount": 4,
+  "failedCount": 17,
   "results": [
+    {
+      "company": "Algoworks Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.algoworks.com/careers/",
+        "title": "Algoworks Careers | Join and Build a Career with Global Impacts",
+        "discoveredAt": "2026-08-29T20:58:25.948Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bajaj Allianz Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://webtracker.bajajallianz.com/careers/",
+        "title": "Insert title here - Bajaj Allianz",
+        "discoveredAt": "2026-08-29T20:58:26.154Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Cigniti Technologies",
+      "found": {
+        "source": "smartrecruiters",
+        "confidence": 70,
+        "url": "https://careers.smartrecruiters.com/CignitiTechnologiesLtd",
+        "title": "Careers at Cigniti Technologies Ltd.",
+        "discoveredAt": "2026-08-29T20:58:26.073Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Damco Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.damcogroup.com/careers",
+        "title": "Explore Job Opportunities at Damco | Careers - Damco Solutions",
+        "discoveredAt": "2026-08-29T20:58:26.170Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Bank of America Continuum Solutions",
       "found": {
@@ -5459,102 +5503,25 @@
         "discoveredAt": "2026-06-29T19:11:40.379Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "American Express",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.americanexpress.com/en-us/careers/?inav=en_in_footer_company_information_careers",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:41.590Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Anand Rathi (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://anandrathi.com/career",
-        "title": "Career",
-        "discoveredAt": "2026-06-29T19:11:41.945Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Ansys",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.ansys.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:44.267Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "1mg",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://1mg.com/jobs",
-        "title": "Careers@Tata1mg",
-        "discoveredAt": "2026-06-28T21:05:36.529Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
     "Airbus: search returned anti-bot page",
-    "Algoworks Solutions: search returned anti-bot page",
     "Allsec Technologies: search returned anti-bot page",
     "Bain & Company India: search returned anti-bot page",
-    "Bajaj Allianz Tech: search returned anti-bot page",
-    "Cigniti Technologies: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
-    "Croma Digital: company discovery timeout",
-    "Cropin: company discovery timeout",
-    "Crowe India: company discovery timeout",
-    "CtrlS Datacenters: company discovery timeout",
-    "Cuelogic Technologies: company discovery timeout",
-    "Cuemath: company discovery timeout",
-    "Cummins India (IT): company discovery timeout",
-    "Cupra India (IT): company discovery timeout",
-    "CureFit Healthcare: company discovery timeout",
-    "Curefoods: company discovery timeout",
-    "D-Mart (IT): company discovery timeout",
     "Dacia India (IT): search returned anti-bot page",
     "Daf India (IT): search returned anti-bot page",
     "Daffodil Software Pvt Ltd: search returned anti-bot page",
-    "Dailyhunt: company discovery timeout",
-    "Daimler India: company discovery timeout",
-    "Daimler India (IT): company discovery timeout",
-    "Damco Solutions: search returned anti-bot page",
     "Darwinbox HR Tech: search returned anti-bot page",
-    "Datamatics: company discovery timeout",
-    "DBFS (IT): company discovery timeout",
-    "DBS Bank India: company discovery timeout",
-    "DealShare: company discovery timeout",
     "Decentro: search returned anti-bot page",
     "Delhivery Supply Chain: search returned anti-bot page",
     "Desktop Metal: search returned anti-bot page",
-    "Deutsche Bank: company discovery timeout",
     "Deutsche Bank Global Technology India: search returned anti-bot page",
     "Dezerv: search returned anti-bot page",
-    "Dhan (IT): company discovery timeout",
-    "Dhanlaxmi Bank (IT): company discovery timeout",
-    "DICGC (IT): company discovery timeout",
-    "Digio: company discovery timeout",
     "Digitrak India (IT): search returned anti-bot page",
     "Directi: search returned anti-bot page",
-    "Discovery Inc: search returned anti-bot page",
-    "Dish Network Technologies India: company discovery timeout",
-    "District (by Zomato): company discovery timeout",
-    "DocsApp: company discovery timeout",
-    "Dongfeng India (IT): company discovery timeout",
-    "Doosan India (IT): company discovery timeout",
-    "DraftKings: company discovery timeout"
+    "Discovery Inc: search returned anti-bot page"
   ]
 }

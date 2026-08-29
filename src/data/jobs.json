@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-29T16:50:04.895Z",
+  "generatedAt": "2026-08-29T21:01:44.040Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
-    "configuredWithPortal": 785,
-    "unconfiguredRemaining": 864,
+    "configuredWithPortal": 787,
+    "unconfiguredRemaining": 862,
     "discoveryProbedThisRun": 0,
-    "totalSourcesAttempted": 448,
+    "totalSourcesAttempted": 449,
     "successfulSources": 175,
     "cutoffDays": 90,
     "genericSourcesConfirmed": 10,
-    "genericCandidatesProbedThisRun": 340,
-    "stillUnconfiguredAfterGeneric": 864
+    "genericCandidatesProbedThisRun": 341,
+    "stillUnconfiguredAfterGeneric": 862
   },
   "failures": [
     "Boston Consulting Group (BCG) India GH 404",
@@ -58174,27 +58174,6 @@
       "summary": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to r"
     },
     {
-      "id": "greenhouse-samsara-8052685",
-      "role": "Senior Software Engineer- Agentic Platform & Integrations (Full Stack)",
-      "company": "Samsara",
-      "companyType": "Product",
-      "location": "Remote - Poland",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-07-17T11:30:08-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://www.samsara.com/company/careers/roles/8052685?gh_jid=8052685",
-      "department": "Platform",
-      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we"
-    },
-    {
       "id": "greenhouse-spacex-8638457002",
       "role": "Full Stack Software Engineer, Observability (Starlink)",
       "company": "SpaceX",
@@ -62099,27 +62078,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8586632002",
       "department": "Platforms Engineering",
       "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and m"
-    },
-    {
-      "id": "greenhouse-samsara-8038153",
-      "role": "Senior Security Engineer",
-      "company": "Samsara",
-      "companyType": "Product",
-      "location": "Remote - UK",
-      "country": "United Kingdom",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-07-13T06:48:37-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://www.samsara.com/company/careers/roles/8038153?gh_jid=8038153",
-      "department": "IT Security",
-      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we"
     },
     {
       "id": "greenhouse-thoughtworks-8034937",
@@ -73523,27 +73481,6 @@
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8604026002?gh_jid=8604026002",
       "department": "Starlink - Ground Infrastructure Operations",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
-    },
-    {
-      "id": "greenhouse-samsara-7966918",
-      "role": "Senior Software Engineer - Safety Detection Precision",
-      "company": "Samsara",
-      "companyType": "Product",
-      "location": "London - UK2",
-      "country": "United Kingdom",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 4,
-      "experienceMax": null,
-      "experienceLabel": "4+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-06-23T11:09:26-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://www.samsara.com/company/careers/roles/7966918?gh_jid=7966918",
-      "department": "Safety",
-      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we"
     },
     {
       "id": "greenhouse-zscaler-5156430007",
