@@ -1,9 +1,295 @@
 {
-  "generatedAt": "2026-08-28T18:47:20.188Z",
+  "generatedAt": "2026-08-29T02:51:33.480Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 26,
+  "failedCount": 94,
   "results": [
+    {
+      "company": "Adobe Systems India Engineering",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adobe.com/careers.html",
+        "title": "Let&#x27;s Adobe together. | Adobe Careers",
+        "discoveredAt": "2026-08-29T02:50:22.185Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Agco India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://agcoindia.com/careers",
+        "title": "One moment, please...",
+        "discoveredAt": "2026-08-29T02:50:16.517Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Agritrac India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ibm.com/in-en/careers/search",
+        "title": "Search jobs | IBM Careers",
+        "discoveredAt": "2026-08-29T02:50:22.027Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "AgroStar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://agrostar.com/info/Jobs.html%3E?ses=ogcrD91hH7PC68iyQ237oKpP7cal4hdzD5XCX2LbAPUcvwCCotjNBJBuzMBXA5VVpzvbdnYFHkXaxSGakS885P3v7MM7yjKWu40gfJ3cvUIrr7-7mkQqBZ1vDXeRvfGNZuYjGTtjFwtfMmNO8LSMYuSaQacJmCIPU0R3BgHo5l3ZKB7M30bv5N5_307MJ9sMZnq4IXSw79rhMG3lNB9SoGohsP4swvDOYybLI4sO7EEo8uCXKu5TS9hTbRtgRQ1hgbbx6xKyfzBgaUaKfZ1xqurFFkSD8a1muBV63LA3H0jWMufWsqfKn7i3rNwo9uifFNd82BcaYM&category=Jobs&keyword=Jobs",
+        "title": "Jobs",
+        "discoveredAt": "2026-08-29T02:50:15.216Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "AgroStar (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://agrostar.com/info/Jobs.html%3E?ses=ogckSJR0hQHJnq4CoNqjxILdrCtTMkAwtX6KCr1zeS5MRRgxzMuST3aCwp1QWNbNh2YAOUzBDI09YVgrIbe0_jEgvF8-Wh9g8209aBxkLPpsm1UedOxHXj-lSO4N7Z0sW_4fik-AB0lcfRt1FY9RlxI1rdT5pzwFPR7OdoaS2Vz1yi7iETxmblugdPe7ifM3CGIolyrwH81d9-GvU0OJn1j9CP1KaI0eT7jP1KVBbVMHS2KdnXfZSak1z1bUMEyC0D-AiIFIcoWMhvmmArEn9TbcrPgPkLqMVu8uY3GclJqkSIxEiz5BGNwF_ojMfN1gXbulpPCQ5o&category=Jobs&keyword=Jobs",
+        "title": "Jobs",
+        "discoveredAt": "2026-08-29T02:50:15.212Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Aindra Systems",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.indragroup.com/content/Careers_EN/?locale=en_US",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:22.204Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Airtel Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://airteldigital.com/careers",
+        "title": "airteldigital.com",
+        "discoveredAt": "2026-08-29T02:50:16.323Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Akrivia HCM",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://akriviahcm.com/careers",
+        "title": "One moment, please...",
+        "discoveredAt": "2026-08-29T02:50:22.548Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Alpine India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://alpineindia.com/jobs",
+        "title": "One moment, please...",
+        "discoveredAt": "2026-08-29T02:50:27.286Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Altigreen (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://altigreen.darwinbox.in/ms/candidate/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:23.885Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Amagi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.amagi.com/careers",
+        "title": "Careers Thrive in a culture of innovation and growth",
+        "discoveredAt": "2026-08-29T02:50:24.629Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Amazon Fresh (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazonfresh.com/careers",
+        "title": "Amazon Fresh Groceries",
+        "discoveredAt": "2026-08-29T02:50:27.612Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Amazon Pay (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazonpay.in/careers",
+        "title": "Amazon Pay",
+        "discoveredAt": "2026-08-29T02:50:29.641Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "AMD",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amd.com/en/corporate/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:25.896Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "American Express",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.americanexpress.com/en-us/careers/?inav=en_us_footer_About_Careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:26.054Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Anand Rathi (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://anandrathi.com/career",
+        "title": "Career",
+        "discoveredAt": "2026-08-29T02:50:28.526Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ansys",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ansys.synopsys.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:29.102Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "AppDynamics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://appdynamics.com/careers",
+        "title": "AppDynamics joins the Splunk Observability portfolio | Splunk",
+        "discoveredAt": "2026-08-29T02:50:30.504Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Atos India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://atosindia.com/careers",
+        "title": "One moment, please...",
+        "discoveredAt": "2026-08-29T02:50:45.490Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "AU Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ausmallfinancebank.com/career",
+        "title": "Loading...",
+        "discoveredAt": "2026-08-29T02:50:47.455Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Aubergine Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://auberginesolutions.com/careers",
+        "title": "Software Engineer & UX Design Jobs | Aubergine Solutions",
+        "discoveredAt": "2026-08-29T02:50:45.903Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Automation Anywhere",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://automationanywhere.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-08-29T02:50:47.671Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Bank of Baroda (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://bankofbaroda.com/career",
+        "title": "Career Detail | About Us | Bank of Baroda, India's International Bank",
+        "discoveredAt": "2026-08-29T02:51:09.563Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "BankBazaar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://bankbazaar.com/careers.html",
+        "title": "Join Our Team",
+        "discoveredAt": "2026-08-29T02:51:04.554Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "BARC (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://barc.com/jobs",
+        "title": "Jobs in Data – Bye bye Unicorns",
+        "discoveredAt": "2026-08-29T02:51:10.197Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Barclays",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://barclays.com/careers/",
+        "title": "Careers hub",
+        "discoveredAt": "2026-08-29T02:51:04.994Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "1mg",
       "found": {
@@ -4885,5 +5171,56 @@
       }
     }
   ],
-  "failures": []
+  "failures": [
+    "Affine Analytics: company discovery timeout",
+    "Aibono: search returned anti-bot page",
+    "Airbus: search returned anti-bot page",
+    "Airtel (IT Services): company discovery timeout",
+    "Airtel Money (IT): company discovery timeout",
+    "Airtel Payments Bank (IT): search returned anti-bot page",
+    "Airtel X Labs: company discovery timeout",
+    "Ajio: company discovery timeout",
+    "Akamai: company discovery timeout",
+    "AKS IT Services: company discovery timeout",
+    "Alfa Romeo India (IT): search returned anti-bot page",
+    "Algoworks Solutions: search returned anti-bot page",
+    "Alibaba: search returned anti-bot page",
+    "Alice Blue (IT): company discovery timeout",
+    "Allsec Technologies: search returned anti-bot page",
+    "Amadeus Labs: company discovery timeout",
+    "Ambit Capital (IT): company discovery timeout",
+    "Amesite: company discovery timeout",
+    "Ampere (IT): company discovery timeout",
+    "Analog Devices: company discovery timeout",
+    "Ancestry: company discovery timeout",
+    "Apache (open source via Indian eng centers): company discovery timeout",
+    "Apna: company discovery timeout",
+    "Aptus Value Housing Finance (IT): company discovery timeout",
+    "Ariel India (IT): company discovery timeout",
+    "Arihant Capital (IT): company discovery timeout",
+    "ARM Holdings India: company discovery timeout",
+    "Arrival India (IT): company discovery timeout",
+    "Arrow Electronics India: company discovery timeout",
+    "Arya.ai: company discovery timeout",
+    "Ashika Stock Broking (IT): company discovery timeout",
+    "Aspire Systems: company discovery timeout",
+    "AstraZeneca India: company discovery timeout",
+    "AT&T Global Network Services India: company discovery timeout",
+    "Athenahealth: company discovery timeout",
+    "Ather Energy: company discovery timeout",
+    "Ather Energy (IT): company discovery timeout",
+    "Audi India (IT): company discovery timeout",
+    "Aurionpro Solutions: company discovery timeout",
+    "Autodesk India: company discovery timeout",
+    "Autodesk India R&D: company discovery timeout",
+    "Automatic Data Processing: company discovery timeout",
+    "Avaamo: company discovery timeout",
+    "Avail Finance: company discovery timeout",
+    "Avalara: company discovery timeout",
+    "Avaya: company discovery timeout",
+    "Avendus Capital (IT): company discovery timeout",
+    "Avnet India: company discovery timeout",
+    "Axis Bank (IT): company discovery timeout",
+    "Axis Securities (IT): company discovery timeout"
+  ]
 }
