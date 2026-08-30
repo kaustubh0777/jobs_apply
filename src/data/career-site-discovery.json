@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-30T00:24:18.375Z",
+  "generatedAt": "2026-08-30T08:22:07.103Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 14,
+  "successfulCount": 2,
+  "failedCount": 5,
   "results": [
+    {
+      "company": "Daffodil Software Pvt Ltd",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.daffodilsw.com/career/",
+        "title": "Careers & Culture at Daffodil Software",
+        "discoveredAt": "2026-08-30T08:22:06.816Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Deutsche Bank Global Technology India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/",
+        "title": "Careers in Technology - Deutsche Bank Careers",
+        "discoveredAt": "2026-08-30T08:22:06.836Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Bain & Company India",
       "found": {
@@ -5481,41 +5503,10 @@
         "discoveredAt": "2026-06-29T19:11:33.257Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "AKS IT Services",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://aksitservices.co.in/career",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:38.158Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Altigreen (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://altigreen.darwinbox.in/ms/candidate/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:38.571Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Airbus: company discovery timeout",
-    "Allsec Technologies: company discovery timeout",
-    "Citroen India (IT): company discovery timeout",
-    "Crofarm (IT): company discovery timeout",
-    "Daf India (IT): company discovery timeout",
-    "Daffodil Software Pvt Ltd: search returned anti-bot page",
-    "This operation was aborted",
-    "Decentro: company discovery timeout",
     "Desktop Metal: search returned anti-bot page",
-    "Deutsche Bank Global Technology India: search returned anti-bot page",
     "Dezerv: search returned anti-bot page",
     "Digitrak India (IT): search returned anti-bot page",
     "Directi: search returned anti-bot page",
