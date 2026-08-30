@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-30T08:22:07.103Z",
+  "generatedAt": "2026-08-30T14:53:34.016Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 5,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "Digitrak India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://dic.gov.in/careers/",
+        "title": "Careers | Digital India Corporation",
+        "discoveredAt": "2026-08-30T14:53:33.169Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Discovery Inc",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.discovery.com/careers-home/jobs",
+        "title": "Discovery Careers",
+        "discoveredAt": "2026-08-30T14:53:33.350Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Daffodil Software Pvt Ltd",
       "found": {
@@ -5481,35 +5503,11 @@
         "discoveredAt": "2026-06-29T19:11:33.582Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Airtel Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://airteldigital.com/careers",
-        "title": "airteldigital.com",
-        "discoveredAt": "2026-06-29T19:11:33.337Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Akamai",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://akamai.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:33.257Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "Desktop Metal: search returned anti-bot page",
     "Dezerv: search returned anti-bot page",
-    "Digitrak India (IT): search returned anti-bot page",
-    "Directi: search returned anti-bot page",
-    "Discovery Inc: search returned anti-bot page"
+    "Directi: search returned anti-bot page"
   ]
 }
