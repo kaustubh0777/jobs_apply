@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-08-30T19:20:49.364Z",
+  "generatedAt": "2026-08-30T22:48:39.969Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Desktop Metal",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.desktopmetal.com/careers",
+        "title": "Partner with the binder jetting leaders | Desktop Metal",
+        "discoveredAt": "2026-08-30T22:48:39.965Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Dezerv",
       "found": {
@@ -5492,20 +5503,7 @@
         "discoveredAt": "2026-06-29T19:17:34.113Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "AgroStar",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://agrostar.com/info/Jobs.html?ses=ogcEDJlYf3VQCePr9b6DOGrJn8pbgaAL-02bGNfXPDPCyXukh_S890ufSiMJy1n8me9s278RBat--45J_AiczNs642gFhj99TbnBfL1pOL2oH7uLtH7ctuNYKPk21JVVPCM9mJqlsq65P03cPOqUk7FBkvWh2OhboKOg7GoGhxpa4IBlZlblL9dvJwXH1PLYsVhlf4sOmcY3MoUN8TKTmq_majiN1kEX19196poUkxcxKaYsa6rG75qxXHLoAIhDIQ51xPi6XMbaEhYw5a8MPJlkXp9ybd0ti1Ti7LubWFXKLXZ9TsSM88jax7GZJ80NFzpDQbRxwU&category=Jobs&keyword=Jobs",
-        "title": "Jobs",
-        "discoveredAt": "2026-06-29T19:11:31.774Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": [
-    "Desktop Metal: search returned anti-bot page"
-  ]
+  "failures": []
 }
