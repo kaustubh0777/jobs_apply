@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-30T14:53:34.016Z",
+  "generatedAt": "2026-08-30T19:20:49.364Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 3,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Dezerv",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.dezerv.co/pages/dezerv-careers",
+        "title": "Dezerv Careers - Dezerv Digital",
+        "discoveredAt": "2026-08-30T19:20:47.432Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Directi",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://builtin.com/company/directi/jobs",
+        "title": "Directi Jobs + Careers | Built In",
+        "discoveredAt": "2026-08-30T19:20:45.806Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Digitrak India (IT)",
       "found": {
@@ -5481,33 +5503,9 @@
         "discoveredAt": "2026-06-29T19:11:31.774Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "AgroStar (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://agrostar.com/info/Jobs.html?ses=ogcTNRa2qpoSTO6yVPO3ygpIMEvVqZMSOPFBPz6ZHYUFJLXGp-DARRFzh-UwS-tEJ7LmiQ7-sdtMMiAf1fswb17tx2CihlYsoVGCryxj-HUkkoqrblNWoqtGsyubWE1Cw9ikW_P9n-557GXSMLwDte-Pb8GFktw_g1dc1lQ436q4K6qPu18YffwKFt6UuiEo0zSb0hhg1wHIUTmLEKgre9rjiub-L1KmTwSUf7bJ4TaTgx237_7_1PeRsDaWgv3lwh-UGo66BkOsu5_AvhS_eDQ6CXhlpIU6quWXvN1ff4fhmBFkS7zLaAQuZnxlXte6lVtCZlKS2M&category=Jobs&keyword=Jobs",
-        "title": "Jobs",
-        "discoveredAt": "2026-06-29T19:11:31.747Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Airtel (IT Services)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://airtel.in/careers",
-        "title": "Airtel Careers",
-        "discoveredAt": "2026-06-29T19:11:33.582Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Desktop Metal: search returned anti-bot page",
-    "Dezerv: search returned anti-bot page",
-    "Directi: search returned anti-bot page"
+    "Desktop Metal: search returned anti-bot page"
   ]
 }
