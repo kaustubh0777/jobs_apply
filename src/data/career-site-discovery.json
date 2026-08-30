@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-08-29T20:58:33.654Z",
+  "generatedAt": "2026-08-30T00:24:18.375Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 17,
+  "successfulCount": 3,
+  "failedCount": 14,
   "results": [
+    {
+      "company": "Bain & Company India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bain.com/careers",
+        "title": "Careers at Bain | Bain & Company",
+        "discoveredAt": "2026-08-30T00:24:13.204Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Dacia India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://dtici.daimlertruck.com/career/",
+        "title": "Career - DTICI - Daimler Truck",
+        "discoveredAt": "2026-08-30T00:24:13.197Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Delhivery Supply Chain",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.delhivery.com/careers?trk=public_post_reshare-text",
+        "title": "Build Your Career with Delhivery - Join India&#x27;s Leading Logistics Innovator",
+        "discoveredAt": "2026-08-30T00:24:13.217Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Algoworks Solutions",
       "found": {
@@ -5470,53 +5503,17 @@
         "discoveredAt": "2026-06-29T19:11:38.571Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Amagi",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.amagi.com/careers",
-        "title": "Careers Thrive in a culture of innovation and growth",
-        "discoveredAt": "2026-06-29T19:11:40.236Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Amazon Fresh (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://amazonfresh.com/careers",
-        "title": "Amazon Fresh Groceries",
-        "discoveredAt": "2026-06-29T19:11:44.061Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "AMD",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://amd.com/en/corporate/careers.html",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:11:40.379Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Airbus: search returned anti-bot page",
-    "Allsec Technologies: search returned anti-bot page",
-    "Bain & Company India: search returned anti-bot page",
-    "Citroen India (IT): search returned anti-bot page",
-    "Crofarm (IT): search returned anti-bot page",
-    "Dacia India (IT): search returned anti-bot page",
-    "Daf India (IT): search returned anti-bot page",
+    "Airbus: company discovery timeout",
+    "Allsec Technologies: company discovery timeout",
+    "Citroen India (IT): company discovery timeout",
+    "Crofarm (IT): company discovery timeout",
+    "Daf India (IT): company discovery timeout",
     "Daffodil Software Pvt Ltd: search returned anti-bot page",
-    "Darwinbox HR Tech: search returned anti-bot page",
-    "Decentro: search returned anti-bot page",
-    "Delhivery Supply Chain: search returned anti-bot page",
+    "This operation was aborted",
+    "Decentro: company discovery timeout",
     "Desktop Metal: search returned anti-bot page",
     "Deutsche Bank Global Technology India: search returned anti-bot page",
     "Dezerv: search returned anti-bot page",
