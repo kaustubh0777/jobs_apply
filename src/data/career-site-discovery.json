@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-09-01T16:43:49.635Z",
+  "generatedAt": "2026-09-01T21:06:18.983Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 3,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Amazon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazon.com/careers",
+        "title": "Amazon Careers: Impact the Future, Today",
+        "discoveredAt": "2026-09-01T21:06:13.338Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Arcesium",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://arcesium.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-01T21:06:13.060Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Auth0",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.okta.com/company/careers",
+        "title": "Careers ↗",
+        "discoveredAt": "2026-09-01T21:06:12.475Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Desktop Metal",
       "found": {
@@ -5469,39 +5502,6 @@
         "title": "Coforge - Career Opportunities | Grow & Move Ahead",
         "discoveredAt": "2026-06-29T19:24:15.004Z",
         "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Cohesity",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.cohesity.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:24:14.827Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "BharatAgri",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bharatagri.com/career",
-        "title": "Careers at BharatAgri – Build AgriTech That Empowers Farmers",
-        "discoveredAt": "2026-06-29T19:17:35.846Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "BharatPe",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bharatpe.com/career/",
-        "title": "Careers",
-        "discoveredAt": "2026-06-29T19:17:34.113Z",
-        "discoveryMethod": "homepage-link-crawl"
       }
     }
   ],
