@@ -1,9 +1,262 @@
 {
-  "generatedAt": "2026-09-05T15:20:06.675Z",
+  "generatedAt": "2026-09-05T18:22:31.637Z",
   "batchSize": 120,
-  "successfulCount": 13,
-  "failedCount": 107,
+  "successfulCount": 23,
+  "failedCount": 63,
   "results": [
+    {
+      "company": "Lagonda India (IT)",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://intel.wd1.myworkdayjobs.com/External/page/385e15908e0110015685c55415990005",
+        "title": "Intel Careers",
+        "discoveredAt": "2026-09-05T18:21:42.811Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "LIC Technology Division",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://licindia.in/Careers/",
+        "title": "LIC Careers - Explore Exciting Job Opportunities in Insurance ...",
+        "discoveredAt": "2026-09-05T18:21:42.882Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Marriott International India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.marriott.com/jobs",
+        "title": "Search Jobs | Marriott International Careers",
+        "discoveredAt": "2026-09-05T18:21:42.904Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Marwadi Shares (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://marwadionline.com/career",
+        "title": "Marwadi Shares and Finance Limited",
+        "discoveredAt": "2026-09-05T18:21:42.789Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Pocketful",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.pocketful.in/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:42.553Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Policybazaar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.policybazaar.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:43.616Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Polygon",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.valnetinc.com/en/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:43.063Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Priceline",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://priceline.com/careers",
+        "title": "Homepage -",
+        "discoveredAt": "2026-09-05T18:21:43.629Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Pristyn Care",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.pristyncare.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:43.836Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Procore",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://procore.com/careers",
+        "title": "Build A Career with Impact At Procore",
+        "discoveredAt": "2026-09-05T18:21:43.816Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "PropTiger",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:44.405Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "PropTiger (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:44.918Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Publicis Sapient",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://publicissapient.com/careers",
+        "title": "Careers at Publicis Sapient",
+        "discoveredAt": "2026-09-05T18:21:45.089Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Quantiphi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://quantiphi.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:21:46.159Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Razorpay",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://razorpay.com/jobs",
+        "title": "Razorpay Careers | Jobs, Hiring & Career Opportunities at Razorpay",
+        "discoveredAt": "2026-09-05T18:22:09.264Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Red Hat",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://redhat.com/jobs",
+        "title": "Red Hat Jobs | Opportunities are open",
+        "discoveredAt": "2026-09-05T18:22:09.100Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Refinitiv India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.lseg.com/en/careers",
+        "title": "Careers | LSEG",
+        "discoveredAt": "2026-09-05T18:22:16.105Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Reliance Communications Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.ril.com/rilcareers/index.aspx",
+        "title": "Careers Home | Reliance Industries Limited",
+        "discoveredAt": "2026-09-05T18:22:17.028Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Retool",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://retool.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:22:14.160Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Revv (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://revv.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:22:17.455Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "RingCentral",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ringcentral.com/careers",
+        "title": "Join Our Team | RingCentral Careers",
+        "discoveredAt": "2026-09-05T18:22:18.599Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Rippling",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rippling.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:22:18.645Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Rupeek",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rupeek.com/careers?city=undefined",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T18:22:25.541Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "L&T Infotech (Merged)",
       "found": {
@@ -5250,311 +5503,58 @@
         "discoveredAt": "2026-07-07T16:43:15.202Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Testbook",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://testbook.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:18.198Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "ThoughtSpot",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://thoughtspot.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:20.672Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Uniphore",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.uniphore.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:48.654Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Unity",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://unity.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:48.897Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "UpGrad",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.upgrad.com/op-jindal-career-acceleration-program/",
-        "title": "MBA (with Career Acceleration Program by upGrad)",
-        "discoveredAt": "2026-07-07T16:43:50.945Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Vedantu",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.vedantu.com/careers",
-        "title": "Careers Check out the roles we&#x27;re currently hiring for",
-        "discoveredAt": "2026-07-07T16:43:56.491Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Rakuten",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://rakuten.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T12:40:14.342Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Retool",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://retool.com/careers",
-        "title": "Retool | Careers",
-        "discoveredAt": "2026-07-07T12:40:44.284Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "RingCentral",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://ringcentral.com/careers",
-        "title": "Join Our Team | RingCentral Careers",
-        "discoveredAt": "2026-07-07T12:40:44.926Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Rippling",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://rippling.com/careers",
-        "title": "Rippling Careers & Jobs | Join The Rippling Team",
-        "discoveredAt": "2026-07-07T12:40:44.839Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Max Life Insurance Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.axismaxlife.com/careers",
-        "title": "Axis Max Life Insurance Jobs and Careers | Explore Opportunities",
-        "discoveredAt": "2026-07-07T10:03:11.595Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Maybach India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.miebach.com/in/en/careers/opportunities",
-        "title": "Miebach | Careers | Opportunities",
-        "discoveredAt": "2026-07-07T10:03:11.605Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Mercedes-Benz R&D India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.mercedes-benz.co.in/passengercars/brand/career.html",
-        "title": "Careers - Mercedes Benz India",
-        "discoveredAt": "2026-07-07T10:03:11.623Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Ninjacart",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://ninjacart.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T10:03:06.562Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Ninjacart (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://ninjacart.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T10:03:06.557Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Niramai",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://niramai.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T10:03:08.515Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Majesco",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.majesco.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:19:11.181Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Marlabs",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marlabs.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:19:20.368Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Marriott (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marriott.com/careers",
-        "title": "Marriott International Careers | Find Job & Career Opportunities",
-        "discoveredAt": "2026-07-07T04:19:21.090Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Maruti Suzuki (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marutisuzuki.com/corporate/careers",
-        "title": "WORK WITH US",
-        "discoveredAt": "2026-07-07T04:19:20.160Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Maruti Techlabs",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marutitechlabs.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:19:20.469Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Maveric Systems",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://maveric-systems.com/careers/",
-        "title": "Explore Exciting Career with Us || Maveric Careers",
-        "discoveredAt": "2026-07-07T04:19:36.033Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Max Fashion (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.maxclothing.com/pages/careers",
-        "title": "Careers - Max",
-        "discoveredAt": "2026-07-07T04:19:35.953Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "Finvasia (IT): company discovery timeout",
-    "HSBC Global Technology India: company discovery timeout",
-    "HSBC India: company discovery timeout",
-    "Hurix Digital: company discovery timeout",
-    "Hyundai Ce India (IT): company discovery timeout",
-    "IBM Consulting India: company discovery timeout",
-    "ICICI Lombard Tech: company discovery timeout",
-    "ICICI Prudential Tech: company discovery timeout",
-    "IDFC FIRST Bank Tech: company discovery timeout",
-    "Jupiter Money: company discovery timeout",
-    "Justdial Limited: company discovery timeout",
-    "Kubota India (IT): company discovery timeout",
-    "Lagonda India (IT): search returned anti-bot page",
-    "Lamborghini India (IT): company discovery timeout",
-    "Lancia India (IT): company discovery timeout",
-    "Landini India (IT): company discovery timeout",
-    "Landwind India (IT): company discovery timeout",
-    "Larsen & Toubro Infotech: company discovery timeout",
-    "Laverda India (IT): company discovery timeout",
-    "Leena AI: company discovery timeout",
-    "Li Auto India (IT): company discovery timeout",
-    "Liaz India (IT): company discovery timeout",
-    "This operation was aborted",
-    "LIC Technology Division: search returned anti-bot page",
     "Lifan India (IT): search returned anti-bot page",
     "Lister India (IT): search returned anti-bot page",
-    "Man India (IT): company discovery timeout",
-    "Manappuram Finance (IT): company discovery timeout",
     "Manappuram Finance Tech: search returned anti-bot page",
-    "Marriott International India: search returned anti-bot page",
-    "Marvell Technology India: company discovery timeout",
-    "Marwadi Shares (IT): search returned anti-bot page",
-    "Maserati India (IT): company discovery timeout",
-    "Massey Ferguson India (IT): company discovery timeout",
-    "Mastercard Labs India: company discovery timeout",
-    "MathWorks: company discovery timeout",
-    "This operation was aborted",
     "Max Life Insurance Tech: search returned anti-bot page",
-    "Maybach India (IT): company discovery timeout",
-    "McLaren India (IT): company discovery timeout",
-    "Medlife: company discovery timeout",
-    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
-    "Merck India: company discovery timeout",
-    "Meta India: company discovery timeout",
-    "Mfine Health: company discovery timeout",
-    "Microsoft India (IT Services): company discovery timeout",
-    "Milkbasket (IT): company discovery timeout",
-    "Mindbowser Technologies: company discovery timeout",
-    "Mini India (IT): company discovery timeout",
-    "MSCI India: company discovery timeout"
+    "PNB Housing Finance (IT): company discovery timeout",
+    "Pocket HRMS: company discovery timeout",
+    "Polestar India (IT): company discovery timeout",
+    "PowerGrid (IT): company discovery timeout",
+    "Powertrac India (IT): company discovery timeout",
+    "Privitar: company discovery timeout",
+    "This operation was aborted",
+    "Protiviti India: company discovery timeout",
+    "Punjab & Sind Bank (IT): company discovery timeout",
+    "Punjab National Bank (IT): company discovery timeout",
+    "Purplle: company discovery timeout",
+    "Qualcomm India R&D: company discovery timeout",
+    "Qualys India: company discovery timeout",
+    "QuantumScape: company discovery timeout",
+    "Quess Corp IT: company discovery timeout",
+    "QuEST Global: company discovery timeout",
+    "Quibi: company discovery timeout",
+    "Quinnox: company discovery timeout",
+    "Qure.ai: company discovery timeout",
+    "Qure.ai Diagnostics: company discovery timeout",
+    "Radical India (IT): company discovery timeout",
+    "Radisson (IT): company discovery timeout",
+    "RailTel: company discovery timeout",
+    "Rakuten: company discovery timeout",
+    "Ramco Systems: company discovery timeout",
+    "Rapid7: company discovery timeout",
+    "Rapido: company discovery timeout",
+    "Rapido (IT): company discovery timeout",
+    "Razorpay Payroll: company discovery timeout",
+    "RazorpayX: company discovery timeout",
+    "RBI (IT): company discovery timeout",
+    "RBL Bank (IT): company discovery timeout",
+    "RBL Bank Tech: company discovery timeout",
+    "RedBus: company discovery timeout",
+    "RedBus (IT): company discovery timeout",
+    "RedDoorz India: company discovery timeout",
+    "Redington India: company discovery timeout",
+    "Refrens: search returned anti-bot page",
+    "Reliance Fresh (IT): company discovery timeout",
+    "Reliance Jio: search returned anti-bot page",
+    "Reliance Jio (IT Services): search returned anti-bot page",
+    "Reliance Retail (IT): company discovery timeout",
+    "Reliance Securities (IT): search returned anti-bot page",
+    "Religare Enterprises (IT): search returned anti-bot page",
+    "Renault India (IT): search returned anti-bot page",
+    "RenewBuy: company discovery timeout"
   ]
 }
