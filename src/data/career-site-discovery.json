@@ -1,9 +1,152 @@
 {
-  "generatedAt": "2026-09-05T10:42:38.674Z",
+  "generatedAt": "2026-09-05T15:20:06.675Z",
   "batchSize": 120,
-  "successfulCount": 26,
-  "failedCount": 94,
+  "successfulCount": 13,
+  "failedCount": 107,
   "results": [
+    {
+      "company": "L&T Infotech (Merged)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.larsentoubro.com/careers",
+        "title": "Careers | L&T Corporate - LARSEN & TOUBRO",
+        "discoveredAt": "2026-09-05T15:18:51.135Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "L&T Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.larsentoubro.com/careers",
+        "title": "Careers | L&T Corporate - Larsen & Toubro",
+        "discoveredAt": "2026-09-05T15:18:52.155Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Maveric Systems",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://mavericsystems.com/careers",
+        "title": "mavericsystems.com",
+        "discoveredAt": "2026-09-05T15:19:02.209Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Nike",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nike.com/careers",
+        "title": "Nike Careers",
+        "discoveredAt": "2026-09-05T15:19:21.380Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Ninjacart",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:22.314Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ninjacart (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:22.853Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nokia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nokia.com/careers/",
+        "title": "Nokia Corporation | Nokia",
+        "discoveredAt": "2026-09-05T15:19:24.900Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Noom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://noom.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:24.089Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "North East Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://northeastsmallfinancebank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:25.750Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nutanix",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nutanix.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:24.830Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nvidia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-05T15:19:25.520Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "OutSystems",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://outsystems.com/careers",
+        "title": "Welcome to OutSystems Careers | OutSystems",
+        "discoveredAt": "2026-09-05T15:19:45.730Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Palo Alto Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://paloaltonetworks.com/careers",
+        "title": "Explore Careers and Jobs in Cybersecurity at Palo Alto Networks",
+        "discoveredAt": "2026-09-05T15:19:46.525Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "HashiCorp",
       "found": {
@@ -5360,201 +5503,58 @@
         "discoveredAt": "2026-07-07T04:19:35.953Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "McCormick India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mccormickindia.com/pages/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:19:30.054Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mensa Brands",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://brndme.in/join-us/",
-        "title": "Join Us",
-        "discoveredAt": "2026-07-07T04:19:31.339Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Micron",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.micron.com/about/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:19:37.381Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mindteck",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mindteck.com/career",
-        "title": "Mindteck Website",
-        "discoveredAt": "2026-07-07T04:19:40.691Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "NestAway (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nestaway.com/careers",
-        "title": "Explore exciting career opportunities at Nestaway! Join our dynamic team and be part of revolutionizing the home rental experience. Apply now!",
-        "discoveredAt": "2026-07-07T04:20:15.632Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Net Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://netsolutions.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T04:20:15.074Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Fidelity National Information Services India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://jobs.fidelity.com/in/jobs/",
-        "title": "Search Jobs - Find the right match for your skills and location ...",
-        "discoveredAt": "2026-07-06T23:33:21.787Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Force Motors India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.careers.ford.com/India-jobs",
-        "title": "Search our Job Opportunities at Ford Motor Company",
-        "discoveredAt": "2026-07-06T23:33:21.735Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "GlobalFoundries India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://gf.com/careers/",
-        "title": "Careers | GlobalFoundries",
-        "discoveredAt": "2026-07-06T23:33:21.738Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Golaz India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
-        "title": "National Career Service | Ministry of Labour & Employment",
-        "discoveredAt": "2026-07-06T23:33:21.742Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Goldman Sachs Engineering India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.goldmansachs.com/worldwide/india/careers/",
-        "title": "Careers in India - Goldman Sachs",
-        "discoveredAt": "2026-07-06T23:33:21.751Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Josh (DailyHunt)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://josh.ai/jobs/",
-        "title": "Jobs",
-        "discoveredAt": "2026-07-06T23:33:24.860Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Jupiter",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://jupiter.com/careers",
-        "title": "About Jupiter | 40+ Years of Video Wall Innovation",
-        "discoveredAt": "2026-07-06T23:33:24.673Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
+    "Finvasia (IT): company discovery timeout",
+    "HSBC Global Technology India: company discovery timeout",
+    "HSBC India: company discovery timeout",
+    "Hurix Digital: company discovery timeout",
+    "Hyundai Ce India (IT): company discovery timeout",
+    "IBM Consulting India: company discovery timeout",
+    "ICICI Lombard Tech: company discovery timeout",
+    "ICICI Prudential Tech: company discovery timeout",
+    "IDFC FIRST Bank Tech: company discovery timeout",
+    "Jupiter Money: company discovery timeout",
+    "Justdial Limited: company discovery timeout",
+    "Kubota India (IT): company discovery timeout",
+    "Lagonda India (IT): search returned anti-bot page",
+    "Lamborghini India (IT): company discovery timeout",
+    "Lancia India (IT): company discovery timeout",
+    "Landini India (IT): company discovery timeout",
+    "Landwind India (IT): company discovery timeout",
+    "Larsen & Toubro Infotech: company discovery timeout",
+    "Laverda India (IT): company discovery timeout",
+    "Leena AI: company discovery timeout",
+    "Li Auto India (IT): company discovery timeout",
+    "Liaz India (IT): company discovery timeout",
     "This operation was aborted",
-    "Fincare Small Finance Bank (IT): company discovery timeout",
-    "Fino Payments Bank (IT): company discovery timeout",
-    "GlobalFoundries India: company discovery timeout",
-    "Go Digit General Insurance: company discovery timeout",
-    "Golaz India (IT): company discovery timeout",
-    "Goldman Sachs Engineering India: company discovery timeout",
-    "Grofers (Blinkit): company discovery timeout",
-    "HDFC Securities Tech: company discovery timeout",
-    "Healthkart Nutrabox: company discovery timeout",
-    "Hexaware Global Services: company discovery timeout",
-    "HSBC Global Technology India: search returned anti-bot page",
-    "IBM Consulting India: search returned anti-bot page",
-    "IDFC FIRST Bank Tech: search returned anti-bot page",
-    "Juniper Networks: company discovery timeout",
-    "Kubota India (IT): search returned anti-bot page",
-    "L&T Securities (IT): search returned anti-bot page",
-    "Lada India (IT): company discovery timeout",
-    "Lamborghini India (IT): search returned anti-bot page",
-    "LatentView Analytics: company discovery timeout",
-    "Laverda India (IT): search returned anti-bot page",
-    "LazyPay: company discovery timeout",
-    "LeadSquared: company discovery timeout",
-    "Leena AI: search returned anti-bot page",
-    "LetsTransport: company discovery timeout",
-    "Licious: company discovery timeout",
-    "Licious (IT): company discovery timeout",
-    "Lifestyle (IT): company discovery timeout",
-    "Lithium Urban (IT): company discovery timeout",
-    "Livspace: company discovery timeout",
-    "Loadshare Networks: company discovery timeout",
-    "Lockheed Martin India: company discovery timeout",
-    "LogMeIn: company discovery timeout",
-    "Lonking India (IT): company discovery timeout",
-    "Loom: company discovery timeout",
-    "Lordstown India (IT): company discovery timeout",
-    "Lovol India (IT): company discovery timeout",
-    "Lowe's: company discovery timeout",
-    "LTI: company discovery timeout",
-    "LuAZ India (IT): company discovery timeout",
-    "Lucid: company discovery timeout",
-    "Lucid India (IT): company discovery timeout",
-    "Lybrate: company discovery timeout",
-    "Lybrate Health: company discovery timeout",
-    "M2P Fintech: company discovery timeout",
-    "Mack India (IT): company discovery timeout",
-    "Macquarie Group India: company discovery timeout",
-    "Mad Street Den: company discovery timeout",
-    "MagicBricks: company discovery timeout",
-    "Magicbricks (IT): company discovery timeout"
+    "LIC Technology Division: search returned anti-bot page",
+    "Lifan India (IT): search returned anti-bot page",
+    "Lister India (IT): search returned anti-bot page",
+    "Man India (IT): company discovery timeout",
+    "Manappuram Finance (IT): company discovery timeout",
+    "Manappuram Finance Tech: search returned anti-bot page",
+    "Marriott International India: search returned anti-bot page",
+    "Marvell Technology India: company discovery timeout",
+    "Marwadi Shares (IT): search returned anti-bot page",
+    "Maserati India (IT): company discovery timeout",
+    "Massey Ferguson India (IT): company discovery timeout",
+    "Mastercard Labs India: company discovery timeout",
+    "MathWorks: company discovery timeout",
+    "This operation was aborted",
+    "Max Life Insurance Tech: search returned anti-bot page",
+    "Maybach India (IT): company discovery timeout",
+    "McLaren India (IT): company discovery timeout",
+    "Medlife: company discovery timeout",
+    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
+    "Merck India: company discovery timeout",
+    "Meta India: company discovery timeout",
+    "Mfine Health: company discovery timeout",
+    "Microsoft India (IT Services): company discovery timeout",
+    "Milkbasket (IT): company discovery timeout",
+    "Mindbowser Technologies: company discovery timeout",
+    "Mini India (IT): company discovery timeout",
+    "MSCI India: company discovery timeout"
   ]
 }
