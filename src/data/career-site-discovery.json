@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-09-05T18:22:31.637Z",
+  "generatedAt": "2026-09-05T22:04:57.141Z",
   "batchSize": 120,
-  "successfulCount": 23,
-  "failedCount": 63,
+  "successfulCount": 1,
+  "failedCount": 12,
   "results": [
+    {
+      "company": "Rivian India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.rivian.com/careers-home/jobs",
+        "title": "Rivian Automotive",
+        "discoveredAt": "2026-09-05T22:04:57.137Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Lagonda India (IT)",
       "found": {
@@ -5492,69 +5503,20 @@
         "discoveredAt": "2026-07-07T16:43:15.441Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Tenable",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tenable.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:15.202Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Lifan India (IT): search returned anti-bot page",
-    "Lister India (IT): search returned anti-bot page",
-    "Manappuram Finance Tech: search returned anti-bot page",
-    "Max Life Insurance Tech: search returned anti-bot page",
-    "PNB Housing Finance (IT): company discovery timeout",
-    "Pocket HRMS: company discovery timeout",
-    "Polestar India (IT): company discovery timeout",
-    "PowerGrid (IT): company discovery timeout",
-    "Powertrac India (IT): company discovery timeout",
-    "Privitar: company discovery timeout",
-    "This operation was aborted",
-    "Protiviti India: company discovery timeout",
-    "Punjab & Sind Bank (IT): company discovery timeout",
-    "Punjab National Bank (IT): company discovery timeout",
-    "Purplle: company discovery timeout",
-    "Qualcomm India R&D: company discovery timeout",
-    "Qualys India: company discovery timeout",
-    "QuantumScape: company discovery timeout",
-    "Quess Corp IT: company discovery timeout",
-    "QuEST Global: company discovery timeout",
-    "Quibi: company discovery timeout",
-    "Quinnox: company discovery timeout",
-    "Qure.ai: company discovery timeout",
-    "Qure.ai Diagnostics: company discovery timeout",
-    "Radical India (IT): company discovery timeout",
-    "Radisson (IT): company discovery timeout",
-    "RailTel: company discovery timeout",
-    "Rakuten: company discovery timeout",
-    "Ramco Systems: company discovery timeout",
-    "Rapid7: company discovery timeout",
-    "Rapido: company discovery timeout",
-    "Rapido (IT): company discovery timeout",
-    "Razorpay Payroll: company discovery timeout",
-    "RazorpayX: company discovery timeout",
-    "RBI (IT): company discovery timeout",
-    "RBL Bank (IT): company discovery timeout",
-    "RBL Bank Tech: company discovery timeout",
-    "RedBus: company discovery timeout",
-    "RedBus (IT): company discovery timeout",
-    "RedDoorz India: company discovery timeout",
-    "Redington India: company discovery timeout",
-    "Refrens: search returned anti-bot page",
-    "Reliance Fresh (IT): company discovery timeout",
-    "Reliance Jio: search returned anti-bot page",
-    "Reliance Jio (IT Services): search returned anti-bot page",
-    "Reliance Retail (IT): company discovery timeout",
-    "Reliance Securities (IT): search returned anti-bot page",
-    "Religare Enterprises (IT): search returned anti-bot page",
-    "Renault India (IT): search returned anti-bot page",
-    "RenewBuy: company discovery timeout"
+    "Lifan India (IT): company discovery timeout",
+    "Lister India (IT): company discovery timeout",
+    "Manappuram Finance Tech: company discovery timeout",
+    "Max Life Insurance Tech: company discovery timeout",
+    "Refrens: company discovery timeout",
+    "Reliance Jio: company discovery timeout",
+    "Reliance Jio (IT Services): company discovery timeout",
+    "Reliance Securities (IT): company discovery timeout",
+    "Religare Enterprises (IT): company discovery timeout",
+    "Renault India (IT): company discovery timeout",
+    "Revolut: company discovery timeout",
+    "Rimac India (IT): company discovery timeout"
   ]
 }
