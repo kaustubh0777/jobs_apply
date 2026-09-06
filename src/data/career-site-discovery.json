@@ -1,9 +1,196 @@
 {
-  "generatedAt": "2026-09-06T04:47:18.879Z",
+  "generatedAt": "2026-09-06T11:04:47.922Z",
   "batchSize": 120,
-  "successfulCount": 28,
-  "failedCount": 92,
+  "successfulCount": 17,
+  "failedCount": 102,
   "results": [
+    {
+      "company": "Same Deutz-Fahr India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.deutz.com/en/company/career/",
+        "title": "DEUTZ Career: Shape your career path with us : DEUTZ AG",
+        "discoveredAt": "2026-09-06T11:03:31.781Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Synchrony International Services India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.synchronycareers.com/location/india-jobs/49398/1269750/2/1",
+        "title": "Search India Jobs at Synchrony Financial",
+        "discoveredAt": "2026-09-06T11:03:31.731Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tafe India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tafe.com/corporate/tafe-career",
+        "title": "TAFE Careers - Join India&#x27;s Leading Tractor Manufacturer",
+        "discoveredAt": "2026-09-06T11:03:31.732Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tamilnad Mercantile Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://tmb.bank.in/career",
+        "title": "Career | TMB",
+        "discoveredAt": "2026-09-06T11:03:31.758Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tata Consultancy Engineering",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataconsultingengineers.com/careers/",
+        "title": "www.tataconsultingengineers.com",
+        "discoveredAt": "2026-09-06T11:03:31.734Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "TatvaSoft",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatvasoft.com/career",
+        "title": "Career",
+        "discoveredAt": "2026-09-06T11:03:31.564Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TCI Express",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tciexpress.in/career",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:03:33.338Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tejas Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tejasnetworks.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:03:34.090Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tenable",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tenable.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:03:32.458Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Testbook",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://testbook.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:03:34.209Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ThoughtSpot",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://thoughtspot.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:03:36.007Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vedantu",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.vedantu.com/careers",
+        "title": "Careers Check out the roles we&#x27;re currently hiring for",
+        "discoveredAt": "2026-09-06T11:04:13.661Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Veri5Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://veri5digital.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:04:13.977Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Veritas",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.cohesity.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:04:17.292Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vetic",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vetic.in/careers",
+        "title": "Vetic Careers | Veterinarian Jobs Across India | Apply Now",
+        "discoveredAt": "2026-09-06T11:04:20.883Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Vimeo",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vimeo.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T11:04:17.905Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Wheelseye",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://wheelseye.com/careers",
+        "title": "Join WheelsEye",
+        "discoveredAt": "2026-09-06T11:04:42.781Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Sabre",
       "found": {
@@ -5316,245 +5503,58 @@
         "discoveredAt": "2026-07-08T06:40:42.881Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Suryoday Small Finance Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://suryoday.bank.in/careers/",
-        "title": "Careers at Suryoday Small Finance Bank. Join Our Family",
-        "discoveredAt": "2026-07-08T03:48:40.349Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Ujjivan Small Finance Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.ujjivansfb.bank.in/careers-home",
-        "title": "Ujjivan SFB Careers | Banking Career Opportunities in India",
-        "discoveredAt": "2026-07-08T03:48:40.285Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zomato Pay (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
-        "title": "Careers at Zomato",
-        "discoveredAt": "2026-07-08T03:48:40.349Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Temenos India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.temenos.com/about-us/careers/",
-        "title": "Careers | Working at Temenos",
-        "discoveredAt": "2026-07-07T23:16:43.670Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Unisys India Pvt Ltd",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.unisys.com/careers/",
-        "title": "Careers | Unisys",
-        "discoveredAt": "2026-07-07T23:16:44.144Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zomato Hyperpure",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://builtin.com/company/hyperpure-zomato/jobs",
-        "title": "Hyperpure by Zomato Jobs + Careers | Built In",
-        "discoveredAt": "2026-07-07T23:16:44.003Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zoom",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zoom.com/careers",
-        "title": "Careers | Zoom",
-        "discoveredAt": "2026-07-07T23:16:39.511Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Zoomcar (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zoomcar.co.in/careers",
-        "title": "zoomcar.co.in",
-        "discoveredAt": "2026-07-07T23:16:41.164Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Zotye India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.zohocorp.com/jobs/Careers",
-        "title": "Zoho Corp Careers",
-        "discoveredAt": "2026-07-07T23:16:44.039Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zynga",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zynga.com/jobs/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T23:16:44.261Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Synoptek",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.synoptek.com/jobs",
-        "title": "Synoptek LLC Careers",
-        "discoveredAt": "2026-07-07T20:17:49.077Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tableau",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tableau.com/about/careers/sales",
-        "title": "Sales at Tableau",
-        "discoveredAt": "2026-07-07T20:17:49.931Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Veri5Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://veri5digital.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:17:59.720Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Veritas",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.cohesity.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:17:59.877Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Vetic",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://vetic.in/careers",
-        "title": "Vetic Careers | Veterinarian Jobs Across India | Apply Now",
-        "discoveredAt": "2026-07-07T20:18:02.477Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Vimeo",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://vimeo.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:18:00.630Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zendesk",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zendesk.com/jobs",
-        "title": "Careers at Zendesk | Zendesk job opportunities",
-        "discoveredAt": "2026-07-07T20:19:02.430Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Maz India (IT): company discovery timeout",
-    "Mercedes-Benz India (IT): company discovery timeout",
-    "Mercedes-Benz R&D India: company discovery timeout",
-    "NatWest Group India: company discovery timeout",
-    "Nefaz India (IT): company discovery timeout",
-    "NestAway Technologies: company discovery timeout",
-    "NetSol Technologies India: company discovery timeout",
-    "Niki.ai: company discovery timeout",
-    "Nikola India (IT): company discovery timeout",
-    "Nio India (IT): company discovery timeout",
-    "Niramai Health: company discovery timeout",
-    "NiYO Solutions: company discovery timeout",
-    "Nokia India (IT Services): company discovery timeout",
-    "Nokia Solutions and Networks India: company discovery timeout",
-    "Nomura India: company discovery timeout",
-    "Northern Trust India: company discovery timeout",
-    "Novartis India: company discovery timeout",
-    "NTT DATA Business Solutions India: company discovery timeout",
-    "NTT Data India: company discovery timeout",
-    "NVIDIA Graphics India: company discovery timeout",
-    "NXP Semiconductors India: company discovery timeout",
-    "NxtGen Datacenter: company discovery timeout",
-    "Philips Innovation Campus India: company discovery timeout",
-    "Piramal Capital (IT): company discovery timeout",
-    "Piramal Finance Tech: company discovery timeout",
-    "Porsche India (IT): company discovery timeout",
-    "Postmates: company discovery timeout",
-    "Preet India (IT): company discovery timeout",
-    "Procter & Gamble India: company discovery timeout",
-    "S&P Global India: company discovery timeout",
-    "Saavn: company discovery timeout",
-    "Safexpress: company discovery timeout",
-    "Sahaj AI: company discovery timeout",
-    "Sahaj Software: company discovery timeout",
-    "Saksoft: company discovery timeout",
-    "Samco (IT): company discovery timeout",
-    "Samsung R&D Institute India: company discovery timeout",
-    "Savaari (IT): company discovery timeout",
-    "SBI Life Insurance Tech: company discovery timeout",
-    "SEBI (IT): company discovery timeout",
-    "Senseforth.ai: company discovery timeout",
-    "Setu (Pine Labs): company discovery timeout",
-    "Sharekhan (IT): company discovery timeout",
-    "Sheru (IT): company discovery timeout",
-    "Shiprocket: company discovery timeout",
-    "Shoppers Stop (IT): company discovery timeout",
-    "Shriram Finance (IT): company discovery timeout",
-    "Shuttl (IT): company discovery timeout",
-    "SIDBI (IT): company discovery timeout",
-    "Siemens (IT Services): company discovery timeout"
+    "Salesforce Tower India Engineering: search returned anti-bot page",
+    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
+    "Tata Capital Digital: search returned anti-bot page",
+    "Tata CLiQ: company discovery timeout",
+    "Tata Neu (IT): company discovery timeout",
+    "Tata Teleservices: company discovery timeout",
+    "Teachmint: company discovery timeout",
+    "Tech Data India: company discovery timeout",
+    "Teleperformance India: company discovery timeout",
+    "Temenos India: search returned anti-bot page",
+    "Tencent: company discovery timeout",
+    "Tendercuts (IT): company discovery timeout",
+    "Teradata: company discovery timeout",
+    "Terex India (IT): company discovery timeout",
+    "Tesla: company discovery timeout",
+    "Tesla India (IT): company discovery timeout",
+    "Texas Instruments: company discovery timeout",
+    "THDC (IT): company discovery timeout",
+    "Thyrocare: company discovery timeout",
+    "TicketNew: company discovery timeout",
+    "Tietoevry India: company discovery timeout",
+    "Times Internet: company discovery timeout",
+    "Toffee Insurance: company discovery timeout",
+    "Toppr: company discovery timeout",
+    "Tork Motors (IT): company discovery timeout",
+    "Tower Research: company discovery timeout",
+    "Tower Semiconductor India: company discovery timeout",
+    "Toyota India (IT): company discovery timeout",
+    "Toyota Kirloskar Technology Center: company discovery timeout",
+    "Tractor Junction: company discovery timeout",
+    "Tradebulls Securities (IT): company discovery timeout",
+    "TradeIndia.com: company discovery timeout",
+    "Treebo (IT): company discovery timeout",
+    "Treebo Hotels: company discovery timeout",
+    "Trell: company discovery timeout",
+    "Trello (Atlassian) India: company discovery timeout",
+    "Trend Micro India: company discovery timeout",
+    "Tricog Health: company discovery timeout",
+    "Turo: company discovery timeout",
+    "TVR India (IT): company discovery timeout",
+    "TVS Motor (IT): company discovery timeout",
+    "TVS Motor Digital: company discovery timeout",
+    "Twitter: company discovery timeout",
+    "Twitter (X) India: company discovery timeout",
+    "Uaz India (IT): company discovery timeout",
+    "Uber: company discovery timeout",
+    "Ubisoft India: company discovery timeout",
+    "UBS Business Solutions India: company discovery timeout",
+    "UBS India: company discovery timeout",
+    "UCO Bank (IT): company discovery timeout"
   ]
 }
