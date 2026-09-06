@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-06T15:32:31.610Z",
+  "generatedAt": "2026-09-06T18:22:26.416Z",
   "batchSize": 120,
-  "successfulCount": 12,
-  "failedCount": 75,
+  "successfulCount": 2,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Zoho People",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zoho.com/careers/",
+        "title": "Zoho Corporation | Careers",
+        "discoveredAt": "2026-09-06T18:22:26.412Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
+        "title": "Zomato",
+        "discoveredAt": "2026-09-06T18:22:26.395Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Yelp",
       "found": {
@@ -5481,80 +5503,9 @@
         "discoveredAt": "2026-07-29T19:48:05.502Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "BankBazaar",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bankbazaar.com/careers.html",
-        "title": "Join Our Team",
-        "discoveredAt": "2026-07-29T19:48:06.017Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Barclays",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://barclays.com/careers/",
-        "title": "Careers hub",
-        "discoveredAt": "2026-07-29T19:48:06.182Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Plum Insurance: company discovery timeout",
-    "Salesforce Tower India Engineering: company discovery timeout",
-    "Suryoday Small Finance Bank (IT): company discovery timeout",
-    "Taj Hotels (IT): company discovery timeout",
-    "This operation was aborted",
-    "Tata Capital Digital: company discovery timeout",
-    "Tata Consultancy Services (TCS): company discovery timeout",
-    "Tata Securities (IT): company discovery timeout",
-    "Team Lease Digital: company discovery timeout",
-    "Temenos India: company discovery timeout",
-    "Ujjivan Small Finance Bank (IT): company discovery timeout",
-    "Ultima India (IT): company discovery timeout",
-    "Unisys India Pvt Ltd: company discovery timeout",
-    "Unity Small Finance Bank (IT): company discovery timeout",
-    "Ural India (IT): company discovery timeout",
-    "Utkarsh Small Finance Bank (IT): company discovery timeout",
-    "Valtra India (IT): company discovery timeout",
-    "Vauxhall India (IT): company discovery timeout",
-    "Vedanta Semiconductors: company discovery timeout",
-    "Vedanta-Foxconn JV: company discovery timeout",
-    "Wey India (IT): company discovery timeout",
-    "Whirlpool India: company discovery timeout",
-    "WhiteHat Jr: company discovery timeout",
-    "Williams-Sonoma India: company discovery timeout",
-    "Wingify: company discovery timeout",
-    "Wissen Infotech: company discovery timeout",
-    "Wiz: company discovery timeout",
-    "WNS Global Services: company discovery timeout",
-    "Workday: company discovery timeout",
-    "Workhorse India (IT): company discovery timeout",
-    "Worldline India: company discovery timeout",
-    "Wow Express: company discovery timeout",
-    "Wyndham (IT): company discovery timeout",
-    "Wynk Music: company discovery timeout",
-    "This operation was aborted",
-    "Xcmg India (IT): company discovery timeout",
-    "Xebia: company discovery timeout",
-    "Xoriant Solutions: company discovery timeout",
-    "Xpeng India (IT): company discovery timeout",
-    "Xpressbees: company discovery timeout",
-    "Xpressbees Logistics: company discovery timeout",
-    "Yahoo: company discovery timeout",
-    "Yanmar India (IT): company discovery timeout",
-    "Yap (Yapily India): company discovery timeout",
-    "Yatra (IT): company discovery timeout",
-    "Yatra Online: company discovery timeout",
-    "Yellow Messenger: company discovery timeout",
-    "Yellow.ai: company discovery timeout",
-    "YourOwnROOM (IT): company discovery timeout",
-    "Yuchai India (IT): company discovery timeout"
+    "Zomato Pay (IT): search returned anti-bot page"
   ]
 }
