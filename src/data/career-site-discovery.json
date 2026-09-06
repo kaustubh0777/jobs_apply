@@ -1,9 +1,317 @@
 {
-  "generatedAt": "2026-09-05T23:56:51.816Z",
+  "generatedAt": "2026-09-06T04:47:18.879Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 28,
+  "failedCount": 92,
   "results": [
+    {
+      "company": "Sabre",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.sabre.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:46:17.409Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Samsung",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://samsung.com/careers",
+        "title": "Samsung Careers | Samsung US",
+        "discoveredAt": "2026-09-06T04:46:26.677Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Searce",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://searce.com/join-us",
+        "title": "join the solver movement",
+        "discoveredAt": "2026-09-06T04:46:25.086Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Segment",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.twilio.com/careers",
+        "title": "Careers An icon of a right chevron",
+        "discoveredAt": "2026-09-06T04:46:26.294Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "SendinBlue",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sendinblue.com/careers",
+        "title": "Join the Brevo Team | Brevo Careers | Jobs at Brevo",
+        "discoveredAt": "2026-09-06T04:46:29.520Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "SentinelOne",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sentinelone.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:46:26.333Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ShareChat",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sharechat.com/careers",
+        "title": "ShareChat Moj Careers - Engineering, Tech, Product, Sales, Content and Design jobs",
+        "discoveredAt": "2026-09-06T04:46:27.306Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Shell",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://shell.com/careers",
+        "title": "Careers at Shell | Shell Global",
+        "discoveredAt": "2026-09-06T04:46:27.965Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Shivalik Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://shivalik.darwinbox.in/ms/candidate/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:46:29.956Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Simplilearn",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://simplilearn.com/careers",
+        "title": "Career at Simplilearn",
+        "discoveredAt": "2026-09-06T04:46:39.459Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Sirion Labs",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sirionlabs.com/careers",
+        "title": "Join Sirion | Explore Careers and Open Positions",
+        "discoveredAt": "2026-09-06T04:46:40.183Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Skit.ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://skit.ai/careers/",
+        "title": "Careers Explore open roles and career opportunities at Skit.ai.",
+        "discoveredAt": "2026-09-06T04:46:39.881Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Snyk",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://snyk.com/jobs",
+        "title": "Careers | Snyk",
+        "discoveredAt": "2026-09-06T04:46:50.618Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Sourcegraph",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sourcegraph.com/jobs",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:46:48.669Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Spendflo",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://spendflo.zohorecruit.com/jobs/Job-openings",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:46:50.778Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "StayAbode (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.amazon.jobs/content/en/locations/remote-jobs",
+        "title": "Remote jobs",
+        "discoveredAt": "2026-09-06T04:47:08.123Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Stellapps",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://stellapps.com/career",
+        "title": "Stellapps",
+        "discoveredAt": "2026-09-06T04:47:07.172Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Subex",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://subex.com/careers",
+        "title": "Careers at Subex | AI-Driven Telecom Innovation",
+        "discoveredAt": "2026-09-06T04:47:05.566Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "SwiftSku",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://swiftsku.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:47:04.091Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Synoptek",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://synoptek.com/about-us/careers/",
+        "title": "Careers - Synoptek",
+        "discoveredAt": "2026-09-06T04:47:09.685Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Systematix Shares (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://systematixshares.com/career/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:47:08.057Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Talkdesk",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://talkdesk.com/careers",
+        "title": "Jobs at Talkdesk",
+        "discoveredAt": "2026-09-06T04:47:07.841Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Target",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://target.com/careers",
+        "title": "Jobs at Target",
+        "discoveredAt": "2026-09-06T04:47:08.529Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "TaskUs India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.taskus.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:47:08.027Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Capital (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tatacapital.com/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:47:09.680Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Electronics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelectronics.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-06T04:47:11.703Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "TATA Elxsi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.tataelxsi.com/careers",
+        "title": "Explore what’s possible",
+        "discoveredAt": "2026-09-06T04:47:11.046Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Tata Motors (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tatamotors.com/careers",
+        "title": "Careers &#8211; Tata Motors",
+        "discoveredAt": "2026-09-06T04:47:13.878Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Rivian India (IT)",
       "found": {
@@ -5195,315 +5503,58 @@
         "discoveredAt": "2026-07-07T20:19:02.430Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "ZestMoney",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zestmoney.in/career",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:19:02.309Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zluri",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zluri.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:19:02.793Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zoho",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zoho.com/careers",
-        "title": "Zoho Corporation | Careers",
-        "discoveredAt": "2026-07-07T20:19:03.540Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Zolo Stays",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zolostays.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T20:19:04.392Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Square Yards (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.squareyards.com/career",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:42:55.195Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Standard Chartered GBS India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/",
-        "title": "Careers in GBS India | Standard Chartered",
-        "discoveredAt": "2026-07-07T16:43:01.023Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Standard Chartered India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-india/",
-        "title": "Banking careers in India | Standard Chartered",
-        "discoveredAt": "2026-07-07T16:43:01.025Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Stanza Living",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://stanzaliving.com/careers",
-        "title": "PG Near Careers Department, Mall Road, Dehradun with Free Food,Wifi & More | Boys/Girls PG Starting with 8k in Careers Department, Mall Road, Dehradun",
-        "discoveredAt": "2026-07-07T16:42:57.382Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Stanza Living (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://stanzaliving.com/careers",
-        "title": "PG Near Careers Department, Mall Road, Dehradun with Free Food,Wifi & More | Boys/Girls PG Starting with 8k in Careers Department, Mall Road, Dehradun",
-        "discoveredAt": "2026-07-07T16:42:56.868Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "State Street India",
-      "found": {
-        "source": "workday",
-        "confidence": 70,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/eQuest",
-        "title": "Search for Jobs - myworkdayjobs.com",
-        "discoveredAt": "2026-07-07T16:43:01.021Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "StayAbode (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.microsoft.com/en-us/insidetrack/careers",
-        "title": "Microsoft careers",
-        "discoveredAt": "2026-07-07T16:43:00.937Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Stellapps",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.stellapps.com/career/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:42:57.824Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Stratbeans",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://stratbeans.com/job-career/",
-        "title": "Career",
-        "discoveredAt": "2026-07-07T16:42:58.963Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Subex",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.subex.com/careers/",
-        "title": "CAREERS",
-        "discoveredAt": "2026-07-07T16:42:58.767Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "SwiftSku",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://swiftsku.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:02.010Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Talkdesk",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://talkdesk.com/careers",
-        "title": "Jobs at Talkdesk",
-        "discoveredAt": "2026-07-07T16:43:03.371Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Target",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://target.com/careers",
-        "title": "Jobs at Target",
-        "discoveredAt": "2026-07-07T16:43:05.986Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "TaskUs India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.taskus.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:07.058Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tata Capital (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tatacapital.com/careers.html",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:08.752Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tata Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tatadigital.in/work-with-us#opportunities",
-        "title": "Opportunities",
-        "discoveredAt": "2026-07-07T16:43:15.391Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tata Electronics",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tataelectronics.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:10.843Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "TATA Elxsi",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tataelxsi.com/careers",
-        "title": "Explore what’s possible",
-        "discoveredAt": "2026-07-07T16:43:11.677Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tata Motors (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tatamotors.com/careers",
-        "title": "Careers &#8211; Tata Motors",
-        "discoveredAt": "2026-07-07T16:43:14.545Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Tata Teleservices",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tatateleservices.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:13.055Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "TatvaSoft",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tatvasoft.com/career",
-        "title": "Career",
-        "discoveredAt": "2026-07-07T16:43:12.508Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "TCI Express",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tciexpress.in/career",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:13.775Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Teachmint",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://teachmint.keka.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:13.500Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tejas Networks",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tejasnetworks.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-07T16:43:15.441Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "Maz India (IT): company discovery timeout",
+    "Mercedes-Benz India (IT): company discovery timeout",
+    "Mercedes-Benz R&D India: company discovery timeout",
+    "NatWest Group India: company discovery timeout",
+    "Nefaz India (IT): company discovery timeout",
+    "NestAway Technologies: company discovery timeout",
+    "NetSol Technologies India: company discovery timeout",
+    "Niki.ai: company discovery timeout",
+    "Nikola India (IT): company discovery timeout",
+    "Nio India (IT): company discovery timeout",
+    "Niramai Health: company discovery timeout",
+    "NiYO Solutions: company discovery timeout",
+    "Nokia India (IT Services): company discovery timeout",
+    "Nokia Solutions and Networks India: company discovery timeout",
+    "Nomura India: company discovery timeout",
+    "Northern Trust India: company discovery timeout",
+    "Novartis India: company discovery timeout",
+    "NTT DATA Business Solutions India: company discovery timeout",
+    "NTT Data India: company discovery timeout",
+    "NVIDIA Graphics India: company discovery timeout",
+    "NXP Semiconductors India: company discovery timeout",
+    "NxtGen Datacenter: company discovery timeout",
+    "Philips Innovation Campus India: company discovery timeout",
+    "Piramal Capital (IT): company discovery timeout",
+    "Piramal Finance Tech: company discovery timeout",
+    "Porsche India (IT): company discovery timeout",
+    "Postmates: company discovery timeout",
+    "Preet India (IT): company discovery timeout",
+    "Procter & Gamble India: company discovery timeout",
+    "S&P Global India: company discovery timeout",
+    "Saavn: company discovery timeout",
+    "Safexpress: company discovery timeout",
+    "Sahaj AI: company discovery timeout",
+    "Sahaj Software: company discovery timeout",
+    "Saksoft: company discovery timeout",
+    "Samco (IT): company discovery timeout",
+    "Samsung R&D Institute India: company discovery timeout",
+    "Savaari (IT): company discovery timeout",
+    "SBI Life Insurance Tech: company discovery timeout",
+    "SEBI (IT): company discovery timeout",
+    "Senseforth.ai: company discovery timeout",
+    "Setu (Pine Labs): company discovery timeout",
+    "Sharekhan (IT): company discovery timeout",
+    "Sheru (IT): company discovery timeout",
+    "Shiprocket: company discovery timeout",
+    "Shoppers Stop (IT): company discovery timeout",
+    "Shriram Finance (IT): company discovery timeout",
+    "Shuttl (IT): company discovery timeout",
+    "SIDBI (IT): company discovery timeout",
+    "Siemens (IT Services): company discovery timeout"
+  ]
 }
