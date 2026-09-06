@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T22:04:57.141Z",
+  "generatedAt": "2026-09-05T23:56:51.816Z",
   "batchSize": 120,
-  "successfulCount": 1,
-  "failedCount": 12,
+  "successfulCount": 0,
+  "failedCount": 0,
   "results": [
     {
       "company": "Rivian India (IT)",
@@ -5505,18 +5505,5 @@
       }
     }
   ],
-  "failures": [
-    "Lifan India (IT): company discovery timeout",
-    "Lister India (IT): company discovery timeout",
-    "Manappuram Finance Tech: company discovery timeout",
-    "Max Life Insurance Tech: company discovery timeout",
-    "Refrens: company discovery timeout",
-    "Reliance Jio: company discovery timeout",
-    "Reliance Jio (IT Services): company discovery timeout",
-    "Reliance Securities (IT): company discovery timeout",
-    "Religare Enterprises (IT): company discovery timeout",
-    "Renault India (IT): company discovery timeout",
-    "Revolut: company discovery timeout",
-    "Rimac India (IT): company discovery timeout"
-  ]
+  "failures": []
 }
