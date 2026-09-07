@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-09-06T22:09:06.787Z",
+  "generatedAt": "2026-09-06T23:59:19.081Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Zomato Pay (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
+        "title": "Zomato",
+        "discoveredAt": "2026-09-06T23:59:19.077Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Zoho People",
       "found": {
@@ -5492,20 +5503,7 @@
         "discoveredAt": "2026-07-29T19:48:06.776Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Bandhan Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bandhanbank.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:48:05.502Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": [
-    "Zomato Pay (IT): search returned anti-bot page"
-  ]
+  "failures": []
 }
