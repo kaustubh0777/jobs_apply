@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-09-13T04:54:50.206Z",
+  "generatedAt": "2026-09-13T11:58:22.461Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Apple",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://apple.com/careers/us/",
+        "title": "Career Opportunities",
+        "discoveredAt": "2026-09-13T11:58:22.458Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Zomato Pay (IT)",
       "found": {
@@ -5491,17 +5502,6 @@
         "title": "Careers",
         "discoveredAt": "2026-07-29T19:47:56.924Z",
         "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Bajaj Auto (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bajajauto.com/career",
-        "title": "Why Work With Bajaj Auto – Careers & Opportunities",
-        "discoveredAt": "2026-07-29T19:48:06.776Z",
-        "discoveryMethod": "common-career-path"
       }
     }
   ],
