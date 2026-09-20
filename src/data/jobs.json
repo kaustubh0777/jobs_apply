@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:15:17.512Z",
+  "generatedAt": "2026-09-20T05:10:37.905Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -7,7 +7,7 @@
     "unconfiguredRemaining": 818,
     "discoveryProbedThisRun": 0,
     "totalSourcesAttempted": 450,
-    "successfulSources": 168,
+    "successfulSources": 169,
     "cutoffDays": 90,
     "genericSourcesConfirmed": 13,
     "genericCandidatesProbedThisRun": 384,
@@ -33,7 +33,6 @@
     "Angel One Technology LV 404",
     "Atlassian LV 404",
     "Atlassian Bengaluru LV 404",
-    "This operation was aborted",
     "Netflix LV 404",
     "Plaid LV 404",
     "Accenture Workday: no working datacenter found",
@@ -63,7 +62,8 @@
     "Persistent Systems Workday: no working datacenter found",
     "PwC India Workday: no working datacenter found",
     "Qualcomm Workday: no working datacenter found",
-    "SAP Workday: no working datacenter found"
+    "SAP Workday: no working datacenter found",
+    "SAP Labs India Workday: no working datacenter found"
   ],
   "jobs": [
     {
@@ -5105,6 +5105,27 @@
       "directApplyUrl": "https://www.highradius.com/about/careers-list/?gh_jid=7802439003",
       "department": "Product & Engineering",
       "summary": "Job Summary: We are seeking a visionary Principal Product Solutions Architect to lead the technical design, configuration patterns, and system orchestration for our next-generation Enterprise Financial Close, Reconciliation, and Anomaly Detection product.Our product is built on t"
+    },
+    {
+      "id": "google-careers-112497746115470022-engineering-analyst-youtube-trust-and-safety",
+      "role": "Engineering Analyst, YouTube Trust and Safety",
+      "company": "YouTube",
+      "companyType": "Product",
+      "location": "Hyderabad, Telangana, India",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "Not specified by portal",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-09-01T13:38:12.000Z",
+      "source": "Google Careers official site",
+      "directApplyUrl": "https://www.google.com/about/careers/applications/jobs/results/112497746115470022-engineering-analyst-youtube-trust-and-safety",
+      "department": "Engineering",
+      "summary": "Fast-paced, dynamic, and proactive, YouTube’s Trust & Safety team is dedicated to making YouTube a safe place for users, viewers, and content creators around the world to create, and express themselves. Whether understanding and solving their online content concerns, navigating w"
     },
     {
       "id": "greenhouse-zscaler-5209072007",
@@ -12959,6 +12980,27 @@
       "directApplyUrl": "https://www.flipkartcareers.com/jobslist",
       "department": "Engineering",
       "summary": "Flipkart Careers official jobs listing."
+    },
+    {
+      "id": "greenhouse-robinhood-8107212",
+      "role": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "company": "Robinhood",
+      "companyType": "Product",
+      "location": "Menlo Park, CA",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "experienceLabel": "10+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-09-19T20:13:35-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
+      "department": "ENG Data and AI Platform Division",
+      "summary": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter"
     },
     {
       "id": "greenhouse-robinhood-8189874",
@@ -21233,27 +21275,6 @@
       "directApplyUrl": "https://instacart.careers/job/?gh_jid=7963840",
       "department": "Machine Learning",
       "summary": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting compl"
-    },
-    {
-      "id": "google-careers-97464320123642566-senior-staff-software-engineer-unified-traffic-engineering-infrastructure",
-      "role": "Senior Staff Software Engineer, Unified Traffic Engineering, Infrastructure",
-      "company": "Google",
-      "companyType": "Product",
-      "location": "Sunnyvale, CA, USA",
-      "country": "United States",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "Not specified by portal",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-09-15T12:39:39.000Z",
-      "source": "Google Careers official site",
-      "directApplyUrl": "https://www.google.com/about/careers/applications/jobs/results/97464320123642566-senior-staff-software-engineer-unified-traffic-engineering-infrastructure",
-      "department": "Engineering",
-      "summary": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e"
     },
     {
       "id": "smartrecruiters-grab-744000149584204",
