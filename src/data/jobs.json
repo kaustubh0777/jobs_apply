@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:34:22.066Z",
+  "generatedAt": "2026-09-26T16:31:41.337Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -380,27 +380,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/sigmoid/jobs/8844035002",
       "department": "Product Engineering",
       "summary": "Job Title: SDE2 – Frontend Location: Bangalore, India Experience: 4–6 years Role Overview As a Frontend Developer, you will be primarily responsible for planning, designing, and developing scalable and high-performance SaaS applications. Responsibilities Build next-generation web"
-    },
-    {
-      "id": "greenhouse-godaddy-8002384003",
-      "role": "FullStack Software Development Engineer - (NodeJS / React)",
-      "company": "GoDaddy",
-      "companyType": "Product",
-      "location": "Gurugram, Haryana, India",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-09-25T03:20:04-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://careers.godaddy/jobs?gh_jid=8002384003",
-      "department": "Engineering",
-      "summary": "Location Details: Gurugram HR At GoDaddy the future of work looks different for each team. Some teams work in the office full-time; others have a hybrid arrangement (they work remotely some days and in the office some days) and some work entirely remotely.​ This is a hybrid posit"
     },
     {
       "id": "greenhouse-godaddy-7882547003",
@@ -13108,6 +13087,48 @@
       "summary": "Flipkart Careers official jobs listing."
     },
     {
+      "id": "greenhouse-lucidmotors-5249944007",
+      "role": "Technical Specialist, CAE Crashworthiness",
+      "company": "Lucid Motors",
+      "companyType": "Product",
+      "location": "Munich, BY",
+      "country": "Germany",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "0+ yrs est.",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-09-26T11:53:41-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://lucidmotors.com/careers/search/5249944007?gh_jid=5249944007",
+      "department": "Vehicle Engineering, Engineering & Software",
+      "summary": "About Lucid At Lucid, we are creating exceptional mobility experiences through innovation to drive the world forward. Built on Lucid’s proprietary technology and software-defined vehicle architecture, our award-winning vehicles bring our “Compromise Nothing™” approach to the glob"
+    },
+    {
+      "id": "ashby-hinge-health-9ff95165-df99-48b3-9a94-d55bd31d7227",
+      "role": "Staff Software Engineer, GI ",
+      "company": "Hinge Health",
+      "companyType": "Product",
+      "location": "San Francisco-HQ",
+      "country": "United States",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "experienceLabel": "4+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-09-26T12:23:30.618+00:00",
+      "source": "Ashby career portal",
+      "directApplyUrl": "https://jobs.ashbyhq.com/hinge-health/9ff95165-df99-48b3-9a94-d55bd31d7227",
+      "department": "RnD",
+      "summary": "ABOUT US\n\nHinge Health is a leader in Digital Physical Therapy, and we’re expanding into new areas of care. In April 2026, we launched our comprehensive Migraine Care Program https://www.hingehealth.com/resources/press-releases/hinge-health-launches-comprehensive-migraine-care-pr"
+    },
+    {
       "id": "smartrecruiters-renesaselectronics-744000151981729",
       "role": "Senior Applications Engineer",
       "company": "Renesas Electronics India",
@@ -13358,27 +13379,6 @@
       "directApplyUrl": "https://lucidmotors.com/careers/search/5242816007?gh_jid=5242816007",
       "department": "Electronics",
       "summary": "About Lucid At Lucid, we are creating exceptional mobility experiences through innovation to drive the world forward. Built on Lucid’s proprietary technology and software-defined vehicle architecture, our award-winning vehicles bring our “Compromise Nothing™” approach to the glob"
-    },
-    {
-      "id": "google-careers-83375921154663110-senior-research-data-scientist-search-ads",
-      "role": "Senior Research Data Scientist, Search Ads",
-      "company": "Google",
-      "companyType": "Product",
-      "location": "Mountain View, CA, USA",
-      "country": "United States",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "Not specified by portal",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-09-25T22:39:38.000Z",
-      "source": "Google Careers official site",
-      "directApplyUrl": "https://www.google.com/about/careers/applications/jobs/results/83375921154663110-senior-research-data-scientist-search-ads",
-      "department": "Engineering",
-      "summary": "Our team provides the critical analysis and data insights that guide our AdsUI partners in improving user interfaces, ad formats, and the overall search page experience. We are the premier team driving a $2XXB business, offering you the unique opportunity to land immediate, visib"
     },
     {
       "id": "greenhouse-roblox-8231343",
@@ -28331,6 +28331,27 @@
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8803506002?gh_jid=8803506002",
       "department": "Starlink - Ground Infrastructure Operations",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
+    },
+    {
+      "id": "google-careers-111205174633996998-principal-strategist-security-strategic-customer-engagement-google-cloud",
+      "role": "Principal Strategist, Security, Strategic Customer Engagement, Google Cloud",
+      "company": "Google",
+      "companyType": "Product",
+      "location": "New York, NY, USA",
+      "country": "United States",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 0,
+      "experienceMax": null,
+      "experienceLabel": "Not specified by portal",
+      "experienceSource": "Not specified by portal",
+      "postedAt": "2026-09-16T19:38:58.000Z",
+      "source": "Google Careers official site",
+      "directApplyUrl": "https://www.google.com/about/careers/applications/jobs/results/111205174633996998-principal-strategist-security-strategic-customer-engagement-google-cloud",
+      "department": "Engineering",
+      "summary": "Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countrie"
     },
     {
       "id": "greenhouse-spacex-8814943002",
@@ -67012,7 +67033,7 @@
       "source": "Ashby career portal",
       "directApplyUrl": "https://jobs.ashbyhq.com/hinge-health/d7bba1dc-1f6d-4ad0-9ad0-e65aa0aae628",
       "department": "RnD",
-      "summary": "THE OPPORTUNITY\n\nHinge Health is a leader in Digital Physical Therapy, and we’re expanding into new areas of care. In April 2026, we launched our comprehensive Migraine Care Program https://www.hingehealth.com/resources/press-releases/hinge-health-launches-comprehensive-migraine-"
+      "summary": "ABOUT US\n\nHinge Health is a leader in Digital Physical Therapy, and we’re expanding into new areas of care. In April 2026, we launched our comprehensive Migraine Care Program https://www.hingehealth.com/resources/press-releases/hinge-health-launches-comprehensive-migraine-care-pr"
     },
     {
       "id": "greenhouse-pendo-8646413002",
