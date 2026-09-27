@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-09-27T18:29:02.339Z",
+  "generatedAt": "2026-09-27T23:06:42.976Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "99acres.com",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.99.co/jobs",
+        "title": "Current job openings - 99 Group",
+        "discoveredAt": "2026-09-27T23:06:42.972Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Addverb Technologies",
       "found": {
@@ -5492,20 +5503,7 @@
         "discoveredAt": "2026-07-29T19:47:27.165Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Amazon Fresh (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://amazonfresh.com/careers",
-        "title": "Amazon Fresh Groceries",
-        "discoveredAt": "2026-07-29T19:47:29.388Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
-  "failures": [
-    "99acres.com: search returned anti-bot page"
-  ]
+  "failures": []
 }
