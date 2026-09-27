@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-27T08:17:25.961Z",
+  "generatedAt": "2026-09-27T14:06:12.495Z",
   "batchSize": 120,
-  "successfulCount": 11,
-  "failedCount": 9,
+  "successfulCount": 2,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "Aditya Birla Capital Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adityabirlacapital.com/careers/jobs",
+        "title": "Search Jobs at Aditya Birla Capital",
+        "discoveredAt": "2026-09-27T14:06:10.579Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aditya Birla Fashion (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.abfrl.com/careers/",
+        "title": "Careers - ABFRL",
+        "discoveredAt": "2026-09-27T14:06:10.463Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "1mg",
       "found": {
@@ -5481,39 +5503,11 @@
         "discoveredAt": "2026-07-29T19:47:31.687Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "American Express",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.americanexpress.com/en-us/careers/?inav=en_us_footer_About_Careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:31.960Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Anand Rathi (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://anandrathi.com/career",
-        "title": "Career",
-        "discoveredAt": "2026-07-29T19:47:33.445Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "24[7].ai: company discovery timeout",
-    "5ire: company discovery timeout",
-    "99acres (IT): company discovery timeout",
     "99acres.com: search returned anti-bot page",
     "Addverb Technologies: search returned anti-bot page",
-    "Aditya Birla Capital Tech: search returned anti-bot page",
-    "Aditya Birla Fashion (IT): search returned anti-bot page",
-    "Aditya Birla Money (IT): search returned anti-bot page",
-    "Adobe: company discovery timeout"
+    "Aditya Birla Money (IT): search returned anti-bot page"
   ]
 }
