@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-27T14:06:12.495Z",
+  "generatedAt": "2026-09-27T18:29:02.339Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 3,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Addverb Technologies",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.advervetechnologies.com/careers",
+        "title": "Careers | Adverve Technologies — Join Our Team",
+        "discoveredAt": "2026-09-27T18:29:02.027Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aditya Birla Money (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adityabirlacapital.com/careers/jobs",
+        "title": "Job Search, Employment, Job Vacancies & Opportunities - Aditya Birla ...",
+        "discoveredAt": "2026-09-27T18:29:02.335Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Aditya Birla Capital Tech",
       "found": {
@@ -5481,33 +5503,9 @@
         "discoveredAt": "2026-07-29T19:47:29.388Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Amazon Pay (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://amazonpay.in/careers",
-        "title": "Amazon Pay",
-        "discoveredAt": "2026-07-29T19:47:33.566Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "AMD",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.amd.com/en/corporate/careers.html",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:31.687Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "99acres.com: search returned anti-bot page",
-    "Addverb Technologies: search returned anti-bot page",
-    "Aditya Birla Money (IT): search returned anti-bot page"
+    "99acres.com: search returned anti-bot page"
   ]
 }
