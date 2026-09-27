@@ -1,9 +1,130 @@
 {
-  "generatedAt": "2026-09-27T00:40:39.180Z",
+  "generatedAt": "2026-09-27T08:17:25.961Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 11,
+  "failedCount": 9,
   "results": [
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-09-27T08:17:12.610Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-09-27T08:17:13.524Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "3i Infotech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.3i-infotech.com/careers/",
+        "title": "Careers | 3i Infotech",
+        "discoveredAt": "2026-09-27T08:17:17.013Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-27T08:17:10.774Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "5paisa Capital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.5paisa.com/careers",
+        "title": "Careers - 5paisa",
+        "discoveredAt": "2026-09-27T08:17:16.993Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aavas Financiers (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.aavas.in/career",
+        "title": "Job Opportunity & Career - Aavas.in",
+        "discoveredAt": "2026-09-27T08:17:16.955Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Abarth India (IT)",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://intel.wd1.myworkdayjobs.com/External/page/385e15908e0110015685c55415990005",
+        "title": "Intel Careers",
+        "discoveredAt": "2026-09-27T08:17:17.064Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ABB India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.abb/global/en/r-d-careers-india",
+        "title": "R&D careers India - ABB",
+        "discoveredAt": "2026-09-27T08:17:17.010Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-27T08:17:12.805Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acqueon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acqueon.com/about/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-27T08:17:12.973Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Active.Ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://active.ai/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-27T08:17:14.986Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Apple",
       "found": {
@@ -5382,128 +5503,17 @@
         "discoveredAt": "2026-07-29T19:47:33.445Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "AppDynamics",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://appdynamics.com/careers",
-        "title": "AppDynamics joins the Splunk Observability portfolio | Splunk",
-        "discoveredAt": "2026-07-29T19:47:34.491Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Arcesium",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://arcesium.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:34.296Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Arihant Capital (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://arihantcapital.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:36.651Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Auth0",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.okta.com/company/careers/",
-        "title": "Careers We&#x27;re hiring!",
-        "discoveredAt": "2026-07-29T19:47:51.259Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Automation Anywhere",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://automationanywhere.com/company/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:52.824Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Avaamo",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://avaamo.com/career",
-        "title": "Careers at Avaamo",
-        "discoveredAt": "2026-07-29T19:47:57.562Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Avalara",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://avalara.com/careers",
-        "title": "Avalara Careers Home",
-        "discoveredAt": "2026-07-29T19:47:55.805Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Avaya",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://avaya.com/careers",
-        "title": "Careers at Avaya | Search Avaya Jobs | Join Our Talent Community",
-        "discoveredAt": "2026-07-29T19:47:56.378Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Axis Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://axisbank.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:56.368Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "BAC India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bacindia.in/careers",
-        "title": "Careers &#8211; Konstruktion",
-        "discoveredAt": "2026-07-29T19:48:01.636Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Bahwan CyberTek",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bahwancybertek.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-07-29T19:47:56.924Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "24[7].ai: company discovery timeout",
+    "5ire: company discovery timeout",
+    "99acres (IT): company discovery timeout",
+    "99acres.com: search returned anti-bot page",
+    "Addverb Technologies: search returned anti-bot page",
+    "Aditya Birla Capital Tech: search returned anti-bot page",
+    "Aditya Birla Fashion (IT): search returned anti-bot page",
+    "Aditya Birla Money (IT): search returned anti-bot page",
+    "Adobe: company discovery timeout"
+  ]
 }
