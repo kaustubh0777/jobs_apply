@@ -1,9 +1,185 @@
 {
-  "generatedAt": "2026-09-28T14:06:16.320Z",
+  "generatedAt": "2026-09-28T20:36:24.971Z",
   "batchSize": 120,
   "successfulCount": 16,
-  "failedCount": 95,
+  "failedCount": 42,
   "results": [
+    {
+      "company": "Alfa Romeo India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.alfaindia.com/career/",
+        "title": "Career - Alfa India",
+        "discoveredAt": "2026-09-28T20:35:50.139Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bank of America Continuum Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.continuumgbl.com/careers/",
+        "title": "Careers | Continuum Global Solutions",
+        "discoveredAt": "2026-09-28T20:35:50.235Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bloomberg L.P. India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bloomberg.com/company/careers/global-roles/working-at-bloomberg-in-mumbai-pune/",
+        "title": "Working at Bloomberg in Mumbai, New Delhi, and Pune | Bloomberg LP",
+        "discoveredAt": "2026-09-28T20:35:50.012Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Cropin",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cropin.com/career",
+        "title": "Cropin careers – build your future in agri-tech",
+        "discoveredAt": "2026-09-28T20:35:50.621Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "CrowdStrike",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.crowdstrike.com/en-us/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-28T20:35:43.608Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cure.fit",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cure.fit/careers",
+        "title": ".style-prefix-1gpe2ah{background-size:cover;background-repeat:no-repeat;border-radius:30px;border:none;height:100%;background-position:center;}@media only screen and (max-width: 768px){.style-prefix-1gpe2ah{margin-bottom:35px;min-height:220px;}} .style-prefix-x393ch{padding:20px 40px 25px;height:100%;display:flex;flex-flow:column;}@media only screen and (max-width: 768px){.style-prefix-x393ch{padding:20px 30px 0px;}} .style-prefix-3q6kuy{text-align:center;cursor:pointer;margin:0;color:white;font-size:40px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0.01px;line-height:60px;margin-bottom:6%;}@media only screen and (min-width: 769px) and (max-width: 1024px){.style-prefix-3q6kuy{font-size:22px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0px;line-height:35px;}}@media only screen and (max-width: 768px){.style-prefix-3q6kuy{font-size:24px;font-family:Inter-Extra-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:-0.3px;line-height:30px;}} Careers at Cult .style-prefix-rfpv5a{padding-bottom:41.66666666666667%;transition:all 50ms ease;background:transparent;} .style-prefix-18wbqqg{cursor:pointer;font-family:Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;border:1px solid transparent;transition:all 250ms ease;display:flex;justify-content:center;align-items:center;color:#3888FF;background:transparent;font-size:12px;line-height:12px;border-radius:5px;padding:7px 15px;font-weight:700;margin:auto;margin-bottom:0;}.style-prefix-18wbqqg:hover{background:rgba(0, 0, 0, 0.12);} LEARN MORE",
+        "discoveredAt": "2026-09-28T20:35:52.824Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cure.fit (Cult.fit)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cure.fit/careers",
+        "title": ".style-prefix-1gpe2ah{background-size:cover;background-repeat:no-repeat;border-radius:30px;border:none;height:100%;background-position:center;}@media only screen and (max-width: 768px){.style-prefix-1gpe2ah{margin-bottom:35px;min-height:220px;}} .style-prefix-x393ch{padding:20px 40px 25px;height:100%;display:flex;flex-flow:column;}@media only screen and (max-width: 768px){.style-prefix-x393ch{padding:20px 30px 0px;}} .style-prefix-3q6kuy{text-align:center;cursor:pointer;margin:0;color:white;font-size:40px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0.01px;line-height:60px;margin-bottom:6%;}@media only screen and (min-width: 769px) and (max-width: 1024px){.style-prefix-3q6kuy{font-size:22px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0px;line-height:35px;}}@media only screen and (max-width: 768px){.style-prefix-3q6kuy{font-size:24px;font-family:Inter-Extra-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:-0.3px;line-height:30px;}} Careers at Cult .style-prefix-rfpv5a{padding-bottom:41.66666666666667%;transition:all 50ms ease;background:transparent;} .style-prefix-18wbqqg{cursor:pointer;font-family:Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;border:1px solid transparent;transition:all 250ms ease;display:flex;justify-content:center;align-items:center;color:#3888FF;background:transparent;font-size:12px;line-height:12px;border-radius:5px;padding:7px 15px;font-weight:700;margin:auto;margin-bottom:0;}.style-prefix-18wbqqg:hover{background:rgba(0, 0, 0, 0.12);} LEARN MORE",
+        "discoveredAt": "2026-09-28T20:35:52.495Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Curefoods",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://curefoods.in/pages/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-28T20:35:57.466Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cyient DLM",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cyientdlm.com/career",
+        "title": "Cyient DLM | Integrated Electronics & Mechanical Manufacturing",
+        "discoveredAt": "2026-09-28T20:35:57.740Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "D. E. Shaw",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://deshaw.com/careers",
+        "title": "How To Join",
+        "discoveredAt": "2026-09-28T20:35:57.599Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DCB Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
+        "title": "Careers",
+        "discoveredAt": "2026-09-28T20:36:01.585Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-09-28T20:36:01.541Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-09-28T20:36:01.344Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Delhivery",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://delhivery.com/careers",
+        "title": "Build Your Career with Delhivery – Join India's Leading Logistics Innovator",
+        "discoveredAt": "2026-09-28T20:36:00.816Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "DigitalOcean",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://digitalocean.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-09-28T20:36:07.804Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Dolby",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dolby.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-28T20:36:09.233Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Boeing",
       "found": {
@@ -5327,234 +5503,50 @@
         "discoveredAt": "2026-08-05T21:36:01.534Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Federal Bank Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.federalreserve.gov/careers-it.htm",
-        "title": "The Fed - Information Technology Professional - Federal Reserve Board",
-        "discoveredAt": "2026-08-05T21:36:02.307Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Fi Money",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://fi.money/careers",
-        "title": "Fi Money | Careers | Join us to build the future of fintech",
-        "discoveredAt": "2026-08-05T21:36:02.694Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "FirstCry",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.firstcry.com/careers",
-        "title": "Current Openings at FirstCry.com",
-        "discoveredAt": "2026-08-05T21:35:59.033Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Firstsource",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://firstsource.com/careers/our-values",
-        "title": "Values",
-        "discoveredAt": "2026-08-05T21:35:58.630Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Fractal Analytics",
-      "found": {
-        "source": "workday",
-        "confidence": 70,
-        "url": "https://fractal.wd1.myworkdayjobs.com/Careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:36:03.305Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Gnani.ai",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://gnani.ai/careers",
-        "title": "Careers at Gnani.ai | Build Frontier Voice AI",
-        "discoveredAt": "2026-08-05T21:36:27.603Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Goldman Sachs",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://goldmansachs.com/careers",
-        "title": "Discover Careers",
-        "discoveredAt": "2026-08-05T21:36:26.618Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Grafana",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://grafana.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:36:28.086Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Hasura",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://hasura.io/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:36:51.312Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "HFCL",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://hfcl.com/company/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:36:48.904Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Honda India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://hondaindia.com/careers",
-        "title": "Loading...",
-        "discoveredAt": "2026-08-05T21:36:51.721Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Honeywell",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://honeywell.com/us/en/careers",
-        "title": "Careers Help us build a better future",
-        "discoveredAt": "2026-08-05T21:36:50.332Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Dynatrace",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://dynatrace.com/careers",
-        "title": "Home | Dynatrace Careers",
-        "discoveredAt": "2026-08-05T19:57:40.776Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "EarlySalary (Fibe)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://earlysalary.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T19:57:40.852Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Changan India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://changanhyderabad.com/careers/",
-        "title": "Careers - Changan Hyderabad Motors",
-        "discoveredAt": "2026-07-30T06:44:27.643Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Dezerv",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.dezerv.co/pages/dezerv-careers",
-        "title": "Dezerv Careers - Dezerv Digital",
-        "discoveredAt": "2026-07-30T06:44:29.035Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "This operation was aborted",
-    "This operation was aborted",
-    "Aibono: company discovery timeout",
-    "Airtel Payments Bank (IT): company discovery timeout",
-    "Alfa Romeo India (IT): search returned anti-bot page",
-    "Alibaba: company discovery timeout",
-    "This operation was aborted",
-    "This operation was aborted",
-    "Bloomberg L.P. India: search returned anti-bot page",
-    "This operation was aborted",
-    "BMW India (IT): company discovery timeout",
-    "This operation was aborted",
-    "BNY Mellon India: company discovery timeout",
-    "Bobcat India (IT): company discovery timeout",
-    "Boeing India Engineering Center: company discovery timeout",
-    "Bogdan India (IT): company discovery timeout",
-    "Booking Holdings India: company discovery timeout",
-    "Booking.com India: company discovery timeout",
-    "BookMyShow: company discovery timeout",
-    "Bosch Global Software Technologies: company discovery timeout",
-    "Bot.Mp: company discovery timeout",
-    "Bowler India (IT): company discovery timeout",
-    "Box8: company discovery timeout",
-    "BPCL (IT): company discovery timeout",
-    "Brainvire Infotech: company discovery timeout",
-    "Brilliance India (IT): company discovery timeout",
-    "Brillio: company discovery timeout",
-    "Bristol India (IT): company discovery timeout",
-    "Broadcom: company discovery timeout",
-    "BrowserStack: company discovery timeout",
-    "BSNL (IT): company discovery timeout",
-    "BSNL Technology Division: company discovery timeout",
-    "Bugatti India (IT): company discovery timeout",
-    "BYJU'S: company discovery timeout",
-    "Cadence: company discovery timeout",
-    "Cadence Design Systems India: company discovery timeout",
-    "CallHealth: company discovery timeout",
-    "Canoo: company discovery timeout",
     "Canoo India (IT): search returned anti-bot page",
-    "Capillary: company discovery timeout",
-    "Capita India: company discovery timeout",
-    "Captain India (IT): company discovery timeout",
-    "CarDekho: company discovery timeout",
-    "CarTrade Tech: company discovery timeout",
-    "Case India (IT): company discovery timeout",
     "CASHe: search returned anti-bot page",
-    "Cashfree Payments: company discovery timeout",
     "Caterham India (IT): search returned anti-bot page",
-    "Caterpillar India: company discovery timeout",
-    "Caterpillar India (IT): company discovery timeout"
+    "CIGNEX Datamatics: search returned anti-bot page",
+    "Cleartrip: search returned anti-bot page",
+    "Cleartrip (IT): search returned anti-bot page",
+    "Croma Digital: search returned anti-bot page",
+    "Crowe India: search returned anti-bot page",
+    "CtrlS Datacenters: company discovery timeout",
+    "Cuelogic Technologies: company discovery timeout",
+    "Cuemath: company discovery timeout",
+    "Cummins India (IT): company discovery timeout",
+    "Cupra India (IT): company discovery timeout",
+    "CureFit Healthcare: company discovery timeout",
+    "Cyfuture: company discovery timeout",
+    "D-Mart (IT): company discovery timeout",
+    "Dailyhunt: company discovery timeout",
+    "Daimler India: company discovery timeout",
+    "Daimler India (IT): company discovery timeout",
+    "Darwinbox: company discovery timeout",
+    "Datamatics: company discovery timeout",
+    "DBFS (IT): company discovery timeout",
+    "DBS Bank India: company discovery timeout",
+    "DealShare: company discovery timeout",
+    "Deutsche Bank: company discovery timeout",
+    "Dhan (IT): company discovery timeout",
+    "Dhanlaxmi Bank (IT): company discovery timeout",
+    "DICGC (IT): company discovery timeout",
+    "Digio: company discovery timeout",
+    "Dish Network Technologies India: company discovery timeout",
+    "District (by Zomato): company discovery timeout",
+    "DocsApp: company discovery timeout",
+    "Dongfeng India (IT): company discovery timeout",
+    "Doosan India (IT): company discovery timeout",
+    "DraftKings: company discovery timeout",
+    "DRDO (IT): company discovery timeout",
+    "DRDO (Software Engineering): company discovery timeout",
+    "Dream11: company discovery timeout",
+    "Drift India: company discovery timeout",
+    "Drivezy (IT): company discovery timeout",
+    "Droom: company discovery timeout",
+    "DS India (IT): company discovery timeout"
   ]
 }
