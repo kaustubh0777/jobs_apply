@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T02:02:35.957Z",
+  "generatedAt": "2026-09-29T08:38:17.199Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 19,
+  "successfulCount": 0,
+  "failedCount": 9,
   "results": [
     {
       "company": "Croma Digital",
@@ -5506,24 +5506,14 @@
     }
   ],
   "failures": [
-    "Airbus: company discovery timeout",
-    "Algoworks Solutions: company discovery timeout",
-    "Allsec Technologies: company discovery timeout",
-    "Bain & Company India: company discovery timeout",
-    "Bajaj Allianz Tech: company discovery timeout",
-    "Canoo India (IT): company discovery timeout",
-    "CASHe: company discovery timeout",
-    "Caterham India (IT): company discovery timeout",
-    "CIGNEX Datamatics: company discovery timeout",
-    "Citroen India (IT): company discovery timeout",
-    "Cleartrip: company discovery timeout",
-    "Cleartrip (IT): company discovery timeout",
     "Crofarm (IT): search returned anti-bot page",
     "Dacia India (IT): search returned anti-bot page",
     "Daf India (IT): search returned anti-bot page",
+    "Daffodil Software Pvt Ltd: search returned anti-bot page",
     "Damco Solutions: search returned anti-bot page",
     "Darwinbox HR Tech: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
-    "Delhivery Supply Chain: search returned anti-bot page"
+    "Delhivery Supply Chain: search returned anti-bot page",
+    "Deutsche Bank Global Technology India: search returned anti-bot page"
   ]
 }
