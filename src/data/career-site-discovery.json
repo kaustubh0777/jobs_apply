@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-09-29T16:33:10.568Z",
+  "generatedAt": "2026-09-29T22:20:42.848Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 10,
+  "successfulCount": 4,
+  "failedCount": 6,
   "results": [
+    {
+      "company": "Dacia India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.renaultgroup.com/en/careers/",
+        "title": "Careers - Renault Group",
+        "discoveredAt": "2026-09-29T22:20:42.845Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Darwinbox HR Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://darwinbox.com/careers",
+        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
+        "discoveredAt": "2026-09-29T22:20:42.514Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Deutsche Bank Global Technology India",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/",
+        "title": "Search for Jobs - myworkdayjobs.com",
+        "discoveredAt": "2026-09-29T22:20:42.498Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Dezerv",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.dezerv.in/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-09-29T22:20:36.138Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Croma Digital",
       "found": {
@@ -5459,62 +5503,14 @@
         "discoveredAt": "2026-08-05T23:20:42.731Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Exotel",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://exotel.com/about-us/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:35:57.597Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "F5",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.f5.com/company/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T21:35:57.982Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "FabHotels",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://fabhotels.com/careers",
-        "title": "Careers @ FabHotels - FabHotels.com",
-        "discoveredAt": "2026-08-05T21:36:00.566Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "FabHotels (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://fabhotels.com/careers",
-        "title": "Careers @ FabHotels - FabHotels.com",
-        "discoveredAt": "2026-08-05T21:36:00.404Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Crofarm (IT): company discovery timeout",
-    "Dacia India (IT): search returned anti-bot page",
     "Daf India (IT): search returned anti-bot page",
     "Daffodil Software Pvt Ltd: search returned anti-bot page",
     "Damco Solutions: search returned anti-bot page",
-    "Darwinbox HR Tech: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
     "Delhivery Supply Chain: search returned anti-bot page",
-    "Deutsche Bank Global Technology India: search returned anti-bot page",
     "Digitrak India (IT): search returned anti-bot page"
   ]
 }
