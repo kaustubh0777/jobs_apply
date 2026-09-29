@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T08:38:17.199Z",
+  "generatedAt": "2026-09-29T16:33:10.568Z",
   "batchSize": 120,
   "successfulCount": 0,
-  "failedCount": 9,
+  "failedCount": 10,
   "results": [
     {
       "company": "Croma Digital",
@@ -5506,7 +5506,7 @@
     }
   ],
   "failures": [
-    "Crofarm (IT): search returned anti-bot page",
+    "Crofarm (IT): company discovery timeout",
     "Dacia India (IT): search returned anti-bot page",
     "Daf India (IT): search returned anti-bot page",
     "Daffodil Software Pvt Ltd: search returned anti-bot page",
@@ -5514,6 +5514,7 @@
     "Darwinbox HR Tech: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
     "Delhivery Supply Chain: search returned anti-bot page",
-    "Deutsche Bank Global Technology India: search returned anti-bot page"
+    "Deutsche Bank Global Technology India: search returned anti-bot page",
+    "Digitrak India (IT): search returned anti-bot page"
   ]
 }
