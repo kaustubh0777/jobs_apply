@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-30T05:39:15.215Z",
+  "generatedAt": "2026-09-30T12:42:41.141Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 5,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "Damco Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.damcogroup.com/careers",
+        "title": "Explore Job Opportunities at Damco | Careers - Damco Solutions",
+        "discoveredAt": "2026-09-30T12:42:40.090Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Digitrak India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.digital-control.com/indiajobsitestory1/",
+        "title": "DigiTrak in India | Digital Control Inc. | DigiTrak HDD Locating Systems",
+        "discoveredAt": "2026-09-30T12:42:39.019Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Daffodil Software Pvt Ltd",
       "found": {
@@ -5481,35 +5503,11 @@
         "discoveredAt": "2026-08-05T23:20:31.373Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Indian Overseas Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://indianoverseasbank.com/careers",
-        "title": "Loading...",
-        "discoveredAt": "2026-08-05T23:20:41.261Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Indus Valley Partners",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://indusvalleypartners.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T23:20:41.172Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "Daf India (IT): search returned anti-bot page",
-    "Damco Solutions: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
-    "Desktop Metal: search returned anti-bot page",
-    "Digitrak India (IT): search returned anti-bot page"
+    "Desktop Metal: search returned anti-bot page"
   ]
 }
