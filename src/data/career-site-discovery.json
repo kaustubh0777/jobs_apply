@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-29T22:20:42.848Z",
+  "generatedAt": "2026-09-30T05:39:15.215Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 6,
+  "successfulCount": 2,
+  "failedCount": 5,
   "results": [
+    {
+      "company": "Daffodil Software Pvt Ltd",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.daffodilsw.com/career/",
+        "title": "Careers & Culture at Daffodil Software",
+        "discoveredAt": "2026-09-30T05:39:13.047Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Delhivery Supply Chain",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.delhivery.com/careers?trk=public_post_reshare-text",
+        "title": "Build Your Career with Delhivery - Join India&#x27;s Leading Logistics Innovator",
+        "discoveredAt": "2026-09-30T05:39:13.188Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Dacia India (IT)",
       "found": {
@@ -5481,36 +5503,13 @@
         "discoveredAt": "2026-08-05T23:20:41.172Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Innovaccer",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://innovaccer.com/careers",
-        "title": "Career",
-        "discoveredAt": "2026-08-05T23:20:41.907Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Innovaccer Analytics",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://innovacceranalytics.com/careers",
-        "title": "Career",
-        "discoveredAt": "2026-08-05T23:20:42.731Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "Daf India (IT): search returned anti-bot page",
-    "Daffodil Software Pvt Ltd: search returned anti-bot page",
     "Damco Solutions: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
-    "Delhivery Supply Chain: search returned anti-bot page",
+    "Desktop Metal: search returned anti-bot page",
     "Digitrak India (IT): search returned anti-bot page"
   ]
 }
