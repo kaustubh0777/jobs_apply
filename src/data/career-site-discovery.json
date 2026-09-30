@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-30T12:42:41.141Z",
+  "generatedAt": "2026-09-30T19:26:17.998Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 3,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Decentro",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://decentro.tech/careers",
+        "title": "We&#x27;re hiring | Fintech Jobs at API Banking Platform - Decentro",
+        "discoveredAt": "2026-09-30T19:26:16.896Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Desktop Metal",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.desktopmetal.com/careers",
+        "title": "Partner with the binder jetting leaders | Desktop Metal",
+        "discoveredAt": "2026-09-30T19:26:16.124Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Damco Solutions",
       "found": {
@@ -5481,33 +5503,9 @@
         "discoveredAt": "2026-08-05T23:20:27.337Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "IDfy",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://idfy.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T23:20:31.461Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "IIFL Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://iiflsecurities.com/careers",
-        "title": "Career",
-        "discoveredAt": "2026-08-05T23:20:31.373Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Daf India (IT): search returned anti-bot page",
-    "Decentro: search returned anti-bot page",
-    "Desktop Metal: search returned anti-bot page"
+    "Daf India (IT): search returned anti-bot page"
   ]
 }
