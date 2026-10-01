@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-09-30T19:26:17.998Z",
+  "generatedAt": "2026-09-30T23:55:19.820Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 1,
+  "successfulCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Daf India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.daf.com/en/working-at-daf/vacancies",
+        "title": "Vacancies - DAF Trucks N.V.",
+        "discoveredAt": "2026-09-30T23:55:19.817Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Decentro",
       "found": {
@@ -5492,20 +5503,7 @@
         "discoveredAt": "2026-08-05T23:20:24.295Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "IDBI Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://idbibank.com/idbi-bank-careers.aspx",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T23:20:27.337Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": [
-    "Daf India (IT): search returned anti-bot page"
-  ]
+  "failures": []
 }
