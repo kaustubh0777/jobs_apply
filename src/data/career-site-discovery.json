@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-01T19:35:48.548Z",
+  "generatedAt": "2026-10-01T23:56:13.889Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 1,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Arcesium",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.arcesium.com/careers",
+        "title": "Careers - Arcesium",
+        "discoveredAt": "2026-10-01T23:56:09.198Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Daf India (IT)",
       "found": {
@@ -5492,18 +5503,9 @@
         "discoveredAt": "2026-08-05T23:20:25.074Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "ICICI Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://icicisecurities.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-05T23:20:24.295Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "Flipkart: company discovery timeout"
+  ]
 }
