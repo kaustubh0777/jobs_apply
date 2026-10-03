@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:31:07.726Z",
+  "generatedAt": "2026-10-03T21:26:38.972Z",
   "companyCatalogSize": 1649,
   "companies": [
     {
@@ -10,7 +10,7 @@
       "careersUrl": "https://1mg.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:06:41.239Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:12.610Z",
       "webDiscoveryFailed": false
     },
@@ -22,7 +22,7 @@
       "careersUrl": "https://1mg.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:07:56.877Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:13.524Z",
       "webDiscoveryFailed": false
     },
@@ -34,7 +34,7 @@
       "careersUrl": "https://www.247.ai/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:07:32.005Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:19.240Z",
       "webDiscoveryFailed": false
     },
@@ -46,7 +46,7 @@
       "careersUrl": "https://www.3i-infotech.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:07:13.524Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:17.013Z",
       "webDiscoveryFailed": false
     },
@@ -69,7 +69,7 @@
       "careersUrl": "https://5paisa.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:36.215Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:10.774Z",
       "webDiscoveryFailed": false
     },
@@ -81,7 +81,7 @@
       "careersUrl": "https://www.5paisa.com/careers",
       "discoveryAttemptedAt": "2026-09-15T11:50:59.184Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:16.993Z",
       "webDiscoveryFailed": false
     },
@@ -104,7 +104,7 @@
       "careersUrl": "https://careers.99.co/jobs",
       "discoveryAttemptedAt": "2026-09-15T11:51:00.673Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T23:06:42.972Z",
       "webDiscoveryFailed": false
     },
@@ -116,7 +116,7 @@
       "careersUrl": "https://www.aavas.in/career",
       "discoveryAttemptedAt": "2026-09-15T11:51:00.418Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:16.955Z",
       "webDiscoveryFailed": false
     },
@@ -142,7 +142,7 @@
       "careersUrl": "https://careers.abb/global/en/r-d-careers-india",
       "discoveryAttemptedAt": "2026-06-21T22:07:49.885Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:17.010Z",
       "webDiscoveryFailed": false
     },
@@ -178,7 +178,7 @@
       "careersUrl": "https://acko.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:06:49.292Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:12.805Z",
       "webDiscoveryFailed": false
     },
@@ -190,7 +190,7 @@
       "careersUrl": "https://acqueon.com/about/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.349Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:12.973Z",
       "webDiscoveryFailed": false
     },
@@ -202,7 +202,7 @@
       "careersUrl": "https://active.ai/careers",
       "discoveryAttemptedAt": "2026-09-15T11:50:59.555Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T08:17:14.986Z",
       "webDiscoveryFailed": false
     },
@@ -214,7 +214,7 @@
       "careersUrl": "https://www.advervetechnologies.com/careers",
       "discoveryAttemptedAt": "2026-09-15T11:50:59.924Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T18:29:02.027Z",
       "webDiscoveryFailed": false
     },
@@ -232,7 +232,7 @@
       "careersUrl": "https://www.adityabirlacapital.com/careers/jobs",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.253Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T14:06:10.579Z",
       "webDiscoveryFailed": false
     },
@@ -244,7 +244,7 @@
       "careersUrl": "https://www.abfrl.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.792Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T14:06:10.463Z",
       "webDiscoveryFailed": false
     },
@@ -256,7 +256,7 @@
       "careersUrl": "https://www.adityabirlacapital.com/careers/jobs",
       "discoveryAttemptedAt": "2026-09-15T11:51:00.828Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-27T18:29:02.335Z",
       "webDiscoveryFailed": false
     },
@@ -279,7 +279,7 @@
       "careersUrl": "https://www.adobe.com/careers.html",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.789Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:05.189Z",
       "webDiscoveryFailed": false
     },
@@ -291,7 +291,7 @@
       "careersUrl": "https://affine.ai/about-us/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.790Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:11.392Z",
       "webDiscoveryFailed": false
     },
@@ -309,7 +309,7 @@
       "careersUrl": "https://agcoindia.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.105Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:04.970Z",
       "webDiscoveryFailed": false
     },
@@ -327,7 +327,7 @@
       "careersUrl": "https://www.ibm.com/in-en/careers/search",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.947Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:05.216Z",
       "webDiscoveryFailed": false
     },
@@ -339,7 +339,7 @@
       "careersUrl": "https://corporate.agrostar.in/join-us",
       "discoveryAttemptedAt": "2026-06-21T22:06:50.197Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:06.374Z",
       "webDiscoveryFailed": false
     },
@@ -351,7 +351,7 @@
       "careersUrl": "https://corporate.agrostar.in/join-us",
       "discoveryAttemptedAt": "2026-06-21T22:07:26.259Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:07.222Z",
       "webDiscoveryFailed": false
     },
@@ -374,7 +374,7 @@
       "careersUrl": "https://careers.indragroup.com/content/Careers_EN/?locale=en_US",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.106Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:11.840Z",
       "webDiscoveryFailed": false
     },
@@ -414,7 +414,7 @@
       "careersUrl": "https://airtel.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:52.064Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:11.941Z",
       "webDiscoveryFailed": false
     },
@@ -426,7 +426,7 @@
       "careersUrl": "https://airteldigital.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:40.760Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:12.298Z",
       "webDiscoveryFailed": false
     },
@@ -479,7 +479,7 @@
       "careersUrl": "https://akamai.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:43.124Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:13.971Z",
       "webDiscoveryFailed": false
     },
@@ -491,7 +491,7 @@
       "careersUrl": "https://akriviahcm.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.970Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:07.193Z",
       "webDiscoveryFailed": false
     },
@@ -503,7 +503,7 @@
       "careersUrl": "https://aksitservices.co.in/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:05.375Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:16.692Z",
       "webDiscoveryFailed": false
     },
@@ -515,7 +515,7 @@
       "careersUrl": "https://www.alfaindia.com/career/",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.357Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:50.139Z",
       "webDiscoveryFailed": false
     },
@@ -527,7 +527,7 @@
       "careersUrl": "https://www.algoworks.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:08.974Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:29.897Z",
       "webDiscoveryFailed": false
     },
@@ -570,7 +570,7 @@
       "careersUrl": "https://alpineindia.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.354Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:13.347Z",
       "webDiscoveryFailed": false
     },
@@ -582,7 +582,7 @@
       "careersUrl": "https://altigreen.darwinbox.in/ms/candidate/careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:21.188Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:11.687Z",
       "webDiscoveryFailed": false
     },
@@ -594,7 +594,7 @@
       "careersUrl": "https://www.capgemini.com/in-en/careers/career-paths/careers-at-capgemini-engineering/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.976Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:05.221Z",
       "webDiscoveryFailed": false
     },
@@ -624,7 +624,7 @@
       "careersUrl": "https://www.amagi.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:42.736Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:12.221Z",
       "webDiscoveryFailed": false
     },
@@ -635,7 +635,7 @@
       "source": "generic",
       "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-01T21:06:13.338Z",
       "webDiscoveryFailed": false
     },
@@ -647,7 +647,7 @@
       "careersUrl": "https://amazonfresh.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:08:08.321Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:14.381Z",
       "webDiscoveryFailed": false
     },
@@ -659,7 +659,7 @@
       "careersUrl": "https://www.amazon.jobs/en/search.json?base_query=sde&country=IND&result_limit=100&sort=recent",
       "discoveryAttemptedAt": "2026-06-21T22:08:24.610Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-01T21:06:18.979Z",
       "webDiscoveryFailed": true
     },
@@ -671,7 +671,7 @@
       "careersUrl": "https://amazonpay.in/career",
       "discoveryAttemptedAt": "2026-07-20T21:35:11.694Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:17.244Z",
       "webDiscoveryFailed": false
     },
@@ -693,7 +693,7 @@
       "careersUrl": "https://amd.com/en/corporate/careers.html",
       "discoveryAttemptedAt": "2026-06-21T22:06:41.084Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:12.418Z",
       "webDiscoveryFailed": false
     },
@@ -705,7 +705,7 @@
       "careersUrl": "https://www.americanexpress.com/en-us/careers/?inav=en_us_footer_About_Careers",
       "discoveryAttemptedAt": "2026-06-21T22:07:43.205Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:12.752Z",
       "webDiscoveryFailed": false
     },
@@ -747,7 +747,7 @@
       "careersUrl": "https://anandrathi.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:07.815Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:14.014Z",
       "webDiscoveryFailed": false
     },
@@ -787,7 +787,7 @@
       "careersUrl": "https://ansys.synopsys.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:06:50.397Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:14.978Z",
       "webDiscoveryFailed": false
     },
@@ -831,7 +831,7 @@
       "careersUrl": "https://appdynamics.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.385Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:16.082Z",
       "webDiscoveryFailed": false
     },
@@ -842,7 +842,7 @@
       "source": "generic",
       "careersUrl": "https://jobs.apple.com/en-in/search?search=software%20developer&location=india-INDC",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-13T11:58:22.459Z",
       "webDiscoveryFailed": false
     },
@@ -878,7 +878,7 @@
       "careersUrl": "https://www.arcesium.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.295Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-10-01T23:56:09.198Z",
       "webDiscoveryFailed": false
     },
@@ -900,7 +900,7 @@
       "careersUrl": "https://arihantcapital.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.005Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:25.742Z",
       "webDiscoveryFailed": false
     },
@@ -1062,7 +1062,7 @@
       "careersUrl": "https://atosindia.com/career",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.728Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:32.502Z",
       "webDiscoveryFailed": false
     },
@@ -1080,7 +1080,7 @@
       "careersUrl": "https://ausmallfinancebank.com/career",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.680Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:32.595Z",
       "webDiscoveryFailed": false
     },
@@ -1092,7 +1092,7 @@
       "careersUrl": "https://auberginesolutions.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.766Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:31.628Z",
       "webDiscoveryFailed": false
     },
@@ -1124,7 +1124,7 @@
       "careersUrl": "https://www.okta.com/company/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.284Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-01T21:06:12.476Z",
       "webDiscoveryFailed": false
     },
@@ -1166,7 +1166,7 @@
       "careersUrl": "https://automationanywhere.com/company/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.286Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:41.017Z",
       "webDiscoveryFailed": false
     },
@@ -1178,7 +1178,7 @@
       "careersUrl": "https://avaamo.com/career",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.283Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:41.213Z",
       "webDiscoveryFailed": false
     },
@@ -1200,7 +1200,7 @@
       "careersUrl": "https://avalara.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.336Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:41.503Z",
       "webDiscoveryFailed": false
     },
@@ -1212,7 +1212,7 @@
       "careersUrl": "https://avaya.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.337Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:41.595Z",
       "webDiscoveryFailed": false
     },
@@ -1234,7 +1234,7 @@
       "careersUrl": "https://www.avnet.com/americas/about-avnet/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.873Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:43.695Z",
       "webDiscoveryFailed": false
     },
@@ -1246,7 +1246,7 @@
       "careersUrl": "https://axisbank.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.338Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:48.301Z",
       "webDiscoveryFailed": false
     },
@@ -1274,7 +1274,7 @@
       "careersUrl": "https://bacindia.in/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.348Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:48.487Z",
       "webDiscoveryFailed": false
     },
@@ -1286,7 +1286,7 @@
       "careersUrl": "https://bahwancybertek.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.353Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:49.732Z",
       "webDiscoveryFailed": false
     },
@@ -1298,7 +1298,7 @@
       "careersUrl": "https://bankofindia.bank.in/career/recruitment-notice",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.875Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:05.222Z",
       "webDiscoveryFailed": false
     },
@@ -1310,7 +1310,7 @@
       "careersUrl": "https://www.bain.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.909Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:30.278Z",
       "webDiscoveryFailed": false
     },
@@ -1322,7 +1322,7 @@
       "careersUrl": "http://webtracker.bajajallianz.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.433Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:29.822Z",
       "webDiscoveryFailed": false
     },
@@ -1334,7 +1334,7 @@
       "careersUrl": "https://bajajauto.com/career",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.431Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:50.274Z",
       "webDiscoveryFailed": false
     },
@@ -1414,7 +1414,7 @@
       "careersUrl": "https://bandhanbank.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:13.828Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:47.703Z",
       "webDiscoveryFailed": false
     },
@@ -1434,7 +1434,7 @@
       "careersUrl": "https://www.continuumgbl.com/careers/",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.530Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:50.235Z",
       "webDiscoveryFailed": false
     },
@@ -1456,7 +1456,7 @@
       "careersUrl": "https://bankofbaroda.com/career",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.583Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:57.301Z",
       "webDiscoveryFailed": false
     },
@@ -1478,7 +1478,7 @@
       "careersUrl": "https://bankbazaar.com/careers.html",
       "discoveryAttemptedAt": "2026-07-20T21:35:12.326Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:49.998Z",
       "webDiscoveryFailed": false
     },
@@ -1490,7 +1490,7 @@
       "careersUrl": "https://barc.com/jobs",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.630Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:57.293Z",
       "webDiscoveryFailed": false
     },
@@ -1502,7 +1502,7 @@
       "careersUrl": "https://barclays.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:09.706Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:31:51.994Z",
       "webDiscoveryFailed": false
     },
@@ -1616,7 +1616,7 @@
       "careersUrl": "https://bharatagri.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:26.968Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:32:06.294Z",
       "webDiscoveryFailed": false
     },
@@ -1628,7 +1628,7 @@
       "careersUrl": "https://bharatpe.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:08:26.973Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T05:32:06.301Z",
       "webDiscoveryFailed": false
     },
@@ -1830,7 +1830,7 @@
       "careersUrl": "https://www.bloomberg.com/company/careers/global-roles/working-at-bloomberg-in-mumbai-pune/",
       "discoveryAttemptedAt": "2026-09-15T11:51:01.118Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:50.012Z",
       "webDiscoveryFailed": false
     },
@@ -1890,7 +1890,7 @@
       "careersUrl": "https://www.bmw.in/en/topics/Fascination-BMW/careers.html",
       "discoveryAttemptedAt": "2026-07-20T21:35:13.036Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:05.447Z",
       "webDiscoveryFailed": false
     },
@@ -1938,7 +1938,7 @@
       "careersUrl": "https://boeing.com/company/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:17.934Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:06.045Z",
       "webDiscoveryFailed": false
     },
@@ -2136,7 +2136,7 @@
       "careersUrl": "https://broadcom.com/jobs",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.213Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:23.223Z",
       "webDiscoveryFailed": false
     },
@@ -2222,7 +2222,7 @@
       "careersUrl": "https://www.cadence.com/en_US/home/company/life-at-cadence/careers.html",
       "discoveryAttemptedAt": "2026-07-20T21:35:13.023Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:24.347Z",
       "webDiscoveryFailed": false
     },
@@ -2244,7 +2244,7 @@
       "careersUrl": "https://calsoft.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.257Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:27.290Z",
       "webDiscoveryFailed": false
     },
@@ -2256,7 +2256,7 @@
       "careersUrl": "https://canfinhomes.com/career",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.299Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:28.135Z",
       "webDiscoveryFailed": false
     },
@@ -2268,7 +2268,7 @@
       "careersUrl": "https://canarabank.com/career",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.316Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:29.510Z",
       "webDiscoveryFailed": false
     },
@@ -2290,7 +2290,7 @@
       "careersUrl": "https://www.recruit.net/company-canoo-jobs",
       "discoveryAttemptedAt": "2026-07-20T21:35:12.366Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:29.973Z",
       "webDiscoveryFailed": false
     },
@@ -2422,7 +2422,7 @@
       "careersUrl": "http://demos.colourcraftstudio.co.in/cashe/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.353Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:29.410Z",
       "webDiscoveryFailed": false
     },
@@ -2434,7 +2434,7 @@
       "careersUrl": "https://www.cashfree.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.389Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:30.745Z",
       "webDiscoveryFailed": false
     },
@@ -2516,7 +2516,7 @@
       "careersUrl": "https://centralbankofindia.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.257Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:34.605Z",
       "webDiscoveryFailed": false
     },
@@ -2562,7 +2562,7 @@
       "careersUrl": "https://www.chainalysis.com/careers/",
       "discoveryAttemptedAt": "2026-09-15T11:51:01.620Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:34.507Z",
       "webDiscoveryFailed": false
     },
@@ -2584,7 +2584,7 @@
       "careersUrl": "https://chalo.com/jobs",
       "discoveryAttemptedAt": "2026-07-20T21:35:12.331Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:37.289Z",
       "webDiscoveryFailed": false
     },
@@ -2596,7 +2596,7 @@
       "careersUrl": "https://changanhyderabad.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:11.278Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:43.646Z",
       "webDiscoveryFailed": false
     },
@@ -2608,7 +2608,7 @@
       "careersUrl": "https://chargebee.com/careers/",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.585Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:46.272Z",
       "webDiscoveryFailed": false
     },
@@ -2626,7 +2626,7 @@
       "careersUrl": "https://jobs.spectrum.com/search-jobs",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.601Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:46.290Z",
       "webDiscoveryFailed": false
     },
@@ -2638,7 +2638,7 @@
       "careersUrl": "https://checkpoint.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:13.077Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:47.059Z",
       "webDiscoveryFailed": false
     },
@@ -2676,7 +2676,7 @@
       "careersUrl": "https://www.choiceinternational.in/study-abroad-services/free-career-counseling/",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.619Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:50.451Z",
       "webDiscoveryFailed": false
     },
@@ -2778,7 +2778,7 @@
       "careersUrl": "https://jobs.citi.com/location/india-jobs/287/1269750/2",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.477Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:52.890Z",
       "webDiscoveryFailed": false
     },
@@ -2790,7 +2790,7 @@
       "careersUrl": "https://www.citiustech.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.738Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:48.520Z",
       "webDiscoveryFailed": false
     },
@@ -2802,7 +2802,7 @@
       "careersUrl": "https://citrix.com/careers",
       "discoveryAttemptedAt": "2026-07-20T21:35:10.783Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:49.661Z",
       "webDiscoveryFailed": false
     },
@@ -2824,7 +2824,7 @@
       "careersUrl": "https://cityunionbank.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:11:00.197Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:51.571Z",
       "webDiscoveryFailed": false
     },
@@ -2856,7 +2856,7 @@
       "careersUrl": "https://www.claas.com/en-in/about-claas/career-light",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.474Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:58.660Z",
       "webDiscoveryFailed": false
     },
@@ -2884,7 +2884,7 @@
       "careersUrl": "https://www.cleartrip.ae/careers",
       "discoveryAttemptedAt": "2026-06-21T22:10:11.394Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:30.078Z",
       "webDiscoveryFailed": false
     },
@@ -2896,7 +2896,7 @@
       "careersUrl": "https://www.cleartrip.ae/careers",
       "discoveryAttemptedAt": "2026-06-21T22:10:38.729Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:30.203Z",
       "webDiscoveryFailed": false
     },
@@ -2908,7 +2908,7 @@
       "careersUrl": "https://clevertap.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:10:11.706Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:50.919Z",
       "webDiscoveryFailed": false
     },
@@ -2938,7 +2938,7 @@
       "careersUrl": "https://cloudera.com/careers.html",
       "discoveryAttemptedAt": "2026-06-21T22:10:10.901Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:51.523Z",
       "webDiscoveryFailed": false
     },
@@ -2956,7 +2956,7 @@
       "careersUrl": "https://www.cmsitservices.com/work-with-us/",
       "discoveryAttemptedAt": "2026-06-21T22:11:09.630Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:59.919Z",
       "webDiscoveryFailed": false
     },
@@ -3004,7 +3004,7 @@
       "careersUrl": "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&utm_medium=internal&utm_campaign=homepage_new_courses&angular_version=18",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.637Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:53.217Z",
       "webDiscoveryFailed": false
     },
@@ -3016,7 +3016,7 @@
       "careersUrl": "https://coforge.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.639Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:54.648Z",
       "webDiscoveryFailed": false
     },
@@ -3044,7 +3044,7 @@
       "careersUrl": "https://www.cohesity.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.640Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:05:53.637Z",
       "webDiscoveryFailed": false
     },
@@ -3204,7 +3204,7 @@
       "careersUrl": "https://corover.ai/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.668Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:06:11.010Z",
       "webDiscoveryFailed": false
     },
@@ -3258,7 +3258,7 @@
       "careersUrl": "https://coverfox.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.672Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T14:06:16.020Z",
       "webDiscoveryFailed": false
     },
@@ -3304,7 +3304,7 @@
       "careersUrl": "https://www.infinitiretail.com/careers",
       "discoveryAttemptedAt": "2026-09-15T11:51:03.247Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:35.291Z",
       "webDiscoveryFailed": false
     },
@@ -3316,7 +3316,7 @@
       "careersUrl": "https://cropin.com/career",
       "discoveryAttemptedAt": "2026-09-15T11:51:02.312Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:50.621Z",
       "webDiscoveryFailed": false
     },
@@ -3328,7 +3328,7 @@
       "careersUrl": "https://www.crowdstrike.com/en-us/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.684Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:43.608Z",
       "webDiscoveryFailed": false
     },
@@ -3340,7 +3340,7 @@
       "careersUrl": "https://www.crowe.com/careers",
       "discoveryAttemptedAt": "2026-09-15T11:51:04.110Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T02:02:34.476Z",
       "webDiscoveryFailed": false
     },
@@ -3409,7 +3409,7 @@
       "careersUrl": "https://cure.fit/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.768Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:52.824Z",
       "webDiscoveryFailed": false
     },
@@ -3421,7 +3421,7 @@
       "careersUrl": "https://cure.fit/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.795Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:52.495Z",
       "webDiscoveryFailed": false
     },
@@ -3443,7 +3443,7 @@
       "careersUrl": "https://curefoods.in/pages/careers",
       "discoveryAttemptedAt": "2026-09-15T11:51:02.280Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:57.467Z",
       "webDiscoveryFailed": false
     },
@@ -3455,7 +3455,7 @@
       "careersUrl": "https://cyfuture.com/careers.html",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.916Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:59.164Z",
       "webDiscoveryFailed": false
     },
@@ -3475,7 +3475,7 @@
       "careersUrl": "https://cyientdlm.com/career",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.031Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:57.740Z",
       "webDiscoveryFailed": false
     },
@@ -3497,7 +3497,7 @@
       "careersUrl": "https://deshaw.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.829Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:35:57.599Z",
       "webDiscoveryFailed": false
     },
@@ -3509,7 +3509,7 @@
       "careersUrl": "https://www.renaultgroup.com/en/careers/",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.916Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T22:20:42.845Z",
       "webDiscoveryFailed": false
     },
@@ -3521,7 +3521,7 @@
       "careersUrl": "https://www.daf.com/en/working-at-daf/vacancies",
       "discoveryAttemptedAt": "2026-09-29T16:33:25.024Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T23:55:19.818Z",
       "webDiscoveryFailed": false
     },
@@ -3533,7 +3533,7 @@
       "careersUrl": "https://www.daffodilsw.com/career/",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.868Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T05:39:13.047Z",
       "webDiscoveryFailed": false
     },
@@ -3575,7 +3575,7 @@
       "careersUrl": "https://www.damcogroup.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.932Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T12:42:40.090Z",
       "webDiscoveryFailed": false
     },
@@ -3587,7 +3587,7 @@
       "careersUrl": "https://darwinbox.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.732Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:07.241Z",
       "webDiscoveryFailed": false
     },
@@ -3599,7 +3599,7 @@
       "careersUrl": "https://darwinbox.com/careers",
       "discoveryAttemptedAt": "2026-09-29T16:33:25.039Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T22:20:42.514Z",
       "webDiscoveryFailed": false
     },
@@ -3633,7 +3633,7 @@
       "careersUrl": "https://www.datarobot.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.590Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-06-29T19:29:29.213Z",
       "webDiscoveryFailed": false
     },
@@ -3666,7 +3666,7 @@
       "careersUrl": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.781Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:01.585Z",
       "webDiscoveryFailed": false
     },
@@ -3688,7 +3688,7 @@
       "careersUrl": "https://decentro.tech/careers",
       "discoveryAttemptedAt": "2026-09-29T16:33:25.269Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T19:26:16.896Z",
       "webDiscoveryFailed": false
     },
@@ -3700,7 +3700,7 @@
       "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:01.541Z",
       "webDiscoveryFailed": false
     },
@@ -3712,7 +3712,7 @@
       "careersUrl": "https://agrevolution.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:32.787Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:01.344Z",
       "webDiscoveryFailed": false
     },
@@ -3724,7 +3724,7 @@
       "careersUrl": "https://delhivery.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:33.993Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:00.816Z",
       "webDiscoveryFailed": false
     },
@@ -3736,7 +3736,7 @@
       "careersUrl": "https://www.delhivery.com/careers?trk=public_post_reshare-text",
       "discoveryAttemptedAt": "2026-08-18T01:53:18.982Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T05:39:13.188Z",
       "webDiscoveryFailed": false
     },
@@ -3770,7 +3770,7 @@
       "careersUrl": "https://www.desktopmetal.com/careers",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.008Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T19:26:16.124Z",
       "webDiscoveryFailed": false
     },
@@ -3806,7 +3806,7 @@
       "careersUrl": "https://www.dezerv.in/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.325Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T22:20:36.138Z",
       "webDiscoveryFailed": false
     },
@@ -3867,7 +3867,7 @@
       "careersUrl": "https://digitalocean.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.653Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:07.804Z",
       "webDiscoveryFailed": false
     },
@@ -3879,7 +3879,7 @@
       "careersUrl": "https://www.digital-control.com/indiajobsitestory1/",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.144Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-30T12:42:39.019Z",
       "webDiscoveryFailed": false
     },
@@ -3891,7 +3891,7 @@
       "careersUrl": "https://builtin.com/company/directi/jobs",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.117Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-29T22:20:42.495Z",
       "webDiscoveryFailed": true
     },
@@ -3909,7 +3909,7 @@
       "careersUrl": "https://jobs.discovery.com/careers-home/jobs",
       "discoveryAttemptedAt": "2026-08-18T01:53:19.129Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-08-30T14:53:33.350Z",
       "webDiscoveryFailed": false
     },
@@ -3972,7 +3972,7 @@
       "careersUrl": "https://dolby.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:34.021Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:09.233Z",
       "webDiscoveryFailed": false
     },
@@ -3984,7 +3984,7 @@
       "careersUrl": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
       "discoveryAttemptedAt": "2026-06-21T22:14:35.946Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:16.804Z",
       "webDiscoveryFailed": false
     },
@@ -4002,7 +4002,7 @@
       "careersUrl": "https://www.bobcat.com/na/en/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.882Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:16.819Z",
       "webDiscoveryFailed": false
     },
@@ -4054,7 +4054,7 @@
       "careersUrl": "https://kashiproperty.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.606Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:19.542Z",
       "webDiscoveryFailed": false
     },
@@ -4076,7 +4076,7 @@
       "careersUrl": "https://droom.in/career",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.968Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-28T20:36:19.827Z",
       "webDiscoveryFailed": false
     },
@@ -4163,7 +4163,7 @@
       "careersUrl": "https://dynatrace.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:36.988Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-04T20:48:57.554Z",
       "webDiscoveryFailed": false
     },
@@ -4175,7 +4175,7 @@
       "careersUrl": "https://earlysalary.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.695Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-04T20:48:57.465Z",
       "webDiscoveryFailed": false
     },
@@ -4187,7 +4187,7 @@
       "careersUrl": "https://www.easemytrip.com/career.html",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.711Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-04T20:49:05.546Z",
       "webDiscoveryFailed": false
     },
@@ -4199,7 +4199,7 @@
       "careersUrl": "https://www.easemytrip.com/career.html",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.713Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-04T20:49:05.546Z",
       "webDiscoveryFailed": false
     },
@@ -4581,7 +4581,7 @@
       "careersUrl": "https://exotel.com/about-us/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.287Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:23.230Z",
       "webDiscoveryFailed": false
     },
@@ -4617,7 +4617,7 @@
       "careersUrl": "https://www.f5.com/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.401Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:24.355Z",
       "webDiscoveryFailed": false
     },
@@ -4639,7 +4639,7 @@
       "careersUrl": "https://fabhotels.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.551Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:26.689Z",
       "webDiscoveryFailed": false
     },
@@ -4651,7 +4651,7 @@
       "careersUrl": "https://fabhotels.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.117Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:26.638Z",
       "webDiscoveryFailed": false
     },
@@ -4663,7 +4663,7 @@
       "careersUrl": "https://factohr.com/career/",
       "discoveryAttemptedAt": "2026-06-21T22:14:37.630Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-08-24T15:03:13.437Z",
       "webDiscoveryFailed": false
     },
@@ -4693,7 +4693,7 @@
       "careersUrl": "https://fareye.com/about/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.345Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:23.370Z",
       "webDiscoveryFailed": false
     },
@@ -4743,7 +4743,7 @@
       "careersUrl": "https://federalbank.co.in/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.387Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:26.526Z",
       "webDiscoveryFailed": false
     },
@@ -4755,7 +4755,7 @@
       "careersUrl": "https://www.federalreserve.gov/careers-it.htm",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.354Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:30.330Z",
       "webDiscoveryFailed": false
     },
@@ -4779,7 +4779,7 @@
       "careersUrl": "https://fi.money/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.353Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:30.320Z",
       "webDiscoveryFailed": false
     },
@@ -4819,7 +4819,7 @@
       "careersUrl": "https://www.fisglobal.com/careers",
       "discoveryAttemptedAt": "2026-07-06T21:51:36.985Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:15.919Z",
       "webDiscoveryFailed": false
     },
@@ -4849,7 +4849,7 @@
       "careersUrl": "https://www.simplyhired.co.in/browse-jobs/companies/Fincare%20Small%20Finance%20Bank",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.396Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.542Z",
       "webDiscoveryFailed": false
     },
@@ -4861,7 +4861,7 @@
       "careersUrl": "https://www.fino.bank.in/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.353Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.924Z",
       "webDiscoveryFailed": false
     },
@@ -4893,7 +4893,7 @@
       "careersUrl": "https://www.firstcry.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:38.395Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:28.040Z",
       "webDiscoveryFailed": false
     },
@@ -4905,7 +4905,7 @@
       "careersUrl": "https://firstsource.com/careers/our-values",
       "discoveryAttemptedAt": "2026-08-04T03:41:57.126Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:27.143Z",
       "webDiscoveryFailed": false
     },
@@ -4947,7 +4947,7 @@
       "careersUrl": "https://flexiloans.com/loan/careers",
       "discoveryAttemptedAt": "2026-09-01T05:16:30.826Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:28.175Z",
       "webDiscoveryFailed": false
     },
@@ -4964,7 +4964,7 @@
       "source": "generic",
       "careersUrl": "https://www.flipkartcareers.com/jobslist",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-10-01T23:56:13.885Z"
     },
     {
@@ -4991,7 +4991,7 @@
       "careersUrl": "https://myinternships.in/jobs-at/force-motors",
       "discoveryAttemptedAt": "2026-07-06T21:51:37.879Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:15.946Z",
       "webDiscoveryFailed": false
     },
@@ -5335,7 +5335,7 @@
       "careersUrl": "https://github.com/career",
       "discoveryAttemptedAt": "2026-06-21T22:14:41.065Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:55.041Z",
       "webDiscoveryFailed": false
     },
@@ -5389,7 +5389,7 @@
       "careersUrl": "https://gf.com/careers/",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.716Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.546Z",
       "webDiscoveryFailed": false
     },
@@ -5421,7 +5421,7 @@
       "careersUrl": "https://www.globant.com/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.647Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:15.879Z",
       "webDiscoveryFailed": false
     },
@@ -5433,7 +5433,7 @@
       "careersUrl": "https://gnani.ai/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.862Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:59.050Z",
       "webDiscoveryFailed": false
     },
@@ -5445,7 +5445,7 @@
       "careersUrl": "https://www.godigit.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:59.935Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.156Z",
       "webDiscoveryFailed": false
     },
@@ -5483,7 +5483,7 @@
       "careersUrl": "https://www.gojek.io/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.874Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:09:59.062Z",
       "webDiscoveryFailed": false
     },
@@ -5495,7 +5495,7 @@
       "careersUrl": "https://www.ncs.gov.in/pages/govt-job-vacancies.aspx",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.171Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:30.833Z",
       "webDiscoveryFailed": false
     },
@@ -5507,7 +5507,7 @@
       "careersUrl": "https://goldmansachs.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:41.962Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:00.357Z",
       "webDiscoveryFailed": false
     },
@@ -5519,7 +5519,7 @@
       "careersUrl": "https://www.goldmansachs.com/worldwide/india/careers/",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.151Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.147Z",
       "webDiscoveryFailed": false
     },
@@ -5548,7 +5548,7 @@
       "source": "generic",
       "careersUrl": "https://www.google.com/about/careers/applications/jobs/results/",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-08-24T09:07:11.103Z",
       "webDiscoveryFailed": false
     },
@@ -5559,8 +5559,8 @@
       "source": "generic",
       "careersUrl": "https://google.com/careers",
       "discoveryAttemptedAt": "2026-09-29T22:20:45.683Z",
-      "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "discoveryFailed": true,
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:04.129Z"
     },
     {
@@ -5571,7 +5571,7 @@
       "careersUrl": "https://google.com/careers",
       "discoveryAttemptedAt": "2026-09-29T22:20:47.060Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:04.194Z"
     },
     {
@@ -5588,7 +5588,7 @@
       "careersUrl": "https://grafana.com/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:39.957Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:05.940Z",
       "webDiscoveryFailed": false
     },
@@ -5610,7 +5610,7 @@
       "careersUrl": "https://grammarly.com/jobs",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.423Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:05.040Z",
       "webDiscoveryFailed": false
     },
@@ -5650,7 +5650,7 @@
       "careersUrl": "https://www.mygreatlearning.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.037Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:05.413Z",
       "webDiscoveryFailed": false
     },
@@ -5672,7 +5672,7 @@
       "careersUrl": "https://www.greyorange.com/company/careers/",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.882Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:08.062Z",
       "webDiscoveryFailed": false
     },
@@ -5684,7 +5684,7 @@
       "careersUrl": "https://greytip.greythr.com/hire/jobs/",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.264Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:09.358Z",
       "webDiscoveryFailed": false
     },
@@ -5750,7 +5750,7 @@
       "careersUrl": "https://www.guidewire.com/about/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.908Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:05.765Z",
       "webDiscoveryFailed": false
     },
@@ -5818,7 +5818,7 @@
       "careersUrl": "https://www.haptik.ai/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.755Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:15.132Z",
       "webDiscoveryFailed": false
     },
@@ -5840,7 +5840,7 @@
       "careersUrl": "https://www.hashicorp.com/en/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.752Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:30.531Z",
       "webDiscoveryFailed": false
     },
@@ -5852,7 +5852,7 @@
       "careersUrl": "https://hasura.io/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.660Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:10.000Z",
       "webDiscoveryFailed": false
     },
@@ -5882,7 +5882,7 @@
       "careersUrl": "https://www.hcltech.com/careers/explore-hcl-america",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.795Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:15.941Z",
       "webDiscoveryFailed": false
     },
@@ -5894,7 +5894,7 @@
       "careersUrl": "https://hcltech.com/career-shaper",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.658Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:14.249Z",
       "webDiscoveryFailed": false
     },
@@ -5906,7 +5906,7 @@
       "careersUrl": "https://hdfc.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.874Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:15.747Z",
       "webDiscoveryFailed": false
     },
@@ -5936,7 +5936,7 @@
       "careersUrl": "https://www.hdfclife.com/hdfc-careers/",
       "discoveryAttemptedAt": "2026-09-01T11:44:15.796Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:15.917Z",
       "webDiscoveryFailed": false
     },
@@ -5974,7 +5974,7 @@
       "careersUrl": "https://healthifyme.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.669Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:19.141Z",
       "webDiscoveryFailed": false
     },
@@ -5986,7 +5986,7 @@
       "careersUrl": "https://healthkart.com/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.662Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:24.593Z",
       "webDiscoveryFailed": false
     },
@@ -6028,7 +6028,7 @@
       "careersUrl": "https://jobs.heromotocorp.com/viewalljobs",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.868Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:18.419Z",
       "webDiscoveryFailed": false
     },
@@ -6064,7 +6064,7 @@
       "careersUrl": "https://hfcl.com/company/careers",
       "discoveryAttemptedAt": "2026-06-21T22:14:40.750Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:19.656Z",
       "webDiscoveryFailed": false
     },
@@ -6206,7 +6206,7 @@
       "careersUrl": "https://hondaindia.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.446Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:29.947Z",
       "webDiscoveryFailed": false
     },
@@ -6218,7 +6218,7 @@
       "careersUrl": "https://honeywell.com/us/en/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.449Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:30.911Z",
       "webDiscoveryFailed": false
     },
@@ -6298,7 +6298,7 @@
       "careersUrl": "https://joy.hrone.cloud/career-portal?appId=U7bjIdFSmZoubZM5AUQ2BhG1jyjDBzePTV0JUmlbP614gGhYt9hZ2xfAfhkraI2X4YKwFpunOL0a_tH02ZVxeZ5gQBs_Q80MzHE5GGAW3Q2m1CGdLUbvtjZDDP6Bg1_C&dc=joy&rqt=UVozgs-AUV1ILPLBxDlf7A&cc=K8fAAC6n2xQvjcQO9J0lRw",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.464Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:41.008Z",
       "webDiscoveryFailed": false
     },
@@ -6320,7 +6320,7 @@
       "careersUrl": "https://www.hsbc.com/careers/where-we-hire/india/technology",
       "discoveryAttemptedAt": "2026-07-26T23:15:13.275Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:18:46.229Z",
       "webDiscoveryFailed": false
     },
@@ -6359,7 +6359,7 @@
       "careersUrl": "https://huggingface.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.488Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:35.348Z",
       "webDiscoveryFailed": false
     },
@@ -6417,7 +6417,7 @@
       "careersUrl": "https://hyundaiindia.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:14.682Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:31.355Z",
       "webDiscoveryFailed": false
     },
@@ -6429,7 +6429,7 @@
       "careersUrl": "https://www.ibm.com/in-en/careers/search",
       "discoveryAttemptedAt": "2026-07-26T23:15:14.448Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:18:46.011Z",
       "webDiscoveryFailed": false
     },
@@ -6459,7 +6459,7 @@
       "careersUrl": "https://icertis.com/company/careers/",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.534Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T00:10:35.708Z",
       "webDiscoveryFailed": false
     },
@@ -6471,7 +6471,7 @@
       "careersUrl": "https://www.icicicareers.com/CareerApplicant/Career/Home",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.539Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:17.140Z",
       "webDiscoveryFailed": false
     },
@@ -6517,7 +6517,7 @@
       "careersUrl": "https://icicisecurities.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.549Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:16.858Z",
       "webDiscoveryFailed": false
     },
@@ -6529,7 +6529,7 @@
       "careersUrl": "https://idbibank.com/idbi-bank-careers.aspx",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.570Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:18.701Z",
       "webDiscoveryFailed": false
     },
@@ -6571,7 +6571,7 @@
       "careersUrl": "https://idfy.com/careers/",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.585Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:16.820Z",
       "webDiscoveryFailed": false
     },
@@ -6619,7 +6619,7 @@
       "careersUrl": "https://iiflsecurities.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.601Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:20.750Z",
       "webDiscoveryFailed": false
     },
@@ -6729,7 +6729,7 @@
       "careersUrl": "https://indianoverseasbank.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:36.653Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:34.393Z",
       "webDiscoveryFailed": false
     },
@@ -6787,7 +6787,7 @@
       "careersUrl": "https://indusvalleypartners.com/career",
       "discoveryAttemptedAt": "2026-07-26T23:15:14.879Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:33.031Z",
       "webDiscoveryFailed": false
     },
@@ -6891,7 +6891,7 @@
       "careersUrl": "https://innovaccer.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:14.854Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:34.140Z",
       "webDiscoveryFailed": false
     },
@@ -6903,7 +6903,7 @@
       "careersUrl": "https://innovacceranalytics.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:14.889Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:43.214Z",
       "webDiscoveryFailed": false
     },
@@ -6947,7 +6947,7 @@
       "careersUrl": "https://pos.insurancedekho.com/insurance/insurance-as-a-career-option-for-housewives",
       "discoveryAttemptedAt": "2026-08-24T03:18:40.997Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:36.886Z",
       "webDiscoveryFailed": false
     },
@@ -7029,7 +7029,7 @@
       "careersUrl": "https://intuit.com/jobs",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.455Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:48.138Z",
       "webDiscoveryFailed": false
     },
@@ -7041,7 +7041,7 @@
       "careersUrl": "https://inventuregrowth.com/career",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.458Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:41.034Z",
       "webDiscoveryFailed": false
     },
@@ -7099,7 +7099,7 @@
       "careersUrl": "https://isro.in/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.477Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:52.293Z",
       "webDiscoveryFailed": false
     },
@@ -7111,7 +7111,7 @@
       "careersUrl": "https://isro.in/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.482Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:36:52.415Z",
       "webDiscoveryFailed": false
     },
@@ -7365,7 +7365,7 @@
       "careersUrl": "https://josh.ai/jobs/",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.597Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:08.081Z",
       "webDiscoveryFailed": false
     },
@@ -7395,7 +7395,7 @@
       "careersUrl": "https://jupiter.com/jobs",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.606Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:08.350Z",
       "webDiscoveryFailed": false
     },
@@ -7417,7 +7417,7 @@
       "careersUrl": "https://juspay.in/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.616Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:07.089Z",
       "webDiscoveryFailed": false
     },
@@ -7439,7 +7439,7 @@
       "careersUrl": "https://kaleyra.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.633Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:06.383Z",
       "webDiscoveryFailed": false
     },
@@ -7491,7 +7491,7 @@
       "careersUrl": "https://karnatakabank.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.662Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:07.885Z",
       "webDiscoveryFailed": false
     },
@@ -7593,7 +7593,7 @@
       "careersUrl": "https://khetigaadi.com/career/en",
       "discoveryAttemptedAt": "2026-06-28T21:09:41.702Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:12.353Z",
       "webDiscoveryFailed": false
     },
@@ -7635,7 +7635,7 @@
       "careersUrl": "https://kissflow.com/careers",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.303Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:14.340Z",
       "webDiscoveryFailed": false
     },
@@ -7647,7 +7647,7 @@
       "careersUrl": "https://kla.com/careers/events",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.443Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:13.822Z",
       "webDiscoveryFailed": false
     },
@@ -7695,7 +7695,7 @@
       "careersUrl": "https://komatsuindia.in/company/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.328Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:23.495Z",
       "webDiscoveryFailed": false
     },
@@ -7735,7 +7735,7 @@
       "careersUrl": "https://www.kotakneo.com/about-us/careers/",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.359Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:19.363Z",
       "webDiscoveryFailed": false
     },
@@ -7785,7 +7785,7 @@
       "careersUrl": "https://kreditbee.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.245Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:22.507Z",
       "webDiscoveryFailed": false
     },
@@ -7817,7 +7817,7 @@
       "careersUrl": "https://ltfinance.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.360Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T04:37:23.441Z",
       "webDiscoveryFailed": false
     },
@@ -7835,7 +7835,7 @@
       "careersUrl": "https://www.larsentoubro.com/careers",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.395Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:18:51.136Z",
       "webDiscoveryFailed": false
     },
@@ -7847,7 +7847,7 @@
       "careersUrl": "https://www.larsentoubro.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.390Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:18:52.155Z",
       "webDiscoveryFailed": false
     },
@@ -7901,7 +7901,7 @@
       "careersUrl": "https://www.lamresearch.com/careers/careers-overview/",
       "discoveryAttemptedAt": "2026-06-28T21:09:46.521Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:32.195Z",
       "webDiscoveryFailed": false
     },
@@ -7913,7 +7913,7 @@
       "careersUrl": "https://www.lamborghini.com/en-en/company/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.397Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:18:56.450Z",
       "webDiscoveryFailed": false
     },
@@ -8013,7 +8013,7 @@
       "careersUrl": "https://www.leadsquared.com/careers/",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.444Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:41.196Z",
       "webDiscoveryFailed": false
     },
@@ -8071,7 +8071,7 @@
       "careersUrl": "https://lexusindia.in/careers.html",
       "discoveryAttemptedAt": "2026-06-28T21:09:46.601Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:41.245Z",
       "webDiscoveryFailed": false
     },
@@ -8125,7 +8125,7 @@
       "careersUrl": "https://licindia.in/Careers/",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.615Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:42.882Z",
       "webDiscoveryFailed": false
     },
@@ -8157,7 +8157,7 @@
       "careersUrl": "https://liebherrindia.com/en-in/careers/careers-4197868",
       "discoveryAttemptedAt": "2026-08-24T03:18:44.855Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:41.918Z",
       "webDiscoveryFailed": false
     },
@@ -8223,7 +8223,7 @@
       "careersUrl": "https://liugongindia.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:17.214Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:43.773Z",
       "webDiscoveryFailed": false
     },
@@ -8265,7 +8265,7 @@
       "careersUrl": "https://locus.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.616Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:43.902Z",
       "webDiscoveryFailed": false
     },
@@ -8283,7 +8283,7 @@
       "careersUrl": "https://locus.sh/careers/",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.670Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:41:42.844Z",
       "webDiscoveryFailed": false
     },
@@ -8573,7 +8573,7 @@
       "careersUrl": "https://www.majesco.com/careers/",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.504Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:08.215Z",
       "webDiscoveryFailed": false
     },
@@ -8641,7 +8641,7 @@
       "careersUrl": "https://marlabs.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.540Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:10.994Z",
       "webDiscoveryFailed": false
     },
@@ -8659,7 +8659,7 @@
       "careersUrl": "https://marriott.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.550Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:11.088Z",
       "webDiscoveryFailed": false
     },
@@ -8671,7 +8671,7 @@
       "careersUrl": "https://careers.marriott.com/jobs",
       "discoveryAttemptedAt": "2026-08-24T03:18:41.990Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:42.904Z",
       "webDiscoveryFailed": false
     },
@@ -8683,7 +8683,7 @@
       "careersUrl": "https://marutisuzuki.com/corporate/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.565Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:07.160Z",
       "webDiscoveryFailed": false
     },
@@ -8695,7 +8695,7 @@
       "careersUrl": "https://marutitechlabs.com/careers/",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.570Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:07.494Z",
       "webDiscoveryFailed": false
     },
@@ -8717,7 +8717,7 @@
       "careersUrl": "https://marwadionline.com/career",
       "discoveryAttemptedAt": "2026-08-24T03:18:42.008Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:42.789Z",
       "webDiscoveryFailed": false
     },
@@ -8769,7 +8769,7 @@
       "careersUrl": "https://mastercard.com/careers",
       "discoveryAttemptedAt": "2026-07-26T23:15:15.986Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:10.299Z",
       "webDiscoveryFailed": false
     },
@@ -8801,7 +8801,7 @@
       "careersUrl": "https://mavericsystems.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.613Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:02.210Z",
       "webDiscoveryFailed": false
     },
@@ -8813,7 +8813,7 @@
       "careersUrl": "https://www.maxclothing.com/pages/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.621Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:11.210Z",
       "webDiscoveryFailed": false
     },
@@ -8825,7 +8825,7 @@
       "careersUrl": "https://www.axismaxlife.com/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.625Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T22:04:53.246Z",
       "webDiscoveryFailed": false
     },
@@ -8837,7 +8837,7 @@
       "careersUrl": "https://www.miebach.com/in/en/careers/opportunities",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.636Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:14.405Z",
       "webDiscoveryFailed": false
     },
@@ -8871,7 +8871,7 @@
       "careersUrl": "https://mccormickindia.com/pages/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.650Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:07.913Z",
       "webDiscoveryFailed": false
     },
@@ -8936,7 +8936,7 @@
       "careersUrl": "https://mensabrands.com/join-us.html",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.675Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:08.728Z",
       "webDiscoveryFailed": false
     },
@@ -8968,7 +8968,7 @@
       "careersUrl": "https://www.mercedes-benz.co.in/passengercars/brand/career.html",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.689Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:05.314Z",
       "webDiscoveryFailed": false
     },
@@ -8999,7 +8999,7 @@
       "source": "generic",
       "careersUrl": "https://www.metacareers.com/jobsearch/?q=software%20developer&location=India",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:14.659Z",
       "webDiscoveryFailed": false
     },
@@ -9051,7 +9051,7 @@
       "careersUrl": "https://www.micron.com/about/careers",
       "discoveryAttemptedAt": "2026-06-28T21:09:51.716Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:09.518Z",
       "webDiscoveryFailed": false
     },
@@ -9100,7 +9100,7 @@
       "careersUrl": "https://mindteck.com/career",
       "discoveryAttemptedAt": "2026-06-28T21:09:56.444Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:10.211Z",
       "webDiscoveryFailed": false
     },
@@ -9190,7 +9190,7 @@
       "careersUrl": "https://moengage.com/careers",
       "discoveryAttemptedAt": "2026-08-24T03:18:42.256Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:15.246Z",
       "webDiscoveryFailed": false
     },
@@ -9202,7 +9202,7 @@
       "careersUrl": "https://moj.com/job-openings/",
       "discoveryAttemptedAt": "2026-07-26T23:15:16.206Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:20.088Z",
       "webDiscoveryFailed": false
     },
@@ -9214,7 +9214,7 @@
       "careersUrl": "https://molbiodiagnostics.com/careers/",
       "discoveryAttemptedAt": "2026-07-27T23:29:23.689Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:18.476Z",
       "webDiscoveryFailed": false
     },
@@ -9246,7 +9246,7 @@
       "careersUrl": "https://moneytap.com/careers/",
       "discoveryAttemptedAt": "2026-08-25T03:14:28.115Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:18.314Z",
       "webDiscoveryFailed": false
     },
@@ -9283,7 +9283,7 @@
       "careersUrl": "https://moreretail.in/careers",
       "discoveryAttemptedAt": "2026-07-27T23:29:27.795Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:18.991Z",
       "webDiscoveryFailed": false
     },
@@ -9305,7 +9305,7 @@
       "careersUrl": "https://morganstanley.com/careers/career-opportunities-search?opportunity=sg",
       "discoveryAttemptedAt": "2026-07-27T23:29:24.601Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:19.026Z",
       "webDiscoveryFailed": false
     },
@@ -9327,7 +9327,7 @@
       "careersUrl": "https://motilaloswal.com/careers",
       "discoveryAttemptedAt": "2026-07-27T23:29:24.781Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:19.242Z",
       "webDiscoveryFailed": false
     },
@@ -9419,7 +9419,7 @@
       "careersUrl": "https://www.mu-sigma.com/career/",
       "discoveryAttemptedAt": "2026-07-27T23:29:25.168Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:23.392Z",
       "webDiscoveryFailed": false
     },
@@ -9481,7 +9481,7 @@
       "careersUrl": "https://myntra.in/career",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.298Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:34.865Z",
       "webDiscoveryFailed": false
     },
@@ -9503,7 +9503,7 @@
       "careersUrl": "https://myoperator.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.274Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:28.342Z",
       "webDiscoveryFailed": false
     },
@@ -9534,7 +9534,7 @@
       "careersUrl": "https://nagarro.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.388Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:31.432Z",
       "webDiscoveryFailed": false
     },
@@ -9546,7 +9546,7 @@
       "careersUrl": "https://www.nagarro.com/en/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.271Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:23.963Z",
       "webDiscoveryFailed": false
     },
@@ -9568,7 +9568,7 @@
       "careersUrl": "https://nasdaq.com/about/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.308Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:29.352Z",
       "webDiscoveryFailed": false
     },
@@ -9615,7 +9615,7 @@
       "careersUrl": "https://in.nec.com/en_IN/career/jobs-at-NEC.html",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.360Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:25.126Z",
       "webDiscoveryFailed": false
     },
@@ -9637,7 +9637,7 @@
       "careersUrl": "https://nestaway.com/careers",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.675Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:29.655Z",
       "webDiscoveryFailed": false
     },
@@ -9669,7 +9669,7 @@
       "careersUrl": "https://netsolutions.com/careers/",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.586Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T10:42:29.368Z",
       "webDiscoveryFailed": false
     },
@@ -9799,7 +9799,7 @@
       "careersUrl": "https://nike.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.539Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:21.380Z",
       "webDiscoveryFailed": false
     },
@@ -9831,7 +9831,7 @@
       "careersUrl": "https://ninjacart.com/careers",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.663Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:22.315Z",
       "webDiscoveryFailed": false
     },
@@ -9843,7 +9843,7 @@
       "careersUrl": "https://ninjacart.com/careers",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.670Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:22.853Z",
       "webDiscoveryFailed": false
     },
@@ -9865,7 +9865,7 @@
       "careersUrl": "https://niramai.com/careers",
       "discoveryAttemptedAt": "2026-07-06T21:51:38.711Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:30.580Z",
       "webDiscoveryFailed": false
     },
@@ -9956,7 +9956,7 @@
       "careersUrl": "https://nokia.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.628Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:24.900Z",
       "webDiscoveryFailed": false
     },
@@ -9998,7 +9998,7 @@
       "careersUrl": "https://noom.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.642Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:24.089Z",
       "webDiscoveryFailed": false
     },
@@ -10010,7 +10010,7 @@
       "careersUrl": "https://northeastsmallfinancebank.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.681Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:25.750Z",
       "webDiscoveryFailed": false
     },
@@ -10089,7 +10089,7 @@
       "careersUrl": "https://careers-ntpc.icims.com/jobs/intro?hashed=-435594588&mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.739Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-08-06T10:57:38.842Z",
       "webDiscoveryFailed": false
     },
@@ -10149,7 +10149,7 @@
       "careersUrl": "https://www.nutanix.com/company/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.739Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:24.830Z",
       "webDiscoveryFailed": false
     },
@@ -10161,7 +10161,7 @@
       "careersUrl": "https://nuvepro.com/jobs",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.738Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:33.478Z",
       "webDiscoveryFailed": false
     },
@@ -10173,7 +10173,7 @@
       "careersUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.745Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:25.521Z",
       "webDiscoveryFailed": false
     },
@@ -10316,7 +10316,7 @@
       "careersUrl": "https://olaelectric.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:42:03.341Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:41.716Z",
       "webDiscoveryFailed": false
     },
@@ -10328,7 +10328,7 @@
       "careersUrl": "https://olaelectric.com/careers",
       "discoveryAttemptedAt": "2026-08-04T03:41:58.920Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:41.963Z",
       "webDiscoveryFailed": false
     },
@@ -10485,7 +10485,7 @@
       "careersUrl": "https://outsystems.com/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:16.478Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:45.730Z",
       "webDiscoveryFailed": false
     },
@@ -10559,7 +10559,7 @@
       "careersUrl": "https://paloaltonetworks.com/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:16.564Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:19:46.525Z",
       "webDiscoveryFailed": false
     },
@@ -10719,7 +10719,7 @@
       "careersUrl": "https://pfizerindia.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:19.467Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:20:01.626Z",
       "webDiscoveryFailed": false
     },
@@ -10741,7 +10741,7 @@
       "careersUrl": "https://pharmeasy.in/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:19.528Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T15:20:03.995Z",
       "webDiscoveryFailed": false
     },
@@ -10875,7 +10875,7 @@
       "careersUrl": "https://www.pocketful.in/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:20.499Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:42.553Z",
       "webDiscoveryFailed": false
     },
@@ -10903,7 +10903,7 @@
       "careersUrl": "https://www.policybazaar.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:20.736Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:43.616Z",
       "webDiscoveryFailed": false
     },
@@ -10915,7 +10915,7 @@
       "careersUrl": "https://www.valnetinc.com/en/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:20.737Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:43.063Z",
       "webDiscoveryFailed": false
     },
@@ -11008,7 +11008,7 @@
       "careersUrl": "https://priceline.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.087Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:43.629Z",
       "webDiscoveryFailed": false
     },
@@ -11020,7 +11020,7 @@
       "careersUrl": "https://www.pristyncare.com/company/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.088Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:43.836Z",
       "webDiscoveryFailed": false
     },
@@ -11042,7 +11042,7 @@
       "careersUrl": "https://procore.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.089Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:43.816Z",
       "webDiscoveryFailed": false
     },
@@ -11080,7 +11080,7 @@
       "careersUrl": "https://proptiger.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.275Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:44.405Z",
       "webDiscoveryFailed": false
     },
@@ -11092,7 +11092,7 @@
       "careersUrl": "https://proptiger.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.377Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:44.918Z",
       "webDiscoveryFailed": false
     },
@@ -11114,7 +11114,7 @@
       "careersUrl": "https://publicissapient.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.482Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:45.089Z",
       "webDiscoveryFailed": false
     },
@@ -11210,7 +11210,7 @@
       "careersUrl": "https://quantiphi.com/careers/",
       "discoveryAttemptedAt": "2026-09-01T11:44:16.788Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:21:46.159Z",
       "webDiscoveryFailed": false
     },
@@ -11352,7 +11352,7 @@
       "careersUrl": "https://rakuten.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:54.563Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:02.994Z",
       "webDiscoveryFailed": false
     },
@@ -11404,7 +11404,7 @@
       "careersUrl": "https://razorpay.com/jobs",
       "discoveryAttemptedAt": "2026-09-01T11:44:16.875Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:09.264Z",
       "webDiscoveryFailed": false
     },
@@ -11485,7 +11485,7 @@
       "careersUrl": "https://redhat.com/jobs",
       "discoveryAttemptedAt": "2026-09-01T11:44:16.935Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:09.100Z",
       "webDiscoveryFailed": false
     },
@@ -11537,7 +11537,7 @@
       "careersUrl": "https://www.lseg.com/en/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.011Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:16.105Z",
       "webDiscoveryFailed": false
     },
@@ -11565,7 +11565,7 @@
       "careersUrl": "https://careers.ril.com/rilcareers/index.aspx",
       "discoveryAttemptedAt": "2026-09-01T11:44:18.161Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:17.028Z",
       "webDiscoveryFailed": false
     },
@@ -11666,7 +11666,7 @@
       "careersUrl": "https://retool.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:54.988Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:14.160Z",
       "webDiscoveryFailed": false
     },
@@ -11698,7 +11698,7 @@
       "careersUrl": "https://revv.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.379Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:17.455Z",
       "webDiscoveryFailed": false
     },
@@ -11720,7 +11720,7 @@
       "careersUrl": "https://ringcentral.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:54.987Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:18.599Z",
       "webDiscoveryFailed": false
     },
@@ -11732,7 +11732,7 @@
       "careersUrl": "https://rippling.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:54.965Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:18.645Z",
       "webDiscoveryFailed": false
     },
@@ -11754,7 +11754,7 @@
       "careersUrl": "https://careers.rivian.com/careers-home/jobs",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.169Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T22:04:57.138Z",
       "webDiscoveryFailed": false
     },
@@ -11882,7 +11882,7 @@
       "careersUrl": "https://rupeek.com/careers?city=undefined",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.222Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-05T18:22:25.541Z",
       "webDiscoveryFailed": false
     },
@@ -11894,7 +11894,7 @@
       "careersUrl": "https://www.spglobal.com/en/explore-s-p-global/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.684Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:25.633Z",
       "webDiscoveryFailed": false
     },
@@ -11922,7 +11922,7 @@
       "careersUrl": "https://www.sabre.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.652Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:17.409Z",
       "webDiscoveryFailed": false
     },
@@ -11944,7 +11944,7 @@
       "careersUrl": "https://sahaj.ai/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.655Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:24.819Z",
       "webDiscoveryFailed": false
     },
@@ -11978,7 +11978,7 @@
       "careersUrl": "https://www.saksoft.com/career/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.715Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:25.101Z",
       "webDiscoveryFailed": false
     },
@@ -11996,7 +11996,7 @@
       "careersUrl": "https://www.salesforce.com/company/careers/locations/india/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.772Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:37.956Z",
       "webDiscoveryFailed": false
     },
@@ -12018,7 +12018,7 @@
       "careersUrl": "https://www.deutz.com/en/company/career/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.766Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.781Z",
       "webDiscoveryFailed": false
     },
@@ -12036,7 +12036,7 @@
       "careersUrl": "https://samsung.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.752Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:26.677Z",
       "webDiscoveryFailed": false
     },
@@ -12181,7 +12181,7 @@
       "careersUrl": "https://searce.com/join-us",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.803Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:25.086Z",
       "webDiscoveryFailed": false
     },
@@ -12209,7 +12209,7 @@
       "careersUrl": "https://jobs.twilio.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.828Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:26.294Z",
       "webDiscoveryFailed": false
     },
@@ -12221,7 +12221,7 @@
       "careersUrl": "https://sendinblue.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.789Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:29.520Z",
       "webDiscoveryFailed": false
     },
@@ -12243,7 +12243,7 @@
       "careersUrl": "https://sentinelone.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.786Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:26.333Z",
       "webDiscoveryFailed": false
     },
@@ -12316,7 +12316,7 @@
       "careersUrl": "https://sharechat.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.837Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:27.306Z",
       "webDiscoveryFailed": false
     },
@@ -12344,7 +12344,7 @@
       "careersUrl": "https://shell.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.805Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:27.965Z",
       "webDiscoveryFailed": false
     },
@@ -12385,7 +12385,7 @@
       "careersUrl": "https://shivalik.darwinbox.in/ms/candidate/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.930Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:29.956Z",
       "webDiscoveryFailed": false
     },
@@ -12537,7 +12537,7 @@
       "careersUrl": "https://simplilearn.com/careers",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.840Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:39.459Z",
       "webDiscoveryFailed": false
     },
@@ -12549,7 +12549,7 @@
       "careersUrl": "https://sirionlabs.com/careers",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.423Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:40.183Z",
       "webDiscoveryFailed": false
     },
@@ -12586,7 +12586,7 @@
       "careersUrl": "https://skit.ai/careers/",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.499Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:39.881Z",
       "webDiscoveryFailed": false
     },
@@ -12703,7 +12703,7 @@
       "careersUrl": "https://snyk.com/jobs",
       "discoveryAttemptedAt": "2026-09-01T11:44:17.531Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:50.618Z",
       "webDiscoveryFailed": false
     },
@@ -12785,7 +12785,7 @@
       "careersUrl": "https://sourcegraph.com/jobs",
       "discoveryAttemptedAt": "2026-08-04T06:43:21.988Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:48.669Z",
       "webDiscoveryFailed": false
     },
@@ -12839,7 +12839,7 @@
       "careersUrl": "https://spendflo.zohorecruit.com/jobs/Job-openings",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.071Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:50.778Z",
       "webDiscoveryFailed": false
     },
@@ -12889,7 +12889,7 @@
       "careersUrl": "https://sprinklr.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.023Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:46:59.778Z",
       "webDiscoveryFailed": false
     },
@@ -12913,7 +12913,7 @@
       "careersUrl": "https://block.xyz/careers/jobs",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.040Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:00.176Z",
       "webDiscoveryFailed": false
     },
@@ -12925,7 +12925,7 @@
       "careersUrl": "https://www.squareyards.com/career",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.059Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:00.177Z",
       "webDiscoveryFailed": false
     },
@@ -12937,7 +12937,7 @@
       "careersUrl": "https://www.squareyards.com/career",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.542Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:01.185Z",
       "webDiscoveryFailed": false
     },
@@ -12965,7 +12965,7 @@
       "careersUrl": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.561Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:02.413Z",
       "webDiscoveryFailed": false
     },
@@ -12977,7 +12977,7 @@
       "careersUrl": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-india/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.575Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:02.706Z",
       "webDiscoveryFailed": false
     },
@@ -12995,7 +12995,7 @@
       "careersUrl": "https://stanzaliving.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.574Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:06.670Z",
       "webDiscoveryFailed": false
     },
@@ -13007,7 +13007,7 @@
       "careersUrl": "https://stanzaliving.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.574Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:06.703Z",
       "webDiscoveryFailed": false
     },
@@ -13083,7 +13083,7 @@
       "careersUrl": "https://www.amazon.jobs/content/en/locations/remote-jobs",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.739Z",
       "discoveryFailed": false,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:08.123Z",
       "webDiscoveryFailed": false
     },
@@ -13095,7 +13095,7 @@
       "careersUrl": "https://stellapps.com/career",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.709Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:07.172Z",
       "webDiscoveryFailed": false
     },
@@ -13135,7 +13135,7 @@
       "careersUrl": "https://stratbeans.com/job-career/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.603Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:10.186Z",
       "webDiscoveryFailed": false
     },
@@ -13153,7 +13153,7 @@
       "careersUrl": "https://subex.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.628Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:05.566Z",
       "webDiscoveryFailed": false
     },
@@ -13193,7 +13193,7 @@
       "careersUrl": "https://suryoday.bank.in/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.784Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:37.607Z",
       "webDiscoveryFailed": false
     },
@@ -13226,7 +13226,7 @@
       "careersUrl": "https://swiftsku.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.819Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:04.091Z",
       "webDiscoveryFailed": false
     },
@@ -13279,7 +13279,7 @@
       "careersUrl": "https://www.synchronycareers.com/location/india-jobs/49398/1269750/2/1",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.164Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.731Z",
       "webDiscoveryFailed": false
     },
@@ -13303,7 +13303,7 @@
       "careersUrl": "https://synoptek.com/about-us/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.739Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:09.685Z",
       "webDiscoveryFailed": false
     },
@@ -13315,7 +13315,7 @@
       "careersUrl": "https://systematixshares.com/career/",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.672Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:08.057Z",
       "webDiscoveryFailed": false
     },
@@ -13341,7 +13341,7 @@
       "careersUrl": "https://www.tafe.com/corporate/tafe-career",
       "discoveryAttemptedAt": "2026-08-04T06:43:26.813Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.732Z",
       "webDiscoveryFailed": false
     },
@@ -13363,7 +13363,7 @@
       "careersUrl": "https://talkdesk.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.777Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:07.841Z",
       "webDiscoveryFailed": false
     },
@@ -13375,7 +13375,7 @@
       "careersUrl": "https://tmb.bank.in/career",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.235Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.758Z",
       "webDiscoveryFailed": false
     },
@@ -13417,7 +13417,7 @@
       "careersUrl": "https://target.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.804Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:08.529Z",
       "webDiscoveryFailed": false
     },
@@ -13429,7 +13429,7 @@
       "careersUrl": "https://www.taskus.com/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.796Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:08.028Z",
       "webDiscoveryFailed": false
     },
@@ -13461,7 +13461,7 @@
       "careersUrl": "https://www.tatacapital.com/careers.html",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.828Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:09.681Z",
       "webDiscoveryFailed": false
     },
@@ -13473,7 +13473,7 @@
       "careersUrl": "https://www.tatacapital.com/careers.html",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.213Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:37.927Z",
       "webDiscoveryFailed": false
     },
@@ -13505,7 +13505,7 @@
       "careersUrl": "https://www.tataconsultingengineers.com/careers/",
       "discoveryAttemptedAt": "2026-08-04T06:43:22.208Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.734Z",
       "webDiscoveryFailed": false
     },
@@ -13527,7 +13527,7 @@
       "careersUrl": "https://tatadigital.in/work-with-us#opportunities",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.854Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:17.368Z",
       "webDiscoveryFailed": false
     },
@@ -13539,7 +13539,7 @@
       "careersUrl": "https://www.tataelectronics.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.857Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:11.703Z",
       "webDiscoveryFailed": false
     },
@@ -13551,7 +13551,7 @@
       "careersUrl": "https://www.tataelxsi.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.857Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:11.046Z",
       "webDiscoveryFailed": false
     },
@@ -13563,7 +13563,7 @@
       "careersUrl": "https://tatamotors.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.865Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T04:47:13.878Z",
       "webDiscoveryFailed": false
     },
@@ -13601,7 +13601,7 @@
       "careersUrl": "https://www.tata.com/careers/jobs/joblisting",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.874Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:38.043Z",
       "webDiscoveryFailed": false
     },
@@ -13613,7 +13613,7 @@
       "careersUrl": "https://tatateleservices.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.979Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:33.806Z",
       "webDiscoveryFailed": false
     },
@@ -13625,7 +13625,7 @@
       "careersUrl": "https://www.tatvasoft.com/career",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.890Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:31.564Z",
       "webDiscoveryFailed": false
     },
@@ -13637,7 +13637,7 @@
       "careersUrl": "https://tciexpress.in/career",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.879Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:33.338Z",
       "webDiscoveryFailed": false
     },
@@ -13665,7 +13665,7 @@
       "careersUrl": "https://teachmint.keka.com/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.871Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:40.465Z",
       "webDiscoveryFailed": false
     },
@@ -13705,7 +13705,7 @@
       "careersUrl": "https://tejasnetworks.com/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.941Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:34.090Z",
       "webDiscoveryFailed": false
     },
@@ -13733,7 +13733,7 @@
       "careersUrl": "https://www.temenos.com/about-us/careers/",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.954Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:38.182Z",
       "webDiscoveryFailed": false
     },
@@ -13745,7 +13745,7 @@
       "careersUrl": "https://tenable.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.947Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:32.458Z",
       "webDiscoveryFailed": false
     },
@@ -13817,7 +13817,7 @@
       "careersUrl": "https://testbook.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:56.099Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:34.209Z",
       "webDiscoveryFailed": false
     },
@@ -13855,7 +13855,7 @@
       "careersUrl": "https://thoughtspot.com/careers",
       "discoveryAttemptedAt": "2026-07-06T23:34:55.992Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:03:36.007Z",
       "webDiscoveryFailed": false
     },
@@ -14199,7 +14199,7 @@
       "source": "generic",
       "careersUrl": "https://www.uber.com/in/en/careers/list/?query=software%20developer&location=IND",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:07.763Z"
     },
     {
@@ -14303,7 +14303,7 @@
       "careersUrl": "https://www.ujjivansfb.bank.in/careers-home",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.391Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:37.642Z",
       "webDiscoveryFailed": false
     },
@@ -14359,7 +14359,7 @@
       "careersUrl": "https://uniphore.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.460Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:11.143Z",
       "webDiscoveryFailed": false
     },
@@ -14371,7 +14371,7 @@
       "careersUrl": "https://www.unisys.com/careers/",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.632Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:47.010Z",
       "webDiscoveryFailed": false
     },
@@ -14383,7 +14383,7 @@
       "careersUrl": "https://unity.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.497Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:12.010Z",
       "webDiscoveryFailed": false
     },
@@ -14415,7 +14415,7 @@
       "careersUrl": "https://www.upgrad.com/op-jindal-career-acceleration-program/",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.491Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:16.763Z",
       "webDiscoveryFailed": false
     },
@@ -14576,7 +14576,7 @@
       "careersUrl": "https://www.vedantu.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.706Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:13.661Z",
       "webDiscoveryFailed": false
     },
@@ -14600,7 +14600,7 @@
       "careersUrl": "https://veri5digital.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.613Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:13.977Z",
       "webDiscoveryFailed": false
     },
@@ -14622,7 +14622,7 @@
       "careersUrl": "https://www.cohesity.com/careers/",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.616Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:17.292Z",
       "webDiscoveryFailed": false
     },
@@ -14663,7 +14663,7 @@
       "careersUrl": "https://vetic.in/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.646Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:20.883Z",
       "webDiscoveryFailed": false
     },
@@ -14695,7 +14695,7 @@
       "careersUrl": "https://vimeo.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:42.644Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:17.905Z",
       "webDiscoveryFailed": false
     },
@@ -14775,7 +14775,7 @@
       "careersUrl": "https://www.vodafoneidea.com/careers",
       "discoveryAttemptedAt": "2026-08-04T10:58:50.118Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:28.947Z",
       "webDiscoveryFailed": false
     },
@@ -15011,7 +15011,7 @@
       "careersUrl": "https://weichaiindia.com/career/",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.198Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:44.684Z",
       "webDiscoveryFailed": false
     },
@@ -15100,7 +15100,7 @@
       "careersUrl": "https://wheelseye.com/careers",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.374Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T11:04:42.781Z",
       "webDiscoveryFailed": false
     },
@@ -15142,7 +15142,7 @@
       "careersUrl": "https://wingify.com/careers",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.445Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:55.608Z",
       "webDiscoveryFailed": false
     },
@@ -15162,7 +15162,7 @@
       "careersUrl": "https://wisseninfotech.com/career/opportunities-wissen-technology",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.551Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:55.670Z",
       "webDiscoveryFailed": false
     },
@@ -15194,7 +15194,7 @@
       "careersUrl": "https://www.workday.com/en-us/company/careers/overview.html",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.529Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:31:56.011Z",
       "webDiscoveryFailed": false
     },
@@ -15408,7 +15408,7 @@
       "careersUrl": "https://yelp.com/jobs",
       "discoveryAttemptedAt": "2026-09-01T16:43:54.264Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:08.428Z",
       "webDiscoveryFailed": false
     },
@@ -15526,7 +15526,7 @@
       "careersUrl": "https://zebpay.com/careers",
       "discoveryAttemptedAt": "2026-09-01T16:43:54.460Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:06.180Z",
       "webDiscoveryFailed": false
     },
@@ -15558,7 +15558,7 @@
       "careersUrl": "https://zendesk.com/company/careers/",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.016Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:07.947Z",
       "webDiscoveryFailed": false
     },
@@ -15614,7 +15614,7 @@
       "careersUrl": "https://zerodha.com/careers",
       "discoveryAttemptedAt": "2026-09-01T16:43:54.563Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:15.498Z",
       "webDiscoveryFailed": false
     },
@@ -15626,7 +15626,7 @@
       "careersUrl": "https://zerodha.com/careers",
       "discoveryAttemptedAt": "2026-09-01T16:43:54.587Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:15.541Z",
       "webDiscoveryFailed": false
     },
@@ -15638,7 +15638,7 @@
       "careersUrl": "https://zestmoney.in/career",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.070Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:23.140Z",
       "webDiscoveryFailed": false
     },
@@ -15656,7 +15656,7 @@
       "careersUrl": "https://www.zf.com/india/en/careers/careers.html",
       "discoveryAttemptedAt": "2026-08-04T10:58:49.893Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:20.138Z",
       "webDiscoveryFailed": false
     },
@@ -15668,7 +15668,7 @@
       "careersUrl": "https://www.zimyo.com/about/career/",
       "discoveryAttemptedAt": "2026-08-04T10:58:50.206Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:20.425Z",
       "webDiscoveryFailed": false
     },
@@ -15700,7 +15700,7 @@
       "careersUrl": "https://zluri.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.127Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:15.619Z",
       "webDiscoveryFailed": false
     },
@@ -15712,7 +15712,7 @@
       "careersUrl": "https://zoho.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.137Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:16.573Z",
       "webDiscoveryFailed": false
     },
@@ -15734,7 +15734,7 @@
       "careersUrl": "https://www.zoho.com/careers/",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.172Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T18:22:26.412Z",
       "webDiscoveryFailed": false
     },
@@ -15756,7 +15756,7 @@
       "careersUrl": "https://zolostays.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.208Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:16.642Z",
       "webDiscoveryFailed": false
     },
@@ -15776,7 +15776,7 @@
       "careersUrl": "http://zomatoproject2.azurewebsites.net/careers.html",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.650Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T18:22:26.396Z",
       "webDiscoveryFailed": false
     },
@@ -15788,7 +15788,7 @@
       "careersUrl": "http://zomatoproject2.azurewebsites.net/careers.html",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.216Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T23:59:19.077Z",
       "webDiscoveryFailed": false
     },
@@ -15800,7 +15800,7 @@
       "careersUrl": "https://zoom.com/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.225Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:18.295Z",
       "webDiscoveryFailed": false
     },
@@ -15812,7 +15812,7 @@
       "careersUrl": "https://zoomcar.co.in/careers",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.231Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:27.295Z",
       "webDiscoveryFailed": false
     },
@@ -15834,7 +15834,7 @@
       "careersUrl": "https://careers.zones.com/search/jobs/in/country/india",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.237Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.606Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:29.139Z",
       "webDiscoveryFailed": false
     },
@@ -15852,7 +15852,7 @@
       "careersUrl": "https://www.zte.com.cn/global/about/sustainability/social/ESG-supporting-employee-development-career-development.html",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.244Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.607Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:29.426Z",
       "webDiscoveryFailed": false
     },
@@ -15874,7 +15874,7 @@
       "careersUrl": "https://www.zynga.com/jobs/careers/",
       "discoveryAttemptedAt": "2026-07-07T04:20:43.241Z",
       "discoveryFailed": true,
-      "genericAttemptedAt": "2026-10-03T16:31:07.607Z",
+      "genericAttemptedAt": "2026-10-03T21:26:38.854Z",
       "webDiscoveryAttemptedAt": "2026-09-06T15:32:22.594Z",
       "webDiscoveryFailed": false
     },
