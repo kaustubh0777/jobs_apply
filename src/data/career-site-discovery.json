@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-10-04T19:41:17.532Z",
+  "generatedAt": "2026-10-04T23:15:26.234Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 3,
+  "failedCount": 37,
   "results": [
+    {
+      "company": "Dynatrace",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dynatrace.com/careers",
+        "title": "Home | Dynatrace Careers",
+        "discoveredAt": "2026-10-04T23:14:50.963Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "EarlySalary (Fibe)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://earlysalary.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-04T23:14:51.090Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ecom Express Logistics",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://mousemacrorecorder.com/careers/",
+        "title": "Join Our Team",
+        "discoveredAt": "2026-10-04T23:14:53.233Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Arcesium",
       "found": {
@@ -5470,40 +5503,45 @@
         "discoveredAt": "2026-08-06T03:43:40.427Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Locus",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://locus.com/career",
-        "title": "Locus careers",
-        "discoveredAt": "2026-08-06T03:43:47.484Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "HROne",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://joy.hrone.cloud/career-portal?appId=U7bjIdFSmZoubZM5AUQ2BhG1jyjDBzePTV0JUmlbP614gGhYt9hZ2xfAfhkraI2X4YKwFpunOL0a_tH02ZVxeZ5gQBs_Q80MzHE5GGAW3Q2m1CGdLUbvtjZDDP6Bg1_C&dc=joy&rqt=UVozgs-AUV1ILPLBxDlf7A&cc=K8fAAC6n2xQvjcQO9J0lRw",
-        "title": "HRMS Software & Payroll SaaS Application For Enterprises | HROne",
-        "discoveredAt": "2026-08-05T23:20:28.797Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Hugging Face",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://huggingface.com/careers",
-        "title": "Hugging Face - Current Openings",
-        "discoveredAt": "2026-08-05T23:20:25.074Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "DTDC Express: company discovery timeout",
+    "Dunzo: company discovery timeout",
+    "Dunzo (IT): company discovery timeout",
+    "Dunzo Daily: company discovery timeout",
+    "EaseMyTrip: company discovery timeout",
+    "EaseMyTrip (IT): company discovery timeout",
+    "EatFit: company discovery timeout",
+    "eBay: company discovery timeout",
+    "ECGC (IT): company discovery timeout",
+    "eClerx Services: company discovery timeout",
+    "Edelweiss (IT): company discovery timeout",
+    "Edelweiss Securities (IT): company discovery timeout",
+    "Edelweiss Technology: company discovery timeout",
+    "Eicher India (IT): company discovery timeout",
+    "eInfochips (Arrow): company discovery timeout",
+    "ElasticRun: company discovery timeout",
+    "Electronic Arts India: company discovery timeout",
+    "Embitel Technologies: company discovery timeout",
+    "eMudhra: company discovery timeout",
+    "Encora India: company discovery timeout",
+    "Endurance International Group India: company discovery timeout",
+    "Equinix: company discovery timeout",
+    "Equitas Small Finance Bank (IT): company discovery timeout",
+    "Ergos (IT): company discovery timeout",
+    "Ericsson Global Services India: company discovery timeout",
+    "Ericsson India: company discovery timeout",
+    "Ericsson India (IT Services): company discovery timeout",
+    "Eruditus: company discovery timeout",
+    "ESAF Small Finance Bank (IT): company discovery timeout",
+    "Escorts India (IT): company discovery timeout",
+    "Etalon India (IT): company discovery timeout",
+    "Euler Motors (IT): company discovery timeout",
+    "Eurotrac India (IT): company discovery timeout",
+    "Eventbrite: company discovery timeout",
+    "Everest Fleet (IT): company discovery timeout",
+    "EXIM Bank (IT): company discovery timeout",
+    "EXL Service: company discovery timeout"
+  ]
 }
