@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-10-05T05:50:30.358Z",
+  "generatedAt": "2026-10-05T14:51:41.772Z",
   "batchSize": 120,
-  "successfulCount": 24,
-  "failedCount": 96,
+  "successfulCount": 4,
+  "failedCount": 116,
   "results": [
+    {
+      "company": "GlobalFoundries India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://gf.com/careers/",
+        "title": "Careers | GlobalFoundries",
+        "discoveredAt": "2026-10-05T14:50:19.411Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "HDFC Securities Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.hdfcsec.com/careers",
+        "title": "Online Stock Market Trading and Investment in India with HDFC securities",
+        "discoveredAt": "2026-10-05T14:50:19.414Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IIFL Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://iiflsecurities.com/careers",
+        "title": "Open Demat Account Online: Start Investing with our Premium Services | IIFL Capital Services",
+        "discoveredAt": "2026-10-05T14:50:22.390Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Indus Valley Partners",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://indusvalleypartners.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T14:50:25.074Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Exotel",
       "found": {
@@ -5459,102 +5503,58 @@
         "discoveredAt": "2026-08-06T06:49:13.437Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Mensa Brands",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://brndme.in/join-us/",
-        "title": "Join Us",
-        "discoveredAt": "2026-08-06T06:49:14.847Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Micron",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.micron.com/about/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T06:49:16.738Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mindteck",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mindteck.com/career",
-        "title": "Mindteck Website",
-        "discoveredAt": "2026-08-06T06:49:20.445Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Moj",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://moj.com/job-openings/",
-        "title": "Job Openings",
-        "discoveredAt": "2026-08-06T06:49:21.399Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Faasos (Rebel Foods): company discovery timeout",
-    "Fasal: company discovery timeout",
-    "Fasal (IT): company discovery timeout",
-    "Federal Bank (IT): company discovery timeout",
-    "Fibe (EarlySalary): company discovery timeout",
-    "FireEye: company discovery timeout",
-    "Flipkart Quick (IT): company discovery timeout",
-    "Force Motors India (IT): company discovery timeout",
-    "Fraazo (IT): company discovery timeout",
-    "Fractal: company discovery timeout",
-    "Fractal AI: company discovery timeout",
-    "Freshmenu: company discovery timeout",
-    "FreshToHome: company discovery timeout",
-    "FreshToHome (IT): company discovery timeout",
-    "FSS (Financial Software & Systems): company discovery timeout",
-    "Fujitsu Consulting India: company discovery timeout",
-    "Fyers (IT): company discovery timeout",
-    "Fyle: company discovery timeout",
-    "Gaana (Times Internet): company discovery timeout",
-    "GAC India (IT): company discovery timeout",
-    "GAIL (IT): company discovery timeout",
-    "Games24x7: company discovery timeout",
-    "Garena India: company discovery timeout",
-    "Gati Limited: company discovery timeout",
-    "Gaz India (IT): company discovery timeout",
-    "GE Aviation India: company discovery timeout",
-    "GE Digital India: company discovery timeout",
-    "Geely India (IT): company discovery timeout",
-    "Genpact: company discovery timeout",
-    "Geojit Financial Services (IT): company discovery timeout",
-    "Ginetta India (IT): company discovery timeout",
-    "Giottus Crypto: company discovery timeout",
-    "GitHub: company discovery timeout",
-    "Gitpod: company discovery timeout",
-    "Gleaner India (IT): company discovery timeout",
-    "GlobalBees: company discovery timeout",
-    "GlobalLogic: company discovery timeout",
-    "GlobalLogic (Hitachi): company discovery timeout",
-    "Globant India: company discovery timeout",
-    "Gnani.ai: company discovery timeout",
-    "Goibibo: company discovery timeout",
-    "Goibibo (IT): company discovery timeout",
-    "Gojek: company discovery timeout",
-    "Goldman Sachs: company discovery timeout",
-    "GoodDot (IT): company discovery timeout",
-    "Grafana: company discovery timeout",
-    "Gramener: company discovery timeout",
-    "Grammarly: company discovery timeout",
-    "Grant Thornton India: company discovery timeout",
-    "Grazitti Interactive: company discovery timeout"
+    "Expedia: company discovery timeout",
+    "Fincare Small Finance Bank (IT): search returned anti-bot page",
+    "Fino Payments Bank (IT): search returned anti-bot page",
+    "Go Digit General Insurance: search returned anti-bot page",
+    "Golaz India (IT): search returned anti-bot page",
+    "Goldman Sachs Engineering India: search returned anti-bot page",
+    "Grofers (Blinkit): search returned anti-bot page",
+    "HashiCorp: search returned anti-bot page",
+    "Healthkart Nutrabox: search returned anti-bot page",
+    "Hexaware Global Services: search returned anti-bot page",
+    "Hyundai India (IT): company discovery timeout",
+    "iEnergizer: search returned anti-bot page",
+    "IFCI (IT): company discovery timeout",
+    "IIFL Finance (IT): company discovery timeout",
+    "IIFL Securities Tech: search returned anti-bot page",
+    "IIT Research Labs Tech Transfer: search returned anti-bot page",
+    "Imagine Meats (IT): search returned anti-bot page",
+    "Incred Capital (IT): company discovery timeout",
+    "Indiabulls Housing Finance (IT): search returned anti-bot page",
+    "IndiaLends: company discovery timeout",
+    "Indian Bank (IT): company discovery timeout",
+    "Indian Overseas Bank (IT): company discovery timeout",
+    "Indifi Technologies: company discovery timeout",
+    "INDmoney: company discovery timeout",
+    "Indo Farm India (IT): company discovery timeout",
+    "IndusInd Bank (IT): company discovery timeout",
+    "IndusInd Securities (IT): company discovery timeout",
+    "Infineon Technologies India: company discovery timeout",
+    "Infoline (IT): company discovery timeout",
+    "Innova Solutions India: company discovery timeout",
+    "Innovaccer: company discovery timeout",
+    "Innovaccer Analytics: company discovery timeout",
+    "Innover Digital: company discovery timeout",
+    "Instamojo: company discovery timeout",
+    "InsuranceDekho: company discovery timeout",
+    "Intellect Design Arena: company discovery timeout",
+    "Intello Labs: company discovery timeout",
+    "Intello Labs (IT): company discovery timeout",
+    "InterContinental (IT): company discovery timeout",
+    "IntrCity (IT): company discovery timeout",
+    "Intuit: company discovery timeout",
+    "Inventure Growth (IT): company discovery timeout",
+    "IOCL (IT): company discovery timeout",
+    "IRDAI (IT): company discovery timeout",
+    "IREDA (IT): company discovery timeout",
+    "Ironclad: company discovery timeout",
+    "ISRO (IT): company discovery timeout",
+    "ISRO (Software Engineering): company discovery timeout",
+    "ITC Hotels (IT): company discovery timeout",
+    "ITI Limited: company discovery timeout"
   ]
 }
