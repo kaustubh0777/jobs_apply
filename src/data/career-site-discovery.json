@@ -1,9 +1,273 @@
 {
-  "generatedAt": "2026-10-04T23:15:26.234Z",
+  "generatedAt": "2026-10-05T05:50:30.358Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 37,
+  "successfulCount": 24,
+  "failedCount": 96,
   "results": [
+    {
+      "company": "Exotel",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://exotel.com/about-us/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:49:07.851Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "F5",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.f5.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:49:08.386Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "FabHotels",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://fabhotels.com/careers",
+        "title": "Careers @ FabHotels - FabHotels.com",
+        "discoveredAt": "2026-10-05T05:49:10.111Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "FabHotels (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://fabhotels.com/careers",
+        "title": "Careers @ FabHotels - FabHotels.com",
+        "discoveredAt": "2026-10-05T05:49:10.371Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "FarEye",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://fareye.com/about/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:49:07.973Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Federal Bank Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.federal.bank.in/careers",
+        "title": "Careers at Federal Bank | Shape the Future of Banking",
+        "discoveredAt": "2026-10-05T05:49:14.444Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Fi Money",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://fi.money/careers",
+        "title": "Fi Money | Careers | Join us to build the future of fintech",
+        "discoveredAt": "2026-10-05T05:49:14.547Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Fidelity National Information Services India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.fisglobal.com/careers",
+        "title": "Careers | FIS",
+        "discoveredAt": "2026-10-05T05:49:14.356Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "FirstCry",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.firstcry.com/careers",
+        "title": "Current Openings at FirstCry.com",
+        "discoveredAt": "2026-10-05T05:49:09.987Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Firstsource",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://firstsource.com/careers/our-values",
+        "title": "Values",
+        "discoveredAt": "2026-10-05T05:49:10.648Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "FlexiLoans",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://flexiloans.com/loan/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:49:11.735Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "HCLTech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hcltech.com/jobs",
+        "title": "HCLTech careers",
+        "discoveredAt": "2026-10-05T05:50:03.737Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "HDFC (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hdfc.com/careers",
+        "title": "HDFC Bank Careers - Private Bank Job Vacancy & Recruitment | HDFC Bank",
+        "discoveredAt": "2026-10-05T05:50:01.034Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "HDFC Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hdfcbank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:50:01.019Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "HealthifyMe",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://healthifyme.com/careers",
+        "title": "HealthifyMe - Tech, Nutritionists & Fitness Trainer Jobs",
+        "discoveredAt": "2026-10-05T05:50:04.398Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Hero MotoCorp (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.heromotocorp.com/viewalljobs",
+        "title": "EXPLORE CAREER OPTIONS",
+        "discoveredAt": "2026-10-05T05:50:03.693Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "HFCL",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hfcl.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:50:02.805Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Honda India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hondaindia.com/careers",
+        "title": "Loading...",
+        "discoveredAt": "2026-10-05T05:50:14.185Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Honeywell",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://honeywell.com/careers",
+        "title": "Honeywell Careers: Find Jobs & Shape the Future",
+        "discoveredAt": "2026-10-05T05:50:14.156Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Hugging Face",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://huggingface.com/careers",
+        "title": "Hugging Face - Current Openings",
+        "discoveredAt": "2026-10-05T05:50:15.338Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Icertis",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://icertis.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:50:20.138Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ICICI Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+        "title": "Career opportunities",
+        "discoveredAt": "2026-10-05T05:50:21.342Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ICICI Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://icicisecurities.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:50:21.148Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "IDfy",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://idfy.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-05T05:50:23.330Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Dynatrace",
       "found": {
@@ -5239,309 +5503,58 @@
         "discoveredAt": "2026-08-06T06:49:21.399Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Molbio Diagnostics",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://molbiodiagnostics.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T06:49:24.435Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "More Retail (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://moreretail.in/careers",
-        "title": "careers • more",
-        "discoveredAt": "2026-08-06T06:49:31.675Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Morgan Stanley",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://morganstanley.com/careers/career-opportunities-search?opportunity=sg",
-        "title": "Opportunities",
-        "discoveredAt": "2026-08-06T06:49:29.767Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Motilal Oswal (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://motilaloswal.com/careers",
-        "title": "Careers at Motilal Oswal | Join MOFSL",
-        "discoveredAt": "2026-08-06T06:49:30.022Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Myntra",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://myntra.in/career",
-        "title": "myntra.in&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;Pant Resources and Information.",
-        "discoveredAt": "2026-08-06T06:49:40.197Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "MyOperator",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://myoperator.com/careers",
-        "title": "Careers Join our growing team of entrepreneurs",
-        "discoveredAt": "2026-08-06T06:49:38.925Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Nagarro",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nagarro.com/en/careers?hsLang=en",
-        "title": "careers",
-        "discoveredAt": "2026-08-06T06:49:40.928Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "NASDAQ",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nasdaq.com/about/careers",
-        "title": "Careers ->",
-        "discoveredAt": "2026-08-06T06:49:39.956Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "NestAway (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nestaway.com/careers",
-        "title": "Explore exciting career opportunities at Nestaway! Join our dynamic team and be part of revolutionizing the home rental experience. Apply now!",
-        "discoveredAt": "2026-08-06T06:49:42.775Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Net Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://netsolutions.com/careers/",
-        "title": "Careers Hiring",
-        "discoveredAt": "2026-08-06T06:49:44.099Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Nike",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nike.com/careers",
-        "title": "Nike Careers",
-        "discoveredAt": "2026-08-06T06:49:46.071Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Jupiter",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://jupiter.com/careers",
-        "title": "About Jupiter | 40+ Years of Video Wall Innovation",
-        "discoveredAt": "2026-08-06T03:43:03.192Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Juspay",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://juspay.in/careers",
-        "title": "Careers Join a team of engineers, artists, musicians, and designers, building payments infrastructure for the global economy.",
-        "discoveredAt": "2026-08-06T03:43:02.197Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Kaleyra",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kaleyra.com/careers",
-        "title": "Career Portal",
-        "discoveredAt": "2026-08-06T03:43:02.746Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Karnataka Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://karnatakabank.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T03:43:05.410Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Komatsu India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://komatsuindia.in/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T03:43:26.529Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "KreditBee",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kreditbee.darwinbox.in/ms/candidatev2/main/careers/home",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T03:43:22.721Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "L&T Finance (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://ltfinance.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T03:43:27.522Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "L&T Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.larsentoubro.com/careers",
-        "title": "Careers | L&T Corporate - LARSEN & TOUBRO",
-        "discoveredAt": "2026-08-06T03:43:35.945Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Lam Research",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.lamresearch.com/careers/careers-overview/",
-        "title": "Careers Overview >",
-        "discoveredAt": "2026-08-06T03:43:29.078Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Lamborghini India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.lamborghini.com/en-en/company/careers",
-        "title": "Careers - Lamborghini.com",
-        "discoveredAt": "2026-08-06T03:43:36.067Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "LeadSquared",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.leadsquared.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T03:43:37.437Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Lexus India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://lexusindia.in/careers.html",
-        "title": "Administrator",
-        "discoveredAt": "2026-08-06T03:43:40.192Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "LiuGong India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://liugongindia.com/careers",
-        "title": "Careers &#8211; LiuGong India Pvt. Ltd.",
-        "discoveredAt": "2026-08-06T03:43:40.427Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "DTDC Express: company discovery timeout",
-    "Dunzo: company discovery timeout",
-    "Dunzo (IT): company discovery timeout",
-    "Dunzo Daily: company discovery timeout",
-    "EaseMyTrip: company discovery timeout",
-    "EaseMyTrip (IT): company discovery timeout",
-    "EatFit: company discovery timeout",
-    "eBay: company discovery timeout",
-    "ECGC (IT): company discovery timeout",
-    "eClerx Services: company discovery timeout",
-    "Edelweiss (IT): company discovery timeout",
-    "Edelweiss Securities (IT): company discovery timeout",
-    "Edelweiss Technology: company discovery timeout",
-    "Eicher India (IT): company discovery timeout",
-    "eInfochips (Arrow): company discovery timeout",
-    "ElasticRun: company discovery timeout",
-    "Electronic Arts India: company discovery timeout",
-    "Embitel Technologies: company discovery timeout",
-    "eMudhra: company discovery timeout",
-    "Encora India: company discovery timeout",
-    "Endurance International Group India: company discovery timeout",
-    "Equinix: company discovery timeout",
-    "Equitas Small Finance Bank (IT): company discovery timeout",
-    "Ergos (IT): company discovery timeout",
-    "Ericsson Global Services India: company discovery timeout",
-    "Ericsson India: company discovery timeout",
-    "Ericsson India (IT Services): company discovery timeout",
-    "Eruditus: company discovery timeout",
-    "ESAF Small Finance Bank (IT): company discovery timeout",
-    "Escorts India (IT): company discovery timeout",
-    "Etalon India (IT): company discovery timeout",
-    "Euler Motors (IT): company discovery timeout",
-    "Eurotrac India (IT): company discovery timeout",
-    "Eventbrite: company discovery timeout",
-    "Everest Fleet (IT): company discovery timeout",
-    "EXIM Bank (IT): company discovery timeout",
-    "EXL Service: company discovery timeout"
+    "Faasos (Rebel Foods): company discovery timeout",
+    "Fasal: company discovery timeout",
+    "Fasal (IT): company discovery timeout",
+    "Federal Bank (IT): company discovery timeout",
+    "Fibe (EarlySalary): company discovery timeout",
+    "FireEye: company discovery timeout",
+    "Flipkart Quick (IT): company discovery timeout",
+    "Force Motors India (IT): company discovery timeout",
+    "Fraazo (IT): company discovery timeout",
+    "Fractal: company discovery timeout",
+    "Fractal AI: company discovery timeout",
+    "Freshmenu: company discovery timeout",
+    "FreshToHome: company discovery timeout",
+    "FreshToHome (IT): company discovery timeout",
+    "FSS (Financial Software & Systems): company discovery timeout",
+    "Fujitsu Consulting India: company discovery timeout",
+    "Fyers (IT): company discovery timeout",
+    "Fyle: company discovery timeout",
+    "Gaana (Times Internet): company discovery timeout",
+    "GAC India (IT): company discovery timeout",
+    "GAIL (IT): company discovery timeout",
+    "Games24x7: company discovery timeout",
+    "Garena India: company discovery timeout",
+    "Gati Limited: company discovery timeout",
+    "Gaz India (IT): company discovery timeout",
+    "GE Aviation India: company discovery timeout",
+    "GE Digital India: company discovery timeout",
+    "Geely India (IT): company discovery timeout",
+    "Genpact: company discovery timeout",
+    "Geojit Financial Services (IT): company discovery timeout",
+    "Ginetta India (IT): company discovery timeout",
+    "Giottus Crypto: company discovery timeout",
+    "GitHub: company discovery timeout",
+    "Gitpod: company discovery timeout",
+    "Gleaner India (IT): company discovery timeout",
+    "GlobalBees: company discovery timeout",
+    "GlobalLogic: company discovery timeout",
+    "GlobalLogic (Hitachi): company discovery timeout",
+    "Globant India: company discovery timeout",
+    "Gnani.ai: company discovery timeout",
+    "Goibibo: company discovery timeout",
+    "Goibibo (IT): company discovery timeout",
+    "Gojek: company discovery timeout",
+    "Goldman Sachs: company discovery timeout",
+    "GoodDot (IT): company discovery timeout",
+    "Grafana: company discovery timeout",
+    "Gramener: company discovery timeout",
+    "Grammarly: company discovery timeout",
+    "Grant Thornton India: company discovery timeout",
+    "Grazitti Interactive: company discovery timeout"
   ]
 }
