@@ -1,9 +1,174 @@
 {
-  "generatedAt": "2026-10-06T06:29:42.266Z",
+  "generatedAt": "2026-10-06T15:16:48.650Z",
   "batchSize": 120,
-  "successfulCount": 13,
-  "failedCount": 107,
+  "successfulCount": 15,
+  "failedCount": 105,
   "results": [
+    {
+      "company": "Hexaware Global Services",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+        "title": "Search Jobs - HEXAWARE Careers",
+        "discoveredAt": "2026-10-06T15:15:44.076Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Hyundai Ce India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.hyundai.com/in/en/hyundai-story/career/overview",
+        "title": "Career - Opportunity | Hyundai Motor India",
+        "discoveredAt": "2026-10-06T15:15:44.100Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IBM Consulting India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.ibm.com/in-en/careers/consulting",
+        "title": "Jobs in Consulting | IBM Careers",
+        "discoveredAt": "2026-10-06T15:15:44.055Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ICICI Lombard Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.icicilombard.com/careers/career-prospects",
+        "title": "Career Prospects - ICICI Lombard",
+        "discoveredAt": "2026-10-06T15:15:44.061Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ICICI Prudential Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.iciciprulife.com/insurance-careers.html",
+        "title": "Careers in Life Insurance - ICICI Prulife",
+        "discoveredAt": "2026-10-06T15:15:44.119Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Nutanix",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nutanix.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:15:58.381Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nvidia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:15:58.843Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ola Electric",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://olaelectric.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:16:03.692Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ola Electric (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://olaelectric.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:16:04.077Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Paisabazaar",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.paisabazaar.com/careers",
+        "title": "Join Us",
+        "discoveredAt": "2026-10-06T15:16:22.681Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Palo Alto Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://paloaltonetworks.com/careers",
+        "title": "Explore Careers and Jobs in Cybersecurity at Palo Alto Networks",
+        "discoveredAt": "2026-10-06T15:16:19.571Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "PeopleStrong",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.peoplestrong.com/career-and-skills/",
+        "title": "Career and Skills",
+        "discoveredAt": "2026-10-06T15:16:22.307Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Pfizer India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://pfizerindia.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:16:23.504Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "PharmEasy",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://pharmeasy.in/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T15:16:23.672Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Procore",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://procore.com/jobs",
+        "title": "Build A Career with Impact At Procore",
+        "discoveredAt": "2026-10-06T15:16:46.891Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Grofers (Blinkit)",
       "found": {
@@ -5338,183 +5503,13 @@
         "discoveredAt": "2026-08-07T00:18:54.444Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Spendflo",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://spendflo.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:54.860Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Sprinklr",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sprinklr.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:54.512Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Square",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://block.xyz/careers/jobs",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:55.483Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Square Yards",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.squareyards.com/career",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:55.635Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Square Yards (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.squareyards.com/career",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:55.612Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Stratbeans",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://stratbeans.com/job-career/",
-        "title": "Career",
-        "discoveredAt": "2026-08-07T00:19:06.161Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Subex",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.subex.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:19:06.119Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "SwiftSku",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://swiftsku.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:19:06.082Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Systematix Shares (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://systematixshares.com/career/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:19:08.442Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Talkdesk",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://talkdesk.com/careers",
-        "title": "Jobs at Talkdesk",
-        "discoveredAt": "2026-08-07T00:19:08.826Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Naggaro",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.nagarro.com/en/careers",
-        "title": "Careers | Nagarro",
-        "discoveredAt": "2026-08-06T14:38:07.096Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "NEC Corporation India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://in.nec.com/en_IN/career/jobs-at-NEC.html",
-        "title": "Top 10 Employee Friendly Companies in India, Best Indian IT ... - NEC",
-        "discoveredAt": "2026-08-06T14:38:07.430Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Pfizer India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://pfizerindia.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T14:38:16.118Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "PharmEasy",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://pharmeasy.in/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T14:38:16.917Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Pocketful",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.pocketful.in/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-06T14:38:27.543Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "Fincare Small Finance Bank (IT): search returned anti-bot page",
     "Fino Payments Bank (IT): search returned anti-bot page",
     "Finvasia (IT): search returned anti-bot page",
-    "Hexaware Global Services: search returned anti-bot page",
     "HSBC India: search returned anti-bot page",
-    "Hyundai Ce India (IT): search returned anti-bot page",
-    "IBM Consulting India: search returned anti-bot page",
-    "ICICI Lombard Tech: search returned anti-bot page",
-    "ICICI Prudential Tech: search returned anti-bot page",
     "IDFC FIRST Bank Tech: search returned anti-bot page",
     "iEnergizer: search returned anti-bot page",
     "IIFL Securities Tech: search returned anti-bot page",
@@ -5553,8 +5548,13 @@
     "Meta India: search returned anti-bot page",
     "Mfine Health: search returned anti-bot page",
     "Microsoft India (IT Services): search returned anti-bot page",
-    "Milkbasket (IT): company discovery timeout",
     "Mindbowser Technologies: search returned anti-bot page",
-    "Mini India (IT): company discovery timeout"
+    "Nazara Technologies: search returned anti-bot page",
+    "NEC Corporation India: search returned anti-bot page",
+    "NestAway Technologies: search returned anti-bot page",
+    "Nuvepro: company discovery timeout",
+    "NVIDIA Graphics India: search returned anti-bot page",
+    "NXP Semiconductors India: search returned anti-bot page",
+    "NxtGen Datacenter: search returned anti-bot page"
   ]
 }
