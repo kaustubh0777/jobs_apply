@@ -1,9 +1,152 @@
 {
-  "generatedAt": "2026-10-06T15:16:48.650Z",
+  "generatedAt": "2026-10-06T21:03:00.664Z",
   "batchSize": 120,
-  "successfulCount": 15,
-  "failedCount": 105,
+  "successfulCount": 13,
+  "failedCount": 107,
   "results": [
+    {
+      "company": "L&T Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.larsentoubro.com/careers",
+        "title": "Careers | L&T Corporate - LARSEN & TOUBRO",
+        "discoveredAt": "2026-10-06T21:01:56.073Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Landini India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.ril.com/rilcareers/index.aspx",
+        "title": "Careers Home | Reliance Industries Limited",
+        "discoveredAt": "2026-10-06T21:01:56.424Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "PropTiger",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:14.321Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "PropTiger (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://proptiger.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:14.418Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Publicis Sapient",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://publicissapient.com/careers",
+        "title": "Careers at Publicis Sapient",
+        "discoveredAt": "2026-10-06T21:02:14.406Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Quantiphi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://quantiphi.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:15.306Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Red Hat",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://redhat.com/jobs",
+        "title": "Red Hat Jobs | Opportunities are open",
+        "discoveredAt": "2026-10-06T21:02:41.354Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Retool",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://retool.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:48.208Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Revv (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://revv.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:48.556Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "RingCentral",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ringcentral.com/careers",
+        "title": "Join Our Team | RingCentral Careers",
+        "discoveredAt": "2026-10-06T21:02:49.032Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "RSM India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rsmindia.in/india/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:58.961Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Rupeek",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rupeek.com/careers?city=undefined",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:58.745Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Sabre",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.sabre.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-06T21:02:58.819Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Hexaware Global Services",
       "found": {
@@ -5360,168 +5503,23 @@
         "discoveredAt": "2026-08-07T00:18:23.187Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Sabre",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.sabre.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:16.914Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Sahaj AI",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sahaj.ai/careers/",
-        "title": "Careers Sahaj Software",
-        "discoveredAt": "2026-08-07T00:18:23.263Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Saksoft",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.saksoft.com/career/",
-        "title": "Careers - Saksoft",
-        "discoveredAt": "2026-08-07T00:18:23.287Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Samsung",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://samsung.com/careers",
-        "title": "Samsung Careers | Samsung US",
-        "discoveredAt": "2026-08-07T00:18:26.286Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Searce",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://searce.com/join-us",
-        "title": "join searce",
-        "discoveredAt": "2026-08-07T00:18:25.275Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Segment",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://jobs.twilio.com/careers",
-        "title": "Careers An icon of a right chevron",
-        "discoveredAt": "2026-08-07T00:18:25.399Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "SendinBlue",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.brevo.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:26.071Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "SentinelOne",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sentinelone.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:26.102Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "ShareChat",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sharechat.com/careers",
-        "title": "ShareChat Moj Careers - Engineering, Tech, Product, Sales, Content and Design jobs",
-        "discoveredAt": "2026-08-07T00:18:28.676Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Shell",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://shell.com/careers",
-        "title": "Careers at Shell | Shell Global",
-        "discoveredAt": "2026-08-07T00:18:27.498Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Shivalik Small Finance Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://shivalik.darwinbox.in/ms/candidate/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-07T00:18:33.802Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Simplilearn",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.simplilearn.com/career-roadmap/ai-engineer",
-        "title": "AI Engineer",
-        "discoveredAt": "2026-08-07T00:18:39.172Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Sourcegraph",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sourcegraph.com/careers",
-        "title": "Careers | Sourcegraph",
-        "discoveredAt": "2026-08-07T00:18:54.444Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Fincare Small Finance Bank (IT): search returned anti-bot page",
-    "Fino Payments Bank (IT): search returned anti-bot page",
-    "Finvasia (IT): search returned anti-bot page",
-    "HSBC India: search returned anti-bot page",
-    "IDFC FIRST Bank Tech: search returned anti-bot page",
-    "iEnergizer: search returned anti-bot page",
-    "IIFL Securities Tech: search returned anti-bot page",
-    "IIT Research Labs Tech Transfer: search returned anti-bot page",
-    "Imagine Meats (IT): search returned anti-bot page",
-    "Indiabulls Housing Finance (IT): search returned anti-bot page",
-    "Justdial Limited: search returned anti-bot page",
-    "Kubota India (IT): search returned anti-bot page",
-    "L&T Securities (IT): search returned anti-bot page",
+    "Fincare Small Finance Bank (IT): company discovery timeout",
+    "Fino Payments Bank (IT): company discovery timeout",
+    "Finvasia (IT): company discovery timeout",
+    "HSBC India: company discovery timeout",
+    "IDFC FIRST Bank Tech: company discovery timeout",
+    "iEnergizer: company discovery timeout",
+    "IIFL Securities Tech: company discovery timeout",
+    "IIT Research Labs Tech Transfer: company discovery timeout",
+    "Imagine Meats (IT): company discovery timeout",
+    "Indiabulls Housing Finance (IT): company discovery timeout",
+    "Justdial Limited: company discovery timeout",
+    "Kubota India (IT): company discovery timeout",
     "Lamborghini India (IT): search returned anti-bot page",
     "Lancia India (IT): search returned anti-bot page",
-    "Landini India (IT): search returned anti-bot page",
     "Landwind India (IT): search returned anti-bot page",
     "Larsen & Toubro Infotech: search returned anti-bot page",
     "Laverda India (IT): search returned anti-bot page",
@@ -5533,28 +5531,30 @@
     "Manappuram Finance Tech: search returned anti-bot page",
     "Marvell Technology India: search returned anti-bot page",
     "Marwadi Shares (IT): search returned anti-bot page",
-    "Maserati India (IT): search returned anti-bot page",
+    "Maserati India (IT): company discovery timeout",
     "Mastercard Labs India: search returned anti-bot page",
     "Maveric Systems: search returned anti-bot page",
-    "Max Fashion (IT): search returned anti-bot page",
+    "Max Fashion (IT): company discovery timeout",
     "Max Life Insurance Tech: search returned anti-bot page",
-    "Maybach India (IT): search returned anti-bot page",
+    "Maybach India (IT): company discovery timeout",
     "Maz India (IT): search returned anti-bot page",
-    "McLaren India (IT): search returned anti-bot page",
-    "Mentor Graphics (Siemens EDA) India: search returned anti-bot page",
+    "McLaren India (IT): company discovery timeout",
+    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
     "Mercedes-Benz India (IT): search returned anti-bot page",
     "Mercedes-Benz R&D India: search returned anti-bot page",
     "Merck India: search returned anti-bot page",
-    "Meta India: search returned anti-bot page",
+    "Meta India: company discovery timeout",
     "Mfine Health: search returned anti-bot page",
     "Microsoft India (IT Services): search returned anti-bot page",
     "Mindbowser Technologies: search returned anti-bot page",
     "Nazara Technologies: search returned anti-bot page",
     "NEC Corporation India: search returned anti-bot page",
     "NestAway Technologies: search returned anti-bot page",
-    "Nuvepro: company discovery timeout",
     "NVIDIA Graphics India: search returned anti-bot page",
     "NXP Semiconductors India: search returned anti-bot page",
-    "NxtGen Datacenter: search returned anti-bot page"
+    "NxtGen Datacenter: company discovery timeout",
+    "Okinawa (IT): company discovery timeout",
+    "Ola Dash (IT): company discovery timeout",
+    "Plum Insurance: company discovery timeout"
   ]
 }
