@@ -1,9 +1,108 @@
 {
-  "generatedAt": "2026-10-07T08:47:30.521Z",
+  "generatedAt": "2026-10-07T17:28:26.767Z",
   "batchSize": 120,
-  "successfulCount": 23,
-  "failedCount": 97,
+  "successfulCount": 9,
+  "failedCount": 102,
   "results": [
+    {
+      "company": "Volvo Group India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://volvogroupindia.com/en/careers.html",
+        "title": "Careers",
+        "discoveredAt": "2026-10-07T17:27:14.641Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "VRL Logistics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vrllogistics.com/Careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-07T17:27:24.227Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Vymo",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://vymo.com/careers",
+        "title": "Careers | Vymo",
+        "discoveredAt": "2026-10-07T17:27:25.031Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "WayCool Foods",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.jobaaj.com/company/waycool-foods-and-produc-careers",
+        "title": "WayCool Foods and Produc... Careers and Employment | Jobaaj",
+        "discoveredAt": "2026-10-07T17:27:31.180Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Weichai India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://weichaiindia.com/career/",
+        "title": "Career",
+        "discoveredAt": "2026-10-07T17:27:26.353Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Wheelseye",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://wheelseye.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-07T17:27:32.847Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Wingify",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://wingify.com/company/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-07T17:27:32.934Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zoom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoom.com/careers",
+        "title": "Careers | Zoom",
+        "discoveredAt": "2026-10-07T17:28:16.107Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zynga",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zynga.com/jobs/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-07T17:28:17.443Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "DataRobot",
       "found": {
@@ -5404,157 +5503,58 @@
         "discoveredAt": "2026-08-07T13:41:59.984Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "ZTE Telecom India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zte.com.cn/global/about/sustainability/social/ESG-supporting-employee-development-career-development.html",
-        "title": "Career Development - ZTE",
-        "discoveredAt": "2026-08-07T13:42:00.074Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "ZF Group India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.zf.com/india/en/careers/careers.html",
-        "title": "Join ZF India: Careers in Technology and Innovation | ZF India Jobs - ZF",
-        "discoveredAt": "2026-08-07T11:10:11.964Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zoho People",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zoho.com/careers/",
-        "title": "US Careers at Zoho Corporation",
-        "discoveredAt": "2026-08-07T11:10:11.969Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zomato Pay (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
-        "title": "Careers at Zomato",
-        "discoveredAt": "2026-08-07T11:10:11.948Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tafe India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tafe.com/corporate/tafe-career",
-        "title": "TAFE Careers - Join India&#x27;s Leading Tractor Manufacturer",
-        "discoveredAt": "2026-08-07T09:17:45.405Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tamilnad Mercantile Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.ib.tmbonline.bank.in/tmb_careers/",
-        "title": "TMB Careers - ib.tmbonline.bank.in",
-        "discoveredAt": "2026-08-07T09:17:45.408Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tata Capital Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.tatacapital.com/careers.html",
-        "title": "Careers - Life at Tata Capital | Tata Capital",
-        "discoveredAt": "2026-08-07T09:17:45.433Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tata Consultancy Engineering",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.tcs.com/careers",
-        "title": "TCS Careers: Find Active Job Vacancy and Build Your Future",
-        "discoveredAt": "2026-08-07T09:17:45.418Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Temenos India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.temenos.com/about-us/careers/",
-        "title": "Careers | Working at Temenos",
-        "discoveredAt": "2026-08-07T09:17:45.457Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
-    "Synchrony International Services India: search returned anti-bot page",
-    "Synoptek: search returned anti-bot page",
-    "Systematix Shares (IT): search returned anti-bot page",
-    "Tafe India (IT): search returned anti-bot page",
-    "Taj Hotels (IT): search returned anti-bot page",
-    "Tamilnad Mercantile Bank (IT): search returned anti-bot page",
-    "Tanla Platforms: company discovery timeout",
-    "Tata 1mg: company discovery timeout",
-    "Tata AIA Life Tech: search returned anti-bot page",
-    "Tata Capital Digital: search returned anti-bot page",
-    "Tata CLiQ: search returned anti-bot page",
-    "Tata Communications: company discovery timeout",
-    "Tata Consultancy Engineering: search returned anti-bot page",
-    "Tata Consultancy Services (TCS): search returned anti-bot page",
-    "Tata Digital: company discovery timeout",
-    "Tata Motors (IT): company discovery timeout",
-    "Tata Neu: company discovery timeout",
-    "Tata Neu (IT): company discovery timeout",
-    "Tata Securities (IT): search returned anti-bot page",
-    "Team Lease Digital: search returned anti-bot page",
-    "Tech Data India: company discovery timeout",
-    "Teleperformance India: company discovery timeout",
-    "Temenos India: search returned anti-bot page",
-    "Tencent: company discovery timeout",
-    "Tendercuts (IT): company discovery timeout",
-    "Teradata: company discovery timeout",
-    "Terex India (IT): company discovery timeout",
-    "Tesla: company discovery timeout",
-    "Tesla India (IT): company discovery timeout",
-    "Texas Instruments: company discovery timeout",
-    "THDC (IT): company discovery timeout",
-    "Thyrocare: company discovery timeout",
-    "TicketNew: company discovery timeout",
-    "Tietoevry India: company discovery timeout",
-    "Times Internet: company discovery timeout",
-    "Toffee Insurance: company discovery timeout",
-    "Toppr: company discovery timeout",
-    "Tork Motors (IT): company discovery timeout",
-    "Tower Research: company discovery timeout",
-    "Tower Semiconductor India: company discovery timeout",
-    "Toyota India (IT): company discovery timeout",
-    "Toyota Kirloskar Technology Center: company discovery timeout",
-    "Tractor Junction: company discovery timeout",
-    "Tradebulls Securities (IT): company discovery timeout",
-    "TradeIndia.com: company discovery timeout",
-    "Treebo (IT): company discovery timeout",
-    "Treebo Hotels: company discovery timeout",
-    "Trell: company discovery timeout",
-    "Trello (Atlassian) India: company discovery timeout"
+    "Suryoday Small Finance Bank (IT): company discovery timeout",
+    "Synchrony International Services India: company discovery timeout",
+    "Synoptek: company discovery timeout",
+    "Systematix Shares (IT): company discovery timeout",
+    "Tafe India (IT): company discovery timeout",
+    "Taj Hotels (IT): company discovery timeout",
+    "Tamilnad Mercantile Bank (IT): company discovery timeout",
+    "Tata AIA Life Tech: company discovery timeout",
+    "Tata Capital Digital: company discovery timeout",
+    "Tata CLiQ: company discovery timeout",
+    "Tata Consultancy Engineering: company discovery timeout",
+    "Tata Consultancy Services (TCS): company discovery timeout",
+    "Tata Securities (IT): company discovery timeout",
+    "Team Lease Digital: company discovery timeout",
+    "Temenos India: company discovery timeout",
+    "UST Global: company discovery timeout",
+    "Utkarsh Small Finance Bank (IT): company discovery timeout",
+    "Valtra India (IT): company discovery timeout",
+    "Vauxhall India (IT): company discovery timeout",
+    "Vedanta Semiconductors: company discovery timeout",
+    "Vedanta-Foxconn JV: company discovery timeout",
+    "Volkswagen India (IT): company discovery timeout",
+    "Volvo Ce India (IT): company discovery timeout",
+    "Volvo India (IT): company discovery timeout",
+    "Voot: company discovery timeout",
+    "This operation was aborted",
+    "Vue.ai: company discovery timeout",
+    "Vyapar: company discovery timeout",
+    "Wadhwani AI: company discovery timeout",
+    "Wag!: company discovery timeout",
+    "Walmart Labs: company discovery timeout",
+    "WayCool (IT): company discovery timeout",
+    "WazirX: company discovery timeout",
+    "WebEngage: company discovery timeout",
+    "Wells Fargo: company discovery timeout",
+    "West Monroe India: company discovery timeout",
+    "Western Star India (IT): company discovery timeout",
+    "Westside (IT): company discovery timeout",
+    "Wey India (IT): company discovery timeout",
+    "Whirlpool India: company discovery timeout",
+    "WhiteHat Jr: company discovery timeout",
+    "Williams-Sonoma India: company discovery timeout",
+    "Wissen Infotech: company discovery timeout",
+    "Wiz: company discovery timeout",
+    "WNS Global Services: company discovery timeout",
+    "Workday: company discovery timeout",
+    "Workhorse India (IT): company discovery timeout",
+    "Worldline India: company discovery timeout",
+    "Wow Express: company discovery timeout",
+    "Wyndham (IT): company discovery timeout"
   ]
 }
