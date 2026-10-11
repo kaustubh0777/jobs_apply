@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-11T12:59:09.882Z",
+  "generatedAt": "2026-10-11T18:58:25.923Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "NTPC (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://careers-ntpc.icims.com/jobs/intro?hashed=-435594588&mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360",
+        "title": "Current Job Openings",
+        "discoveredAt": "2026-10-11T18:58:25.918Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Volvo Group India",
       "found": {
@@ -5490,17 +5501,6 @@
         "url": "https://www.zimyo.com/about/career/",
         "title": "Career at Zimyo - Join Our Team and Build Your Future - Zimyo HRMS",
         "discoveredAt": "2026-08-07T13:41:59.996Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zotye India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.zones.com/search/jobs/in/country/india",
-        "title": "India Careers - Zones",
-        "discoveredAt": "2026-08-07T13:41:59.984Z",
         "discoveryMethod": "search-result"
       }
     }
