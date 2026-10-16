@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-10-16T07:16:02.667Z",
+  "generatedAt": "2026-10-16T13:18:22.547Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 4,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Amazon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://amazon.com/careers",
+        "title": "Amazon Careers: Impact the Future, Today",
+        "discoveredAt": "2026-10-16T13:18:17.524Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Amazon India (IT Services)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://aws.amazon.com/careers/",
+        "title": "Cloud computing jobs - Working at AWS | AWS Careers",
+        "discoveredAt": "2026-10-16T13:18:22.544Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Apple",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://apple.com/careers/us/",
+        "title": "Career Opportunities",
+        "discoveredAt": "2026-10-16T13:18:16.394Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Auth0",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.okta.com/company/careers",
+        "title": "Careers ↗",
+        "discoveredAt": "2026-10-16T13:18:16.222Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "NTPC (IT)",
       "found": {
@@ -5458,50 +5502,6 @@
         "title": "Career",
         "discoveredAt": "2026-08-24T15:03:13.437Z",
         "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Google",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://google.com/careers",
-        "title": "Search for your career at Google.",
-        "discoveredAt": "2026-08-24T09:07:11.102Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Apple",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://apple.com/careers/us/",
-        "title": "Career Opportunities",
-        "discoveredAt": "2026-08-12T05:48:25.238Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zomato Hyperpure",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
-        "title": "Careers at Zomato",
-        "discoveredAt": "2026-08-07T15:11:21.045Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zimyo HRMS",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zimyo.com/about/career/",
-        "title": "Career at Zimyo - Join Our Team and Build Your Future - Zimyo HRMS",
-        "discoveredAt": "2026-08-07T13:41:59.996Z",
-        "discoveryMethod": "search-result"
       }
     }
   ],
