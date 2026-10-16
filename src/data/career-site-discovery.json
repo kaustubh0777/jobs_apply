@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-16T18:07:31.158Z",
+  "generatedAt": "2026-10-16T21:17:23.727Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 1,
+  "failedCount": 2,
   "results": [
+    {
+      "company": "Google",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://google.com/careers",
+        "title": "Search for your career at Google.",
+        "discoveredAt": "2026-10-16T21:17:15.012Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Amazon",
       "found": {
@@ -5492,18 +5503,10 @@
         "discoveredAt": "2026-08-28T06:10:16.860Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "FactoHR",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://factohr.com/career/",
-        "title": "Career",
-        "discoveredAt": "2026-08-24T15:03:13.437Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "Google India (IT Services): company discovery timeout",
+    "Google Pay (IT): company discovery timeout"
+  ]
 }
