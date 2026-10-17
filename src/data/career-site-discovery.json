@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-16T21:17:23.727Z",
+  "generatedAt": "2026-10-17T00:32:35.667Z",
   "batchSize": 120,
-  "successfulCount": 1,
-  "failedCount": 2,
+  "successfulCount": 0,
+  "failedCount": 0,
   "results": [
     {
       "company": "Google",
@@ -5505,8 +5505,5 @@
       }
     }
   ],
-  "failures": [
-    "Google India (IT Services): company discovery timeout",
-    "Google Pay (IT): company discovery timeout"
-  ]
+  "failures": []
 }
