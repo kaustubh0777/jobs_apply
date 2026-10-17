@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:36:08.497Z",
+  "generatedAt": "2026-10-17T22:27:41.955Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
@@ -37,6 +37,7 @@
     "Angel One Technology LV 404",
     "Atlassian LV 404",
     "Atlassian Bengaluru LV 404",
+    "This operation was aborted",
     "Netflix LV 404",
     "Plaid LV 404",
     "Abarth India (IT) Workday: no working datacenter found",
@@ -62,8 +63,7 @@
     "LinkedIn Workday: no working datacenter found",
     "LTIMindtree Workday: no working datacenter found",
     "McKinsey & Company India Workday: no working datacenter found",
-    "Mphasis Workday: no working datacenter found",
-    "NIIT Technologies Workday: no working datacenter found"
+    "Mphasis Workday: no working datacenter found"
   ],
   "jobs": [
     {
@@ -48386,27 +48386,6 @@
       "directApplyUrl": "https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824",
       "department": "BT Engineering Services-779",
       "summary": "Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challeng"
-    },
-    {
-      "id": "greenhouse-toast-8191597",
-      "role": "Senior Software Engineer, Release Engineering",
-      "company": "Toast",
-      "companyType": "Product",
-      "location": "Remote, US",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-09-18T11:06:32-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://careers.toasttab.com/jobs?gh_jid=8191597",
-      "department": "R & D : Cloud Service Infra : Platform Infrastructure",
-      "summary": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. The mission of the Release Engineering team is “to empower Toasters to build and deploy softw"
     },
     {
       "id": "greenhouse-elastic-8207939",
