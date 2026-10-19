@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-19T19:59:18.433Z",
+  "generatedAt": "2026-10-19T23:45:31.131Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Discovery Inc",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.discovery.com/careers-home/jobs",
+        "title": "Discovery Careers",
+        "discoveredAt": "2026-10-19T23:45:31.128Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Google",
       "found": {
@@ -5490,17 +5501,6 @@
         "url": "https://www.adityabirlacapital.com/careers/jobs",
         "title": "Search Jobs at Aditya Birla Capital",
         "discoveredAt": "2026-08-28T06:10:16.697Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Aditya Birla Fashion (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.abfrl.com/careers/",
-        "title": "Careers - ABFRL",
-        "discoveredAt": "2026-08-28T06:10:16.860Z",
         "discoveryMethod": "search-result"
       }
     }
