@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-27T14:35:55.143Z",
+  "generatedAt": "2026-10-27T20:45:06.387Z",
   "batchSize": 120,
-  "successfulCount": 8,
-  "failedCount": 8,
+  "successfulCount": 2,
+  "failedCount": 5,
   "results": [
+    {
+      "company": "Aditya Birla Capital Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adityabirlacapital.com/careers",
+        "title": "Aditya Birla Capital Careers: Explore Career Opportunities Now!",
+        "discoveredAt": "2026-10-27T20:45:04.567Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aditya Birla Fashion (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.abfrl.com/careers/",
+        "title": "Careers - ABFRL",
+        "discoveredAt": "2026-10-27T20:45:04.624Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "1mg",
       "found": {
@@ -5481,38 +5503,13 @@
         "discoveredAt": "2026-08-29T02:50:45.903Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Automation Anywhere",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://automationanywhere.com/company/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-29T02:50:47.671Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Bank of Baroda (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bankofbaroda.com/career",
-        "title": "Career Detail | About Us | Bank of Baroda, India's International Bank",
-        "discoveredAt": "2026-08-29T02:51:09.563Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "24[7].ai: company discovery timeout",
     "3i Infotech: search returned anti-bot page",
-    "5ire: company discovery timeout",
-    "99acres (IT): company discovery timeout",
     "ABB India: search returned anti-bot page",
-    "Aditya Birla Capital Tech: search returned anti-bot page",
-    "Aditya Birla Fashion (IT): search returned anti-bot page",
+    "Addverb Technologies: search returned anti-bot page",
+    "Aditya Birla Money (IT): search returned anti-bot page",
     "Adobe: search returned anti-bot page"
   ]
 }
