@@ -1,9 +1,97 @@
 {
-  "generatedAt": "2026-10-27T07:57:41.485Z",
+  "generatedAt": "2026-10-27T14:35:55.143Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 8,
+  "failedCount": 8,
   "results": [
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-10-27T14:35:48.894Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-10-27T14:35:49.822Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-27T14:35:46.773Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "5paisa Capital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.5paisa.com/careers",
+        "title": "Careers - 5paisa",
+        "discoveredAt": "2026-10-27T14:35:52.909Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aavas Financiers (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.aavas.in/career",
+        "title": "Job Opportunity & Career - Aavas.in",
+        "discoveredAt": "2026-10-27T14:35:53.199Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-27T14:35:47.946Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acqueon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acqueon.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-27T14:35:46.363Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Active.Ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://active.ai/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-10-27T14:35:48.325Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Discovery Inc",
       "found": {
@@ -5415,95 +5503,16 @@
         "discoveredAt": "2026-08-29T02:51:09.563Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "BankBazaar",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://bankbazaar.com/careers.html",
-        "title": "Join Our Team",
-        "discoveredAt": "2026-08-29T02:51:04.554Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "BARC (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://barc.com/jobs",
-        "title": "Jobs in Data – Bye bye Unicorns",
-        "discoveredAt": "2026-08-29T02:51:10.197Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Barclays",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://barclays.com/careers/",
-        "title": "Careers hub",
-        "discoveredAt": "2026-08-29T02:51:04.994Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "1mg",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://1mg.com/jobs",
-        "title": "Careers@Tata1mg",
-        "discoveredAt": "2026-08-28T06:10:06.166Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "1mg (Tata 1mg)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://1mg.com/jobs",
-        "title": "Careers@Tata1mg",
-        "discoveredAt": "2026-08-28T06:10:05.256Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "5paisa (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://5paisa.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-08-28T06:10:03.534Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Acko",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://acko.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-28T06:10:04.917Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Aditya Birla Capital Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.adityabirlacapital.com/careers/jobs",
-        "title": "Search Jobs at Aditya Birla Capital",
-        "discoveredAt": "2026-08-28T06:10:16.697Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "24[7].ai: company discovery timeout",
+    "3i Infotech: search returned anti-bot page",
+    "5ire: company discovery timeout",
+    "99acres (IT): company discovery timeout",
+    "ABB India: search returned anti-bot page",
+    "Aditya Birla Capital Tech: search returned anti-bot page",
+    "Aditya Birla Fashion (IT): search returned anti-bot page",
+    "Adobe: search returned anti-bot page"
+  ]
 }
