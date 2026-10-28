@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-27T20:45:06.387Z",
+  "generatedAt": "2026-10-28T01:26:25.060Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 5,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "3i Infotech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.3i-infotech.com/careers/",
+        "title": "Careers | 3i Infotech",
+        "discoveredAt": "2026-10-28T01:26:24.237Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ABB India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.abb/global/en/r-d-careers-india",
+        "title": "R&D careers India - ABB",
+        "discoveredAt": "2026-10-28T01:26:23.578Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Aditya Birla Capital Tech",
       "found": {
@@ -5481,33 +5503,9 @@
         "discoveredAt": "2026-08-29T02:50:45.490Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "AU Small Finance Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://ausmallfinancebank.com/career",
-        "title": "Loading...",
-        "discoveredAt": "2026-08-29T02:50:47.455Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Aubergine Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://auberginesolutions.com/careers",
-        "title": "Software Engineer & UX Design Jobs | Aubergine Solutions",
-        "discoveredAt": "2026-08-29T02:50:45.903Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "3i Infotech: search returned anti-bot page",
-    "ABB India: search returned anti-bot page",
     "Addverb Technologies: search returned anti-bot page",
     "Aditya Birla Money (IT): search returned anti-bot page",
     "Adobe: search returned anti-bot page"
