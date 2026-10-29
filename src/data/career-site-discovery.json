@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-10-28T22:40:35.007Z",
+  "generatedAt": "2026-10-29T05:55:25.561Z",
   "batchSize": 120,
-  "successfulCount": 14,
-  "failedCount": 47,
+  "successfulCount": 4,
+  "failedCount": 18,
   "results": [
+    {
+      "company": "Algoworks Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.algoworks.com/careers/",
+        "title": "Algoworks Careers | Join and Build a Career with Global Impacts",
+        "discoveredAt": "2026-10-29T05:55:18.121Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bain & Company India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bain.com/careers",
+        "title": "Careers at Bain | Bain & Company",
+        "discoveredAt": "2026-10-29T05:55:18.141Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bajaj Allianz Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bajajallianz.openings.co/jobs",
+        "title": "TechCorp Careers",
+        "discoveredAt": "2026-10-29T05:55:18.202Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Canoo India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://in.canon/en/consumer/web/career",
+        "title": "Careers - Canon India",
+        "discoveredAt": "2026-10-29T05:55:18.094Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Alfa Romeo India (IT)",
       "found": {
@@ -5459,50 +5503,6 @@
         "discoveredAt": "2026-08-29T16:46:27.556Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Darwinbox",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://darwinbox.com/careers",
-        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
-        "discoveredAt": "2026-08-29T16:46:30.597Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "DCB Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
-        "title": "Careers",
-        "discoveredAt": "2026-08-29T16:46:32.950Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "DeHaat",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://agrevolution.in/careers",
-        "title": "Careers at Dehaat",
-        "discoveredAt": "2026-08-29T16:46:33.222Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "DeHaat (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://agrevolution.in/careers",
-        "title": "Careers at Dehaat",
-        "discoveredAt": "2026-08-29T16:46:33.401Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
@@ -5511,47 +5511,18 @@
     "Adobe: search returned anti-bot page",
     "Affine Analytics: search returned anti-bot page",
     "Aibono: search returned anti-bot page",
+    "Airbus: search returned anti-bot page",
     "Airtel X Labs: search returned anti-bot page",
+    "Allsec Technologies: search returned anti-bot page",
+    "CASHe: search returned anti-bot page",
+    "Caterham India (IT): search returned anti-bot page",
+    "CIGNEX Datamatics: search returned anti-bot page",
     "Citicorp Services India: search returned anti-bot page",
+    "Citroen India (IT): search returned anti-bot page",
     "Claas India (IT): search returned anti-bot page",
-    "Coal India (IT): company discovery timeout",
-    "Coca-Cola India: company discovery timeout",
-    "CrowdStrike: company discovery timeout",
-    "CtrlS Datacenters: company discovery timeout",
-    "Cuelogic Technologies: company discovery timeout",
-    "Cuemath: company discovery timeout",
-    "Cummins India (IT): company discovery timeout",
-    "Cupra India (IT): company discovery timeout",
-    "Cure.fit (Cult.fit): company discovery timeout",
-    "CureFit Healthcare: company discovery timeout",
-    "Cyfuture: company discovery timeout",
-    "D-Mart (IT): company discovery timeout",
-    "Dailyhunt: company discovery timeout",
-    "Daimler India: company discovery timeout",
-    "Daimler India (IT): company discovery timeout",
-    "Datamatics: company discovery timeout",
-    "DBFS (IT): company discovery timeout",
-    "DBS Bank India: company discovery timeout",
-    "DealShare: company discovery timeout",
-    "Deutsche Bank: company discovery timeout",
-    "Dhan (IT): company discovery timeout",
-    "Dhanlaxmi Bank (IT): company discovery timeout",
-    "This operation was aborted",
-    "Digio: company discovery timeout",
-    "DigitalOcean: company discovery timeout",
-    "Dish Network Technologies India: company discovery timeout",
-    "District (by Zomato): company discovery timeout",
-    "DocsApp: company discovery timeout",
-    "Dolby: company discovery timeout",
-    "Dongfeng India (IT): company discovery timeout",
-    "Doosan India (IT): company discovery timeout",
-    "DraftKings: company discovery timeout",
-    "DRDO (IT): company discovery timeout",
-    "DRDO (Software Engineering): company discovery timeout",
-    "Dream11: company discovery timeout",
-    "Drift India: company discovery timeout",
-    "Drivezy (IT): company discovery timeout",
-    "Droom: company discovery timeout",
-    "DS India (IT): company discovery timeout"
+    "Cleartrip: search returned anti-bot page",
+    "Cleartrip (IT): search returned anti-bot page",
+    "Croma Digital: search returned anti-bot page",
+    "Crowe India: search returned anti-bot page"
   ]
 }
