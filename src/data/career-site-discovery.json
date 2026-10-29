@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-29T05:55:25.561Z",
+  "generatedAt": "2026-10-29T13:11:52.077Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 18,
+  "successfulCount": 2,
+  "failedCount": 16,
   "results": [
+    {
+      "company": "CIGNEX Datamatics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.datamatics.com/human-resources/job-openings",
+        "title": "Job Openings. Career Oppurtunities in Tech, Consulting ... - Datamatics",
+        "discoveredAt": "2026-10-29T13:11:45.801Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Citicorp Services India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.citi.com/location/india-jobs/287/1269750/2",
+        "title": "Job Search | Citi Careers",
+        "discoveredAt": "2026-10-29T13:11:45.872Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Algoworks Solutions",
       "found": {
@@ -5481,28 +5503,6 @@
         "discoveredAt": "2026-08-29T16:46:21.757Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Cyient DLM",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cyientdlm.com/career",
-        "title": "Cyient DLM | Integrated Electronics & Mechanical Manufacturing",
-        "discoveredAt": "2026-08-29T16:46:27.375Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "D. E. Shaw",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://deshaw.com/careers",
-        "title": "How To Join",
-        "discoveredAt": "2026-08-29T16:46:27.556Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
@@ -5513,11 +5513,9 @@
     "Aibono: search returned anti-bot page",
     "Airbus: search returned anti-bot page",
     "Airtel X Labs: search returned anti-bot page",
-    "Allsec Technologies: search returned anti-bot page",
-    "CASHe: search returned anti-bot page",
+    "Allsec Technologies: company discovery timeout",
+    "CASHe: company discovery timeout",
     "Caterham India (IT): search returned anti-bot page",
-    "CIGNEX Datamatics: search returned anti-bot page",
-    "Citicorp Services India: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
     "Claas India (IT): search returned anti-bot page",
     "Cleartrip: search returned anti-bot page",
