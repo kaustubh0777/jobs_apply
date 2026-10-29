@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-29T13:11:52.077Z",
+  "generatedAt": "2026-10-29T19:41:49.954Z",
   "batchSize": 120,
   "successfulCount": 2,
-  "failedCount": 16,
+  "failedCount": 13,
   "results": [
+    {
+      "company": "Caterham India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://caterhamcars.com/en/about/careers",
+        "title": "Careers - Job Opportunities | Caterham Cars",
+        "discoveredAt": "2026-10-29T19:41:44.700Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Claas India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.claas.com/en-in/about-claas/career-light",
+        "title": "Careers | CLAAS",
+        "discoveredAt": "2026-10-29T19:41:45.226Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "CIGNEX Datamatics",
       "found": {
@@ -5481,28 +5503,6 @@
         "discoveredAt": "2026-08-29T16:46:19.905Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Cure.fit (Cult.fit)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cure.fit/careers",
-        "title": "Careers | Cult.Fit",
-        "discoveredAt": "2026-08-29T16:46:19.192Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Cyfuture",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cyfuture.com/careers.html",
-        "title": "Careers",
-        "discoveredAt": "2026-08-29T16:46:21.757Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
@@ -5513,13 +5513,10 @@
     "Aibono: search returned anti-bot page",
     "Airbus: search returned anti-bot page",
     "Airtel X Labs: search returned anti-bot page",
-    "Allsec Technologies: company discovery timeout",
-    "CASHe: company discovery timeout",
-    "Caterham India (IT): search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
-    "Claas India (IT): search returned anti-bot page",
     "Cleartrip: search returned anti-bot page",
     "Cleartrip (IT): search returned anti-bot page",
+    "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
     "Crowe India: search returned anti-bot page"
   ]
