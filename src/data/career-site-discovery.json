@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-30T19:27:16.580Z",
+  "generatedAt": "2026-10-30T23:52:34.491Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 9,
+  "successfulCount": 1,
+  "failedCount": 7,
   "results": [
+    {
+      "company": "Damco Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.damcogroup.com/careers",
+        "title": "Explore Job Opportunities at Damco | Careers - Damco Solutions",
+        "discoveredAt": "2026-10-30T23:52:32.904Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Adobe",
       "found": {
@@ -5492,17 +5503,6 @@
         "discoveredAt": "2026-08-30T00:24:13.204Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Dacia India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://dtici.daimlertruck.com/career/",
-        "title": "Career - DTICI - Daimler Truck",
-        "discoveredAt": "2026-08-30T00:24:13.197Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
@@ -5511,9 +5511,7 @@
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
-    "Damco Solutions: search returned anti-bot page",
     "Decentro: search returned anti-bot page",
-    "Desktop Metal: search returned anti-bot page",
-    "Directi: search returned anti-bot page"
+    "Desktop Metal: search returned anti-bot page"
   ]
 }
