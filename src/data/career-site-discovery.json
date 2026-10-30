@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-30T13:03:52.645Z",
+  "generatedAt": "2026-10-30T19:27:16.580Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 2,
   "failedCount": 9,
   "results": [
+    {
+      "company": "Adobe",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adobe.com/careers.html",
+        "title": "Let&#x27;s Adobe together. | Adobe Careers",
+        "discoveredAt": "2026-10-30T19:27:14.981Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Digitrak India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.ibm.com/in-en/careers/search",
+        "title": "Search jobs | IBM Careers",
+        "discoveredAt": "2026-10-30T19:27:13.484Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Crowe India",
       "found": {
@@ -5481,39 +5503,17 @@
         "discoveredAt": "2026-08-30T00:24:13.197Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Delhivery Supply Chain",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.delhivery.com/careers?trk=public_post_reshare-text",
-        "title": "Build Your Career with Delhivery - Join India&#x27;s Leading Logistics Innovator",
-        "discoveredAt": "2026-08-30T00:24:13.217Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Algoworks Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.algoworks.com/careers/",
-        "title": "Algoworks Careers | Join and Build a Career with Global Impacts",
-        "discoveredAt": "2026-08-29T20:58:25.948Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
     "Addverb Technologies: search returned anti-bot page",
-    "Adobe: search returned anti-bot page",
     "Airtel X Labs: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
     "Damco Solutions: search returned anti-bot page",
-    "Digitrak India (IT): search returned anti-bot page",
+    "Decentro: search returned anti-bot page",
+    "Desktop Metal: search returned anti-bot page",
     "Directi: search returned anti-bot page"
   ]
 }
