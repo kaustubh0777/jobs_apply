@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-10-29T19:41:49.954Z",
+  "generatedAt": "2026-10-29T23:58:34.233Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 13,
+  "successfulCount": 3,
+  "failedCount": 14,
   "results": [
+    {
+      "company": "Cleartrip",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.cleartrip.com/jobs/",
+        "title": "Cleartrip",
+        "discoveredAt": "2026-10-29T23:58:28.816Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Cleartrip (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.cleartrip.com/jobs/",
+        "title": "Cleartrip",
+        "discoveredAt": "2026-10-29T23:58:28.764Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Dezerv",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.dezerv.in/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-10-29T23:58:30.697Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Caterham India (IT)",
       "found": {
@@ -5470,54 +5503,22 @@
         "discoveredAt": "2026-08-29T16:46:16.669Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Cleartrip (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.cleartrip.ae/careers",
-        "title": "Careers at Cleartrip - Join Our Team",
-        "discoveredAt": "2026-08-29T16:46:16.873Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "CrowdStrike",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.crowdstrike.com/en-us/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-08-29T16:46:16.640Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Cure.fit",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cure.fit/careers",
-        "title": "Careers | Cult.Fit",
-        "discoveredAt": "2026-08-29T16:46:19.905Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
     "Addverb Technologies: search returned anti-bot page",
-    "Aditya Birla Money (IT): search returned anti-bot page",
+    "Aditya Birla Money (IT): company discovery timeout",
     "Adobe: search returned anti-bot page",
-    "Affine Analytics: search returned anti-bot page",
-    "Aibono: search returned anti-bot page",
-    "Airbus: search returned anti-bot page",
+    "Affine Analytics: company discovery timeout",
+    "Aibono: company discovery timeout",
+    "Airbus: company discovery timeout",
     "Airtel X Labs: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
-    "Cleartrip: search returned anti-bot page",
-    "Cleartrip (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
-    "Crowe India: search returned anti-bot page"
+    "Crowe India: search returned anti-bot page",
+    "Dacia India (IT): search returned anti-bot page",
+    "Darwinbox HR Tech: search returned anti-bot page",
+    "Directi: search returned anti-bot page"
   ]
 }
