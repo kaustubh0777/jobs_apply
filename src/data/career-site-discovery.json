@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T05:56:29.357Z",
+  "generatedAt": "2026-10-30T13:03:52.645Z",
   "batchSize": 120,
-  "successfulCount": 5,
-  "failedCount": 7,
+  "successfulCount": 0,
+  "failedCount": 9,
   "results": [
     {
       "company": "Crowe India",
@@ -5512,6 +5512,8 @@
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
+    "Damco Solutions: search returned anti-bot page",
+    "Digitrak India (IT): search returned anti-bot page",
     "Directi: search returned anti-bot page"
   ]
 }
