@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-10-29T23:58:34.233Z",
+  "generatedAt": "2026-10-30T05:56:29.357Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 14,
+  "successfulCount": 5,
+  "failedCount": 7,
   "results": [
+    {
+      "company": "Crowe India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.crowe.com/careers",
+        "title": "Careers | Crowe",
+        "discoveredAt": "2026-10-30T05:56:28.504Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Dacia India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://dtici.daimlertruck.com/career/",
+        "title": "Career - DTICI - Daimler Truck",
+        "discoveredAt": "2026-10-30T05:56:28.492Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Daffodil Software Pvt Ltd",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.daffodilsw.com/career/",
+        "title": "Careers & Culture at Daffodil Software",
+        "discoveredAt": "2026-10-30T05:56:28.491Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Darwinbox HR Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://darwinbox.com/careers",
+        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
+        "discoveredAt": "2026-10-30T05:56:28.548Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Delhivery Supply Chain",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.delhivery.com/careers?trk=public_post_comment-text",
+        "title": "Build Your Career with Delhivery - Join India&#x27;s Leading Logistics Innovator",
+        "discoveredAt": "2026-10-30T05:56:28.490Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Cleartrip",
       "found": {
@@ -5448,77 +5503,15 @@
         "discoveredAt": "2026-08-29T20:58:25.948Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Bajaj Allianz Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://webtracker.bajajallianz.com/careers/",
-        "title": "Insert title here - Bajaj Allianz",
-        "discoveredAt": "2026-08-29T20:58:26.154Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Cigniti Technologies",
-      "found": {
-        "source": "smartrecruiters",
-        "confidence": 70,
-        "url": "https://careers.smartrecruiters.com/CignitiTechnologiesLtd",
-        "title": "Careers at Cigniti Technologies Ltd.",
-        "discoveredAt": "2026-08-29T20:58:26.073Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Damco Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.damcogroup.com/careers",
-        "title": "Explore Job Opportunities at Damco | Careers - Damco Solutions",
-        "discoveredAt": "2026-08-29T20:58:26.170Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Bank of America Continuum Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.continuumgbl.com/careers/",
-        "title": "Careers | Continuum Global Solutions",
-        "discoveredAt": "2026-08-29T16:46:16.903Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Cleartrip",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.cleartrip.ae/careers",
-        "title": "Careers at Cleartrip - Join Our Team",
-        "discoveredAt": "2026-08-29T16:46:16.669Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
     "Addverb Technologies: search returned anti-bot page",
-    "Aditya Birla Money (IT): company discovery timeout",
     "Adobe: search returned anti-bot page",
-    "Affine Analytics: company discovery timeout",
-    "Aibono: company discovery timeout",
-    "Airbus: company discovery timeout",
     "Airtel X Labs: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
     "Croma Digital: search returned anti-bot page",
-    "Crowe India: search returned anti-bot page",
-    "Dacia India (IT): search returned anti-bot page",
-    "Darwinbox HR Tech: search returned anti-bot page",
     "Directi: search returned anti-bot page"
   ]
 }
