@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-31T12:42:50.193Z",
+  "generatedAt": "2026-10-31T18:37:32.271Z",
   "batchSize": 120,
-  "successfulCount": 3,
-  "failedCount": 3,
+  "successfulCount": 1,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "Crofarm (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://crofarm-talent.freshteam.com/jobs",
+        "title": "Careers - Freshteam",
+        "discoveredAt": "2026-10-31T18:37:30.320Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Airtel X Labs",
       "found": {
@@ -5492,22 +5503,9 @@
         "discoveredAt": "2026-08-30T19:20:47.432Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Directi",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://builtin.com/company/directi/jobs",
-        "title": "Directi Jobs + Careers | Built In",
-        "discoveredAt": "2026-08-30T19:20:45.806Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "Addverb Technologies: search returned anti-bot page",
-    "Crofarm (IT): search returned anti-bot page",
     "Decentro: search returned anti-bot page"
   ]
 }
