@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-30T23:52:34.491Z",
+  "generatedAt": "2026-10-31T05:53:33.350Z",
   "batchSize": 120,
-  "successfulCount": 1,
-  "failedCount": 7,
+  "successfulCount": 2,
+  "failedCount": 6,
   "results": [
+    {
+      "company": "Croma Digital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.croma.com/careers-at-croma",
+        "title": "Career Opportunities at Croma | Buy Electronic Appliances online | Croma",
+        "discoveredAt": "2026-10-31T05:53:31.396Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Desktop Metal",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.desktopmetal.com/careers",
+        "title": "Partner with the binder jetting leaders | Desktop Metal",
+        "discoveredAt": "2026-10-31T05:53:31.646Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Damco Solutions",
       "found": {
@@ -5481,28 +5503,6 @@
         "discoveredAt": "2026-08-30T08:22:06.816Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Deutsche Bank Global Technology India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.db.com/explore-the-bank/careers-in-technology/",
-        "title": "Careers in Technology - Deutsche Bank Careers",
-        "discoveredAt": "2026-08-30T08:22:06.836Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Bain & Company India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.bain.com/careers",
-        "title": "Careers at Bain | Bain & Company",
-        "discoveredAt": "2026-08-30T00:24:13.204Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
@@ -5510,8 +5510,7 @@
     "Airtel X Labs: search returned anti-bot page",
     "Citroen India (IT): search returned anti-bot page",
     "Crofarm (IT): search returned anti-bot page",
-    "Croma Digital: search returned anti-bot page",
-    "Decentro: search returned anti-bot page",
-    "Desktop Metal: search returned anti-bot page"
+    "Daf India (IT): search returned anti-bot page",
+    "Decentro: search returned anti-bot page"
   ]
 }
