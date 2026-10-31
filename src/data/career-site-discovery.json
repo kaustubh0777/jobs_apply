@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-31T18:37:32.271Z",
+  "generatedAt": "2026-10-31T23:26:59.326Z",
   "batchSize": 120,
   "successfulCount": 1,
-  "failedCount": 1,
+  "failedCount": 0,
   "results": [
+    {
+      "company": "Decentro",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://decentro.tech/careers",
+        "title": "We&#x27;re hiring | Fintech Jobs at API Banking Platform - Decentro",
+        "discoveredAt": "2026-10-31T23:26:59.322Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Crofarm (IT)",
       "found": {
@@ -5492,20 +5503,7 @@
         "discoveredAt": "2026-08-30T22:48:39.965Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Dezerv",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.dezerv.co/pages/dezerv-careers",
-        "title": "Dezerv Careers - Dezerv Digital",
-        "discoveredAt": "2026-08-30T19:20:47.432Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
-  "failures": [
-    "Decentro: search returned anti-bot page"
-  ]
+  "failures": []
 }
