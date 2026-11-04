@@ -1,9 +1,207 @@
 {
-  "generatedAt": "2026-11-04T18:03:57.706Z",
+  "generatedAt": "2026-11-04T23:46:04.189Z",
   "batchSize": 120,
-  "successfulCount": 12,
-  "failedCount": 108,
+  "successfulCount": 18,
+  "failedCount": 56,
   "results": [
+    {
+      "company": "HashiCorp",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.hashicorp.com/en/careers",
+        "title": "Careers Overview - HashiCorp",
+        "discoveredAt": "2026-11-04T23:45:23.951Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Hino India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hino.co.in/careers/",
+        "title": "Careers - HINO",
+        "discoveredAt": "2026-11-04T23:45:25.870Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Locus",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://locus.com/careers",
+        "title": "Locus careers",
+        "discoveredAt": "2026-11-04T23:45:29.334Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Locus.sh",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://locus.sh/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:27.128Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Majesco",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.majesco.com/why-majesco/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:51.746Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Marlabs",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://marlabs.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:50.579Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Marriott (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://marriott.com/careers",
+        "title": "Marriott International Careers | Find Job & Career Opportunities",
+        "discoveredAt": "2026-11-04T23:45:51.526Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Maruti Suzuki (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://marutisuzuki.com/corporate/careers",
+        "title": "WORK WITH US",
+        "discoveredAt": "2026-11-04T23:45:51.434Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Maruti Techlabs",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://marutitechlabs.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:52.114Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Mastercard",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://mastercard.com/careers",
+        "title": "Careers at Mastercard | Search Jobs and Opportunities",
+        "discoveredAt": "2026-11-04T23:45:54.163Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "McCormick India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://mccormickindia.com/pages/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:53.075Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Mensa Brands",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://mensabrands.com/join-us.html",
+        "title": "Join Us",
+        "discoveredAt": "2026-11-04T23:45:54.377Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Micron",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.micron.com/about/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:54.734Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Mindteck",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://mindteck.com/career",
+        "title": "Mindteck Careers",
+        "discoveredAt": "2026-11-04T23:45:55.959Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "MoEngage",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://moengage.com/careers/",
+        "title": "Careers Join our team, make an impact",
+        "discoveredAt": "2026-11-04T23:45:56.449Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Moj",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://moj.com/job-openings/",
+        "title": "Job Openings",
+        "discoveredAt": "2026-11-04T23:45:56.681Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Molbio Diagnostics",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://molbiodiagnostics.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:59.041Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "MoneyTap",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://moneytap.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T23:45:58.338Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Hilton Technology India",
       "found": {
@@ -5305,256 +5503,58 @@
         "discoveredAt": "2026-09-05T10:42:28.342Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Nagarro",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nagarro.com/careers",
-        "title": "Careers | Nagarro",
-        "discoveredAt": "2026-09-05T10:42:31.432Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "NASDAQ",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nasdaq.com/about/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:29.352Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "NestAway (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://nestaway.com/careers",
-        "title": "Explore exciting career opportunities at Nestaway! Join our dynamic team and be part of revolutionizing the home rental experience. Apply now!",
-        "discoveredAt": "2026-09-05T10:42:29.655Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Net Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://netsolutions.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:29.368Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Fidelity National Information Services India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.fisglobal.com/careers",
-        "title": "Careers | FIS",
-        "discoveredAt": "2026-09-05T04:36:15.919Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Force Motors India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://myinternships.in/jobs-at/force-motors",
-        "title": "Force Motors Careers 2026 — 46 Job Openings, Apply Free",
-        "discoveredAt": "2026-09-05T04:36:15.946Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Globant India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.globant.com/careers",
-        "title": "Our Careers - Globant",
-        "discoveredAt": "2026-09-05T04:36:15.879Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "HCL-Foxconn Semiconductor",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.hcltech.com/careers/explore-hcl-america",
-        "title": "Current Career & Job Openings in USA | HCLTech",
-        "discoveredAt": "2026-09-05T04:36:15.941Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "HDFC Life Insurance Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.hdfclife.com/hdfc-careers/",
-        "title": "HDFC Life Careers - Life Insurance Company",
-        "discoveredAt": "2026-09-05T04:36:15.917Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "ICICI Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.icicicareers.com/CareerApplicant/Career/Home",
-        "title": "Career opportunities",
-        "discoveredAt": "2026-09-05T04:36:17.139Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "ICICI Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://icicisecurities.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:36:16.858Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "IDBI Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://idbibank.com/idbi-bank-careers.aspx",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:36:18.701Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "IDfy",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://idfy.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:36:16.820Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "IIFL Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://iiflsecurities.com/careers",
-        "title": "Open Demat Account Online: Start Investing with our Premium Services | IIFL Capital Services",
-        "discoveredAt": "2026-09-05T04:36:20.750Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Indus Valley Partners",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://indusvalleypartners.com/career",
-        "title": "Careers - Indus Valley Partners",
-        "discoveredAt": "2026-09-05T04:36:33.031Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Innovaccer",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://innovaccer.com/careers",
-        "title": "Career",
-        "discoveredAt": "2026-09-05T04:36:34.140Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "InsuranceDekho",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://pos.insurancedekho.com/insurance/insurance-as-a-career-option-for-housewives",
-        "title": "Insurance Job For Housewife",
-        "discoveredAt": "2026-09-05T04:36:36.886Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Inventure Growth (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://inventuregrowth.com/career",
-        "title": "Career",
-        "discoveredAt": "2026-09-05T04:36:41.034Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Expedia: company discovery timeout",
-    "Fi Money: company discovery timeout",
-    "This operation was aborted",
-    "Fraazo (IT): company discovery timeout",
-    "GlobalFoundries India: company discovery timeout",
-    "Haval India (IT): company discovery timeout",
-    "HCL-Foxconn Semiconductor: company discovery timeout",
-    "HDFC Life Insurance Tech: company discovery timeout",
-    "HDFC Securities Tech: company discovery timeout",
-    "HealthKart: company discovery timeout",
-    "Hidden Brains InfoTech: company discovery timeout",
-    "Hike Messenger: company discovery timeout",
-    "Hino India (IT): search returned anti-bot page",
+    "Go Digit General Insurance: search returned anti-bot page",
+    "Golaz India (IT): search returned anti-bot page",
+    "Goldman Sachs Engineering India: search returned anti-bot page",
+    "Healthkart Nutrabox: search returned anti-bot page",
     "Hitachi Consulting India: search returned anti-bot page",
-    "Hyundai India (IT): company discovery timeout",
+    "HSBC Global Technology India: search returned anti-bot page",
     "ICE Data Services India: search returned anti-bot page",
-    "IFCI (IT): company discovery timeout",
-    "IIFL Finance (IT): company discovery timeout",
-    "Incred Capital (IT): company discovery timeout",
-    "IndiaLends: company discovery timeout",
-    "Indian Bank (IT): company discovery timeout",
-    "Indian Overseas Bank (IT): company discovery timeout",
-    "Indifi Technologies: company discovery timeout",
-    "INDmoney: company discovery timeout",
-    "Indo Farm India (IT): company discovery timeout",
-    "IndusInd Bank (IT): company discovery timeout",
-    "IndusInd Securities (IT): company discovery timeout",
-    "Infineon Technologies India: company discovery timeout",
-    "Infoline (IT): company discovery timeout",
-    "Innova Solutions India: company discovery timeout",
-    "Innovaccer: company discovery timeout",
-    "Innovaccer Analytics: company discovery timeout",
-    "Innover Digital: company discovery timeout",
-    "Instamojo: company discovery timeout",
-    "InsuranceDekho: company discovery timeout",
-    "Intellect Design Arena: company discovery timeout",
-    "Intello Labs: company discovery timeout",
-    "Intello Labs (IT): company discovery timeout",
-    "InterContinental (IT): company discovery timeout",
-    "IntrCity (IT): company discovery timeout",
-    "Intuit: company discovery timeout",
-    "Inventure Growth (IT): company discovery timeout",
-    "IOCL (IT): company discovery timeout",
-    "IRDAI (IT): company discovery timeout",
-    "IREDA (IT): company discovery timeout",
-    "Ironclad: company discovery timeout",
-    "ISRO (IT): company discovery timeout",
-    "ISRO (Software Engineering): company discovery timeout",
-    "ITC Hotels (IT): company discovery timeout",
-    "ITI Limited: company discovery timeout"
+    "Jupiter Money: company discovery timeout",
+    "L&T Infotech (Merged): search returned anti-bot page",
+    "Lifan India (IT): search returned anti-bot page",
+    "Lifestyle (IT): company discovery timeout",
+    "Lister India (IT): company discovery timeout",
+    "Lithium Urban (IT): company discovery timeout",
+    "LiuGong India (IT): company discovery timeout",
+    "Livspace: company discovery timeout",
+    "Loadshare Networks: company discovery timeout",
+    "Lockheed Martin India: company discovery timeout",
+    "LogMeIn: company discovery timeout",
+    "Lonking India (IT): company discovery timeout",
+    "Loom: company discovery timeout",
+    "Lordstown India (IT): company discovery timeout",
+    "Lovol India (IT): company discovery timeout",
+    "Lowe's: company discovery timeout",
+    "LTI: company discovery timeout",
+    "LuAZ India (IT): company discovery timeout",
+    "Lucid: company discovery timeout",
+    "Lucid India (IT): company discovery timeout",
+    "Lybrate: company discovery timeout",
+    "Lybrate Health: company discovery timeout",
+    "M2P Fintech: company discovery timeout",
+    "Mack India (IT): company discovery timeout",
+    "Macquarie Group India: company discovery timeout",
+    "Mad Street Den: company discovery timeout",
+    "MagicBricks: company discovery timeout",
+    "Magicbricks (IT): company discovery timeout",
+    "Mahindra Electric: company discovery timeout",
+    "Mahindra Electric (IT): company discovery timeout",
+    "Mahindra Finance (IT): company discovery timeout",
+    "Mahindra Logistics: company discovery timeout",
+    "Mahindra Securities (IT): company discovery timeout",
+    "MakeMyTrip: company discovery timeout",
+    "MakeMyTrip (IT): company discovery timeout",
+    "Man India (IT): company discovery timeout",
+    "Manappuram Finance (IT): company discovery timeout",
+    "Massey Ferguson India (IT): search returned anti-bot page",
+    "Mastek: company discovery timeout",
+    "MathWorks: search returned anti-bot page",
+    "Meatigo (IT): search returned anti-bot page",
+    "Medlife: company discovery timeout",
+    "Meru (IT): search returned anti-bot page"
   ]
 }
