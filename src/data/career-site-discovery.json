@@ -1,9 +1,141 @@
 {
-  "generatedAt": "2026-11-04T09:25:58.084Z",
+  "generatedAt": "2026-11-04T18:03:57.706Z",
   "batchSize": 120,
-  "successfulCount": 27,
-  "failedCount": 93,
+  "successfulCount": 12,
+  "failedCount": 108,
   "results": [
+    {
+      "company": "Hilton Technology India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://hiltonglobal.in/careers",
+        "title": "Careers | Hilton Software Technologies Pvt Ltd.",
+        "discoveredAt": "2026-11-04T18:02:45.259Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Hinduja Global Solutions Ltd",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careerpanels.com/company-career-portals/company/hinduja-global-solutions",
+        "title": "Hinduja Global Solutions Careers, Jobs and Official Career Portal ...",
+        "discoveredAt": "2026-11-04T18:02:45.135Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IIFL Securities (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://iiflsecurities.com/careers",
+        "title": "Open Demat Account Online: Start Investing with our Premium Services | IIFL Capital Services",
+        "discoveredAt": "2026-11-04T18:02:40.967Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Indus Valley Partners",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://indusvalleypartners.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T18:02:46.383Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "KhetiGaadi",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://khetigaadi.com/career/en",
+        "title": "We Are Hiring",
+        "discoveredAt": "2026-11-04T18:03:33.157Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Kissflow",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://kissflow.com/careers",
+        "title": "Careers - Kissflow",
+        "discoveredAt": "2026-11-04T18:03:35.069Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "KLA",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://kla.com/careers",
+        "title": "KLA careers",
+        "discoveredAt": "2026-11-04T18:03:34.321Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Komatsu India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://komatsuindia.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T18:03:35.699Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "KreditBee",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://kreditbee.darwinbox.in/ms/candidatev2/main/careers/home",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T18:03:42.292Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "L&T Finance (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://ltfinance.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-04T18:03:43.269Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Lam Research",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://lamresearch.com/careers/careers-overview/",
+        "title": "Careers Overview Overview",
+        "discoveredAt": "2026-11-04T18:03:43.360Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Lexus India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://lexusindia.in/careers.html",
+        "title": "Administrator",
+        "discoveredAt": "2026-11-04T18:03:46.829Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Exotel",
       "found": {
@@ -5371,190 +5503,58 @@
         "discoveredAt": "2026-09-05T04:36:41.034Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Jupiter",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://jupiter.com/jobs",
-        "title": "About Jupiter | 40+ Years of Video Wall Innovation",
-        "discoveredAt": "2026-09-05T04:37:08.350Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Juspay",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://juspay.in/careers",
-        "title": "Careers Join a team of engineers, artists, musicians, and designers, building payments infrastructure for the global economy.",
-        "discoveredAt": "2026-09-05T04:37:07.089Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Kaleyra",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kaleyra.com/careers",
-        "title": "Career Portal",
-        "discoveredAt": "2026-09-05T04:37:06.383Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Karnataka Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://karnatakabank.com/careers",
-        "title": "Careers At Karnataka Bank : Join Our Team and Shape Your Future",
-        "discoveredAt": "2026-09-05T04:37:07.885Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "KhetiGaadi",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://khetigaadi.com/career/en",
-        "title": "We Are Hiring",
-        "discoveredAt": "2026-09-05T04:37:12.353Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Kissflow",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kissflow.com/careers",
-        "title": "Careers - Kissflow",
-        "discoveredAt": "2026-09-05T04:37:14.340Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "KLA",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kla.com/careers/events",
-        "title": "Recruiting",
-        "discoveredAt": "2026-09-05T04:37:13.822Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Komatsu India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://komatsuindia.in/company/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:37:23.495Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Kotak Securities (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.kotakneo.com/about-us/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:37:19.363Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "KreditBee",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://kreditbee.com/careers",
-        "title": "KreditBee",
-        "discoveredAt": "2026-09-05T04:37:22.507Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "L&T Finance (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://ltfinance.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T04:37:23.441Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Exotel",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://exotel.com/about-us/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T00:09:23.230Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Faasos (Rebel Foods): company discovery timeout",
-    "Fasal: company discovery timeout",
-    "Fasal (IT): company discovery timeout",
-    "Fi Money: search returned anti-bot page",
-    "Fibe (EarlySalary): company discovery timeout",
-    "FireEye: company discovery timeout",
-    "Flipkart Quick (IT): company discovery timeout",
-    "Force Motors India (IT): search returned anti-bot page",
-    "Fraazo (IT): search returned anti-bot page",
-    "Fractal: company discovery timeout",
-    "Fractal AI: company discovery timeout",
-    "Freshmenu: company discovery timeout",
-    "FreshToHome: company discovery timeout",
-    "FreshToHome (IT): company discovery timeout",
-    "FSS (Financial Software & Systems): company discovery timeout",
-    "Fujitsu Consulting India: company discovery timeout",
-    "Fyers (IT): company discovery timeout",
-    "Fyle: company discovery timeout",
-    "Gaana (Times Internet): company discovery timeout",
-    "GAC India (IT): company discovery timeout",
-    "GAIL (IT): company discovery timeout",
-    "Games24x7: company discovery timeout",
-    "Garena India: company discovery timeout",
-    "Gati Limited: company discovery timeout",
-    "Gaz India (IT): company discovery timeout",
-    "GE Aviation India: company discovery timeout",
-    "GE Digital India: company discovery timeout",
-    "Geely India (IT): company discovery timeout",
-    "Genpact: company discovery timeout",
-    "Geojit Financial Services (IT): company discovery timeout",
-    "Ginetta India (IT): company discovery timeout",
-    "Giottus Crypto: company discovery timeout",
-    "GitHub: company discovery timeout",
-    "Gitpod: company discovery timeout",
-    "Gleaner India (IT): company discovery timeout",
-    "GlobalBees: company discovery timeout",
-    "GlobalLogic: company discovery timeout",
-    "GlobalLogic (Hitachi): company discovery timeout",
-    "Globant India: company discovery timeout",
-    "Gnani.ai: company discovery timeout",
-    "Goibibo: company discovery timeout",
-    "Goibibo (IT): company discovery timeout",
-    "Gojek: company discovery timeout",
-    "Goldman Sachs: company discovery timeout",
-    "GoodDot (IT): company discovery timeout",
-    "Grafana: company discovery timeout",
-    "Gramener: company discovery timeout",
-    "Grammarly: company discovery timeout",
-    "Grant Thornton India: company discovery timeout",
-    "Grazitti Interactive: company discovery timeout"
+    "Expedia: company discovery timeout",
+    "Fi Money: company discovery timeout",
+    "This operation was aborted",
+    "Fraazo (IT): company discovery timeout",
+    "GlobalFoundries India: company discovery timeout",
+    "Haval India (IT): company discovery timeout",
+    "HCL-Foxconn Semiconductor: company discovery timeout",
+    "HDFC Life Insurance Tech: company discovery timeout",
+    "HDFC Securities Tech: company discovery timeout",
+    "HealthKart: company discovery timeout",
+    "Hidden Brains InfoTech: company discovery timeout",
+    "Hike Messenger: company discovery timeout",
+    "Hino India (IT): search returned anti-bot page",
+    "Hitachi Consulting India: search returned anti-bot page",
+    "Hyundai India (IT): company discovery timeout",
+    "ICE Data Services India: search returned anti-bot page",
+    "IFCI (IT): company discovery timeout",
+    "IIFL Finance (IT): company discovery timeout",
+    "Incred Capital (IT): company discovery timeout",
+    "IndiaLends: company discovery timeout",
+    "Indian Bank (IT): company discovery timeout",
+    "Indian Overseas Bank (IT): company discovery timeout",
+    "Indifi Technologies: company discovery timeout",
+    "INDmoney: company discovery timeout",
+    "Indo Farm India (IT): company discovery timeout",
+    "IndusInd Bank (IT): company discovery timeout",
+    "IndusInd Securities (IT): company discovery timeout",
+    "Infineon Technologies India: company discovery timeout",
+    "Infoline (IT): company discovery timeout",
+    "Innova Solutions India: company discovery timeout",
+    "Innovaccer: company discovery timeout",
+    "Innovaccer Analytics: company discovery timeout",
+    "Innover Digital: company discovery timeout",
+    "Instamojo: company discovery timeout",
+    "InsuranceDekho: company discovery timeout",
+    "Intellect Design Arena: company discovery timeout",
+    "Intello Labs: company discovery timeout",
+    "Intello Labs (IT): company discovery timeout",
+    "InterContinental (IT): company discovery timeout",
+    "IntrCity (IT): company discovery timeout",
+    "Intuit: company discovery timeout",
+    "Inventure Growth (IT): company discovery timeout",
+    "IOCL (IT): company discovery timeout",
+    "IRDAI (IT): company discovery timeout",
+    "IREDA (IT): company discovery timeout",
+    "Ironclad: company discovery timeout",
+    "ISRO (IT): company discovery timeout",
+    "ISRO (Software Engineering): company discovery timeout",
+    "ITC Hotels (IT): company discovery timeout",
+    "ITI Limited: company discovery timeout"
   ]
 }
