@@ -1,9 +1,97 @@
 {
-  "generatedAt": "2026-11-05T06:57:40.934Z",
+  "generatedAt": "2026-11-05T16:32:24.266Z",
   "batchSize": 120,
-  "successfulCount": 16,
-  "failedCount": 67,
+  "successfulCount": 8,
+  "failedCount": 96,
   "results": [
+    {
+      "company": "Go Digit General Insurance",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.godigit.com/careers",
+        "title": "Careers at Digit Insurance | Join us",
+        "discoveredAt": "2026-11-05T16:31:17.624Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Goldman Sachs Engineering India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.goldmansachs.com/worldwide/india/engineering-careers",
+        "title": "Engineering Excellence - Goldman Sachs",
+        "discoveredAt": "2026-11-05T16:31:17.692Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Hexaware Global Services",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+        "title": "Search Jobs - HEXAWARE Careers",
+        "discoveredAt": "2026-11-05T16:31:17.644Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Nutanix",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nutanix.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T16:31:32.487Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nvidia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T16:31:33.185Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ola Electric (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://olaelectric.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T16:31:40.144Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Palo Alto Networks",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://paloaltonetworks.com/careers",
+        "title": "Explore Careers and Jobs in Cybersecurity at Palo Alto Networks",
+        "discoveredAt": "2026-11-05T16:31:54.504Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "PayU",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://payu.in/careers?locale=en_GB&previewCategory=true&referrerSave=false",
+        "title": "PayU Jobs",
+        "discoveredAt": "2026-11-05T16:31:54.256Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "More Retail (IT)",
       "found": {
@@ -5415,146 +5503,58 @@
         "discoveredAt": "2026-09-05T15:19:25.520Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "OutSystems",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://outsystems.com/careers",
-        "title": "Welcome to OutSystems Careers | OutSystems",
-        "discoveredAt": "2026-09-05T15:19:45.730Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Palo Alto Networks",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://paloaltonetworks.com/careers",
-        "title": "Explore Careers and Jobs in Cybersecurity at Palo Alto Networks",
-        "discoveredAt": "2026-09-05T15:19:46.525Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "HashiCorp",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.hashicorp.com/en/careers",
-        "title": "Careers Overview - HashiCorp",
-        "discoveredAt": "2026-09-05T10:41:30.530Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Hyundai India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://hyundaiindia.com/careers",
-        "title": "hyundaiindia.com",
-        "discoveredAt": "2026-09-05T10:41:31.355Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Lam Research",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.lamresearch.com/careers/careers-overview/",
-        "title": "Careers Overview >",
-        "discoveredAt": "2026-09-05T10:41:32.195Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Lexus India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://lexusindia.in/careers.html",
-        "title": "Administrator",
-        "discoveredAt": "2026-09-05T10:41:41.245Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Liebherr India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://liebherrindia.com/en-in/careers/careers-4197868",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:41:41.918Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "LiuGong India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://liugongindia.com/careers",
-        "title": "Careers &#8211; LiuGong India Pvt. Ltd.",
-        "discoveredAt": "2026-09-05T10:41:43.773Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Go Digit General Insurance: search returned anti-bot page",
-    "Golaz India (IT): company discovery timeout",
-    "Goldman Sachs Engineering India: search returned anti-bot page",
     "Grofers (Blinkit): search returned anti-bot page",
     "Healthkart Nutrabox: search returned anti-bot page",
-    "This operation was aborted",
-    "This operation was aborted",
-    "This operation was aborted",
-    "L&T Infotech (Merged): company discovery timeout",
+    "Hyundai Ce India (IT): search returned anti-bot page",
+    "IBM Consulting India: search returned anti-bot page",
+    "ICICI Lombard Tech: search returned anti-bot page",
+    "ICICI Prudential Tech: search returned anti-bot page",
     "Lifan India (IT): search returned anti-bot page",
-    "Massey Ferguson India (IT): company discovery timeout",
-    "MathWorks: company discovery timeout",
-    "Meatigo (IT): company discovery timeout",
-    "Meru (IT): company discovery timeout",
-    "Milkbasket (IT): company discovery timeout",
     "Mini India (IT): search returned anti-bot page",
-    "MobiKwik: company discovery timeout",
     "MobiKwik (IT): search returned anti-bot page",
     "Monarch Networth (IT): search returned anti-bot page",
     "Monday.com India: search returned anti-bot page",
     "Moody's Corporation India: search returned anti-bot page",
     "Morgan India (IT): search returned anti-bot page",
     "Morgan Stanley Advantage Services India: search returned anti-bot page",
-    "Motilal Oswal Digital: company discovery timeout",
-    "Mphasis F1 Soft: company discovery timeout",
-    "MPL: company discovery timeout",
-    "MPL (Mobile Premier League): company discovery timeout",
-    "MSCI India: company discovery timeout",
-    "MTNL (IT): company discovery timeout",
-    "Mu Sigma: company discovery timeout",
-    "Mudrex: company discovery timeout",
-    "Muthoot Finance (IT): company discovery timeout",
-    "Muthoot Fincorp Tech: company discovery timeout",
-    "MX Player: company discovery timeout",
-    "Myles (IT): company discovery timeout",
     "Myntra Pay (IT): search returned anti-bot page",
-    "NABARD (IT): company discovery timeout",
     "Naggaro: search returned anti-bot page",
     "Nainital Bank (IT): search returned anti-bot page",
     "NatWest Group India: search returned anti-bot page",
     "Nefaz India (IT): search returned anti-bot page",
     "Nestle India: search returned anti-bot page",
-    "NetApp: company discovery timeout",
-    "Netmeds: company discovery timeout",
     "Netmeds Pharmacy: search returned anti-bot page",
     "NetSol Technologies India: search returned anti-bot page",
     "Newgen Software: search returned anti-bot page",
-    "NHB (IT): search returned anti-bot page",
-    "NHPC (IT): company discovery timeout",
-    "NIC: company discovery timeout"
+    "NHB (IT): company discovery timeout",
+    "Niki.ai: search returned anti-bot page",
+    "Nikola India (IT): search returned anti-bot page",
+    "Nio India (IT): search returned anti-bot page",
+    "Niramai Health: search returned anti-bot page",
+    "Nissan India (IT): company discovery timeout",
+    "NiYO Solutions: search returned anti-bot page",
+    "Nokia India (IT Services): search returned anti-bot page",
+    "Nokia Solutions and Networks India: search returned anti-bot page",
+    "Nomura India: search returned anti-bot page",
+    "Northern Trust India: search returned anti-bot page",
+    "Novartis India: search returned anti-bot page",
+    "This operation was aborted",
+    "NTT DATA Business Solutions India: search returned anti-bot page",
+    "NTT Data India: search returned anti-bot page",
+    "Nuvepro: company discovery timeout",
+    "NxtWave: company discovery timeout",
+    "Nykaa: company discovery timeout",
+    "Nykaa Fashion: company discovery timeout",
+    "OkCredit: company discovery timeout",
+    "Ola: company discovery timeout",
+    "Ola (IT): company discovery timeout",
+    "Ola Electric: company discovery timeout",
+    "Ola Money (IT): company discovery timeout",
+    "OneCard: company discovery timeout",
+    "ONGC (IT): company discovery timeout",
+    "Onward Technologies: company discovery timeout"
   ]
 }
