@@ -1,9 +1,185 @@
 {
-  "generatedAt": "2026-11-04T23:46:04.189Z",
+  "generatedAt": "2026-11-05T06:57:40.934Z",
   "batchSize": 120,
-  "successfulCount": 18,
-  "failedCount": 56,
+  "successfulCount": 16,
+  "failedCount": 67,
   "results": [
+    {
+      "company": "More Retail (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://moreretail.in/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:02.298Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Morgan Stanley",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://morganstanley.com/careers/career-opportunities-search",
+        "title": "Search All Opportunities",
+        "discoveredAt": "2026-11-05T06:57:01.951Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Motilal Oswal (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://motilaloswal.com/careers",
+        "title": "Careers at Motilal Oswal | Join MOFSL",
+        "discoveredAt": "2026-11-05T06:57:03.013Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Myntra",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://myntra.in/careers",
+        "title": "myntra.in&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;Pant Resources and Information.",
+        "discoveredAt": "2026-11-05T06:57:16.215Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "MyOperator",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://myoperator.com/careers",
+        "title": "Careers Join our growing team of entrepreneurs",
+        "discoveredAt": "2026-11-05T06:57:16.328Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nagarro",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nagarro.com/en/careers?hsLang=en",
+        "title": "careers",
+        "discoveredAt": "2026-11-05T06:57:17.806Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "NASDAQ",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nasdaq.com/about/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:17.308Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "NestAway (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nestaway.com/careers",
+        "title": "Explore exciting career opportunities at Nestaway! Join our dynamic team and be part of revolutionizing the home rental experience. Apply now!",
+        "discoveredAt": "2026-11-05T06:57:18.730Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Net Solutions",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://netsolutions.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:18.637Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nike",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nike.com/careers",
+        "title": "Nike Careers",
+        "discoveredAt": "2026-11-05T06:57:24.976Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Ninjacart",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:26.284Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Ninjacart (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://ninjacart.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:27.469Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Niramai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://niramai.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:26.879Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Nokia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://nokia.com/careers/",
+        "title": "Nokia Corporation | Nokia",
+        "discoveredAt": "2026-11-05T06:57:28.658Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Noom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://noom.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:29.200Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "North East Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://northeastsmallfinancebank.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-05T06:57:31.511Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "HashiCorp",
       "found": {
@@ -5327,234 +5503,58 @@
         "discoveredAt": "2026-09-05T10:41:43.773Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Locus",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://locus.com/careers",
-        "title": "Locus careers",
-        "discoveredAt": "2026-09-05T10:41:43.902Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Locus.sh",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://locus.sh/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:41:42.844Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Maruti Suzuki (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marutisuzuki.com/corporate/careers",
-        "title": "WORK WITH US",
-        "discoveredAt": "2026-09-05T10:42:07.160Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Maruti Techlabs",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://marutitechlabs.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:07.494Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mastercard",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mastercard.com/careers",
-        "title": "Careers at Mastercard | Search Jobs and Opportunities",
-        "discoveredAt": "2026-09-05T10:42:10.299Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "McCormick India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mccormickindia.com/pages/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:07.913Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mensa Brands",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mensabrands.com/join-us.html",
-        "title": "Join Us",
-        "discoveredAt": "2026-09-05T10:42:08.728Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Micron",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.micron.com/about/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:09.518Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Mindteck",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://mindteck.com/career",
-        "title": "Mindteck Website",
-        "discoveredAt": "2026-09-05T10:42:10.211Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "MoEngage",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://moengage.com/careers",
-        "title": "Work with MoEngage - Careers & Job Openings",
-        "discoveredAt": "2026-09-05T10:42:15.246Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Molbio Diagnostics",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://molbiodiagnostics.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:18.476Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "MoneyTap",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://moneytap.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:18.314Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "More Retail (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://moreretail.in/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T10:42:18.991Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Morgan Stanley",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://morganstanley.com/careers/career-opportunities-search?opportunity=sg",
-        "title": "Opportunities",
-        "discoveredAt": "2026-09-05T10:42:19.026Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Motilal Oswal (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://motilaloswal.com/careers",
-        "title": "Careers at Motilal Oswal | Join MOFSL",
-        "discoveredAt": "2026-09-05T10:42:19.242Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "MyOperator",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://myoperator.com/careers",
-        "title": "Careers Join our growing team of entrepreneurs",
-        "discoveredAt": "2026-09-05T10:42:28.342Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "Go Digit General Insurance: search returned anti-bot page",
-    "Golaz India (IT): search returned anti-bot page",
+    "Golaz India (IT): company discovery timeout",
     "Goldman Sachs Engineering India: search returned anti-bot page",
+    "Grofers (Blinkit): search returned anti-bot page",
     "Healthkart Nutrabox: search returned anti-bot page",
-    "Hitachi Consulting India: search returned anti-bot page",
-    "HSBC Global Technology India: search returned anti-bot page",
-    "ICE Data Services India: search returned anti-bot page",
-    "Jupiter Money: company discovery timeout",
-    "L&T Infotech (Merged): search returned anti-bot page",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "L&T Infotech (Merged): company discovery timeout",
     "Lifan India (IT): search returned anti-bot page",
-    "Lifestyle (IT): company discovery timeout",
-    "Lister India (IT): company discovery timeout",
-    "Lithium Urban (IT): company discovery timeout",
-    "LiuGong India (IT): company discovery timeout",
-    "Livspace: company discovery timeout",
-    "Loadshare Networks: company discovery timeout",
-    "Lockheed Martin India: company discovery timeout",
-    "LogMeIn: company discovery timeout",
-    "Lonking India (IT): company discovery timeout",
-    "Loom: company discovery timeout",
-    "Lordstown India (IT): company discovery timeout",
-    "Lovol India (IT): company discovery timeout",
-    "Lowe's: company discovery timeout",
-    "LTI: company discovery timeout",
-    "LuAZ India (IT): company discovery timeout",
-    "Lucid: company discovery timeout",
-    "Lucid India (IT): company discovery timeout",
-    "Lybrate: company discovery timeout",
-    "Lybrate Health: company discovery timeout",
-    "M2P Fintech: company discovery timeout",
-    "Mack India (IT): company discovery timeout",
-    "Macquarie Group India: company discovery timeout",
-    "Mad Street Den: company discovery timeout",
-    "MagicBricks: company discovery timeout",
-    "Magicbricks (IT): company discovery timeout",
-    "Mahindra Electric: company discovery timeout",
-    "Mahindra Electric (IT): company discovery timeout",
-    "Mahindra Finance (IT): company discovery timeout",
-    "Mahindra Logistics: company discovery timeout",
-    "Mahindra Securities (IT): company discovery timeout",
-    "MakeMyTrip: company discovery timeout",
-    "MakeMyTrip (IT): company discovery timeout",
-    "Man India (IT): company discovery timeout",
-    "Manappuram Finance (IT): company discovery timeout",
-    "Massey Ferguson India (IT): search returned anti-bot page",
-    "Mastek: company discovery timeout",
-    "MathWorks: search returned anti-bot page",
-    "Meatigo (IT): search returned anti-bot page",
-    "Medlife: company discovery timeout",
-    "Meru (IT): search returned anti-bot page"
+    "Massey Ferguson India (IT): company discovery timeout",
+    "MathWorks: company discovery timeout",
+    "Meatigo (IT): company discovery timeout",
+    "Meru (IT): company discovery timeout",
+    "Milkbasket (IT): company discovery timeout",
+    "Mini India (IT): search returned anti-bot page",
+    "MobiKwik: company discovery timeout",
+    "MobiKwik (IT): search returned anti-bot page",
+    "Monarch Networth (IT): search returned anti-bot page",
+    "Monday.com India: search returned anti-bot page",
+    "Moody's Corporation India: search returned anti-bot page",
+    "Morgan India (IT): search returned anti-bot page",
+    "Morgan Stanley Advantage Services India: search returned anti-bot page",
+    "Motilal Oswal Digital: company discovery timeout",
+    "Mphasis F1 Soft: company discovery timeout",
+    "MPL: company discovery timeout",
+    "MPL (Mobile Premier League): company discovery timeout",
+    "MSCI India: company discovery timeout",
+    "MTNL (IT): company discovery timeout",
+    "Mu Sigma: company discovery timeout",
+    "Mudrex: company discovery timeout",
+    "Muthoot Finance (IT): company discovery timeout",
+    "Muthoot Fincorp Tech: company discovery timeout",
+    "MX Player: company discovery timeout",
+    "Myles (IT): company discovery timeout",
+    "Myntra Pay (IT): search returned anti-bot page",
+    "NABARD (IT): company discovery timeout",
+    "Naggaro: search returned anti-bot page",
+    "Nainital Bank (IT): search returned anti-bot page",
+    "NatWest Group India: search returned anti-bot page",
+    "Nefaz India (IT): search returned anti-bot page",
+    "Nestle India: search returned anti-bot page",
+    "NetApp: company discovery timeout",
+    "Netmeds: company discovery timeout",
+    "Netmeds Pharmacy: search returned anti-bot page",
+    "NetSol Technologies India: search returned anti-bot page",
+    "Newgen Software: search returned anti-bot page",
+    "NHB (IT): search returned anti-bot page",
+    "NHPC (IT): company discovery timeout",
+    "NIC: company discovery timeout"
   ]
 }
