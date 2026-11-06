@@ -1,9 +1,152 @@
 {
-  "generatedAt": "2026-11-05T23:42:53.382Z",
+  "generatedAt": "2026-11-06T06:57:42.649Z",
   "batchSize": 120,
-  "successfulCount": 11,
-  "failedCount": 100,
+  "successfulCount": 13,
+  "failedCount": 107,
   "results": [
+    {
+      "company": "IBM Consulting India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.ibm.com/in-en/careers/consulting",
+        "title": "Jobs in Consulting | IBM Careers",
+        "discoveredAt": "2026-11-06T06:56:53.421Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "ICICI Prudential Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+        "title": "ICICI Careers - Explore Dream Job with a Career in ICICI Bank Ltd",
+        "discoveredAt": "2026-11-06T06:56:53.518Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IDFC FIRST Bank Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.idfcfirst.bank.in/in/en/technology-jobs",
+        "title": "Join IDFC FIRST Bank&#x27;s Technology Jobs Team",
+        "discoveredAt": "2026-11-06T06:56:53.433Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IIFL Securities Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.iifl.com/finance/career",
+        "title": "Careers with IIFL - Leading Finance Company | IIFL Finance",
+        "discoveredAt": "2026-11-06T06:56:53.427Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "IIT Research Labs Tech Transfer",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.iit.it/openings",
+        "title": "Openings - IIT",
+        "discoveredAt": "2026-11-06T06:56:53.408Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Rippling",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://rippling.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-06T06:57:23.376Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Samsung",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://samsung.com/us/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-06T06:57:30.113Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Searce",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://searce.com/join-us",
+        "title": "join the solver movement",
+        "discoveredAt": "2026-11-06T06:57:30.010Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Segment",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://segment.com/en-us/careers",
+        "title": "Careers An icon of a right chevron",
+        "discoveredAt": "2026-11-06T06:57:30.477Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "SendinBlue",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.brevo.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-06T06:57:30.872Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "SentinelOne",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sentinelone.in/careers",
+        "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster) - YouTube",
+        "discoveredAt": "2026-11-06T06:57:33.145Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "ShareChat",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://sharechat.com/careers",
+        "title": "ShareChat Moj Careers - Engineering, Tech, Product, Sales, Content and Design jobs",
+        "discoveredAt": "2026-11-06T06:57:32.887Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Shell",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://shell.com/careers",
+        "title": "Careers at Shell | Shell Global",
+        "discoveredAt": "2026-11-06T06:57:32.392Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Healthkart Nutrabox",
       "found": {
@@ -5360,149 +5503,6 @@
         "discoveredAt": "2026-09-05T18:21:43.816Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "PropTiger",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://proptiger.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:21:44.405Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "PropTiger (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://proptiger.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:21:44.918Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Publicis Sapient",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://publicissapient.com/careers",
-        "title": "Careers at Publicis Sapient",
-        "discoveredAt": "2026-09-05T18:21:45.089Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Quantiphi",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://quantiphi.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:21:46.159Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Razorpay",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://razorpay.com/jobs",
-        "title": "Razorpay Careers | Jobs, Hiring & Career Opportunities at Razorpay",
-        "discoveredAt": "2026-09-05T18:22:09.264Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Red Hat",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://redhat.com/jobs",
-        "title": "Red Hat Jobs | Opportunities are open",
-        "discoveredAt": "2026-09-05T18:22:09.100Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Refinitiv India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.lseg.com/en/careers",
-        "title": "Careers | LSEG",
-        "discoveredAt": "2026-09-05T18:22:16.105Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Reliance Communications Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.ril.com/rilcareers/index.aspx",
-        "title": "Careers Home | Reliance Industries Limited",
-        "discoveredAt": "2026-09-05T18:22:17.028Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Retool",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://retool.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:22:14.160Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Revv (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://revv.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:22:17.455Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "RingCentral",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://ringcentral.com/careers",
-        "title": "Join Our Team | RingCentral Careers",
-        "discoveredAt": "2026-09-05T18:22:18.599Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Rippling",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://rippling.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:22:18.645Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Rupeek",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://rupeek.com/careers?city=undefined",
-        "title": "Careers",
-        "discoveredAt": "2026-09-05T18:22:25.541Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
@@ -5511,25 +5511,41 @@
     "Finvasia (IT): search returned anti-bot page",
     "Grofers (Blinkit): search returned anti-bot page",
     "HSBC India: search returned anti-bot page",
-    "IBM Consulting India: search returned anti-bot page",
-    "ICICI Prudential Tech: search returned anti-bot page",
-    "IDFC FIRST Bank Tech: search returned anti-bot page",
     "iEnergizer: search returned anti-bot page",
-    "IIFL Securities Tech: search returned anti-bot page",
-    "IIT Research Labs Tech Transfer: search returned anti-bot page",
     "Imagine Meats (IT): search returned anti-bot page",
     "Indiabulls Housing Finance (IT): search returned anti-bot page",
     "Justdial Limited: search returned anti-bot page",
     "Kubota India (IT): search returned anti-bot page",
     "L&T Securities (IT): search returned anti-bot page",
+    "Lamborghini India (IT): search returned anti-bot page",
+    "Lancia India (IT): search returned anti-bot page",
     "Landini India (IT): search returned anti-bot page",
+    "Landwind India (IT): search returned anti-bot page",
+    "Larsen & Toubro Infotech: search returned anti-bot page",
+    "Laverda India (IT): search returned anti-bot page",
+    "Leena AI: search returned anti-bot page",
+    "Li Auto India (IT): search returned anti-bot page",
+    "Liaz India (IT): search returned anti-bot page",
+    "LIC Housing Finance (IT): search returned anti-bot page",
+    "LIC Technology Division: search returned anti-bot page",
     "Lifan India (IT): search returned anti-bot page",
+    "Manappuram Finance Tech: search returned anti-bot page",
+    "Marvell Technology India: search returned anti-bot page",
     "Maserati India (IT): search returned anti-bot page",
+    "Mastercard Labs India: search returned anti-bot page",
+    "Maveric Systems: search returned anti-bot page",
     "Max Fashion (IT): search returned anti-bot page",
+    "Max Life Insurance Tech: search returned anti-bot page",
     "Maybach India (IT): search returned anti-bot page",
     "McLaren India (IT): search returned anti-bot page",
     "Mentor Graphics (Siemens EDA) India: search returned anti-bot page",
+    "Mercedes-Benz India (IT): search returned anti-bot page",
+    "Mercedes-Benz R&D India: search returned anti-bot page",
+    "Merck India: search returned anti-bot page",
     "Meta India: search returned anti-bot page",
+    "Mfine Health: search returned anti-bot page",
+    "Microsoft India (IT Services): search returned anti-bot page",
+    "Mindbowser Technologies: search returned anti-bot page",
     "Mini India (IT): search returned anti-bot page",
     "MobiKwik (IT): search returned anti-bot page",
     "Monarch Networth (IT): search returned anti-bot page",
@@ -5539,22 +5555,6 @@
     "Morgan Stanley Advantage Services India: search returned anti-bot page",
     "Myntra Pay (IT): search returned anti-bot page",
     "Naggaro: search returned anti-bot page",
-    "Nainital Bank (IT): search returned anti-bot page",
-    "NatWest Group India: search returned anti-bot page",
-    "Nefaz India (IT): search returned anti-bot page",
-    "Nestle India: search returned anti-bot page",
-    "Netmeds Pharmacy: search returned anti-bot page",
-    "NetSol Technologies India: search returned anti-bot page",
-    "Newgen Software: search returned anti-bot page",
-    "Niki.ai: search returned anti-bot page",
-    "Nikola India (IT): search returned anti-bot page",
-    "Nio India (IT): search returned anti-bot page",
-    "Niramai Health: search returned anti-bot page",
-    "NiYO Solutions: search returned anti-bot page",
-    "Nokia India (IT Services): search returned anti-bot page",
-    "Nokia Solutions and Networks India: search returned anti-bot page",
-    "Nomura India: search returned anti-bot page",
-    "Northern Trust India: search returned anti-bot page",
-    "Novartis India: search returned anti-bot page"
+    "Nainital Bank (IT): search returned anti-bot page"
   ]
 }
