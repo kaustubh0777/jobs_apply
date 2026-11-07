@@ -1,9 +1,119 @@
 {
-  "generatedAt": "2026-11-07T08:54:15.177Z",
+  "generatedAt": "2026-11-07T16:31:15.028Z",
   "batchSize": 120,
-  "successfulCount": 11,
-  "failedCount": 109,
+  "successfulCount": 10,
+  "failedCount": 92,
   "results": [
+    {
+      "company": "Li Auto India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://originlic.licindia.in/careers",
+        "title": "LIC Careers - Explore Exciting Job Opportunities in Insurance ...",
+        "discoveredAt": "2026-11-07T16:30:14.861Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Lifan India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.efinancialcareers.co.uk/jobs/lifan-dynamic-200/in-india",
+        "title": "Lifan Dynamic 200 jobs in India - efinancialcareers.co.uk",
+        "discoveredAt": "2026-11-07T16:30:14.818Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Xebia",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://xebia.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T16:30:34.471Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Yahoo",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.yahooinc.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T16:30:36.841Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Yellow.ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://yellow.ai/career/",
+        "title": "Career",
+        "discoveredAt": "2026-11-07T16:30:40.917Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zluri",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zluri.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T16:30:57.938Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zoho",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoho.com/careers",
+        "title": "Zoho Corporation | Careers",
+        "discoveredAt": "2026-11-07T16:30:58.889Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zolo Stays",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zolostays.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T16:30:59.565Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Zoom",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://zoom.com/careers",
+        "title": "Careers | Zoom",
+        "discoveredAt": "2026-11-07T16:31:01.274Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Zynga",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.zynga.com/jobs/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T16:31:06.360Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Vedantu",
       "found": {
@@ -5393,138 +5503,14 @@
         "discoveredAt": "2026-09-06T11:03:31.732Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Tamilnad Mercantile Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://tmb.bank.in/career",
-        "title": "Career | TMB",
-        "discoveredAt": "2026-09-06T11:03:31.758Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tata Consultancy Engineering",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tataconsultingengineers.com/careers/",
-        "title": "www.tataconsultingengineers.com",
-        "discoveredAt": "2026-09-06T11:03:31.734Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "TatvaSoft",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tatvasoft.com/career",
-        "title": "Career",
-        "discoveredAt": "2026-09-06T11:03:31.564Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "TCI Express",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tciexpress.in/career",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:03:33.338Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tejas Networks",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tejasnetworks.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:03:34.090Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Tenable",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://tenable.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:03:32.458Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Testbook",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://testbook.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:03:34.209Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "ThoughtSpot",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://thoughtspot.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:03:36.007Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Vedantu",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.vedantu.com/careers",
-        "title": "Careers Check out the roles we&#x27;re currently hiring for",
-        "discoveredAt": "2026-09-06T11:04:13.661Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Veri5Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://veri5digital.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T11:04:13.977Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "This operation was aborted",
-    "Fino Payments Bank (IT): company discovery timeout",
-    "Finvasia (IT): company discovery timeout",
-    "HSBC India: company discovery timeout",
-    "This operation was aborted",
-    "iEnergizer: company discovery timeout",
-    "Imagine Meats (IT): company discovery timeout",
-    "This operation was aborted",
-    "This operation was aborted",
-    "This operation was aborted",
-    "This operation was aborted",
-    "This operation was aborted",
     "Laverda India (IT): search returned anti-bot page",
     "Leena AI: search returned anti-bot page",
-    "Li Auto India (IT): search returned anti-bot page",
     "Liaz India (IT): search returned anti-bot page",
     "LIC Housing Finance (IT): search returned anti-bot page",
     "LIC Technology Division: search returned anti-bot page",
-    "Lifan India (IT): search returned anti-bot page",
     "Manappuram Finance Tech: search returned anti-bot page",
     "Marvell Technology India: search returned anti-bot page",
     "Marwadi Shares (IT): search returned anti-bot page",
@@ -5555,6 +5541,20 @@
     "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Synchrony International Services India: search returned anti-bot page",
-    "Synoptek: search returned anti-bot page"
+    "Synoptek: search returned anti-bot page",
+    "Tafe India (IT): search returned anti-bot page",
+    "Tata AIA Life Tech: search returned anti-bot page",
+    "Ural India (IT): search returned anti-bot page",
+    "UST Global: search returned anti-bot page",
+    "Utkarsh Small Finance Bank (IT): search returned anti-bot page",
+    "Valtra India (IT): search returned anti-bot page",
+    "Vardhaman Capital (IT): search returned anti-bot page",
+    "Vauxhall India (IT): search returned anti-bot page",
+    "Vedanta Semiconductors: search returned anti-bot page",
+    "Vedanta-Foxconn JV: search returned anti-bot page",
+    "Verint India: search returned anti-bot page",
+    "Verizon India: search returned anti-bot page",
+    "Verloop.io: search returned anti-bot page",
+    "Xoriant Solutions: search returned anti-bot page"
   ]
 }
