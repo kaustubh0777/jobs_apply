@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-11-06T16:00:13.671Z",
+  "generatedAt": "2026-11-07T02:00:51.245Z",
   "batchSize": 120,
-  "successfulCount": 26,
-  "failedCount": 94,
+  "successfulCount": 6,
+  "failedCount": 114,
   "results": [
+    {
+      "company": "Grofers (Blinkit)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.workindia.in/company/grofers-job-openings/",
+        "title": "Grofers Job Opening, 12 Job Vacancy - Workindia.IN",
+        "discoveredAt": "2026-11-07T01:59:35.275Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Indiabulls Housing Finance (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.indiabulls.com/careers",
+        "title": "Indiabulls - Careers",
+        "discoveredAt": "2026-11-07T01:59:35.312Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Landini India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.ril.com/rilcareers/index.aspx",
+        "title": "Careers Home | Reliance Industries Limited",
+        "discoveredAt": "2026-11-07T01:59:35.342Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Tenable",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://tenable.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T02:00:06.236Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Testbook",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://testbook.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T02:00:10.076Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "ThoughtSpot",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://thoughtspot.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-07T02:00:11.052Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Justdial Limited",
       "found": {
@@ -5437,87 +5503,18 @@
         "discoveredAt": "2026-09-06T04:46:27.306Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Shell",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://shell.com/careers",
-        "title": "Careers at Shell | Shell Global",
-        "discoveredAt": "2026-09-06T04:46:27.965Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Shivalik Small Finance Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://shivalik.darwinbox.in/ms/candidate/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T04:46:29.956Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Simplilearn",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://simplilearn.com/careers",
-        "title": "Career at Simplilearn",
-        "discoveredAt": "2026-09-06T04:46:39.459Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Sirion Labs",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://sirionlabs.com/careers",
-        "title": "Join Sirion | Explore Careers and Open Positions",
-        "discoveredAt": "2026-09-06T04:46:40.183Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Skit.ai",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://skit.ai/careers/",
-        "title": "Careers Explore open roles and career opportunities at Skit.ai.",
-        "discoveredAt": "2026-09-06T04:46:39.881Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Snyk",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://snyk.com/jobs",
-        "title": "Careers | Snyk",
-        "discoveredAt": "2026-09-06T04:46:50.618Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
     "Fincare Small Finance Bank (IT): search returned anti-bot page",
     "Fino Payments Bank (IT): search returned anti-bot page",
     "Finvasia (IT): search returned anti-bot page",
-    "Grofers (Blinkit): search returned anti-bot page",
     "HSBC India: search returned anti-bot page",
     "iEnergizer: search returned anti-bot page",
     "Imagine Meats (IT): search returned anti-bot page",
-    "Indiabulls Housing Finance (IT): search returned anti-bot page",
     "Kubota India (IT): search returned anti-bot page",
     "Lamborghini India (IT): search returned anti-bot page",
     "Lancia India (IT): search returned anti-bot page",
-    "Landini India (IT): search returned anti-bot page",
     "Landwind India (IT): search returned anti-bot page",
     "Larsen & Toubro Infotech: search returned anti-bot page",
     "Laverda India (IT): search returned anti-bot page",
@@ -5537,7 +5534,7 @@
     "Max Life Insurance Tech: search returned anti-bot page",
     "Maybach India (IT): search returned anti-bot page",
     "Maz India (IT): search returned anti-bot page",
-    "McLaren India (IT): search returned anti-bot page",
+    "McLaren India (IT): company discovery timeout",
     "Mentor Graphics (Siemens EDA) India: search returned anti-bot page",
     "Mercedes-Benz India (IT): search returned anti-bot page",
     "Mercedes-Benz R&D India: search returned anti-bot page",
@@ -5547,7 +5544,7 @@
     "Microsoft India (IT Services): search returned anti-bot page",
     "Mindbowser Technologies: search returned anti-bot page",
     "Mini India (IT): search returned anti-bot page",
-    "MobiKwik (IT): search returned anti-bot page",
+    "MobiKwik (IT): company discovery timeout",
     "Monarch Networth (IT): search returned anti-bot page",
     "Monday.com India: search returned anti-bot page",
     "Moody's Corporation India: search returned anti-bot page",
@@ -5555,6 +5552,9 @@
     "Morgan Stanley Advantage Services India: search returned anti-bot page",
     "Myntra Pay (IT): search returned anti-bot page",
     "Naggaro: search returned anti-bot page",
-    "Nainital Bank (IT): search returned anti-bot page"
+    "Nainital Bank (IT): search returned anti-bot page",
+    "NatWest Group India: search returned anti-bot page",
+    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
+    "Synchrony International Services India: search returned anti-bot page"
   ]
 }
