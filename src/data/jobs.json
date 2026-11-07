@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-07T02:04:32.454Z",
+  "generatedAt": "2026-11-07T09:06:30.421Z",
   "sourceNote": "Fetched from each company in the Excel-backed catalog using known ATS portals plus direct official company career pages when configured or confirmed. Generic official pages are only trusted when the script finds structured JobPosting data or a supported official payload such as Google, Amazon, Apple, Flipkart, or Meta Careers.",
   "sourceStats": {
     "companyCatalogSize": 1649,
-    "configuredWithPortal": 900,
-    "unconfiguredRemaining": 749,
+    "configuredWithPortal": 901,
+    "unconfiguredRemaining": 748,
     "discoveryProbedThisRun": 0,
     "totalSourcesAttempted": 458,
-    "successfulSources": 187,
+    "successfulSources": 181,
     "cutoffDays": 90,
-    "genericSourcesConfirmed": 16,
-    "genericCandidatesProbedThisRun": 445,
-    "stillUnconfiguredAfterGeneric": 749
+    "genericSourcesConfirmed": 17,
+    "genericCandidatesProbedThisRun": 446,
+    "stillUnconfiguredAfterGeneric": 748
   },
   "failures": [
     "Boston Consulting Group (BCG) India GH 404",
@@ -37,9 +37,18 @@
     "Angel One Technology LV 404",
     "Atlassian LV 404",
     "Atlassian Bengaluru LV 404",
-    "Mistral Solutions LV 404",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
+    "This operation was aborted",
     "Netflix LV 404",
     "Plaid LV 404",
+    "This operation was aborted",
+    "This operation was aborted",
     "Abarth India (IT) Workday: no working datacenter found",
     "Accenture Workday: no working datacenter found",
     "Bajaj Finserv Tech Workday: no working datacenter found",
@@ -54,18 +63,30 @@
     "HCL Tech Workday: no working datacenter found",
     "HDFC Bank Technology Workday: no working datacenter found",
     "Hexaware Technologies Workday: no working datacenter found",
-    "IBM India Workday: no working datacenter found",
-    "ICICI Bank Technology Workday: no working datacenter found",
-    "Intel Workday: no working datacenter found",
-    "JP Morgan Chase Workday: no working datacenter found",
-    "Kotak Mahindra Bank Tech Workday: no working datacenter found",
-    "KPMG India Workday: no working datacenter found",
-    "L&T Technology Services Workday: no working datacenter found",
-    "Lagonda India (IT) Workday: no working datacenter found",
-    "LinkedIn Workday: no working datacenter found",
-    "LTIMindtree Workday: no working datacenter found"
+    "IBM India Workday: no working datacenter found"
   ],
   "jobs": [
+    {
+      "id": "greenhouse-databricks-7647294002",
+      "role": "Senior Software Engineer - Backend Infrastructure",
+      "company": "Databricks",
+      "companyType": "Product",
+      "location": "Bengaluru, India",
+      "country": "India",
+      "countryGroup": "India",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "experienceLabel": "8+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-11-07T03:50:11-05:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002",
+      "department": "Engineering - Pipeline",
+      "summary": "P-1346 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and "
+    },
     {
       "id": "smartrecruiters-servicenow-744000160184480",
       "role": "Sr Software Engineer",
@@ -821,27 +842,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
       "department": "Sec Engineering",
       "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and m"
-    },
-    {
-      "id": "microsoft-1970393557054126-2026-11-05",
-      "role": "Senior Software Engineer",
-      "company": "Microsoft India",
-      "companyType": "Product",
-      "location": "India, Karnataka, Bangalore",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 7,
-      "experienceMax": null,
-      "experienceLabel": "7+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-11-05T00:00:00+05:30",
-      "source": "Microsoft career portal",
-      "directApplyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054126?hl=en",
-      "department": "Software Engineering",
-      "summary": "Overview Microsoft is on a mission to build platforms and products that create and complete magical experiences across Microsoft, to empower every person and organization to achieve more. As part of that mission, Microsoft Devices Software team is on a journey to create new exper"
     },
     {
       "id": "smartrecruiters-servicenow-744000159693135",
@@ -2627,27 +2627,6 @@
       "directApplyUrl": "https://www.amazon.jobs/en/jobs/10593661/sr-software-development-engineer-crossborder-shopping-tech",
       "department": "Software Development",
       "summary": "Join a team revolutionizing how millions of customers shop globally on Amazon as a Senior Software Development Engineer for Cross Border Shopping Experience. We're building next-generation AI-powered solutions Join a team revolutionizing how millions of customers shop globally on"
-    },
-    {
-      "id": "official-amazonjobs-10592240",
-      "role": "Software Development Manager, AB Mobile",
-      "company": "Amazon",
-      "companyType": "Product",
-      "location": "Hyderabad, Telangana, IND",
-      "country": "India",
-      "countryGroup": "India",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "Not specified by official site",
-      "experienceSource": "Not specified by official site",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "source": "Amazon Jobs official site",
-      "directApplyUrl": "https://www.amazon.jobs/en/jobs/10592240/software-development-manager-ab-mobile",
-      "department": "Software Development",
-      "summary": "Come be a part of a rapidly expanding $35 billion dollar global business. At Amazon Business, a fast-growing startup passionate about building solutions, we set out every day to innovate and disrupt the Come be a part of a rapidly expanding $35 billion dollar global business. At "
     },
     {
       "id": "official-amazonjobs-10591201",
@@ -17938,27 +17917,6 @@
       "summary": "【Reason for Hiring】 We are looking for an experienced SoC Architecture Engineer for high performance SOCs & MCUs, to support the Technical Project Leaders/Chip leads and SOC Architecture organization working closely with business, product marketing, system architects, SOC design "
     },
     {
-      "id": "lever-idt-4d060de5-990a-4ff1-aed9-d802a53c18a0",
-      "role": "Network Engineer (Global Team)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Warsaw | Chișinău | Tbilisi | Minsk | Barcelona | Belgrade | Podgorica | lisbon | Vilnius | Buсharest",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-11-05T08:44:47.264Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/4d060de5-990a-4ff1-aed9-d802a53c18a0",
-      "department": "Technology DW",
-      "summary": ""
-    },
-    {
       "id": "smartrecruiters-renesaselectronics-744000159797769",
       "role": "Staff Application Engineer",
       "company": "Renesas Electronics India",
@@ -22369,27 +22327,6 @@
       "summary": "Lemonade transformed insurance by replacing legacy processes with automation and machine learning. On the Growth Platform team, you will architect and build a brand-new growth engine: an event-driven platform that ingests customer signals from across our ecosystem to power intell"
     },
     {
-      "id": "lever-idt-accb1c49-a3d7-4e2e-b4e6-e057186e971c",
-      "role": "Product Owner (AI / Platform)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk | Warsaw | Chișinău | Tbilisi | Belgrade | Buсharest | Sofia",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-11-03T10:10:52.644Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/accb1c49-a3d7-4e2e-b4e6-e057186e971c",
-      "department": "Technology N2P",
-      "summary": "We’re looking for a Product Owner to join our product team at a pivotal moment. You’ll start by owning a strategic internal infrastructure initiative, working hand-in-hand with engineering on the platform that powers our communications products. As that initiative matures, you’ll"
-    },
-    {
       "id": "google-careers-116959385791406790-research-engineer-responsibility-deepmind",
       "role": "Research Engineer, Responsibility, DeepMind",
       "company": "DeepMind",
@@ -22911,7 +22848,7 @@
       "postedAt": "2026-11-02T18:23:36-05:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8927627002?gh_jid=8927627002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -23463,8 +23400,8 @@
     {
       "id": "lever-blue-babcd2b8-7d61-4686-90f6-38fa7ac5bebf",
       "role": "#738 - Manager, Analytics & Solutions Architecture",
-      "company": "Blue Yonder",
-      "companyType": "Product",
+      "company": "Blue Tribe (IT)",
+      "companyType": "Service",
       "location": "LatAm 2",
       "country": "Global",
       "countryGroup": "Global",
@@ -35931,7 +35868,7 @@
       "postedAt": "2026-10-21T17:15:00-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8907194002?gh_jid=8907194002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -38304,7 +38241,7 @@
       "postedAt": "2026-10-19T19:31:25-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8900388002?gh_jid=8900388002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -38346,7 +38283,7 @@
       "postedAt": "2026-10-19T18:41:10-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -39190,27 +39127,6 @@
       "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision"
     },
     {
-      "id": "lever-idt-51788bbe-658c-4287-9431-5b4bef4fd02b",
-      "role": "Senior Frontend Engineer (Vue.js)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-10-19T11:26:38.133Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/51788bbe-658c-4287-9431-5b4bef4fd02b",
-      "department": "National Retail Solutions Technology",
-      "summary": "We are seeking a Senior Frontend Engineer based in Minsk, Belarus to join our distributed engineering team. In this role, you will be the primary front-end architect responsible for designing and building modular, embeddable analytics and reporting blocks. These reporting UI comp"
-    },
-    {
       "id": "greenhouse-databricks-8895472002",
       "role": "Senior Product Specialist Partner Solutions Architect",
       "company": "Databricks",
@@ -39818,27 +39734,6 @@
       "directApplyUrl": "https://www.coinbase.com/careers/positions/8292793?gh_jid=8292793",
       "department": "Enterprise Applications",
       "summary": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perce"
-    },
-    {
-      "id": "lever-bis-1ec5d8a8-07d1-4af5-8e40-f11d4c860533",
-      "role": "QA Analyst",
-      "company": "Bosch India (IT Services)",
-      "companyType": "Service",
-      "location": "Sherwood Park, Alberta",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-10-16T21:44:43.074Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/bis/1ec5d8a8-07d1-4af5-8e40-f11d4c860533",
-      "department": "Technology",
-      "summary": "BIS Safety Software is a SaaS company on a mission to change how organizations manage safety, learning, and compliance, and the team behind that mission matters just as much as the product. As we continue to grow, we’re expanding our QA team and adding another QA Analyst to help "
     },
     {
       "id": "greenhouse-fastly-8282340",
@@ -41668,27 +41563,6 @@
       "summary": "FEQ128R5 Solutions Architect Greenfield Enterprise France The role is based in Paris or within commuting distance of the office. The Role As a Solutions Architect, you will lead the technical strategy for your Greenfield (New Logo) customers — owning architecture discussions, dri"
     },
     {
-      "id": "lever-idt-90344e03-618e-495a-bb75-0ef34c7e19dc",
-      "role": "Senior Full-Stack Engineer (Go+Vue.js)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-10-15T14:52:33.705Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/90344e03-618e-495a-bb75-0ef34c7e19dc",
-      "department": "National Retail Solutions Technology",
-      "summary": "About NRS\nNational Retail Solutions (NRS) is a leading provider of point-of-sale, payment, and digital solutions to tens of thousands of independent retailers across the United States and Canada. As a major player in the retail technology industry, NRS is expanding into next-gene"
-    },
-    {
       "id": "greenhouse-xai-5266379007",
       "role": "Site Reliability Engineer - Memphis",
       "company": "Xilinx (AMD) India",
@@ -41750,27 +41624,6 @@
       "directApplyUrl": "https://www.thoughtworks.com/careers/jobs/8255609?gh_jid=8255609",
       "department": "1S_TWSGP DEC Region",
       "summary": "Due to the nature of the projects and specific client security clearance, this role requires the successful candidate to be a Singapore Citizen or PR of Singapore. Infrastructure Engineers help clients build and evolve systems that client organizations use to deliver and run soft"
-    },
-    {
-      "id": "lever-idt-fbe098e8-f270-4e6d-97e8-b51cc3584fb4",
-      "role": "Engineering Manager (POS systems)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Warsaw | Chișinău | Tbilisi | Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-10-15T09:41:35.710Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/fbe098e8-f270-4e6d-97e8-b51cc3584fb4",
-      "department": "National Retail Solutions Technology",
-      "summary": "About the Role:    \nOur National Retail Solutions brand is a highly successful Point-of-Sale (POS) SaaS business, rapidly expanding into new sectors with over 40,000 software and hardware terminals in independent retailers like: convenience stores, bodegas, liquor stores, small g"
     },
     {
       "id": "greenhouse-boxinc-8284709",
@@ -44100,7 +43953,7 @@
       "postedAt": "2026-10-13T13:11:48-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8859402002?gh_jid=8859402002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -47714,27 +47567,6 @@
       "directApplyUrl": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
       "department": "Eng - PE (Sub Team)",
       "summary": "Role Description As a Principal Engineer at Dropbox, you will own company critical, loosely defined technical problems with multi year impact, operating at the intersection of technology, product, business strategy, and applied AI. You will define long term technical direction fo"
-    },
-    {
-      "id": "greenhouse-qualtrics-8264793",
-      "role": "Software Engineer I - OXM",
-      "company": "Qualtrics",
-      "companyType": "Product",
-      "location": "Mexico City, Mexico",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-10-08T13:17:25-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://www.qualtrics.com/careers/us/en/job/8264793?gh_jid=8264793",
-      "department": "Engineering",
-      "summary": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving "
     },
     {
       "id": "greenhouse-spacex-8877633002",
@@ -56910,7 +56742,7 @@
       "postedAt": "2026-09-28T14:58:25-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8853324002?gh_jid=8853324002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -57500,27 +57332,6 @@
       "directApplyUrl": "https://jobs.lever.co/coupa/237c9900-ec25-4b6d-bfcb-20923cb56448",
       "department": "Engineering - EMEA/APAC",
       "summary": "Coupa makes margins multiply through its community-generated AI and industry-leading total spend management platform for businesses large and small. Coupa AI is informed by trillions of dollars of direct and indirect spend data across a global network of 10M+ buyers and suppliers"
-    },
-    {
-      "id": "lever-bis-2be2f809-f9af-4fec-a37e-52d272b221ec",
-      "role": "UI/UX Designer",
-      "company": "Bosch India (IT Services)",
-      "companyType": "Service",
-      "location": "Sherwood Park, Alberta",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-09-28T14:38:06.936Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/bis/2be2f809-f9af-4fec-a37e-52d272b221ec",
-      "department": "Technology",
-      "summary": "BIS Safety Software is a SaaS company on a mission to change how organizations manage safety, learning, and compliance. Since 2006, we've been building innovative software that helps companies simplify training, improve compliance, and keep their people safe. As we continue to gr"
     },
     {
       "id": "ashby-applied-b7a499d8-d2a3-4458-baf6-4b43c2165558",
@@ -58802,27 +58613,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/boxinc/jobs/8173681",
       "department": "Cloud Engineering - R&D",
       "summary": "WHAT IS BOX? Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enables organizations to fuel collaboration, manage the entire content lifecycle, secure critical content, and transform business workflows with enterprise AI. We help companies thrive in th"
-    },
-    {
-      "id": "lever-idt-1354aa66-19f1-4885-830c-798ac2c658a0",
-      "role": "Middle Manual Mobile QA Engineer",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk | Chișinău | Tbilisi",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": null,
-      "experienceLabel": "0+ yrs est.",
-      "experienceSource": "Not specified by portal",
-      "postedAt": "2026-09-25T10:37:30.003Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/1354aa66-19f1-4885-830c-798ac2c658a0",
-      "department": "Technology DW",
-      "summary": "We are seeking a highly motivated and experienced Manual QA, Mobile to join our team at IDT Corporation. You will contribute to the DTC Calling team to help ensure the quality of the BOSS Revolution App (the mobile application, which includes International Calling, Mobile Top-up,"
     },
     {
       "id": "lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
@@ -61110,7 +60900,7 @@
       "postedAt": "2026-09-23T12:02:39-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8828206002?gh_jid=8828206002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -63168,7 +62958,7 @@
       "postedAt": "2026-09-21T20:15:09-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8829642002?gh_jid=8829642002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -64787,27 +64577,6 @@
       "directApplyUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/5428938008",
       "department": "PRI US Equipment Engineering Department - S60113",
       "summary": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history"
-    },
-    {
-      "id": "lever-idt-3230b82d-a18c-46c3-95a2-a8e53a3a8dcb",
-      "role": "Senior QA Automation Engineer - SIP/VOIP",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Bogotá | Mexico | San José | Panama | Montevideo | Asunción | Lima | Santiago | Sucre | Quito",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-09-18T17:46:53.223Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/3230b82d-a18c-46c3-95a2-a8e53a3a8dcb",
-      "department": "Technology N2P",
-      "summary": "We are looking for an experienced Senior QA Engineer to own quality for our AI voice virtual agent. This role is for someone who is equally comfortable reasoning about a large language model's behavior and reading a SIP trace.\nYou should be interested in testing non-deterministic"
     },
     {
       "id": "greenhouse-lgelectronics-5428927008",
@@ -72114,7 +71883,7 @@
       "postedAt": "2026-09-10T12:05:51-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -74701,27 +74470,6 @@
       "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision"
     },
     {
-      "id": "lever-idt-d22e04ef-51df-45ef-80e4-23b8f520d743",
-      "role": "Junior Graphic Designer",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": 2,
-      "experienceLabel": "0-2 yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-09-07T12:29:07.443Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/d22e04ef-51df-45ef-80e4-23b8f520d743",
-      "department": "National Retail Solutions Technology",
-      "summary": "NRS builds technology and services used by thousands of independent retailers across the US. We're looking for a Junior Graphic Designer to join our Product Design team and help shape the visual layer of our digital products. You'll work closely with UI/UX designers to create ill"
-    },
-    {
       "id": "greenhouse-cloudflare-8184838",
       "role": "Senior Software Engineer, Security Rules",
       "company": "Cloudflare",
@@ -76169,27 +75917,6 @@
       "directApplyUrl": "https://jobs.lever.co/veeva/0896ceec-dabf-48f4-9f72-163e420b07c9",
       "department": "R&D - EU",
       "summary": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth pot"
-    },
-    {
-      "id": "lever-idt-9e189e7b-6927-4dbe-a175-c04966dcc730",
-      "role": "Junior UI/UX Designer",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 0,
-      "experienceMax": 2,
-      "experienceLabel": "0-2 yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-09-03T14:21:55.712Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/9e189e7b-6927-4dbe-a175-c04966dcc730",
-      "department": "National Retail Solutions Technology",
-      "summary": "IDT Corporation is a global communications company founded in 1990 and headquartered in Newark, New Jersey. We are industry leaders in prepaid communication and payment services and one of the largest international voice carriers. We are listed on the NYSE, employ over 1800 peopl"
     },
     {
       "id": "ashby-openai-69398837-5ceb-44d8-b95a-e53c2acf5230",
@@ -79107,7 +78834,7 @@
       "postedAt": "2026-08-31T01:14:35-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8749175002?gh_jid=8749175002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -79128,7 +78855,7 @@
       "postedAt": "2026-08-31T01:14:15-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8749195002?gh_jid=8749195002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -79170,7 +78897,7 @@
       "postedAt": "2026-08-31T01:13:30-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002",
-      "department": "Special Programs",
+      "department": "Special Programs Missions",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -79191,7 +78918,7 @@
       "postedAt": "2026-08-31T01:13:11-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -79212,7 +78939,7 @@
       "postedAt": "2026-08-31T01:12:40-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8749217002?gh_jid=8749217002",
-      "department": "Special Programs",
+      "department": "Special Programs Missions",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -79590,7 +79317,7 @@
       "postedAt": "2026-08-28T17:26:49-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8717631002?gh_jid=8717631002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -83668,27 +83395,6 @@
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
-      "id": "lever-idt-a05dc8cc-cbfc-4ea0-8bef-1e79e6a6c5cd",
-      "role": "Senior Full-Stack Engineer (Node.js & Vue)",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Minsk",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "experienceLabel": "5+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-08-24T15:51:35.205Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/a05dc8cc-cbfc-4ea0-8bef-1e79e6a6c5cd",
-      "department": "National Retail Solutions Technology",
-      "summary": "We are seeking a Senior Full-Stack Engineer  to join our distributed engineering team.\nIDT/NRS builds the Point of Sale platform that runs tens of thousands of independent retail stores across the United States.\nWe are now expanding that platform into restaurants. \nIf you like ch"
-    },
-    {
       "id": "greenhouse-spacex-8742211002",
       "role": "AMS Verification Engineer (RFIC Engineering)",
       "company": "SpaceX",
@@ -84546,7 +84252,7 @@
       "postedAt": "2026-08-20T21:08:50-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002",
-      "department": "Special Programs",
+      "department": "Special Programs Missions",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -84567,7 +84273,7 @@
       "postedAt": "2026-08-20T21:07:25-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002",
-      "department": "Special Programs",
+      "department": "Special Programs Missions",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -85138,27 +84844,6 @@
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
-      "id": "greenhouse-spacex-8730731002",
-      "role": "Trader, Natural Gas (Supply Chain) ",
-      "company": "SpaceX",
-      "companyType": "Product",
-      "location": "Cape Canaveral, FL",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 4,
-      "experienceMax": null,
-      "experienceLabel": "4+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-08-19T17:52:50-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8730731002?gh_jid=8730731002",
-      "department": "Supply Chain - Launch and Infrastructure",
-      "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
-    },
-    {
       "id": "greenhouse-spacex-8731013002",
       "role": "Trader, Natural Gas (Supply Chain) ",
       "company": "SpaceX",
@@ -85176,6 +84861,27 @@
       "postedAt": "2026-08-19T17:52:50-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8731013002?gh_jid=8731013002",
+      "department": "Supply Chain - Launch and Infrastructure",
+      "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
+    },
+    {
+      "id": "greenhouse-spacex-8730731002",
+      "role": "Trader, Natural Gas (Supply Chain) ",
+      "company": "SpaceX",
+      "companyType": "Product",
+      "location": "Cape Canaveral, FL",
+      "country": "Global",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "experienceLabel": "4+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-08-19T17:52:50-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8730731002?gh_jid=8730731002",
       "department": "Supply Chain - Launch and Infrastructure",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
@@ -87549,7 +87255,7 @@
       "postedAt": "2026-08-17T14:52:21-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8696622002?gh_jid=8696622002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -87570,7 +87276,7 @@
       "postedAt": "2026-08-17T14:32:16-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
@@ -87805,27 +87511,6 @@
       "summary": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for an"
     },
     {
-      "id": "greenhouse-databricks-8720253002",
-      "role": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-      "company": "Databricks",
-      "companyType": "Product",
-      "location": "Berlin, Germany; Munich, Germany",
-      "country": "Germany",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "experienceLabel": "8+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-08-17T03:55:20-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002",
-      "department": "Field Engineering - Other",
-      "summary": "At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insigh"
-    },
-    {
       "id": "greenhouse-databricks-8720254002",
       "role": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
       "company": "Databricks",
@@ -87843,6 +87528,27 @@
       "postedAt": "2026-08-17T03:55:20-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
+      "department": "Field Engineering - Other",
+      "summary": "At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insigh"
+    },
+    {
+      "id": "greenhouse-databricks-8720253002",
+      "role": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "company": "Databricks",
+      "companyType": "Product",
+      "location": "Berlin, Germany; Munich, Germany",
+      "country": "Germany",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "experienceLabel": "8+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-08-17T03:55:20-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002",
       "department": "Field Engineering - Other",
       "summary": "At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insigh"
     },
@@ -89336,27 +89042,6 @@
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8700489002?gh_jid=8700489002",
       "department": "Starlink Product Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
-    },
-    {
-      "id": "lever-idt-f0fcb8ea-ff27-4a4c-8217-68b2a514f68a",
-      "role": "Lead Java Engineer",
-      "company": "ICICI Direct Tech",
-      "companyType": "Service",
-      "location": "Warsaw | Minsk | Chișinău | Belgrade",
-      "country": "Global",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 7,
-      "experienceMax": null,
-      "experienceLabel": "7+ yrs est.",
-      "experienceSource": "Estimated from seniority",
-      "postedAt": "2026-08-13T13:39:21.164Z",
-      "source": "Lever career portal",
-      "directApplyUrl": "https://jobs.lever.co/idt/f0fcb8ea-ff27-4a4c-8217-68b2a514f68a",
-      "department": "Technology N2P",
-      "summary": "We’re looking for a Lead Java Engineer to help us build and scale a cloud PBX solution.\nWe expect you to have strong problem-solving skills, be self-motivated, initiative, and responsible.\nYour daily duties will include implementing different SIP proxy features using Java/C , wit"
     },
     {
       "id": "greenhouse-five9-6142819004",
@@ -90997,27 +90682,6 @@
       "summary": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stu"
     },
     {
-      "id": "greenhouse-epicgames-6141143004",
-      "role": "Machine Learning Engineer, Memory",
-      "company": "Epic Games",
-      "companyType": "Product",
-      "location": "London,England,United Kingdom",
-      "country": "United Kingdom",
-      "countryGroup": "Global",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "INR",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "experienceLabel": "3+ yrs",
-      "experienceSource": "Portal requirement",
-      "postedAt": "2026-08-11T12:38:01-04:00",
-      "source": "Greenhouse career portal",
-      "directApplyUrl": "https://epicgames.com/careers/jobs/6141143004?gh_jid=6141143004",
-      "department": "Engineering Specialist",
-      "summary": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stu"
-    },
-    {
       "id": "greenhouse-epicgames-6134271004",
       "role": "Machine Learning Engineer, Memory",
       "company": "Epic Games",
@@ -91035,6 +90699,27 @@
       "postedAt": "2026-08-11T12:38:01-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://epicgames.com/careers/jobs/6134271004?gh_jid=6134271004",
+      "department": "Engineering Specialist",
+      "summary": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stu"
+    },
+    {
+      "id": "greenhouse-epicgames-6141143004",
+      "role": "Machine Learning Engineer, Memory",
+      "company": "Epic Games",
+      "companyType": "Product",
+      "location": "London,England,United Kingdom",
+      "country": "United Kingdom",
+      "countryGroup": "Global",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "INR",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "experienceLabel": "3+ yrs",
+      "experienceSource": "Portal requirement",
+      "postedAt": "2026-08-11T12:38:01-04:00",
+      "source": "Greenhouse career portal",
+      "directApplyUrl": "https://epicgames.com/careers/jobs/6141143004?gh_jid=6141143004",
       "department": "Engineering Specialist",
       "summary": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stu"
     },
@@ -91161,7 +90846,7 @@
       "postedAt": "2026-08-10T18:43:47-04:00",
       "source": "Greenhouse career portal",
       "directApplyUrl": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002",
-      "department": "Starshield Satellite Engineering",
+      "department": "Starshield Hardware Engineering",
       "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars."
     },
     {
