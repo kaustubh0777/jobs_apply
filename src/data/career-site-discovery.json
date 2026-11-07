@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-11-07T16:31:15.028Z",
+  "generatedAt": "2026-11-07T21:57:35.293Z",
   "batchSize": 120,
-  "successfulCount": 10,
-  "failedCount": 92,
+  "successfulCount": 4,
+  "failedCount": 47,
   "results": [
+    {
+      "company": "Laverda India (IT)",
+      "found": {
+        "source": "workday",
+        "confidence": 70,
+        "url": "https://intel.wd1.myworkdayjobs.com/External/page/385e15908e0110015685c55415990005",
+        "title": "Intel Careers",
+        "discoveredAt": "2026-11-07T21:57:03.110Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Liaz India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://liazservices.com/jobs/",
+        "title": "Jobs - Liaz Services",
+        "discoveredAt": "2026-11-07T21:57:03.145Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Marvell Technology India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.marvell.com/company/careers.html",
+        "title": "Careers | At Marvell, Your Future is Now - Life at Marvell",
+        "discoveredAt": "2026-11-07T21:57:03.120Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Maveric Systems",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://maveric-systems.com/careers/",
+        "title": "Explore Exciting Career with Us || Maveric Careers",
+        "discoveredAt": "2026-11-07T21:57:02.915Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Li Auto India (IT)",
       "found": {
@@ -5459,102 +5503,55 @@
         "discoveredAt": "2026-09-06T15:32:18.295Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Zynga",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zynga.com/jobs/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T15:32:22.594Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Same Deutz-Fahr India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.deutz.com/en/company/career/",
-        "title": "DEUTZ Career: Shape your career path with us : DEUTZ AG",
-        "discoveredAt": "2026-09-06T11:03:31.781Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Synchrony International Services India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.synchronycareers.com/location/india-jobs/49398/1269750/2/1",
-        "title": "Search India Jobs at Synchrony Financial",
-        "discoveredAt": "2026-09-06T11:03:31.731Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Tafe India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.tafe.com/corporate/tafe-career",
-        "title": "TAFE Careers - Join India&#x27;s Leading Tractor Manufacturer",
-        "discoveredAt": "2026-09-06T11:03:31.732Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "Laverda India (IT): search returned anti-bot page",
     "Leena AI: search returned anti-bot page",
-    "Liaz India (IT): search returned anti-bot page",
     "LIC Housing Finance (IT): search returned anti-bot page",
     "LIC Technology Division: search returned anti-bot page",
     "Manappuram Finance Tech: search returned anti-bot page",
-    "Marvell Technology India: search returned anti-bot page",
     "Marwadi Shares (IT): search returned anti-bot page",
     "Maserati India (IT): search returned anti-bot page",
     "Mastercard Labs India: search returned anti-bot page",
-    "Maveric Systems: search returned anti-bot page",
     "Max Fashion (IT): search returned anti-bot page",
-    "Max Life Insurance Tech: search returned anti-bot page",
-    "Maybach India (IT): search returned anti-bot page",
-    "Maz India (IT): search returned anti-bot page",
-    "Mentor Graphics (Siemens EDA) India: search returned anti-bot page",
-    "Mercedes-Benz India (IT): search returned anti-bot page",
-    "Mercedes-Benz R&D India: search returned anti-bot page",
-    "Merck India: search returned anti-bot page",
-    "Meta India: search returned anti-bot page",
-    "Mfine Health: search returned anti-bot page",
-    "Microsoft India (IT Services): search returned anti-bot page",
-    "Mindbowser Technologies: search returned anti-bot page",
-    "Mini India (IT): search returned anti-bot page",
+    "Max Life Insurance Tech: company discovery timeout",
+    "Maybach India (IT): company discovery timeout",
+    "Maz India (IT): company discovery timeout",
+    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
+    "Mercedes-Benz India (IT): company discovery timeout",
+    "Mercedes-Benz R&D India: company discovery timeout",
+    "Merck India: company discovery timeout",
+    "Meta India: company discovery timeout",
+    "Mfine Health: company discovery timeout",
+    "Microsoft India (IT Services): company discovery timeout",
+    "Mindbowser Technologies: company discovery timeout",
+    "Mini India (IT): company discovery timeout",
     "Monarch Networth (IT): search returned anti-bot page",
-    "Monday.com India: search returned anti-bot page",
-    "Moody's Corporation India: search returned anti-bot page",
-    "Morgan India (IT): search returned anti-bot page",
-    "Morgan Stanley Advantage Services India: search returned anti-bot page",
-    "Myntra Pay (IT): search returned anti-bot page",
+    "Monday.com India: company discovery timeout",
+    "Moody's Corporation India: company discovery timeout",
+    "Morgan India (IT): company discovery timeout",
+    "Morgan Stanley Advantage Services India: company discovery timeout",
+    "Myntra Pay (IT): company discovery timeout",
     "Naggaro: search returned anti-bot page",
-    "Nainital Bank (IT): search returned anti-bot page",
+    "Nainital Bank (IT): company discovery timeout",
     "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Synchrony International Services India: search returned anti-bot page",
     "Synoptek: search returned anti-bot page",
-    "Tafe India (IT): search returned anti-bot page",
-    "Tata AIA Life Tech: search returned anti-bot page",
-    "Ural India (IT): search returned anti-bot page",
-    "UST Global: search returned anti-bot page",
-    "Utkarsh Small Finance Bank (IT): search returned anti-bot page",
-    "Valtra India (IT): search returned anti-bot page",
-    "Vardhaman Capital (IT): search returned anti-bot page",
-    "Vauxhall India (IT): search returned anti-bot page",
-    "Vedanta Semiconductors: search returned anti-bot page",
-    "Vedanta-Foxconn JV: search returned anti-bot page",
-    "Verint India: search returned anti-bot page",
-    "Verizon India: search returned anti-bot page",
+    "Tafe India (IT): company discovery timeout",
+    "Tata AIA Life Tech: company discovery timeout",
+    "Ural India (IT): company discovery timeout",
+    "UST Global: company discovery timeout",
+    "Utkarsh Small Finance Bank (IT): company discovery timeout",
+    "Valtra India (IT): company discovery timeout",
+    "Vardhaman Capital (IT): company discovery timeout",
+    "Vauxhall India (IT): company discovery timeout",
+    "Vedanta Semiconductors: company discovery timeout",
+    "Vedanta-Foxconn JV: company discovery timeout",
+    "Verint India: company discovery timeout",
+    "Verizon India: company discovery timeout",
     "Verloop.io: search returned anti-bot page",
-    "Xoriant Solutions: search returned anti-bot page"
+    "Xoriant Solutions: search returned anti-bot page",
+    "Xpeng India (IT): search returned anti-bot page"
   ]
 }
