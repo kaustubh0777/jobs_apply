@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-11-07T21:57:35.293Z",
+  "generatedAt": "2026-11-08T01:29:21.493Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 47,
+  "successfulCount": 2,
+  "failedCount": 13,
   "results": [
+    {
+      "company": "Leena AI",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://leena.ai/careers",
+        "title": "Careers at Leena AI | Join Our Team in Agentic AI Innovation",
+        "discoveredAt": "2026-11-08T01:29:18.492Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Manappuram Finance Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.manappuram.com/careers",
+        "title": "Current Job Openings & Roles | Manappuram Finance",
+        "discoveredAt": "2026-11-08T01:29:18.720Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Laverda India (IT)",
       "found": {
@@ -5481,75 +5503,19 @@
         "discoveredAt": "2026-09-06T15:32:16.572Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "Zolo Stays",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zolostays.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T15:32:16.642Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zoom",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zoom.com/careers",
-        "title": "Careers | Zoom",
-        "discoveredAt": "2026-09-06T15:32:18.295Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
-    "Leena AI: search returned anti-bot page",
     "LIC Housing Finance (IT): search returned anti-bot page",
     "LIC Technology Division: search returned anti-bot page",
-    "Manappuram Finance Tech: search returned anti-bot page",
     "Marwadi Shares (IT): search returned anti-bot page",
-    "Maserati India (IT): search returned anti-bot page",
-    "Mastercard Labs India: search returned anti-bot page",
     "Max Fashion (IT): search returned anti-bot page",
-    "Max Life Insurance Tech: company discovery timeout",
-    "Maybach India (IT): company discovery timeout",
-    "Maz India (IT): company discovery timeout",
-    "Mentor Graphics (Siemens EDA) India: company discovery timeout",
-    "Mercedes-Benz India (IT): company discovery timeout",
-    "Mercedes-Benz R&D India: company discovery timeout",
-    "Merck India: company discovery timeout",
-    "Meta India: company discovery timeout",
-    "Mfine Health: company discovery timeout",
-    "Microsoft India (IT Services): company discovery timeout",
-    "Mindbowser Technologies: company discovery timeout",
-    "Mini India (IT): company discovery timeout",
     "Monarch Networth (IT): search returned anti-bot page",
-    "Monday.com India: company discovery timeout",
-    "Moody's Corporation India: company discovery timeout",
-    "Morgan India (IT): company discovery timeout",
-    "Morgan Stanley Advantage Services India: company discovery timeout",
-    "Myntra Pay (IT): company discovery timeout",
     "Naggaro: search returned anti-bot page",
-    "Nainital Bank (IT): company discovery timeout",
     "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Synchrony International Services India: search returned anti-bot page",
     "Synoptek: search returned anti-bot page",
-    "Tafe India (IT): company discovery timeout",
-    "Tata AIA Life Tech: company discovery timeout",
-    "Ural India (IT): company discovery timeout",
-    "UST Global: company discovery timeout",
-    "Utkarsh Small Finance Bank (IT): company discovery timeout",
-    "Valtra India (IT): company discovery timeout",
-    "Vardhaman Capital (IT): company discovery timeout",
-    "Vauxhall India (IT): company discovery timeout",
-    "Vedanta Semiconductors: company discovery timeout",
-    "Vedanta-Foxconn JV: company discovery timeout",
-    "Verint India: company discovery timeout",
-    "Verizon India: company discovery timeout",
     "Verloop.io: search returned anti-bot page",
     "Xoriant Solutions: search returned anti-bot page",
     "Xpeng India (IT): search returned anti-bot page"
