@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-11-08T16:43:38.697Z",
+  "generatedAt": "2026-11-08T22:13:45.477Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 7,
+  "successfulCount": 4,
+  "failedCount": 3,
   "results": [
+    {
+      "company": "Monarch Networth (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.jobaaj.com/company/monarch-networth-capital-careers",
+        "title": "Monarch Networth Capital Careers and Employment | Jobaaj",
+        "discoveredAt": "2026-11-08T22:13:45.464Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "NatWest Group India",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://jobs.natwestgroup.com/search/jobs/in/country/india",
+        "title": "India Jobs | NatWest Group Careers",
+        "discoveredAt": "2026-11-08T22:13:45.440Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Synchrony International Services India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.synchronycareers.com/india-early-career-opportunities",
+        "title": "Together, we buildcareers that matter | Synchrony Careers",
+        "discoveredAt": "2026-11-08T22:13:45.472Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Xpeng India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.xpeng.com/join-us",
+        "title": "XPENG Careers | AI & Autonomous Driving Jobs",
+        "discoveredAt": "2026-11-08T22:13:45.413Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "LIC Technology Division",
       "found": {
@@ -5459,59 +5503,11 @@
         "discoveredAt": "2026-09-06T18:22:26.412Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Zomato Hyperpure",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
-        "title": "Zomato",
-        "discoveredAt": "2026-09-06T18:22:26.395Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Yelp",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://yelp.com/jobs",
-        "title": "Careers at Yelp | Search for jobs at Yelp",
-        "discoveredAt": "2026-09-06T15:32:08.428Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "ZebPay",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zebpay.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T15:32:06.180Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zendesk",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zendesk.com/company/careers/",
-        "title": "Careers Want to work at Zendesk? Check out our current openings",
-        "discoveredAt": "2026-09-06T15:32:07.947Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
     "LIC Housing Finance (IT): search returned anti-bot page",
-    "Monarch Networth (IT): search returned anti-bot page",
-    "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
-    "Synchrony International Services India: search returned anti-bot page",
-    "Xoriant Solutions: search returned anti-bot page",
-    "Xpeng India (IT): search returned anti-bot page"
+    "Xoriant Solutions: search returned anti-bot page"
   ]
 }
