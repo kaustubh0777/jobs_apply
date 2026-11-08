@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-11-08T09:05:49.210Z",
+  "generatedAt": "2026-11-08T16:43:38.697Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 9,
+  "successfulCount": 2,
+  "failedCount": 7,
   "results": [
+    {
+      "company": "LIC Technology Division",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://licindia.in/Careers/",
+        "title": "LIC Careers - Explore Exciting Job Opportunities in Insurance ...",
+        "discoveredAt": "2026-11-08T16:43:38.375Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Verloop.io",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.verloop.io/careers-opportunities/",
+        "title": "Verloop.io Career Opportunities",
+        "discoveredAt": "2026-11-08T16:43:38.270Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Marwadi Shares (IT)",
       "found": {
@@ -5481,38 +5503,14 @@
         "discoveredAt": "2026-09-06T15:32:07.947Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Zerodha",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zerodha.com/careers",
-        "title": "Careers - Zerodha",
-        "discoveredAt": "2026-09-06T15:32:15.498Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "Zerodha (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zerodha.com/careers",
-        "title": "Careers - Zerodha",
-        "discoveredAt": "2026-09-06T15:32:15.541Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
     "LIC Housing Finance (IT): search returned anti-bot page",
-    "LIC Technology Division: search returned anti-bot page",
     "Monarch Networth (IT): search returned anti-bot page",
     "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Synchrony International Services India: search returned anti-bot page",
-    "Verloop.io: search returned anti-bot page",
     "Xoriant Solutions: search returned anti-bot page",
     "Xpeng India (IT): search returned anti-bot page"
   ]
