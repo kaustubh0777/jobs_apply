@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-11-08T01:29:21.493Z",
+  "generatedAt": "2026-11-08T09:05:49.210Z",
   "batchSize": 120,
-  "successfulCount": 2,
-  "failedCount": 13,
+  "successfulCount": 4,
+  "failedCount": 9,
   "results": [
+    {
+      "company": "Marwadi Shares (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://marwadionline.com/career",
+        "title": "Marwadi Shares and Finance Limited",
+        "discoveredAt": "2026-11-08T09:05:47.525Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Max Fashion (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.maxclothing.com/pages/careers",
+        "title": "Careers - Max",
+        "discoveredAt": "2026-11-08T09:05:47.577Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Naggaro",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://www.nagarro.com/en/careers",
+        "title": "Careers | Nagarro",
+        "discoveredAt": "2026-11-08T09:05:47.230Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Synoptek",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://synoptek.com/about-us/careers/",
+        "title": "Careers - Synoptek",
+        "discoveredAt": "2026-11-08T09:05:47.430Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Leena AI",
       "found": {
@@ -5459,63 +5503,15 @@
         "discoveredAt": "2026-09-06T15:32:15.541Z",
         "discoveryMethod": "common-career-path"
       }
-    },
-    {
-      "company": "ZF Group India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.zf.com/india/en/careers/careers.html",
-        "title": "Join ZF India: Careers in Technology and Innovation | ZF India Jobs - ZF",
-        "discoveredAt": "2026-09-06T15:32:20.138Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zimyo HRMS",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zimyo.com/about/career/",
-        "title": "Career at Zimyo - Join Our Team and Build Your Future - Zimyo HRMS",
-        "discoveredAt": "2026-09-06T15:32:20.425Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zluri",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zluri.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-06T15:32:15.619Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Zoho",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://zoho.com/careers",
-        "title": "Zoho Corporation | Careers",
-        "discoveredAt": "2026-09-06T15:32:16.572Z",
-        "discoveryMethod": "common-career-path"
-      }
     }
   ],
   "failures": [
     "LIC Housing Finance (IT): search returned anti-bot page",
     "LIC Technology Division: search returned anti-bot page",
-    "Marwadi Shares (IT): search returned anti-bot page",
-    "Max Fashion (IT): search returned anti-bot page",
     "Monarch Networth (IT): search returned anti-bot page",
-    "Naggaro: search returned anti-bot page",
     "NatWest Group India: search returned anti-bot page",
     "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Synchrony International Services India: search returned anti-bot page",
-    "Synoptek: search returned anti-bot page",
     "Verloop.io: search returned anti-bot page",
     "Xoriant Solutions: search returned anti-bot page",
     "Xpeng India (IT): search returned anti-bot page"
