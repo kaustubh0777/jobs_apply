@@ -3,20 +3,20 @@
   "intervalMinutes": 30,
   "discoveryBatchSize": 250,
   "discoveryEnabled": true,
-  "updatedAt": "2026-11-08T22:39:47.023Z",
+  "updatedAt": "2026-11-09T02:11:25.207Z",
   "cycleNumber": 1,
-  "cycleStartedAt": "2026-11-08T22:13:39.851Z",
+  "cycleStartedAt": "2026-11-09T01:46:08.998Z",
   "lastError": null,
   "currentStep": null,
-  "lastSuccessfulCycleAt": "2026-11-08T22:39:47.022Z",
-  "lastCycleStartedAt": "2026-11-08T22:13:39.851Z",
+  "lastSuccessfulCycleAt": "2026-11-09T02:11:25.206Z",
+  "lastCycleStartedAt": "2026-11-09T01:46:08.998Z",
   "nextRunAt": null,
   "companyCatalogSize": 1649,
-  "configuredCompanies": 915,
-  "unconfiguredCompanies": 734,
+  "configuredCompanies": 916,
+  "unconfiguredCompanies": 733,
   "sourceCounts": {
-    "generic": 459,
-    "unconfigured": 734,
+    "generic": 460,
+    "unconfigured": 733,
     "workday": 45,
     "smartrecruiters": 53,
     "greenhouse": 248,
@@ -25,10 +25,10 @@
     "microsoft": 1,
     "icims": 1
   },
-  "jobCount": 4342,
+  "jobCount": 4347,
   "jobSourceCounts": {
     "SmartRecruiters career portal": 185,
-    "Greenhouse career portal": 3285,
+    "Greenhouse career portal": 3289,
     "Amazon Jobs official site": 225,
     "Microsoft career portal": 3,
     "Lever career portal": 197,
@@ -36,9 +36,9 @@
     "Ashby career portal": 405,
     "Flipkart Careers official site": 8,
     "Company career site (structured data)": 5,
-    "Google Careers official site": 20
+    "Google Careers official site": 21
   },
-  "jobsGeneratedAt": "2026-11-08T22:39:46.890Z",
+  "jobsGeneratedAt": "2026-11-09T02:11:25.091Z",
   "atsDiscoveryBatchSize": 250,
   "webDiscoveryBatchSize": 120
 }

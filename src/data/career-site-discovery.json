@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-11-08T22:13:45.477Z",
+  "generatedAt": "2026-11-09T01:46:12.800Z",
   "batchSize": 120,
-  "successfulCount": 4,
-  "failedCount": 3,
+  "successfulCount": 2,
+  "failedCount": 1,
   "results": [
+    {
+      "company": "LIC Housing Finance (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.lichousing.com/careers",
+        "title": "Careers & Job Opportunities | LIC HFL",
+        "discoveredAt": "2026-11-09T01:46:12.385Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Suryoday Small Finance Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://suryoday.bank.in/careers/",
+        "title": "Careers at Suryoday Small Finance Bank. Join Our Family",
+        "discoveredAt": "2026-11-09T01:46:12.796Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Monarch Networth (IT)",
       "found": {
@@ -5481,33 +5503,9 @@
         "discoveredAt": "2026-09-13T11:58:22.458Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Zomato Pay (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "http://zomatoproject2.azurewebsites.net/careers.html",
-        "title": "Zomato",
-        "discoveredAt": "2026-09-06T23:59:19.077Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Zoho People",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.zoho.com/careers/",
-        "title": "Zoho Corporation | Careers",
-        "discoveredAt": "2026-09-06T18:22:26.412Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
   "failures": [
-    "LIC Housing Finance (IT): search returned anti-bot page",
-    "Suryoday Small Finance Bank (IT): search returned anti-bot page",
     "Xoriant Solutions: search returned anti-bot page"
   ]
 }
