@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-11-15T17:14:59.949Z",
+  "generatedAt": "2026-11-15T22:55:39.529Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "NTPC (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://careers-ntpc.icims.com/jobs/intro?hashed=-435594588&mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360",
+        "title": "Current Job Openings",
+        "discoveredAt": "2026-11-15T22:55:39.524Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "Xoriant Solutions",
       "found": {
@@ -5490,17 +5501,6 @@
         "url": "https://acqueon.com/about/careers",
         "title": "Careers",
         "discoveredAt": "2026-09-27T08:17:12.973Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Active.Ai",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://active.ai/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-27T08:17:14.986Z",
         "discoveryMethod": "homepage-link-crawl"
       }
     }
