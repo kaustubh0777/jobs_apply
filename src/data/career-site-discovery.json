@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-11-16T18:39:01.959Z",
+  "generatedAt": "2026-11-17T13:33:47.631Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Apple",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://apple.com/careers/us/",
+        "title": "Career Opportunities",
+        "discoveredAt": "2026-11-17T13:33:47.626Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
     {
       "company": "NTPC (IT)",
       "found": {
@@ -5490,17 +5501,6 @@
         "url": "https://acko.com/careers/",
         "title": "Careers",
         "discoveredAt": "2026-09-27T08:17:12.805Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Acqueon",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://acqueon.com/about/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-27T08:17:12.973Z",
         "discoveryMethod": "homepage-link-crawl"
       }
     }
