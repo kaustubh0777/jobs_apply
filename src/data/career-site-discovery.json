@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-11-18T07:39:18.263Z",
+  "generatedAt": "2026-11-18T17:19:17.643Z",
   "batchSize": 120,
-  "successfulCount": 0,
+  "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "99acres.com",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.99acres.com/articles/career-opportunities-in-real-estate-sector.html",
+        "title": "Career opportunities in real estate sector - 99acres.com",
+        "discoveredAt": "2026-11-18T17:19:17.640Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Apple",
       "found": {
@@ -5491,17 +5502,6 @@
         "title": "R&D careers India - ABB",
         "discoveredAt": "2026-09-27T08:17:17.010Z",
         "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Acko",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://acko.com/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-27T08:17:12.805Z",
-        "discoveryMethod": "homepage-link-crawl"
       }
     }
   ],
