@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-11-18T17:19:17.643Z",
+  "generatedAt": "2026-11-19T10:27:58.727Z",
   "batchSize": 120,
   "successfulCount": 1,
   "failedCount": 0,
   "results": [
+    {
+      "company": "Rivian India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://careers.rivian.com/careers-home/jobs/locations?lang=en-US",
+        "title": "Rivian Automotive Careers - careers.rivian.com",
+        "discoveredAt": "2026-11-19T10:27:58.722Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "99acres.com",
       "found": {
@@ -5490,17 +5501,6 @@
         "url": "https://intel.wd1.myworkdayjobs.com/External/page/385e15908e0110015685c55415990005",
         "title": "Intel Careers",
         "discoveredAt": "2026-09-27T08:17:17.064Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "ABB India",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://careers.abb/global/en/r-d-careers-india",
-        "title": "R&D careers India - ABB",
-        "discoveredAt": "2026-09-27T08:17:17.010Z",
         "discoveryMethod": "search-result"
       }
     }
