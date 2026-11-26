@@ -1,9 +1,108 @@
 {
-  "generatedAt": "2026-11-26T13:59:15.513Z",
+  "generatedAt": "2026-11-26T23:02:54.591Z",
   "batchSize": 120,
-  "successfulCount": 0,
-  "failedCount": 0,
+  "successfulCount": 9,
+  "failedCount": 4,
   "results": [
+    {
+      "company": "1mg",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-11-26T23:02:47.546Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "1mg (Tata 1mg)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://1mg.com/jobs",
+        "title": "Careers@Tata1mg",
+        "discoveredAt": "2026-11-26T23:02:47.547Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "5paisa (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.5paisa.com/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-26T23:02:45.899Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "5paisa Capital",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.5paisa.com/careers",
+        "title": "Careers - 5paisa",
+        "discoveredAt": "2026-11-26T23:02:50.085Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Aavas Financiers (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.aavas.in/career",
+        "title": "Job Opportunity & Career - Aavas.in",
+        "discoveredAt": "2026-11-26T23:02:50.127Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Acko",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acko.com/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-26T23:02:45.984Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Acqueon",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://acqueon.com/company/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-26T23:02:45.913Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Active.Ai",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://active.ai/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-26T23:02:47.325Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Aditya Birla Capital Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.adityabirlacapital.com/careers/jobs",
+        "title": "Search Jobs at Aditya Birla Capital",
+        "discoveredAt": "2026-11-26T23:02:50.134Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Rivian India (IT)",
       "found": {
@@ -5404,106 +5503,12 @@
         "discoveredAt": "2026-09-27T18:29:02.335Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Aditya Birla Capital Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.adityabirlacapital.com/careers/jobs",
-        "title": "Search Jobs at Aditya Birla Capital",
-        "discoveredAt": "2026-09-27T14:06:10.579Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Aditya Birla Fashion (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.abfrl.com/careers/",
-        "title": "Careers - ABFRL",
-        "discoveredAt": "2026-09-27T14:06:10.463Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "1mg",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://1mg.com/jobs",
-        "title": "Careers@Tata1mg",
-        "discoveredAt": "2026-09-27T08:17:12.610Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "1mg (Tata 1mg)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://1mg.com/jobs",
-        "title": "Careers@Tata1mg",
-        "discoveredAt": "2026-09-27T08:17:13.524Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "3i Infotech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.3i-infotech.com/careers/",
-        "title": "Careers | 3i Infotech",
-        "discoveredAt": "2026-09-27T08:17:17.013Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "5paisa (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://5paisa.com/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-27T08:17:10.774Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "5paisa Capital",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.5paisa.com/careers",
-        "title": "Careers - 5paisa",
-        "discoveredAt": "2026-09-27T08:17:16.993Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Aavas Financiers (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.aavas.in/career",
-        "title": "Job Opportunity & Career - Aavas.in",
-        "discoveredAt": "2026-09-27T08:17:16.955Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Abarth India (IT)",
-      "found": {
-        "source": "workday",
-        "confidence": 70,
-        "url": "https://intel.wd1.myworkdayjobs.com/External/page/385e15908e0110015685c55415990005",
-        "title": "Intel Careers",
-        "discoveredAt": "2026-09-27T08:17:17.064Z",
-        "discoveryMethod": "search-result"
-      }
     }
   ],
-  "failures": []
+  "failures": [
+    "24[7].ai: company discovery timeout",
+    "5ire: company discovery timeout",
+    "99acres (IT): company discovery timeout",
+    "Aditya Birla Fashion (IT): search returned anti-bot page"
+  ]
 }
