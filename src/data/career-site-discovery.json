@@ -1,9 +1,163 @@
 {
-  "generatedAt": "2026-11-27T19:32:26.695Z",
+  "generatedAt": "2026-11-28T02:46:19.493Z",
   "batchSize": 120,
-  "successfulCount": 21,
-  "failedCount": 89,
+  "successfulCount": 14,
+  "failedCount": 47,
   "results": [
+    {
+      "company": "Coal India (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.coalindia.in/career-cil/jobs-coal-india/",
+        "title": "Jobs at Coal India",
+        "discoveredAt": "2026-11-28T02:45:43.133Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Cropin",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cropin.com/career/",
+        "title": "Careers Agronomists, engineers and data scientists.",
+        "discoveredAt": "2026-11-28T02:45:43.873Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "CrowdStrike",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://crowdstrike.com/en-us/careers/",
+        "title": "Careers",
+        "discoveredAt": "2026-11-28T02:45:44.495Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Curefoods",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://curefoods.in/pages/careers",
+        "title": "Careers",
+        "discoveredAt": "2026-11-28T02:45:50.452Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Cyient DLM",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://cyientdlm.com/careers",
+        "title": "Cyient DLM | Integrated Electronics & Mechanical Manufacturing",
+        "discoveredAt": "2026-11-28T02:45:55.744Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "D. E. Shaw",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://deshaw.com/careers",
+        "title": "How To Join",
+        "discoveredAt": "2026-11-28T02:45:54.882Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Darwinbox",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://darwinbox.com/careers",
+        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
+        "discoveredAt": "2026-11-28T02:45:56.380Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "DCB Bank (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
+        "title": "Careers",
+        "discoveredAt": "2026-11-28T02:45:55.706Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-11-28T02:45:56.790Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DeHaat (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 75,
+        "url": "https://agrevolution.in/careers",
+        "title": "Careers at Dehaat",
+        "discoveredAt": "2026-11-28T02:45:57.074Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "Delhivery",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://delhivery.com/careers",
+        "title": "Build Your Career with Delhivery – Join India's Leading Logistics Innovator",
+        "discoveredAt": "2026-11-28T02:45:56.939Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Dhan (IT)",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dhan.com/careers",
+        "title": "Careers Work with us",
+        "discoveredAt": "2026-11-28T02:45:57.604Z",
+        "discoveryMethod": "homepage-link-crawl"
+      }
+    },
+    {
+      "company": "DigitalOcean",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://digitalocean.com/careers",
+        "title": "Careers | DigitalOcean",
+        "discoveredAt": "2026-11-28T02:46:05.206Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
+    {
+      "company": "Dolby",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://dolby.com/careers",
+        "title": "Careers and Internships at Dolby - Dolby",
+        "discoveredAt": "2026-11-28T02:46:05.344Z",
+        "discoveryMethod": "common-career-path"
+      }
+    },
     {
       "company": "Adobe Systems India Engineering",
       "found": {
@@ -5349,212 +5503,55 @@
         "discoveredAt": "2026-09-29T22:20:36.138Z",
         "discoveryMethod": "homepage-link-crawl"
       }
-    },
-    {
-      "company": "Croma Digital",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.infinitiretail.com/careers",
-        "title": "Careers | Infiniti Retail Limited",
-        "discoveredAt": "2026-09-29T02:02:35.291Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Crowe India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.crowe.com/careers",
-        "title": "Careers | Crowe",
-        "discoveredAt": "2026-09-29T02:02:34.476Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Alfa Romeo India (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.alfaindia.com/career/",
-        "title": "Career - Alfa India",
-        "discoveredAt": "2026-09-28T20:35:50.139Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Bank of America Continuum Solutions",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://www.continuumgbl.com/careers/",
-        "title": "Careers | Continuum Global Solutions",
-        "discoveredAt": "2026-09-28T20:35:50.235Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Bloomberg L.P. India",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.bloomberg.com/company/careers/global-roles/working-at-bloomberg-in-mumbai-pune/",
-        "title": "Working at Bloomberg in Mumbai, New Delhi, and Pune | Bloomberg LP",
-        "discoveredAt": "2026-09-28T20:35:50.012Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Cropin",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cropin.com/career",
-        "title": "Cropin careers – build your future in agri-tech",
-        "discoveredAt": "2026-09-28T20:35:50.621Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "CrowdStrike",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.crowdstrike.com/en-us/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-28T20:35:43.608Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Cure.fit",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cure.fit/careers",
-        "title": ".style-prefix-1gpe2ah{background-size:cover;background-repeat:no-repeat;border-radius:30px;border:none;height:100%;background-position:center;}@media only screen and (max-width: 768px){.style-prefix-1gpe2ah{margin-bottom:35px;min-height:220px;}} .style-prefix-x393ch{padding:20px 40px 25px;height:100%;display:flex;flex-flow:column;}@media only screen and (max-width: 768px){.style-prefix-x393ch{padding:20px 30px 0px;}} .style-prefix-3q6kuy{text-align:center;cursor:pointer;margin:0;color:white;font-size:40px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0.01px;line-height:60px;margin-bottom:6%;}@media only screen and (min-width: 769px) and (max-width: 1024px){.style-prefix-3q6kuy{font-size:22px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0px;line-height:35px;}}@media only screen and (max-width: 768px){.style-prefix-3q6kuy{font-size:24px;font-family:Inter-Extra-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:-0.3px;line-height:30px;}} Careers at Cult .style-prefix-rfpv5a{padding-bottom:41.66666666666667%;transition:all 50ms ease;background:transparent;} .style-prefix-18wbqqg{cursor:pointer;font-family:Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;border:1px solid transparent;transition:all 250ms ease;display:flex;justify-content:center;align-items:center;color:#3888FF;background:transparent;font-size:12px;line-height:12px;border-radius:5px;padding:7px 15px;font-weight:700;margin:auto;margin-bottom:0;}.style-prefix-18wbqqg:hover{background:rgba(0, 0, 0, 0.12);} LEARN MORE",
-        "discoveredAt": "2026-09-28T20:35:52.824Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Cure.fit (Cult.fit)",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cure.fit/careers",
-        "title": ".style-prefix-1gpe2ah{background-size:cover;background-repeat:no-repeat;border-radius:30px;border:none;height:100%;background-position:center;}@media only screen and (max-width: 768px){.style-prefix-1gpe2ah{margin-bottom:35px;min-height:220px;}} .style-prefix-x393ch{padding:20px 40px 25px;height:100%;display:flex;flex-flow:column;}@media only screen and (max-width: 768px){.style-prefix-x393ch{padding:20px 30px 0px;}} .style-prefix-3q6kuy{text-align:center;cursor:pointer;margin:0;color:white;font-size:40px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0.01px;line-height:60px;margin-bottom:6%;}@media only screen and (min-width: 769px) and (max-width: 1024px){.style-prefix-3q6kuy{font-size:22px;font-family:Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:0px;line-height:35px;}}@media only screen and (max-width: 768px){.style-prefix-3q6kuy{font-size:24px;font-family:Inter-Extra-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;letter-spacing:-0.3px;line-height:30px;}} Careers at Cult .style-prefix-rfpv5a{padding-bottom:41.66666666666667%;transition:all 50ms ease;background:transparent;} .style-prefix-18wbqqg{cursor:pointer;font-family:Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;border:1px solid transparent;transition:all 250ms ease;display:flex;justify-content:center;align-items:center;color:#3888FF;background:transparent;font-size:12px;line-height:12px;border-radius:5px;padding:7px 15px;font-weight:700;margin:auto;margin-bottom:0;}.style-prefix-18wbqqg:hover{background:rgba(0, 0, 0, 0.12);} LEARN MORE",
-        "discoveredAt": "2026-09-28T20:35:52.495Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Curefoods",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://curefoods.in/pages/careers",
-        "title": "Careers",
-        "discoveredAt": "2026-09-28T20:35:57.466Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "Cyient DLM",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://cyientdlm.com/career",
-        "title": "Cyient DLM | Integrated Electronics & Mechanical Manufacturing",
-        "discoveredAt": "2026-09-28T20:35:57.740Z",
-        "discoveryMethod": "common-career-path"
-      }
-    },
-    {
-      "company": "D. E. Shaw",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://deshaw.com/careers",
-        "title": "How To Join",
-        "discoveredAt": "2026-09-28T20:35:57.599Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "DCB Bank (IT)",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://zingnext.zinghr.com/portal/embed/career-website?CareerClientKey=ASDFQ-BAHDV-QWERM",
-        "title": "Careers",
-        "discoveredAt": "2026-09-28T20:36:01.585Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
-    },
-    {
-      "company": "DeHaat",
-      "found": {
-        "source": "generic",
-        "confidence": 75,
-        "url": "https://agrevolution.in/careers",
-        "title": "Careers at Dehaat",
-        "discoveredAt": "2026-09-28T20:36:01.541Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Agco India (IT): search returned anti-bot page",
-    "Agritrac India (IT): search returned anti-bot page",
-    "Airtel Payments Bank (IT): company discovery timeout",
-    "Akrivia HCM: search returned anti-bot page",
-    "Alibaba: company discovery timeout",
-    "Alice Blue (IT): company discovery timeout",
-    "Bajaj Auto Tech: search returned anti-bot page",
-    "Bajaj Markets: search returned anti-bot page",
-    "Bank of America India: company discovery timeout",
-    "Blinkit (IT): company discovery timeout",
-    "Bloomberg: company discovery timeout",
-    "BMC Software: company discovery timeout",
-    "BMW India (IT): company discovery timeout",
-    "BNP Paribas India: company discovery timeout",
-    "BNY Mellon India: company discovery timeout",
-    "Bobcat India (IT): company discovery timeout",
-    "Boeing India Engineering Center: company discovery timeout",
-    "Bogdan India (IT): company discovery timeout",
-    "Booking Holdings India: company discovery timeout",
-    "Booking.com India: company discovery timeout",
-    "BookMyShow: company discovery timeout",
-    "Bosch Global Software Technologies: company discovery timeout",
-    "Bot.Mp: company discovery timeout",
-    "Bowler India (IT): company discovery timeout",
-    "Box8: company discovery timeout",
-    "BPCL (IT): company discovery timeout",
-    "Brainvire Infotech: company discovery timeout",
-    "Brilliance India (IT): company discovery timeout",
-    "Brillio: company discovery timeout",
-    "Bristol India (IT): company discovery timeout",
-    "Broadcom: company discovery timeout",
-    "BrowserStack: company discovery timeout",
-    "BSNL (IT): company discovery timeout",
-    "BSNL Technology Division: company discovery timeout",
-    "Bugatti India (IT): company discovery timeout",
-    "BYJU'S: company discovery timeout",
-    "Cadence: company discovery timeout",
-    "Cadence Design Systems India: company discovery timeout",
-    "CallHealth: company discovery timeout",
-    "Calsoft: company discovery timeout",
-    "Canoo: company discovery timeout",
-    "Capillary: company discovery timeout",
+    "Agco India (IT): company discovery timeout",
     "This operation was aborted",
-    "Captain India (IT): company discovery timeout",
-    "CarDekho: company discovery timeout",
-    "CarTrade Tech: company discovery timeout",
-    "Case India (IT): company discovery timeout",
-    "Cashfree Payments: company discovery timeout",
-    "Caterpillar India: company discovery timeout",
-    "Caterpillar India (IT): company discovery timeout"
+    "Akrivia HCM: company discovery timeout",
+    "This operation was aborted",
+    "This operation was aborted",
+    "Bajaj Auto Tech: company discovery timeout",
+    "Bajaj Markets: company discovery timeout",
+    "Bloomberg L.P. India: search returned anti-bot page",
+    "Cholamandalam Finance (IT): search returned anti-bot page",
+    "Ciena India: search returned anti-bot page",
+    "Coca-Cola India: search returned anti-bot page",
+    "Cogno AI: company discovery timeout",
+    "Cohesity: company discovery timeout",
+    "CtrlS Datacenters: company discovery timeout",
+    "Cuelogic Technologies: company discovery timeout",
+    "Cuemath: company discovery timeout",
+    "Cummins India (IT): company discovery timeout",
+    "Cupra India (IT): company discovery timeout",
+    "Cure.fit: company discovery timeout",
+    "Cure.fit (Cult.fit): company discovery timeout",
+    "CureFit Healthcare: company discovery timeout",
+    "Cyfuture: company discovery timeout",
+    "D-Mart (IT): company discovery timeout",
+    "Dailyhunt: company discovery timeout",
+    "Daimler India: company discovery timeout",
+    "Daimler India (IT): company discovery timeout",
+    "Datamatics: company discovery timeout",
+    "DBFS (IT): company discovery timeout",
+    "DBS Bank India: company discovery timeout",
+    "DealShare: company discovery timeout",
+    "Deutsche Bank: company discovery timeout",
+    "Dhanlaxmi Bank (IT): company discovery timeout",
+    "DICGC (IT): company discovery timeout",
+    "Digio: company discovery timeout",
+    "Dish Network Technologies India: company discovery timeout",
+    "District (by Zomato): company discovery timeout",
+    "DocsApp: company discovery timeout",
+    "Dongfeng India (IT): company discovery timeout",
+    "Doosan India (IT): company discovery timeout",
+    "DraftKings: company discovery timeout",
+    "DRDO (IT): company discovery timeout",
+    "DRDO (Software Engineering): company discovery timeout",
+    "Dream11: company discovery timeout",
+    "Drift India: company discovery timeout",
+    "Drivezy (IT): company discovery timeout",
+    "Droom: company discovery timeout",
+    "DS India (IT): company discovery timeout"
   ]
 }
