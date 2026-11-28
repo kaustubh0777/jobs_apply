@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-11-28T02:46:19.493Z",
+  "generatedAt": "2026-11-28T13:09:45.709Z",
   "batchSize": 120,
-  "successfulCount": 14,
-  "failedCount": 47,
+  "successfulCount": 3,
+  "failedCount": 6,
   "results": [
+    {
+      "company": "Bain & Company India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bain.com/careers",
+        "title": "Careers at Bain - Bain & Company",
+        "discoveredAt": "2026-11-28T13:09:45.649Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bajaj Allianz Tech",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bajajallianz.openings.co/jobs",
+        "title": "TechCorp Careers",
+        "discoveredAt": "2026-11-28T13:09:45.634Z",
+        "discoveryMethod": "search-result"
+      }
+    },
+    {
+      "company": "Bloomberg L.P. India",
+      "found": {
+        "source": "generic",
+        "confidence": 95,
+        "url": "https://www.bloomberg.com/company/careers/global-roles/working-at-bloomberg-in-mumbai-pune/",
+        "title": "Working at Bloomberg in Mumbai, New Delhi, and Pune | Bloomberg LP",
+        "discoveredAt": "2026-11-28T13:09:45.706Z",
+        "discoveryMethod": "search-result"
+      }
+    },
     {
       "company": "Coal India (IT)",
       "found": {
@@ -5470,88 +5503,14 @@
         "discoveredAt": "2026-09-29T22:20:42.845Z",
         "discoveryMethod": "search-result"
       }
-    },
-    {
-      "company": "Darwinbox HR Tech",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://darwinbox.com/careers",
-        "title": "Careers - Darwinbox | End-to-End HRMS Suite",
-        "discoveredAt": "2026-09-29T22:20:42.514Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Deutsche Bank Global Technology India",
-      "found": {
-        "source": "workday",
-        "confidence": 70,
-        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/",
-        "title": "Search for Jobs - myworkdayjobs.com",
-        "discoveredAt": "2026-09-29T22:20:42.498Z",
-        "discoveryMethod": "search-result"
-      }
-    },
-    {
-      "company": "Dezerv",
-      "found": {
-        "source": "generic",
-        "confidence": 95,
-        "url": "https://www.dezerv.in/careers/",
-        "title": "Careers",
-        "discoveredAt": "2026-09-29T22:20:36.138Z",
-        "discoveryMethod": "homepage-link-crawl"
-      }
     }
   ],
   "failures": [
-    "Agco India (IT): company discovery timeout",
-    "This operation was aborted",
-    "Akrivia HCM: company discovery timeout",
-    "This operation was aborted",
-    "This operation was aborted",
-    "Bajaj Auto Tech: company discovery timeout",
-    "Bajaj Markets: company discovery timeout",
-    "Bloomberg L.P. India: search returned anti-bot page",
+    "3i Infotech: search returned anti-bot page",
+    "Algoworks Solutions: search returned anti-bot page",
+    "Canoo India (IT): search returned anti-bot page",
     "Cholamandalam Finance (IT): search returned anti-bot page",
     "Ciena India: search returned anti-bot page",
-    "Coca-Cola India: search returned anti-bot page",
-    "Cogno AI: company discovery timeout",
-    "Cohesity: company discovery timeout",
-    "CtrlS Datacenters: company discovery timeout",
-    "Cuelogic Technologies: company discovery timeout",
-    "Cuemath: company discovery timeout",
-    "Cummins India (IT): company discovery timeout",
-    "Cupra India (IT): company discovery timeout",
-    "Cure.fit: company discovery timeout",
-    "Cure.fit (Cult.fit): company discovery timeout",
-    "CureFit Healthcare: company discovery timeout",
-    "Cyfuture: company discovery timeout",
-    "D-Mart (IT): company discovery timeout",
-    "Dailyhunt: company discovery timeout",
-    "Daimler India: company discovery timeout",
-    "Daimler India (IT): company discovery timeout",
-    "Datamatics: company discovery timeout",
-    "DBFS (IT): company discovery timeout",
-    "DBS Bank India: company discovery timeout",
-    "DealShare: company discovery timeout",
-    "Deutsche Bank: company discovery timeout",
-    "Dhanlaxmi Bank (IT): company discovery timeout",
-    "DICGC (IT): company discovery timeout",
-    "Digio: company discovery timeout",
-    "Dish Network Technologies India: company discovery timeout",
-    "District (by Zomato): company discovery timeout",
-    "DocsApp: company discovery timeout",
-    "Dongfeng India (IT): company discovery timeout",
-    "Doosan India (IT): company discovery timeout",
-    "DraftKings: company discovery timeout",
-    "DRDO (IT): company discovery timeout",
-    "DRDO (Software Engineering): company discovery timeout",
-    "Dream11: company discovery timeout",
-    "Drift India: company discovery timeout",
-    "Drivezy (IT): company discovery timeout",
-    "Droom: company discovery timeout",
-    "DS India (IT): company discovery timeout"
+    "Coca-Cola India: search returned anti-bot page"
   ]
 }
